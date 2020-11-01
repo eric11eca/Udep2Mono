@@ -6,6 +6,8 @@ from word2number import w2n
 import corenlp
 os.environ["CORENLP_HOME"] = "./NaturalLanguagePipeline\lib\stanford-corenlp-4.1.0"
 
+# java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 -timeout 15000
+
 
 def dependencyParse(text):
     with corenlp.CoreNLPClient(annotators="tokenize ssplit pos lemma depparse".split()) as client:

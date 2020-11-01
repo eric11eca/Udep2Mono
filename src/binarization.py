@@ -32,9 +32,17 @@ class Binarizer:
         self.words = words
         self.id = 0
 
+    def process_not(self, children):
+        if len(children) > 1:
+            if children[0][0] == "advmod":
+                if self.words[children[1][1]][0] == "not":
+                    return [children[1]]
+        return children
+
     def compose(self, head, parent):
         children = list(filter(lambda x: x[2] == head, self.parseTable))
         children.sort(key=(lambda x: relationPriority[x[0]]), reverse=True)
+        children = self.process_not(children)
         if len(children) == 0:
             word = self.words[head][0]
             tag = self.words[head][1]

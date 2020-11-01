@@ -1,0 +1,600 @@
+The cat did not sit on the mat.
+The↑ cat= did↑ not↑ sit↓ on↓ the↓ mat.= 
+We built our society on unclean energy.
+We↑ built= our↑ society↑ on↑ unclean↑ energy.↑ 
+We built our society on clean energy.
+We↑ built= our↑ society↑ on↑ clean↑ energy.↑ 
+The market is about to get harder, but not impossible to navigate.
+The↓ market↓ is↓ about↓ to↓ get↓ harder↓ but↓ not↓ impossible↓ to↓ navigate.↓ 
+The market is about to get harder, but possible to navigate.
+The↓ market↓ is↓ about↓ to↓ get↓ harder↓ but↓ possible↓ to↓ navigate.↓ 
+The villain is the character who tends to have a negative effect on other characters.
+The↑ villain= is↑ the↑ character= who= tends= to= have= a= negative= effect= on= other= characters.= 
+The villain is the character who tends to have a negative impact on other characters.
+The↑ villain= is↑ the↑ character= who= tends= to= have= a= negative= impact= on= other= characters.= 
+The villain is the character who tends to have a negative effect on other characters.
+The↑ villain= is↑ the↑ character= who= tends= to= have= a= negative= effect= on= other= characters.= 
+The villain is the character who tends to have a negative correlation with other characters.
+The↑ villain= is↑ the↑ character= who= tends= to= have= a= negative= correlation= with= other= characters.= 
+Former senior Justice Department officials were asked for information by Mueller's team.
+Former↑ senior= Justice= Department= officials= were↑ asked↑ for↑ information↑ by= Mueller↑ 's↑ team.↑ 
+Mueller’s team was asked for information by former senior Justice Department officials.
+Mueller’s↑ team↑ was↑ asked↑ for↑ information↑ by↑ former↑ senior= Justice= Department= officials.= 
+Former senior Justice Department officials weren't asked for information.
+Former↑ senior= Justice= Department= officials= were↓ not↑ asked↓ for↓ information.↓ 
+The Cape sparrow's population has not decreased significantly, and is not seriously threatened by human activities.
+The↑ Cape= sparrow= 's↑ population↑ has= not= decreased= significantly= and↑ is= not= seriously= threatened= by= human= activities.= 
+The population of the Cape sparrow has not decreased significantly, and is not seriously threatened by human activities.
+The↑ population= of= the= Cape= sparrow= has↓ not↑ decreased↓ significantly↓ and↑ is↓ not↑ seriously↓ threatened↓ by↓ human↓ activities.↓ 
+The Cape sparrow's population has not decreased significantly, and is not seriously threatened by human activities.
+The↑ Cape= sparrow= 's↑ population↑ has= not= decreased= significantly= and↑ is= not= seriously= threatened= by= human= activities.= 
+This paper presents an approach for understanding the contents of these message vectors by translating them into natural language.
+This↑ paper= presents↑ an↑ approach↑ for↑ understanding= the= contents= of= these= message= vectors= by= translating= them= into= natural= language.= 
+This paper presents an approach for understanding the contents of these message vectors by translating them into natural language.
+This↑ paper= presents↑ an↑ approach↑ for↑ understanding= the= contents= of= these= message= vectors= by= translating= them= into= natural= language.= 
+This paper presents an approach for understanding the contents of these message vectors by translating them into foreign language.
+This↑ paper= presents↑ an↑ approach↑ for↑ understanding= the= contents= of= these= message= vectors= by= translating= them= into= foreign= language.= 
+She is skilled.
+She↓ is↓ skilled.↓ 
+President Trump will ask Republican lawmakers to use a controversial White House framework as the baseline for a coming Senate debate on immigration policy.
+President↑ Trump↑ will↑ ask↑ Republican↑ lawmakers↑ to↑ use↑ a↑ controversial↑ White↑ House↑ framework↑ as↑ the↑ baseline= for= a= coming= Senate= debate= on= immigration= policy.= 
+Republican lawmakers will ask President Trump to use a controversial White House framework as the baseline for a coming Senate debate on immigration policy.
+Republican↑ lawmakers↑ will↑ ask↑ President↑ Trump↑ to↑ use↑ a↑ controversial↑ White↑ House↑ framework↑ as↑ the↑ baseline= for= a= coming= Senate= debate= on= immigration= policy.= 
+Mythbusters proved that bulls react to movement and not color.
+Mythbusters↑ proved↑ that↑ bulls= react= to= movement= and↑ not= color.= 
+Bulls proved that mythbusters react to movement and not color.
+Bulls↑ proved↑ that↑ mythbusters= react= to= movement= and↑ not= color.= 
+Bees do not follow the same rules as airplanes.
+Bees↑ do↑ not↑ follow↓ the↓ same= rules= as= airplanes.= 
+Airplanes do not follow the same rules as bees.
+Airplanes↑ do↑ not↑ follow↓ the↓ same= rules= as= bees.= 
+Bees do not follow the same rules as airplanes.
+Bees↑ do↑ not↑ follow↓ the↓ same= rules= as= airplanes.= 
+Bees do not follow the same rules as airplanes.
+Bees↑ do↑ not↑ follow↓ the↓ same= rules= as= airplanes.= 
+Bees fly using the same mechanism as airplanes.
+Bees↑ fly↑ using↑ the↑ same= mechanism= as= airplanes.= 
+Bees do not follow the same rules as airplanes.
+Bees↑ do↑ not↑ follow↓ the↓ same= rules= as= airplanes.= 
+It reminds me of the times my little brother and I played Super Mario.
+It↑ reminds↑ me↑ of↑ the↑ times= my= little= brother= and↑ I= played= Super= Mario.= 
+We propose models from which the attested vowel inventories have been drawn.
+We↑ propose↑ models= from↑ which↑ the↑ attested= vowel= inventories= have↑ been↑ drawn.↑ 
+That bill would increase the debt too much.
+That↓ bill↓ would↓ increase↓ the↓ debt↓ too↓ much.↓ 
+The Republican party would increase the debt too much.
+The↓ Republican↓ party↓ would↓ increase↓ the↓ debt↓ too↓ much.↓ 
+Dave was wet.
+Dave↓ was↓ wet.↓ 
+Notorious B.I.G.'s funeral procession was attended by the general public.
+Notorious↑ B.I.G.↑ 's↑ funeral↑ procession↑ was= attended= by= the= general= public.= 
+The poor in Ireland starved.
+The↑ poor= in= Ireland= starved.↑ 
+I failed my resolutions in 2004.
+I↑ failed↑ my↑ resolutions↑ in↑ 2004.↑ 
+I failed my resolutions in 1995.
+I↑ failed↑ my↑ resolutions↑ in↑ 1995.↑ 
+I did not fail my resolutions in 2004.
+I↑ did↑ not↑ fail↓ my↓ resolutions↓ in↓ 2004.↓ 
+I did not fail my resolutions in 1995.
+I↑ did↑ not↑ fail↓ my↓ resolutions↓ in↓ 1995.↓ 
+Either he has a blind trust or he has a conflict of interest.
+Either↑ he= has= a= blind= trust= or↑ he= has= a= conflict= of= interest.= 
+Either he has a blind trust or he has a conflict of interest.
+Either↑ he= has= a= blind= trust= or↑ he= has= a= conflict= of= interest.= 
+He does not have a conflict of interest.
+He↑ does↑ not↑ have↓ a↓ conflict↓ of↓ interest.↓ 
+Either he has a blind trust or he has a conflict of interest.
+Either↑ he= has= a= blind= trust= or↑ he= has= a= conflict= of= interest.= 
+Either he has a blind trust or he has a conflict of interest.
+Either↑ he= has= a= blind= trust= or↑ he= has= a= conflict= of= interest.= 
+He does not have a blind trust.
+He↑ does↑ not↑ have↓ a↓ blind↓ trust.↓ 
+No one has a set of principles to live by.
+No↑ person↓ has↓ a↓ set↓ of↓ principles↓ to↓ live↓ by.↑ 
+Susan doesn't have a set of principles to live by.
+Susan↑ does↑ not↑ have↓ a↓ set↓ of↓ principles↓ to↓ live↓ by.↑ 
+Susan knows how turtles reproduce.
+Susan↑ knows↑ how↑ turtles= reproduce.= 
+Susan knows how turtles reproduce.
+Susan↑ knows↑ how↑ turtles= reproduce.= 
+No one knows how turtles reproduce.
+No↑ person↓ knows↓ how↓ turtles= reproduce.= 
+Susan knows how turtles reproduce.
+Susan↑ knows↑ how↑ turtles= reproduce.= 
+Cedric doesn't know how turtles reproduce.
+Cedric↑ does↑ not↑ know↓ how↓ turtles= reproduce.= 
+Either there is no bathroom in this house, or it is in a funny place.
+Either↑ there= is= no= bathroom= in= this= house= or↑ it= is= in= a= funny= place.= 
+Either there is no bathroom in this house, or it is in a funny place.
+Either↑ there= is= no= bathroom= in= this= house= or↑ it= is= in= a= funny= place.= 
+Joan believes that all speech is political speech.
+Joan↑ believes↑ that↑ all= speech= is= political= speech.= 
+Joan doubts that all speech is political speech.
+Joan↑ doubts↑ that↑ all= speech= is= political= speech.= 
+Joan knows that all speech is political speech.
+Joan↑ knows↑ that↑ all= speech= is= political= speech.= 
+Joan knows that all speech is political speech.
+Joan↑ knows↑ that↑ all= speech= is= political= speech.= 
+Grisham did not win the popular vote.
+Grisham↑ did↑ not↑ win↓ the↓ popular= vote.= 
+Jacob did not see Tex sign the contract.
+Jacob↑ did↑ not↑ see↓ Tex↓ sign↓ the↓ contract.= 
+Grisham did not win the popular vote.
+Grisham↑ did↑ not↑ win↓ the↓ popular= vote.= 
+Grisham did not win the popular vote.
+Grisham↑ did↑ not↑ win↓ the↓ popular= vote.= 
+Grisham did not win the popular vote.
+Grisham↑ did↑ not↑ win↓ the↓ popular= vote.= 
+She has three questions.
+She↑ has↑ 3↑ questions.= 
+She had three questions.
+She↑ had↑ 3↑ questions.= 
+Pedro doesn't have a donkey.
+Pedro↑ does↑ not↑ have↓ a↓ donkey.↓ 
+Xi's second term ends in 2023.
+Xi↑ 's↑ second↑ term↑ ends= in= 2023.= 
+The announcement represents a significant change in Britain's posture toward Russia, with which it has had a valuable intelligence-sharing relationship.
+The↑ announcement= represents↑ a↑ significant↑ change↑ in= Britain↑ 's↑ posture↑ toward↑ Russia= with↑ which↑ it↑ has↑ had↑ a↑ valuable↑ intelligence-sharing↑ relationship.↑ 
+Marc Sims has been getting his hair cut once a week, for several years.
+Marc↑ Sims↑ has↑ been↑ getting= his↑ hair↑ cut↑ once↑ a↑ week↑ for↑ several↑ years.↑ 
+All five of these games will be available to Prime members until March 31.
+All= 5↓ of↓ these↓ games= will↑ be↑ available↑ to↑ Prime↑ members↑ until↑ March↑ 31.↑ 
+Several games will be available to Prime members until March 31.
+several↑ games↑ will↑ be↑ available↑ to↑ Prime↑ members↑ until↑ March↑ 31.↑ 
+Missouri lawmakers are considering a government boycott of companies that boycott Israel.
+Missouri↑ lawmakers↑ are↑ considering↑ a↑ government↑ boycott↑ of↑ companies↑ that↑ boycott= Israel.= 
+Missouri lawmakers are considering a boycott of companies that boycott Israel.
+Missouri↑ lawmakers↑ are↑ considering↑ a↑ boycott↑ of↑ companies↑ that↑ boycott= Israel.= 
+Three women alleged they were sexually assaulted or raped by male colleagues during that time.
+3↑ women= alleged= they= were= sexually= assaulted= or↑ raped= by= male= colleagues= during= that= time.= 
+Three women alleged they were sexually assaulted by male colleagues during that time.
+3↑ women= alleged= they= were= sexually= assaulted= by= male= colleagues= during= that= time.= 
+Three women alleged they were sexually assaulted or raped by male colleagues during that time.
+3↑ women= alleged= they= were= sexually= assaulted= or↑ raped= by= male= colleagues= during= that= time.= 
+Three women alleged they were raped by male colleagues during that time.
+3↑ women= alleged= they= were= raped= by= male= colleagues= during= that= time.= 
+Our deepest sympathies are with a victim who was affected by this accident.
+Our↑ deepest↑ sympathies↑ are= with= a= victim= who= was= affected= by= this= accident.= 
+The crown prince's mother wouldn't be the first Saudi royal whose movements were restricted since June 2017.
+The↑ crown= prince= 's↑ mother↑ would= not= be= the= first= Saudi= royal= whose= movements= were= restricted= since= June= 2017.= 
+The crown prince's mother wouldn't be the first royal whose movements were restricted since June 2017.
+The↑ crown= prince= 's↑ mother↑ would= not= be= the= first= royal= whose= movements= were= restricted= since= June= 2017.= 
+From a quick Google search, it was created as a hard fork of Bitcoin and it's supposed to be faster and more sustainable than Bitcoin.
+From↓ a↓ quick↓ Google↓ search↓ it↓ was↓ created↓ as↓ a↓ hard↓ fork↓ of↓ Bitcoin↓ and↓ it↓ 's↓ supposed↓ to↓ be↓ faster↓ and↓ more↓ sustainable↓ than↓ Bitcoin.↓ 
+From a quick Google search, Bitcoin Cash was created as a hard fork of Bitcoin and it's supposed to be faster and more sustainable than Bitcoin Cash.
+From↓ a↓ quick↓ Google↓ search↓ Bitcoin↓ Cash↓ was↓ created↓ as↓ a↓ hard↓ fork↓ of↓ Bitcoin↓ and↓ it↓ 's↓ supposed↓ to↓ be↓ faster↓ and↓ more↓ sustainable↓ than↓ Bitcoin↓ Cash.↓ 
+I couldn’t bring myself to throw it away, out of affection to her.
+I↑ couldn’t= bring= myself= to= throw= it= away= out= of= affection= to= her.= 
+Life is a not a daring adventure.
+Life↑ is↑ a↓ not↑ a↓ daring↓ adventure.↓ 
+My jokes fully reveal my character.
+My↑ jokes↑ fully= reveal= my= character.= 
+Threatened by habitat loss and hunting, ruffed lemurs are extinct in the wild.
+Threatened↑ by↑ habitat↑ loss↑ and↑ hunting= ruffed= lemurs= are= extinct= in= the= wild.= 
+Dry conditions and oxygen contribute to the degredation of organic remains in middens.
+Dry↑ conditions↑ and↑ oxygen↑ contribute↑ to↑ the↑ degredation= of= organic= remains= in= middens.= 
+I can't believe it's not butter.
+I↑ ca↓ not↑ believe↓ it↓ 's↑ not↓ butter.↑ 
+I can't believe it's not butter.
+I↑ ca↓ not↑ believe↓ it↓ 's↑ not↓ butter.↑ 
+In grounded communication tasks, speakers face pressures in choosing referential expressions that distinguish their targets from others in the context, leading to many kinds of pragmatic meaning enrichment.
+In↑ grounded↑ communication↑ tasks↑ speakers= face= pressures= in↑ choosing= referential= expressions= that= distinguish= their= targets= from= others= in= the= context= leading= to= many= kinds= of= pragmatic= meaning= enrichment.= 
+In grounded communication tasks, speakers face pressures in choosing referential expressions that distinguish their targets from others in the context, leading to many kinds of meaning enrichment.
+In↑ grounded↑ communication↑ tasks↑ speakers= face= pressures= in↑ choosing= referential= expressions= that= distinguish= their= targets= from= others= in= the= context= leading= to= many= kinds= of= meaning= enrichment.= 
+We thus propose eliminating the influence of the language model, which yields the following coherence score.
+We↑ thus↑ propose↑ eliminating↑ the↑ influence= of= the= language= model= which= yields= the= following= coherence= score.= 
+The language model yields the following coherence score.
+The↑ language= model= yields↑ the↑ following= coherence= score.↑ 
+We thus propose eliminating the influence of the language model, which yields the following coherence score.
+We↑ thus↑ propose↑ eliminating↑ the↑ influence= of= the= language= model= which= yields= the= following= coherence= score.= 
+This gives to the model a sense of the implied action dynamics of the verb between the agent and the world.
+This↑ gives= to= the= model= a= sense= of= the= implied= action= dynamics= of= the= verb= between= the= agent= and↑ the= world.= 
+This gives the model to a sense of the implied action dynamics of the verb between the agent and the world.
+This↑ gives= the= model= to= a= sense= of= the= implied= action= dynamics= of= the= verb= between= the= agent= and↑ the= world.= 
+Understanding a long document requires tracking how entities are introduced and evolve over time.
+Understanding↑ a↑ long↑ document↑ requires= tracking= how= entities= are= introduced= and↑ evolve= over= time.= 
+Understanding a long document requires evolving over time.
+Understanding↑ a↑ long↑ document↑ requires= evolving= over= time.= 
+Understanding a long document requires tracking how entities are introduced and evolve over time.
+Understanding↑ a↑ long↑ document↑ requires= tracking= how= entities= are= introduced= and↑ evolve= over= time.= 
+Understanding a long document requires tracking how entities evolve over time.
+Understanding↑ a↑ long↑ document↑ requires= tracking= how= entities= evolve= over= time.= 
+Understanding a long document requires tracking how entities are introduced and evolve over time.
+Understanding↑ a↑ long↑ document↑ requires= tracking= how= entities= are= introduced= and↑ evolve= over= time.= 
+Understanding a long document requires understanding how entities are introduced.
+Understanding↑ a↑ long↑ document↑ requires= understanding= how= entities= are= introduced.= 
+We do not assume that these variables are observed at test time.
+We↑ do↑ not↑ assume↓ that↓ these= variables= are= observed= at= test= time.= 
+Our approach complements these previous methods.
+Our↑ approach↑ complements= these= previous= methods.= 
+Our approach complements some previous methods.
+Our↑ approach↑ complements= some= previous= methods.= 
+In contrast to standard MT tasks, we are dealing with a relatively low-resource setting where the sparseness of the target vocabulary is an issue.
+In↑ contrast↑ to↑ standard↑ MT↑ tasks↑ we↑ are↑ dealing↑ with↑ a↑ relatively↑ low-resource↑ setting= where↑ the= sparseness= of= the= target= vocabulary= is= an= issue.= 
+The systems thus produced support the capability to interrupt an interlocutor mid-sentence.
+The↑ systems= thus↑ produced↑ support↑ the↑ capability= to= interrupt= an= interlocutor= mid-sentence.↑ 
+We investigate a wide range of metrics, including state-of-the-art word-based and novel grammar-based ones, and demonstrate that they only weakly reflect human judgements of system outputs as generated by data-driven, end-to-end natural language generation.
+We↑ investigate↑ a↑ wide↑ range↑ of↑ metrics↑ including↑ state-of-the-art↑ word-based↑ and↑ novel↑ grammar-based↑ ones↑ and↑ demonstrate↑ that↑ they= only= weakly= reflect= human= judgements= of= system= outputs= as= generated= by= data-driven= end-to-end= natural= language= generation.↑ 
+We also show that metric performance varies between datasets and systems.
+We↑ also↑ show↑ that↑ metric= performance= varies= between= datasets= and↑ systems.= 
+We also show that metric performance is constant between datasets and systems.
+We↑ also↑ show↑ that↑ metric= performance= is= constant= between= datasets= and↑ systems.= 
+Reconstruction-based techniques can also be applied at the document or sentence-level during training.
+Reconstruction-based↑ techniques↑ can↑ also↑ be↑ applied↑ at↑ the↑ document= or↑ sentence-level= during↑ training.↑ 
+Reconstruction-based techniques can also be applied at the document or sentence-level during training.
+Reconstruction-based↑ techniques↑ can↑ also↑ be↑ applied↑ at↑ the↑ document= or↑ sentence-level= during↑ training.↑ 
+Reconstruction-based techniques can also be applied at the document or sentence-level during test.
+Reconstruction-based↑ techniques↑ can↑ also↑ be↑ applied↑ at↑ the↑ document= or↑ sentence-level= during↑ test.↑ 
+Reconstruction-based techniques can also be applied at the document or sentence-level during training.
+Reconstruction-based↑ techniques↑ can↑ also↑ be↑ applied↑ at↑ the↑ document= or↑ sentence-level= during↑ training.↑ 
+The reaction was strongly exothermic.
+The↓ reaction↓ was↓ strongly↓ exothermic.↓ 
+The reaction was strongly exothermic.
+The↓ reaction↓ was↓ strongly↓ exothermic.↓ 
+She didn't think I had already finished it, but I had.
+She↑ did↑ not↑ think↓ I↓ had↓ already↓ finished↓ it↓ but↑ I↑ had.↑ 
+I had already finished it.
+I↓ had↓ already↓ finished↓ it.↓ 
+She didn't think I had already finished it, but I had.
+She↑ did↑ not↑ think↓ I↓ had↓ already↓ finished↓ it↓ but↑ I↑ had.↑ 
+I hadn't already finished it.
+I↓ had↓ not↓ already↓ finished↓ it.↓ 
+I had already finished it.
+I↓ had↓ already↓ finished↓ it.↓ 
+I hadn't already finished it.
+I↓ had↓ not↓ already↓ finished↓ it.↓ 
+The profits of the businesses that focused on branding were still negative.
+The↑ profits= of= the= businesses= that= focused= on= branding= were↑ still↑ negative.↑ 
+The businesses that focused on branding still had negative profits.
+The↑ businesses= that= focused= on= branding= still↑ had↑ negative↑ profits.↑ 
+The profits of the business that was most successful were still negative.
+The↑ profits= of= the= business= that= was= most= successful= were↑ still↑ negative.↑ 
+The profits that focused on branding were still negative.
+The↑ profits= that= focused= on= branding= were↑ still↑ negative.↑ 
+For the businesses, the profits that were highest were still negative.
+For↓ the↓ businesses↓ the↓ profits↓ that↓ were↓ highest↓ were↓ still↓ negative.↓ 
+His talents are many.
+His↑ talents↑ are= many.= 
+I don't want to have to keep fighting pesky bedbugs.
+I↑ do↑ not↑ want↓ to↓ have↓ to↓ keep↓ fighting↓ pesky↓ bedbugs.↓ 
+I don't want to have to keep entertaining people.
+I↑ do↑ not↑ want↓ to↓ have↓ to↓ keep↓ entertaining↓ people.↑ 
+There is no rabbi at this wedding, let alone behind that tree.
+There↑ is↓ no↑ rabbi↓ at↑ this↑ wedding= let↑ alone↑ behind↑ that↑ tree.= 
+Consommé is more complex to make than scrambled eggs.
+Consommé↓ is↓ more↓ complex↓ to↓ make↓ than↓ scrambled↓ eggs.↓ 
+Consommé is not more complex to make than scrambled eggs.
+Consommé↓ is↓ not↓ more↓ complex↓ to↓ make↓ than↓ scrambled↓ eggs.↓ 
+The building, standing since the early 20s, was tall and unassuming.
+The↑ building= standing= since= the= early= 20s= was↑ tall↑ and↑ unassuming.↑ 
+The building, standing since the early 20s, was sturdy and unassuming.
+The↑ building= standing= since= the= early= 20s= was↑ sturdy↑ and↑ unassuming.↑ 
+I won't say that she didn't steal my money.
+I↑ wo↓ not↑ say↓ that↓ she= did= not= steal= my= money.= 
+I won't say that she stole my money.
+I↑ wo↓ not↑ say↓ that↓ she= stole= my= money.= 
+I won't say that she didn't steal my money.
+I↑ wo↓ not↑ say↓ that↓ she= did= not= steal= my= money.= 
+I will say that she stole my money.
+I↑ will↑ say↑ that↑ she= stole= my= money.= 
+I won't say that she didn't steal my money.
+I↑ wo↓ not↑ say↓ that↓ she= did= not= steal= my= money.= 
+I will say that she stole my money.
+I↑ will↑ say↑ that↑ she= stole= my= money.= 
+An experienced sommelier knows the difference between the 2009 and 2013 vintage of a German Riesling.
+An↑ experienced↑ sommelier↑ knows↑ the↑ difference= between= the= 2009= and↑ 2013= vintage= of= a= German= Riesling.= 
+A sommelier knows the difference between the 2009 and 2013 vintage of a German Riesling.
+A↑ sommelier↑ knows↑ the↑ difference= between= the= 2009= and↑ 2013= vintage= of= a= German= Riesling.= 
+An experienced sommelier knows the difference between the 2009 and 2013 vintage of a German Riesling.
+An↑ experienced↑ sommelier↑ knows↑ the↑ difference= between= the= 2009= and↑ 2013= vintage= of= a= German= Riesling.= 
+An Italian sommelier knows the difference between the 2009 and 2013 vintage of a German Riesling.
+An↑ Italian↑ sommelier↑ knows↑ the↑ difference= between= the= 2009= and↑ 2013= vintage= of= a= German= Riesling.= 
+A fraudulent sommelier won't know the difference between the 2009 and 2013 vintage of a German Riesling.
+A↑ fraudulent↑ sommelier↑ wo↓ not↑ know↓ the↓ difference= between= the= 2009= and↑ 2013= vintage= of= a= German= Riesling.= 
+A sommelier won't know the difference between the 2009 and 2013 vintage of a German Riesling.
+A↑ sommelier↑ wo↓ not↑ know↓ the↓ difference= between= the= 2009= and↑ 2013= vintage= of= a= German= Riesling.= 
+Two of the three trees outside my window, with their branches dangling and swaying in the wind, have already bloomed, and it's not even April.
+2↑ of= 3↑ trees= outside= my= window= with= their= branches= dangling= and↑ swaying= in= the= wind= have= already= bloomed= and↑ it↑ 's↓ not↑ even↑ April.↓ 
+Of the trees outside my window, with their branches dangling and swaying in the wind, three have already bloomed, and it's not even April.
+Of↑ the↑ trees= outside= my= window= with= their= branches= dangling= and↑ swaying= in= the= wind= 3= have↑ already↑ bloomed↑ and↑ it↑ 's↓ not↑ even↑ April.↓ 
+The cat did not sit on the mat.
+The↑ cat= did↑ not↑ sit↓ on↓ the↓ mat.= 
+We built our society on clean energy.
+We↑ built= our↑ society↑ on↑ clean↑ energy.↑ 
+We built our society on unclean energy.
+We↑ built= our↑ society↑ on↑ unclean↑ energy.↑ 
+The market is about to get harder, but possible to navigate.
+The↓ market↓ is↓ about↓ to↓ get↓ harder↓ but↓ possible↓ to↓ navigate.↓ 
+The market is about to get harder, but not impossible to navigate.
+The↓ market↓ is↓ about↓ to↓ get↓ harder↓ but↓ not↓ impossible↓ to↓ navigate.↓ 
+The villain is the character who tends to have a negative impact on other characters.
+The↑ villain= is↑ the↑ character= who= tends= to= have= a= negative= impact= on= other= characters.= 
+The villain is the character who tends to have a negative effect on other characters.
+The↑ villain= is↑ the↑ character= who= tends= to= have= a= negative= effect= on= other= characters.= 
+The villain is the character who tends to have a negative correlation with other characters.
+The↑ villain= is↑ the↑ character= who= tends= to= have= a= negative= correlation= with= other= characters.= 
+The villain is the character who tends to have a negative effect on other characters.
+The↑ villain= is↑ the↑ character= who= tends= to= have= a= negative= effect= on= other= characters.= 
+Former senior Justice Department officials were asked for information by Mueller's team.
+Former↑ senior= Justice= Department= officials= were↑ asked↑ for↑ information↑ by= Mueller↑ 's↑ team.↑ 
+Mueller’s team was asked for information by former senior Justice Department officials.
+Mueller’s↑ team↑ was↑ asked↑ for↑ information↑ by↑ former↑ senior= Justice= Department= officials.= 
+Former senior Justice Department officials weren't asked for information.
+Former↑ senior= Justice= Department= officials= were↓ not↑ asked↓ for↓ information.↓ 
+The population of the Cape sparrow has not decreased significantly, and is not seriously threatened by human activities.
+The↑ population= of= the= Cape= sparrow= has↓ not↑ decreased↓ significantly↓ and↑ is↓ not↑ seriously↓ threatened↓ by↓ human↓ activities.↓ 
+The Cape sparrow's population has not decreased significantly, and is not seriously threatened by human activities.
+The↑ Cape= sparrow= 's↑ population↑ has= not= decreased= significantly= and↑ is= not= seriously= threatened= by= human= activities.= 
+The Cape sparrow's population has not decreased significantly, and is not seriously threatened by human activities.
+The↑ Cape= sparrow= 's↑ population↑ has= not= decreased= significantly= and↑ is= not= seriously= threatened= by= human= activities.= 
+This paper presents an approach for understanding the contents of these message vectors by translating them into natural language.
+This↑ paper= presents↑ an↑ approach↑ for↑ understanding= the= contents= of= these= message= vectors= by= translating= them= into= natural= language.= 
+This paper presents an approach for understanding the contents of these message vectors by translating them into foreign language.
+This↑ paper= presents↑ an↑ approach↑ for↑ understanding= the= contents= of= these= message= vectors= by= translating= them= into= foreign= language.= 
+This paper presents an approach for understanding the contents of these message vectors by translating them into natural language.
+This↑ paper= presents↑ an↑ approach↑ for↑ understanding= the= contents= of= these= message= vectors= by= translating= them= into= natural= language.= 
+She is skilled.
+She↓ is↓ skilled.↓ 
+Republican lawmakers will ask President Trump to use a controversial White House framework as the baseline for a coming Senate debate on immigration policy.
+Republican↑ lawmakers↑ will↑ ask↑ President↑ Trump↑ to↑ use↑ a↑ controversial↑ White↑ House↑ framework↑ as↑ the↑ baseline= for= a= coming= Senate= debate= on= immigration= policy.= 
+President Trump will ask Republican lawmakers to use a controversial White House framework as the baseline for a coming Senate debate on immigration policy.
+President↑ Trump↑ will↑ ask↑ Republican↑ lawmakers↑ to↑ use↑ a↑ controversial↑ White↑ House↑ framework↑ as↑ the↑ baseline= for= a= coming= Senate= debate= on= immigration= policy.= 
+Bulls proved that mythbusters react to movement and not color.
+Bulls↑ proved↑ that↑ mythbusters= react= to= movement= and↑ not= color.= 
+Mythbusters proved that bulls react to movement and not color.
+Mythbusters↑ proved↑ that↑ bulls= react= to= movement= and↑ not= color.= 
+Airplanes do not follow the same rules as bees.
+Airplanes↑ do↑ not↑ follow↓ the↓ same= rules= as= bees.= 
+Bees do not follow the same rules as airplanes.
+Bees↑ do↑ not↑ follow↓ the↓ same= rules= as= airplanes.= 
+Bees do not follow the same rules as airplanes.
+Bees↑ do↑ not↑ follow↓ the↓ same= rules= as= airplanes.= 
+Bees fly using the same mechanism as airplanes.
+Bees↑ fly↑ using↑ the↑ same= mechanism= as= airplanes.= 
+Bees do not follow the same rules as airplanes.
+Bees↑ do↑ not↑ follow↓ the↓ same= rules= as= airplanes.= 
+Bees do not follow the same rules as airplanes.
+Bees↑ do↑ not↑ follow↓ the↓ same= rules= as= airplanes.= 
+It reminds me of the times my little brother and I played Super Mario.
+It↑ reminds↑ me↑ of↑ the↑ times= my= little= brother= and↑ I= played= Super= Mario.= 
+We propose models from which the attested vowel inventories have been drawn.
+We↑ propose↑ models= from↑ which↑ the↑ attested= vowel= inventories= have↑ been↑ drawn.↑ 
+That bill would increase the debt too much.
+That↓ bill↓ would↓ increase↓ the↓ debt↓ too↓ much.↓ 
+The Republican party would increase the debt too much.
+The↓ Republican↓ party↓ would↓ increase↓ the↓ debt↓ too↓ much.↓ 
+Dave was wet.
+Dave↓ was↓ wet.↓ 
+Notorious B.I.G.'s funeral procession was attended by the general public.
+Notorious↑ B.I.G.↑ 's↑ funeral↑ procession↑ was= attended= by= the= general= public.= 
+The poor in Ireland starved.
+The↑ poor= in= Ireland= starved.↑ 
+I failed my resolutions in 2004.
+I↑ failed↑ my↑ resolutions↑ in↑ 2004.↑ 
+I failed my resolutions in 1995.
+I↑ failed↑ my↑ resolutions↑ in↑ 1995.↑ 
+I did not fail my resolutions in 2004.
+I↑ did↑ not↑ fail↓ my↓ resolutions↓ in↓ 2004.↓ 
+I did not fail my resolutions in 1995.
+I↑ did↑ not↑ fail↓ my↓ resolutions↓ in↓ 1995.↓ 
+Either he has a blind trust or he has a conflict of interest.
+Either↑ he= has= a= blind= trust= or↑ he= has= a= conflict= of= interest.= 
+He does not have a conflict of interest.
+He↑ does↑ not↑ have↓ a↓ conflict↓ of↓ interest.↓ 
+Either he has a blind trust or he has a conflict of interest.
+Either↑ he= has= a= blind= trust= or↑ he= has= a= conflict= of= interest.= 
+Either he has a blind trust or he has a conflict of interest.
+Either↑ he= has= a= blind= trust= or↑ he= has= a= conflict= of= interest.= 
+He does not have a blind trust.
+He↑ does↑ not↑ have↓ a↓ blind↓ trust.↓ 
+Either he has a blind trust or he has a conflict of interest.
+Either↑ he= has= a= blind= trust= or↑ he= has= a= conflict= of= interest.= 
+No one has a set of principles to live by.
+No↑ person↓ has↓ a↓ set↓ of↓ principles↓ to↓ live↓ by.↑ 
+Susan doesn't have a set of principles to live by.
+Susan↑ does↑ not↑ have↓ a↓ set↓ of↓ principles↓ to↓ live↓ by.↑ 
+Susan knows how turtles reproduce.
+Susan↑ knows↑ how↑ turtles= reproduce.= 
+No one knows how turtles reproduce.
+No↑ person↓ knows↓ how↓ turtles= reproduce.= 
+Susan knows how turtles reproduce.
+Susan↑ knows↑ how↑ turtles= reproduce.= 
+Cedric doesn't know how turtles reproduce.
+Cedric↑ does↑ not↑ know↓ how↓ turtles= reproduce.= 
+Susan knows how turtles reproduce.
+Susan↑ knows↑ how↑ turtles= reproduce.= 
+Either there is no bathroom in this house, or it is in a funny place.
+Either↑ there= is= no= bathroom= in= this= house= or↑ it= is= in= a= funny= place.= 
+Either there is no bathroom in this house, or it is in a funny place.
+Either↑ there= is= no= bathroom= in= this= house= or↑ it= is= in= a= funny= place.= 
+Joan believes that all speech is political speech.
+Joan↑ believes↑ that↑ all= speech= is= political= speech.= 
+Joan doubts that all speech is political speech.
+Joan↑ doubts↑ that↑ all= speech= is= political= speech.= 
+Joan knows that all speech is political speech.
+Joan↑ knows↑ that↑ all= speech= is= political= speech.= 
+Joan knows that all speech is political speech.
+Joan↑ knows↑ that↑ all= speech= is= political= speech.= 
+Grisham did not win the popular vote.
+Grisham↑ did↑ not↑ win↓ the↓ popular= vote.= 
+Jacob did not see Tex sign the contract.
+Jacob↑ did↑ not↑ see↓ Tex↓ sign↓ the↓ contract.= 
+Grisham did not win the popular vote.
+Grisham↑ did↑ not↑ win↓ the↓ popular= vote.= 
+Grisham did not win the popular vote.
+Grisham↑ did↑ not↑ win↓ the↓ popular= vote.= 
+Grisham did not win the popular vote.
+Grisham↑ did↑ not↑ win↓ the↓ popular= vote.= 
+She had three questions.
+She↑ had↑ 3↑ questions.= 
+She has three questions.
+She↑ has↑ 3↑ questions.= 
+Pedro doesn't have a donkey.
+Pedro↑ does↑ not↑ have↓ a↓ donkey.↓ 
+Xi's second term ends in 2023.
+Xi↑ 's↑ second↑ term↑ ends= in= 2023.= 
+The announcement represents a significant change in Britain's posture toward Russia, with which it has had a valuable intelligence-sharing relationship.
+The↑ announcement= represents↑ a↑ significant↑ change↑ in= Britain↑ 's↑ posture↑ toward↑ Russia= with↑ which↑ it↑ has↑ had↑ a↑ valuable↑ intelligence-sharing↑ relationship.↑ 
+Marc Sims has been getting his hair cut once a week, for several years.
+Marc↑ Sims↑ has↑ been↑ getting= his↑ hair↑ cut↑ once↑ a↑ week↑ for↑ several↑ years.↑ 
+Several games will be available to Prime members until March 31.
+several↑ games↑ will↑ be↑ available↑ to↑ Prime↑ members↑ until↑ March↑ 31.↑ 
+All five of these games will be available to Prime members until March 31.
+All= 5↓ of↓ these↓ games= will↑ be↑ available↑ to↑ Prime↑ members↑ until↑ March↑ 31.↑ 
+Missouri lawmakers are considering a boycott of companies that boycott Israel.
+Missouri↑ lawmakers↑ are↑ considering↑ a↑ boycott↑ of↑ companies↑ that↑ boycott= Israel.= 
+Missouri lawmakers are considering a government boycott of companies that boycott Israel.
+Missouri↑ lawmakers↑ are↑ considering↑ a↑ government↑ boycott↑ of↑ companies↑ that↑ boycott= Israel.= 
+Three women alleged they were sexually assaulted by male colleagues during that time.
+3↑ women= alleged= they= were= sexually= assaulted= by= male= colleagues= during= that= time.= 
+Three women alleged they were sexually assaulted or raped by male colleagues during that time.
+3↑ women= alleged= they= were= sexually= assaulted= or↑ raped= by= male= colleagues= during= that= time.= 
+Three women alleged they were raped by male colleagues during that time.
+3↑ women= alleged= they= were= raped= by= male= colleagues= during= that= time.= 
+Three women alleged they were sexually assaulted or raped by male colleagues during that time.
+3↑ women= alleged= they= were= sexually= assaulted= or↑ raped= by= male= colleagues= during= that= time.= 
+Our deepest sympathies are with a victim who was affected by this accident.
+Our↑ deepest↑ sympathies↑ are= with= a= victim= who= was= affected= by= this= accident.= 
+The crown prince's mother wouldn't be the first royal whose movements were restricted since June 2017.
+The↑ crown= prince= 's↑ mother↑ would= not= be= the= first= royal= whose= movements= were= restricted= since= June= 2017.= 
+The crown prince's mother wouldn't be the first Saudi royal whose movements were restricted since June 2017.
+The↑ crown= prince= 's↑ mother↑ would= not= be= the= first= Saudi= royal= whose= movements= were= restricted= since= June= 2017.= 
+From a quick Google search, it was created as a hard fork of Bitcoin and it's supposed to be faster and more sustainable than Bitcoin.
+From↓ a↓ quick↓ Google↓ search↓ it↓ was↓ created↓ as↓ a↓ hard↓ fork↓ of↓ Bitcoin↓ and↓ it↓ 's↓ supposed↓ to↓ be↓ faster↓ and↓ more↓ sustainable↓ than↓ Bitcoin.↓ 
+From a quick Google search, Bitcoin Cash was created as a hard fork of Bitcoin and it's supposed to be faster and more sustainable than Bitcoin Cash.
+From↓ a↓ quick↓ Google↓ search↓ Bitcoin↓ Cash↓ was↓ created↓ as↓ a↓ hard↓ fork↓ of↓ Bitcoin↓ and↓ it↓ 's↓ supposed↓ to↓ be↓ faster↓ and↓ more↓ sustainable↓ than↓ Bitcoin↓ Cash.↓ 
+I couldn’t bring myself to throw it away, out of affection to her.
+I↑ couldn’t= bring= myself= to= throw= it= away= out= of= affection= to= her.= 
+Life is a not a daring adventure.
+Life↑ is↑ a↓ not↑ a↓ daring↓ adventure.↓ 
+My jokes fully reveal my character.
+My↑ jokes↑ fully= reveal= my= character.= 
+Threatened by habitat loss and hunting, ruffed lemurs are extinct in the wild.
+Threatened↑ by↑ habitat↑ loss↑ and↑ hunting= ruffed= lemurs= are= extinct= in= the= wild.= 
+Dry conditions and oxygen contribute to the degredation of organic remains in middens.
+Dry↑ conditions↑ and↑ oxygen↑ contribute↑ to↑ the↑ degredation= of= organic= remains= in= middens.= 
+I can't believe it's not butter.
+I↑ ca↓ not↑ believe↓ it↓ 's↑ not↓ butter.↑ 
+I can't believe it's not butter.
+I↑ ca↓ not↑ believe↓ it↓ 's↑ not↓ butter.↑ 
+In grounded communication tasks, speakers face pressures in choosing referential expressions that distinguish their targets from others in the context, leading to many kinds of meaning enrichment.
+In↑ grounded↑ communication↑ tasks↑ speakers= face= pressures= in↑ choosing= referential= expressions= that= distinguish= their= targets= from= others= in= the= context= leading= to= many= kinds= of= meaning= enrichment.= 
+In grounded communication tasks, speakers face pressures in choosing referential expressions that distinguish their targets from others in the context, leading to many kinds of pragmatic meaning enrichment.
+In↑ grounded↑ communication↑ tasks↑ speakers= face= pressures= in↑ choosing= referential= expressions= that= distinguish= their= targets= from= others= in= the= context= leading= to= many= kinds= of= pragmatic= meaning= enrichment.= 
+The language model yields the following coherence score.
+The↑ language= model= yields↑ the↑ following= coherence= score.↑ 
+We thus propose eliminating the influence of the language model, which yields the following coherence score.
+We↑ thus↑ propose↑ eliminating↑ the↑ influence= of= the= language= model= which= yields= the= following= coherence= score.= 
+We thus propose eliminating the influence of the language model, which yields the following coherence score.
+We↑ thus↑ propose↑ eliminating↑ the↑ influence= of= the= language= model= which= yields= the= following= coherence= score.= 
+This gives to the model a sense of the implied action dynamics of the verb between the agent and the world.
+This↑ gives= to= the= model= a= sense= of= the= implied= action= dynamics= of= the= verb= between= the= agent= and↑ the= world.= 
+This gives the model to a sense of the implied action dynamics of the verb between the agent and the world.
+This↑ gives= the= model= to= a= sense= of= the= implied= action= dynamics= of= the= verb= between= the= agent= and↑ the= world.= 
+Understanding a long document requires evolving over time.
+Understanding↑ a↑ long↑ document↑ requires= evolving= over= time.= 
+Understanding a long document requires tracking how entities are introduced and evolve over time.
+Understanding↑ a↑ long↑ document↑ requires= tracking= how= entities= are= introduced= and↑ evolve= over= time.= 
+Understanding a long document requires tracking how entities evolve over time.
+Understanding↑ a↑ long↑ document↑ requires= tracking= how= entities= evolve= over= time.= 
+Understanding a long document requires tracking how entities are introduced and evolve over time.
+Understanding↑ a↑ long↑ document↑ requires= tracking= how= entities= are= introduced= and↑ evolve= over= time.= 
+Understanding a long document requires understanding how entities are introduced.
+Understanding↑ a↑ long↑ document↑ requires= understanding= how= entities= are= introduced.= 
+Understanding a long document requires tracking how entities are introduced and evolve over time.
+Understanding↑ a↑ long↑ document↑ requires= tracking= how= entities= are= introduced= and↑ evolve= over= time.= 
+We do not assume that these variables are observed at test time.
+We↑ do↑ not↑ assume↓ that↓ these= variables= are= observed= at= test= time.= 
+Our approach complements some previous methods.
+Our↑ approach↑ complements= some= previous= methods.= 
+Our approach complements these previous methods.
+Our↑ approach↑ complements= these= previous= methods.= 
+In contrast to standard MT tasks, we are dealing with a relatively low-resource setting where the sparseness of the target vocabulary is an issue.
+In↑ contrast↑ to↑ standard↑ MT↑ tasks↑ we↑ are↑ dealing↑ with↑ a↑ relatively↑ low-resource↑ setting= where↑ the= sparseness= of= the= target= vocabulary= is= an= issue.= 
+The systems thus produced support the capability to interrupt an interlocutor mid-sentence.
+The↑ systems= thus↑ produced↑ support↑ the↑ capability= to= interrupt= an= interlocutor= mid-sentence.↑ 
+We investigate a wide range of metrics, including state-of-the-art word-based and novel grammar-based ones, and demonstrate that they only weakly reflect human judgements of system outputs as generated by data-driven, end-to-end natural language generation.
+We↑ investigate↑ a↑ wide↑ range↑ of↑ metrics↑ including↑ state-of-the-art↑ word-based↑ and↑ novel↑ grammar-based↑ ones↑ and↑ demonstrate↑ that↑ they= only= weakly= reflect= human= judgements= of= system= outputs= as= generated= by= data-driven= end-to-end= natural= language= generation.↑ 
+We also show that metric performance varies between datasets and systems.
+We↑ also↑ show↑ that↑ metric= performance= varies= between= datasets= and↑ systems.= 
+We also show that metric performance is constant between datasets and systems.
+We↑ also↑ show↑ that↑ metric= performance= is= constant= between= datasets= and↑ systems.= 
+Reconstruction-based techniques can also be applied at the document or sentence-level during training.
+Reconstruction-based↑ techniques↑ can↑ also↑ be↑ applied↑ at↑ the↑ document= or↑ sentence-level= during↑ training.↑ 
+Reconstruction-based techniques can also be applied at the document or sentence-level during test.
+Reconstruction-based↑ techniques↑ can↑ also↑ be↑ applied↑ at↑ the↑ document= or↑ sentence-level= during↑ test.↑ 
+Reconstruction-based techniques can also be applied at the document or sentence-level during training.
+Reconstruction-based↑ techniques↑ can↑ also↑ be↑ applied↑ at↑ the↑ document= or↑ sentence-level= during↑ training.↑ 
+Reconstruction-based techniques can also be applied at the document or sentence-level during training.
+Reconstruction-based↑ techniques↑ can↑ also↑ be↑ applied↑ at↑ the↑ document= or↑ sentence-level= during↑ training.↑ 
+The reaction was strongly exothermic.
+The↓ reaction↓ was↓ strongly↓ exothermic.↓ 
+The reaction was strongly exothermic.
+The↓ reaction↓ was↓ strongly↓ exothermic.↓ 
+I had already finished it.
+I↓ had↓ already↓ finished↓ it.↓ 
+She didn't think I had already finished it, but I had.
+She↑ did↑ not↑ think↓ I↓ had↓ already↓ finished↓ it↓ but↑ I↑ had.↑ 
+I hadn't already finished it.
+I↓ had↓ not↓ already↓ finished↓ it.↓ 
+She didn't think I had already finished it, but I had.
+She↑ did↑ not↑ think↓ I↓ had↓ already↓ finished↓ it↓ but↑ I↑ had.↑ 
+I had already finished it.
+I↓ had↓ already↓ finished↓ it.↓ 
+I hadn't already finished it.
+I↓ had↓ not↓ already↓ finished↓ it.↓ 
+The businesses that focused on branding still had negative profits.
+The↑ businesses= that= focused= on= branding= still↑ had↑ negative↑ profits.↑ 
+The profits of the businesses that focused on branding were still negative.
+The↑ profits= of= the= businesses= that= focused= on= branding= were↑ still↑ negative.↑ 
+The profits that focused on branding were still negative.
+The↑ profits= that= focused= on= branding= were↑ still↑ negative.↑ 
+The profits of the business that was most successful were still negative.
+The↑ profits= of= the= business= that= was= most= successful= were↑ still↑ negative.↑ 
+For the businesses, the profits that were highest were still negative.
+For↓ the↓ businesses↓ the↓ profits↓ that↓ were↓ highest↓ were↓ still↓ negative.↓ 
+His talents are many.
+His↑ talents↑ are= many.= 
+I don't want to have to keep fighting pesky bedbugs.
+I↑ do↑ not↑ want↓ to↓ have↓ to↓ keep↓ fighting↓ pesky↓ bedbugs.↓ 
+I don't want to have to keep entertaining people.
+I↑ do↑ not↑ want↓ to↓ have↓ to↓ keep↓ entertaining↓ people.↑ 
+There is no rabbi at this wedding, let alone behind that tree.
+There↑ is↓ no↑ rabbi↓ at↑ this↑ wedding= let↑ alone↑ behind↑ that↑ tree.= 
+Consommé is more complex to make than scrambled eggs.
+Consommé↓ is↓ more↓ complex↓ to↓ make↓ than↓ scrambled↓ eggs.↓ 
+Consommé is not more complex to make than scrambled eggs.
+Consommé↓ is↓ not↓ more↓ complex↓ to↓ make↓ than↓ scrambled↓ eggs.↓ 
+The building, standing since the early 20s, was sturdy and unassuming.
+The↑ building= standing= since= the= early= 20s= was↑ sturdy↑ and↑ unassuming.↑ 
+The building, standing since the early 20s, was tall and unassuming.
+The↑ building= standing= since= the= early= 20s= was↑ tall↑ and↑ unassuming.↑ 
+I won't say that she stole my money.
+I↑ wo↓ not↑ say↓ that↓ she= stole= my= money.= 
+I won't say that she didn't steal my money.
+I↑ wo↓ not↑ say↓ that↓ she= did= not= steal= my= money.= 
+I will say that she stole my money.
+I↑ will↑ say↑ that↑ she= stole= my= money.= 
+I won't say that she didn't steal my money.
+I↑ wo↓ not↑ say↓ that↓ she= did= not= steal= my= money.= 
+I will say that she stole my money.
+I↑ will↑ say↑ that↑ she= stole= my= money.= 
+I won't say that she didn't steal my money.
+I↑ wo↓ not↑ say↓ that↓ she= did= not= steal= my= money.= 
+A sommelier knows the difference between the 2009 and 2013 vintage of a German Riesling.
+A↑ sommelier↑ knows↑ the↑ difference= between= the= 2009= and↑ 2013= vintage= of= a= German= Riesling.= 
+An experienced sommelier knows the difference between the 2009 and 2013 vintage of a German Riesling.
+An↑ experienced↑ sommelier↑ knows↑ the↑ difference= between= the= 2009= and↑ 2013= vintage= of= a= German= Riesling.= 
+An Italian sommelier knows the difference between the 2009 and 2013 vintage of a German Riesling.
+An↑ Italian↑ sommelier↑ knows↑ the↑ difference= between= the= 2009= and↑ 2013= vintage= of= a= German= Riesling.= 
+An experienced sommelier knows the difference between the 2009 and 2013 vintage of a German Riesling.
+An↑ experienced↑ sommelier↑ knows↑ the↑ difference= between= the= 2009= and↑ 2013= vintage= of= a= German= Riesling.= 
+A sommelier won't know the difference between the 2009 and 2013 vintage of a German Riesling.
+A↑ sommelier↑ wo↓ not↑ know↓ the↓ difference= between= the= 2009= and↑ 2013= vintage= of= a= German= Riesling.= 
+A fraudulent sommelier won't know the difference between the 2009 and 2013 vintage of a German Riesling.
+A↑ fraudulent↑ sommelier↑ wo↓ not↑ know↓ the↓ difference= between= the= 2009= and↑ 2013= vintage= of= a= German= Riesling.= 
+Two of the three trees outside my window, with their branches dangling and swaying in the wind, have already bloomed, and it's not even April.
+2↑ of= 3↑ trees= outside= my= window= with= their= branches= dangling= and↑ swaying= in= the= wind= have= already= bloomed= and↑ it↑ 's↓ not↑ even↑ April.↓ 
+Of the trees outside my window, with their branches dangling and swaying in the wind, three have already bloomed, and it's not even April.
+Of↑ the↑ trees= outside= my= window= with= their= branches= dangling= and↑ swaying= in= the= wind= 3= have↑ already↑ bloomed↑ and↑ it↑ 's↓ not↑ even↑ April.↓ 

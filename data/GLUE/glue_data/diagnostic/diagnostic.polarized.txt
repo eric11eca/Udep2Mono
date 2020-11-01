@@ -1,0 +1,1518 @@
+The↑  cat=  sat↑  on↑  the↑  mat=
+The↑  cat=  did↓  not↑  sit↓  on↓  the↓  mat=
+Out↑  of↑  the↑  box=  Ouya↑  supports↑  media  apps  such↑  as↑  Twitch.tv↑  and↑  XBMC  media  player
+Out↑  of↑  the↑  box=  Ouya↑  does↑  not↑  support↑  media  apps  such↑  as↑  Twitch.tv↑  and↑  XBMC  media  player
+Out↑  of↑  the↑  box=  Ouya↑  supports↑  media  apps  such↑  as↑  Twitch.tv↑  and↑  XBMC  media  player
+Out↑  of↑  the↑  box=  Ouya↑  supports↑  Twitch.tv↑  and↑  XBMC  media  player
+Considering↑  this↑  definition=  it↑  is↑  surprising↑  to↑  find↑  frequent  use  of↑  sarcastic↑  language↑  in↑  opinionated  user  generated  content
+Considering↑  this↑  definition=  it↑  is↓  not↑  surprising↓  to↓  find↓  frequent  use  of↓  sarcastic↓  language↓  in↓  opinionated  user  generated  content
+The↑  new=  gaming=  console=  is↑  affordable↑
+The↑  new=  gaming=  console=  is↑  unaffordable↑
+We↑  built↑  our↑  society↑  on↑  unclean↑  energy↑
+We↑  built↑  our↑  society↑  on↑  clean↑  energy↑
+Writing↑  Java↑  is↓  not↑  too↓  different↓  from↓  programming↓  with↓  handcuffs↓
+Writing↑  Java↑  is↑  similar↑  to↑  programming  with↑  handcuffs↑
+The↑  market=  is↑  about↑  to↑  get↑  harder↑  but↓  not↑  impossible↓  to↓  navigate↓
+The↑  market=  is↑  about↑  to↑  get↑  harder↑  but↑  possible↑  to↑  navigate↑
+The↑  water=  is↑  too↑  hot↑
+The↑  water=  is↑  too↑  cold↑
+Falcon↑  Heavy↑  is  the↑  largest=  rocket=  since=  NASA↑  "s↑"  Saturn  V  booster  which↑  was↑  used↑  for↑  the↑  Moon=  missions=  in=  the=  1970s=
+Falcon↑  Heavy↑  is  the↑  smallest=  rocket=  since=  NASA↑  "s↑"  Saturn  V  booster  which↑  was↑  used↑  for↑  the↑  Moon=  missions=  in=  the=  1970s=
+Adenoiditis↑  symptoms↑  often↑  persist↑  for↑  ten↓  or↑  more↓  days↑  and↑  often↑  include↑  pus  like  discharge  from↑  nose↑
+Adenoiditis↑  symptoms↑  often↑  pass↑  within↑  ten↓  days↑  or↑  less↓  and↑  often↑  include↑  pus  like  discharge  from↑  nose↑
+Some↑  dogs↑  like  to  scratch↑  their↑  ears↑
+Some↑  animals↑  like  to  scratch↑  their↑  ears↑
+Cruz↑  has↑  frequently↑  derided↑  as↑  amnesty  various  plans  that↑  confer↑  legal↑  status↑  or↑  citizenship↑  on↑  people↑  living↑  in↑  the↑  country=  illegally↑
+Cruz↑  has↑  frequently↑  derided↑  as↑  amnesty  various  bills  that↑  confer↑  legal↑  status↑  or↑  citizenship↑  on↑  people↑  living↑  in↑  the↑  country=  illegally↑
+In↑  many↑  developed=  areas=  human↑  activity↑  has  changed↑  the↑  form=  of=  river=  channels=  altering  magnitudes  and↑  frequencies  of↑  flooding↑
+In↑  many↑  areas=  human↑  activity↑  has  changed↑  the↑  form=  of=  river=  channels=  altering  magnitudes  and↑  frequencies  of↑  flooding↑
+We↑  consider↑  some↑  context↑  words↑  as↑  positive↑  examples↑  and↑  sample  negatives  at↑  random↑  from↑  the↑  dictionary=
+We↑  consider↑  some↑  words↑  as↑  positive↑  examples↑  and↑  sample  negatives  at↑  random↑  from↑  the↑  dictionary=
+We↑  consider↑  some↑  context↑  words↑  as↑  positive↑  examples↑  and↑  sample  negatives  at↑  random↑  from↑  the↑  dictionary=
+We↑  consider↑  all↑  context↓  words↓  as↓  positive↓  examples↓  and↑  sample  many↑  negatives=  at↓  random↓  from↓  the↓  dictionary=
+We↑  consider↑  some↑  context↑  words↑  as↑  positive↑  examples↑  and↑  sample  negatives  at↑  random↑  from↑  the↑  dictionary=
+We↑  consider↑  many↑  context=  words=  as↑  positive↑  examples↑  and↑  sample  negatives  at↑  random↑  from↑  the↑  dictionary=
+We↑  consider↑  all↑  context↓  words↓  as↓  positive↓  examples↓  and↑  sample  negatives  at↓  random↓  from↓  the↓  dictionary=
+We↑  consider↑  all↑  words↓  as↓  positive↓  examples↓  and↑  sample  negatives  at↓  random↓  from↓  the↓  dictionary=
+All↑  dogs↓  like  to  scratch↑  their↑  ears↑
+All↑  animals↓  like  to  scratch↑  their↑  ears↑
+In↑  all↑  areas↓  human↑  activity↑  has  changed↑  the↑  form=  of=  river=  channels=  altering  magnitudes  and↑  frequencies  of↑  flooding↑
+In↑  all↑  developed↓  areas↓  human↑  activity↑  has  changed↑  the↑  form=  of=  river=  channels=  altering  magnitudes  and↑  frequencies  of↑  flooding↑
+Tom↑  and↑  Adam↑  were↑  whispering↑  in↑  the↑  theater=
+Tom↑  and↑  Adam↑  were↑  whispering↑  quietly↑  in↑  the↑  theater=
+Tom↑  and↑  Adam↑  were↑  whispering↑  in↑  the↑  theater=
+Tom↑  and↑  Adam↑  were↑  whispering↑  loudly↑  in↑  the↑  theater=
+Chicago↑  City↑  Hall↑  is  the↑  official=  seat=  of↑  government  of↑  the↑  City=  of=  Chicago=
+Chicago↑  City↑  Hall↑  is  the↑  official=  seat=  of↑  government  of↑  Chicago↑
+The↑  question=  generation=  aspect=  is↑  unique↑  to=  our↑  formulation↑  and↑  corresponds  roughly↑  to↑  identifying↑  what↑  semantic↑  role↑  labels↑  are↑  present↑  in↑  previous  formulations  of↑  the↑  task=
+The↑  question=  generation=  aspect=  is↑  unique↑  to=  our↑  formulation↑  and↑  corresponds  roughly↑  to↑  identifying↑  what↑  semantic↑  role↑  labels↑  are↑  present↑  in↑  previous  other  formulations  of↑  the↑  task=
+John↑  ate↑  pasta↑  for↑  dinner↑
+John↑  ate↑  pasta↑  for↑  supper↑
+John↑  ate↑  pasta↑  for↑  dinner↑
+John↑  ate↑  pasta↑  for↑  breakfast↑
+House↑  Speaker↑  Paul↑  Ryan↑  was↑  facing↑  problems  from↑  fellow↑  Republicans↑  dissatisfied↑  with=  his↑  leadership↑
+House↑  Speaker↑  Paul↑  Ryan↑  was↑  facing↑  problems  from↑  fellow↑  Republicans↑  unhappy↑  with=  his↑  leadership↑
+House↑  Speaker↑  Paul↑  Ryan↑  was↑  facing↑  problems↑  uniquely↑  from↑  fellow↑  Republicans↑  dissatisfied↑  with=  his↑  leadership↑
+House↑  Speaker↑  Paul↑  Ryan↑  was↑  facing↑  problems↑  uniquely↑  from↑  fellow↑  Republicans↑  supportive↑  of=  his↑  leadership↑
+I↑  can  actually  see  him↑  climbing↑  into↑  a↑  Lincoln↑  saying↑  this↑
+I↑  can  actually  see  him↑  getting↑  into↑  a↑  Lincoln↑  saying↑  this↑
+I↑  can  actually  see  him↑  climbing↑  into↑  a↑  Lincoln↑  saying↑  this↑
+I↑  can  actually  see  him↑  climbing↑  into↑  a↑  Mazda↑  saying↑  this↑
+The↑  villain=  is↑  the↑  character=  who↑  tends↑  to↑  have↑  a↑  negative↑  effect↑  on↑  other↑  characters↑
+The↑  villain=  is↑  the↑  character=  who↑  tends↑  to↑  have↑  a↑  negative↑  impact↑  on↑  other↑  characters↑
+The↑  villain=  is↑  the↑  character=  who↑  tends↑  to↑  have↑  a↑  negative↑  effect↑  on↑  other↑  characters↑
+The↑  villain=  is↑  the↑  character=  who↑  tends↑  to↑  have↑  a↑  negative↑  correlation↑  with↑  other↑  characters↑
+Semantic  parsing↑  typically=  needs=  a↑  set↑  of↑  operations↑  to=  query  the↑  knowledge=  base=  and↑  process  the↑  results=
+John↑  broke↑  the↑  window=
+The↑  window=  was↑  broken↑  by↑  John↑
+John↑  broke↑  the↑  window=
+The↑  window=  broke↑  John↑
+Mueller↑  ’s↑  team↑  asked↑  former↑  senior↑  Justice↑  Department↑  officials↑  for↑  information↑
+Former↑  senior↑  Justice↑  Department↑  officials↑  were↑  asked↑  for↑  information↑  by=  Mueller↑  "s↑"  team↑
+Mueller↑  ’s↑  team↑  asked↑  former↑  senior↑  Justice↑  Department↑  officials↑  for↑  information↑
+Mueller↑  ’s↑  team↑  was↑  asked↑  for↑  information  by↑  former↑  senior↑  Justice↑  Department↑  officials↑
+Mueller↑  ’s↑  team↑  asked↑  former↑  senior↑  Justice↑  Department↑  officials↑  for↑  information↑
+Mueller↑  ’s↑  team↑  was↑  asked↑  for↑  information↑
+Mueller↑  ’s↑  team↑  asked↑  former↑  senior↑  Justice↑  Department↑  officials↑  for↑  information↑
+Former↑  senior↑  Justice↑  Department↑  officials↑  were↑  not↑  asked↑  for↑  information↑
+Everyone↑  should↑  be↑  afraid↑  of↑  the↑  part=  when↑  Congress↑  was↑  asked↑  to↑  allow↑  his↑  cabinet↑  secretaries↑  to↑  terminate↑  whoever↑  they↑  want↑
+Cape↑  sparrows↑  eat↑  seeds↑  along↑  with↑  soft↑  plant↑  parts↑  and↑  insects↑
+Seeds↑  along↑  with↑  soft↑  plant↑  parts↑  and↑  insects↑  are↑  eaten↑  by↑  cape↑  sparrows↑
+Cape↑  sparrows↑  eat↑  seeds↑  along↑  with↑  soft↑  plant↑  parts↑  and↑  insects↑
+Cape↑  sparrows↑  are↑  eaten↑  by↑  seeds↑  along↑  with↑  soft↑  plant↑  parts↑  and↑  insects↑
+Cape↑  sparrows↑  eat↑  seeds↑  along↑  with↑  soft↑  plant↑  parts↑  and↑  insects↑
+Cape↑  sparrows↑  are↑  eaten↑
+Cape↑  sparrows↑  eat↑  seeds↑  along↑  with↑  soft↑  plant↑  parts↑  and↑  insects↑
+Soft↑  plant↑  parts↑  and↑  insects↑  eat↑  seeds↑
+Cape↑  sparrows↑  eat↑  seeds↑  along↑  with↑  soft↑  plant↑  parts↑  and↑  insects↑
+Soft↑  plant↑  parts↑  and↑  insects↑  are↑  eaten↑
+Relation↑  extraction↑  systems↑  populate↑  knowledge↑  bases↑  with↑  facts  from↑  unstructured↑  text↑  corpora↑
+Knowledge↑  bases↑  are↑  populated↑  with↑  facts  from↑  unstructured↑  text↑  corpora↑  by↑  relation↑  extraction↑  systems↑
+Relation↑  extraction↑  systems↑  populate↑  knowledge↑  bases↑  with↑  facts  from↑  unstructured↑  text↑  corpora↑
+Knowledge↑  bases↑  are↑  populated↑  by↑  relation↑  extraction↑  systems↑  with↑  facts  from↑  unstructured↑  text↑  corpora↑
+Relation↑  extraction↑  systems↑  populate↑  knowledge↑  bases↑  with↑  facts  from↑  unstructured↑  text↑  corpora↑
+Relation↑  extraction↑  systems↑  are↑  populated↑  by↑  knowledge↑  bases↑  with↑  facts  from↑  unstructured↑  text↑  corpora↑
+Relation↑  extraction↑  systems↑  populate↑  knowledge↑  bases↑  with↑  facts  from↑  unstructured↑  text↑  corpora↑
+Relation↑  extraction↑  systems↑  are↑  populated↑  with↑  facts  from↑  unstructured↑  text↑  corpora↑  by↑  knowledge↑  bases↑
+Relation↑  extraction↑  systems↑  populate↑  knowledge↑  bases↑  with↑  facts  from↑  unstructured↑  text↑  corpora↑
+Relation↑  extraction↑  systems↑  populate↑  knowledge↑  bases↑  with↑  assertions  from↑  unstructured↑  text↑  corpora↑
+The↑  Cape=  sparrow=  "s↑"  population↑  has↓  not↑  decreased↓  significantly↓  and↑  is↓  not↑  seriously↓  threatened↓  by↑  human↑  activities↑
+The↑  population=  of=  the=  Cape=  sparrow=  has↓  not↑  decreased↓  significantly↓  and↑  is↓  not↑  seriously↓  threatened↓  by↑  human↑  activities↑
+The↑  Cape=  sparrow=  "s↑"  population↑  has↓  not↑  decreased↓  significantly↓  and↑  is↓  not↑  seriously↓  threatened↓  by↑  human↑  activities↑
+The↑  population=  of=  the=  Cape=  sparrow=  has↑  decreased↑  significantly↑  and↑  is↑  seriously↑  threatened↑  by↑  human↑  activities↑
+This↑  paper=  presents↑  an↑  approach↑  for↑  understanding↑  the↑  contents=  of=  these=  message=  vectors=  by↑  translating↑  them↑  into↑  natural↑  language↑
+This↑  paper=  presents↑  an↑  approach↑  for↑  understanding↑  the↑  contents=  of=  these=  message=  vectors=  by↑  translating↑  them↑  into↑  natural↑  language↑
+This↑  paper=  presents↑  an↑  approach↑  for↑  understanding↑  the↑  contents=  of=  these=  message=  vectors=  by↑  translating↑  them↑  into↑  foreign↑  language↑
+She↑  is↑  skilled↑  at↑  violin↑
+She↑  is↑  a↑  skilled↑  violinist↑
+She↑  is↑  skilled↑
+She↑  is↑  a↑  skilled↑  violinist↑
+She↑  is↑  a↑  surgeon↑  and↑  skilled  violinist
+She↑  is↑  a↑  skilled↑  surgeon↑
+The↑  combination=  of=  mentos=  and↑  diet  coke  caused↑  the↑  explosion=
+Combining↑  mentos↑  and↑  diet  coke  caused↑  the↑  explosion=
+In↑  an↑  Oval↑  Office↑  meeting↑  after=  Mueller↑  "s↑"  appointment↑  Trump↑  told↑  Sessions↑  he↑  should↑  resign↑  prompting↑  the↑  attorney=  general=  to↑  submit↑  a↑  letter↑  of↑  resignation↑  according↑  to↑  The↑  New=  York=  Times=
+In↑  an↑  Oval↑  Office↑  meeting↑  after=  Mueller↑  "s↑"  appointment↑  Trump↑  told↑  Sessions↑  he↑  should↑  resign↑  prompting↑  the↑  attorney=  general=  "s↑"  submission  of↑  a↑  letter↑  of↑  resignation↑  according↑  to↑  The↑  New=  York=  Times=
+In↑  an↑  Oval↑  Office↑  meeting↑  after=  Mueller↑  "s↑"  appointment↑  Trump↑  told↑  Sessions↑  he↑  should↑  resign↑  prompting↑  the↑  attorney=  general=  to↑  submit↑  a↑  letter↑  of↑  resignation↑  according↑  to↑  The↑  New=  York=  Times=
+In↑  an↑  Oval↑  Office↑  meeting↑  after=  Mueller↑  "s↑"  appointment↑  Trump↑  told↑  Sessions↑  he↑  should↑  resign↑  prompting↑  the↑  attorney=  general=  "s↑"  withholding  of↑  a↑  letter↑  of↑  resignation↑  according↑  to↑  The↑  New=  York=  Times=
+During↑  World↑  War↑  II↑  the↑  five↓  remaining↑  Greek↑  boats↑  were↑  sunk↑  by↑  Axis↑  aircraft↑  during↑  the↑  German=  invasion=  of=  Greece=  in↑  April↑  1941↓
+During↑  World↑  War↑  II↑  the↑  five↓  remaining↑  Greek↑  boats↑  were↑  sunk↑  by↑  Axis↑  aircraft↑  during↑  the↑  German=  invasion=  of=  Greece=  in↑  April↑  1941↓
+During↑  World↑  War↑  II↑  the↑  five↓  remaining↑  Greek↑  boats↑  were↑  sunk↑  by↑  Axis↑  aircraft↑  during↑  the↑  Greek=  invasion=  of=  Germany=  in↑  April↑  1941↓
+Often↑  the↑  first=  step=  in=  building=  statistical=  NLP=  models=  involves↑  feature↑  extraction↑
+Often↑  the↑  first=  step=  in=  building=  statistical=  NLP=  models=  involves↑  extracting↑  features↑
+Bob↑  likes↑  Alice↑
+Alice↑  likes↑  Bob↑
+Bob↑  is↑  Alice↑  "s↑"  parent↑
+Alice↑  is↑  Bob↑  "s↑"  parent↑
+President↑  Trump↑  will↑  ask↑  Republican↑  lawmakers↑  to↑  use↑  a↑  controversial↑  White↑  House↑  framework↑  as↑  the↑  baseline=  for↑  a↑  coming↑  Senate↑  debate↑  on↑  immigration↑  policy↑
+Republican↑  lawmakers↑  will↑  ask↑  President↑  Trump↑  to↑  use↑  a↑  controversial↑  White↑  House↑  framework↑  as↑  the↑  baseline=  for↑  a↑  coming↑  Senate↑  debate↑  on↑  immigration↑  policy↑
+Mythbusters↑  proved↑  that↑  bulls↑  react↑  to↑  movement↑  and↑  not↑  color↓
+Bulls↑  proved↑  that↑  mythbusters↑  react↑  to↑  movement↑  and↑  not↑  color↓
+The↑  models=  generate↑  translations  with↑  their↑  constituency↑  tree↑  and↑  their↑  attention↑  derived↑  alignments
+The↑  translations=  generate↑  models  with↑  their↑  constituency↑  tree↑  and↑  their↑  attention↑  derived↑  alignments
+Bob↑  married↑  Alice↑
+Alice↑  married↑  Bob↑
+The↑  head=  of=  Russia=  "s="  foreign=  spy=  service=  met↑  with↑  top↑  U.S.↑  intelligence↑  officials↑  despite↑  existing↑  sanctions↑
+Top↑  U.S.↑  intelligence↑  officials↑  met↑  with↑  the↑  head=  of=  Russia=  "s="  foreign=  spy=  service=  despite↑  existing↑  sanctions↑
+Bees↑  do↓  not↑  follow↓  the↓  same=  rules=  as=  airplanes=
+Airplanes↑  do↓  not↑  follow↓  the↓  same=  rules=  as=  bees=
+Bees↑  do↓  not↑  follow↓  the↓  same=  rules=  as=  airplanes=
+Bees↑  fly↑  using↑  a↑  different↑  mechanism↑  from↑  airplanes↑
+Bees↑  do↓  not↑  follow↓  the↓  same=  rules=  as=  airplanes=
+Bees↑  fly↑  using↑  the↑  same=  mechanism=  as↑  airplanes↑
+Bees↑  do↓  not↑  follow↓  the↓  same=  rules=  as=  airplanes=
+Bees↑  are  more  energy  efficient  flyers  than↑  airplanes↑
+Leslie↑  Dixon↑  is↑  married↑  to↑  fellow↑  screenwriter↑  and↑  producer  Tom  Ropelewski
+Tom↑  Ropelewski↑  is↑  married↑  to↑  fellow↑  screenwriter↑  and↑  producer  Leslie  Dixon
+Bob↑  married↑  Alice↑
+Bob↑  and↑  Alice↑  got↑  married↑
+Tulsi↑  Gabbard↑  disagrees↑  with↑  Bernie↑  Sanders↑  on↑  what↑  is↑  the↑  best=  way=  to  deal  with↑  Bashar↑  al↑  Assad↑
+It↑  reminds↑  me↑  of↑  the↑  times=  my↑  little↑  brother↑  and↑  I↑  played↑  Super↑  Mario↑
+In↑  this↑  PC=  game=  Shredder↑  fights↑  the↑  turtles=  in=  his↑  Manhattan↑  hideout↑
+In↑  this↑  PC=  game=  Shredder↑  and↑  the↑  turtles=  fight↑  in=  his↑  Manhattan↑  hideout↑
+Jane↑  had↑  a↑  party↑  on↑  Sunday↑
+On↑  Sunday↑  Jane↑  had↑  a↑  party↑
+For↑  decades↑  the↑  FBI=  has↑  been↑  trusted↑  to↑  investigate↑  corruption  inside↑  the↑  government=
+The↑  FBI=  has↑  been↑  trusted↑  to↑  investigate↑  corruption  inside↑  the↑  government=  for↑  decades↑
+I↑  was↑  driving↑  through=  my↑  neighborhood↑  a↑  few↑  weeks↑  ago↑  and↑  there  was  a↑  lady↑  holding↑  a↑  child↑  "s↑"  hand↑  standing↑  on↑  the↑  side=  of=  the↑  road=  talking↑  to↑  someone↑  parked↑  in↑  a↑  car↑
+A↑  few↑  weeks↑  ago↑  I↑  was↑  driving↑  through=  my↑  neighborhood↑  and↑  there  was  a↑  lady↑  holding↑  a↑  child↑  "s↑"  hand↑  standing↑  on↑  the↑  side=  of=  the↑  road=  talking↑  to↑  someone↑  parked↑  in↑  a↑  car↑
+Bass↑  River↑  timber↑  was↑  used↑  in↑  construction  of↑  the↑  Empire=  State=  Building=
+In↑  construction  of↑  the↑  Empire=  State=  Building=  Bass↑  River↑  timber↑  was↑  used↑
+In↑  this↑  paper=  we↑  present↑  an↑  approach↑  to↑  acquire↑  trivial↑  physical↑  knowledge↑  from↑  unstructured↑  natural↑  language↑  text↑
+We↑  present↑  in↑  this↑  paper=  an↑  approach↑  to↑  acquire↑  trivial↑  physical↑  knowledge↑  from↑  unstructured↑  natural↑  language↑  text↑
+In↑  this↑  paper=  we↑  present↑  an↑  approach↑  to↑  acquire↑  trivial↑  physical↑  knowledge↑  from↑  unstructured↑  natural↑  language↑  text↑
+We↑  present↑  an↑  approach↑  to↑  acquire↑  trivial↑  physical↑  knowledge↑  from↑  the↑  unstructured=  natural=  language=  text=  of=  this=  paper=
+I↑  ate↑  pizza↑  with↑  friends↑
+I↑  ate↑  pizza↑
+I↑  ate↑  pizza↑  with↑  some↑  friends↑
+I↑  ate↑  some↑  friends↑
+I↑  ate↑  pizza↑  with↑  olives↑
+I↑  ate↑  pizza↑
+I↑  ate↑  pizza↑  with↑  olives↑
+I↑  ate↑  olives↑
+Mueller↑  received↑  a↑  mandate↑  to↑  investigate↑  possible  collusion  with↑  Russia↑
+Mueller↑  received↑  a↑  mandate↑  to↑  investigate↑  possible↑  collusion↑
+Mueller↑  received↑  a↑  mandate↑  to↑  investigate↑  possible  collusion  with↑  Russia↑
+Mueller↑  received↑  a↑  mandate↑  to↑  investigate↑  with↑  Russia↑
+Mueller↑  received↑  a↑  mandate↑  to↑  investigate↑  possible  collusion  with↑  vast↑  resources↑
+Mueller↑  received↑  a↑  mandate↑  to↑  investigate↑  possible↑  collusion↑
+Mueller↑  received↑  a↑  mandate↑  to↑  investigate↑  possible  collusion  with↑  vast↑  resources↑
+Mueller↑  received↑  a↑  mandate↑  to↑  investigate↑  with↑  vast↑  resources↑
+They↑  should↑  be↑  attached↑  to↑  the↑  lifting=  mechanism=  in=  the=  faucet=
+They↑  should↑  be↑  attached↑  to↑  the↑  lifting=  mechanism=
+They↑  should↑  be↑  attached↑  to↑  the↑  lifting=  mechanism=  in=  the=  faucet=
+They↑  should↑  be↑  attached↑  in↑  the↑  faucet=
+They↑  should↑  be↑  attached↑  to↑  the↑  lifting=  mechanism=  in↑  an↑  unbreakable↑  knot↑
+They↑  should↑  be↑  attached↑  to↑  the↑  lifting=  mechanism=
+They↑  should↑  be↑  attached↑  to↑  the↑  lifting=  mechanism=  in↑  an↑  unbreakable↑  knot↑
+They↑  should↑  be↑  attached↑  in↑  an↑  unbreakable↑  knot↑
+Tanks↑  were↑  developed↑  by↑  Britain↑  and↑  France↑  and↑  were↑  first↑  used↑  in↑  combat↑  by↑  the↑  British=  during↑  a↑  battle↑  with↑  only↑  partial↑  success↑
+Tanks↑  were↑  developed↑  by↑  Britain↑  and↑  France↑  and↑  were↑  first↑  used↑  with↑  only↑  partial↑  success↑
+Tanks↑  were↑  developed↑  by↑  Britain↑  and↑  France↑  and↑  were↑  first↑  used↑  in↑  combat↑  by↑  the↑  British=  during↑  a↑  battle↑  with↑  only↑  partial↑  success↑
+Tanks↑  were↑  developed↑  by↑  Britain↑  and↑  France↑  and↑  were↑  first↑  used↑  in↑  combat↑  by↑  the↑  British=  during↑  a↑  battle↑
+Tanks↑  were↑  developed↑  by↑  Britain↑  and↑  France↑  and↑  were↑  first↑  used↑  in↑  combat↑  by↑  the↑  British=  during↑  a↑  battle↑  with↑  German↑  forces↑
+Tanks↑  were↑  developed↑  by↑  Britain↑  and↑  France↑  and↑  were↑  first↑  used↑  with↑  German↑  forces↑
+Tanks↑  were↑  developed↑  by↑  Britain↑  and↑  France↑  and↑  were↑  first↑  used↑  in↑  combat↑  by↑  the↑  British=  during↑  a↑  battle↑  with↑  German↑  forces↑
+Tanks↑  were↑  developed↑  by↑  Britain↑  and↑  France↑  and↑  were↑  first↑  used↑  in↑  combat↑  by↑  the↑  British=  during↑  a↑  battle↑
+We↑  propose↑  models  of↑  the↑  probability=  distribution=  from↑  which↑  the↑  attested=  vowel=  inventories=  have↑  been↑  drawn↑
+We↑  propose↑  models  of↑  the↑  probability=  distribution=
+We↑  propose↑  models  of↑  the↑  probability=  distribution=  from↑  which↑  the↑  attested=  vowel=  inventories=  have↑  been↑  drawn↑
+We↑  propose↑  models↑  from↑  which↑  the↑  attested=  vowel=  inventories=  have↑  been↑  drawn↑
+We↑  propose↑  models  of↑  the↑  probability=  distribution=  from↑  a↑  restricted↑  space↑  of↑  linear↑  functions↑
+We↑  propose↑  models  of↑  the↑  probability=  distribution=
+We↑  propose↑  models  of↑  the↑  probability=  distribution=  from↑  a↑  restricted↑  space↑  of↑  linear↑  functions↑
+We↑  propose↑  models↑  from↑  a↑  restricted↑  space↑  of↑  linear↑  functions↑
+George↑  went↑  to↑  the↑  lake=  to↑  catch↑  a↑  fish↑  but↑  he↑  fell↑  into↑  the↑  water=
+George↑  fell↑  into↑  the↑  water=
+George↑  went↑  to↑  the↑  lake=  to↑  catch↑  a↑  fish↑  but↑  he↑  fell↑  into↑  the↑  water=
+A↑  fish↑  fell↑  into↑  the↑  water=
+That↑  bill=  would↑  increase↑  the↑  debt=  too↑  much↑
+The↑  Republican=  party=  would↑  increase↑  the↑  debt=  too↑  much↑
+The↑  climbing=  beans=  choked↑  the↑  corn=  and↑  the↑  squash=  grew↑  so↑  big↑  that↑  it↑  overshadowed↑  several  adjacent  rows  of↑  beans↑
+The↑  squash=  overshadowed↑  several  adjacent  rows  of↑  beans↑
+The↑  climbing=  beans=  choked↑  the↑  corn=  and↑  the↑  squash=  grew↑  so↑  big↑  that↑  it↑  overshadowed↑  several  adjacent  rows  of↑  beans↑
+The↑  corn=  overshadowed↑  several  adjacent  rows  of↑  beans↑
+Because↑  Britain↑  still↑  maintained↑  control  of=  Canada↑  "s↑"  foreign↑  affairs↑  under↑  the↑  Confederation=  Act=
+Britain↑  "s↑"  declaration  of↑  war↑  in↑  1914↑  automatically  brought↑  Canada↑  into↑  World↑  War↑  I.↑
+Because↑  Britain↑  still↑  maintained↑  control  of=  Canada↑  "s↑"  foreign↑  affairs↑  under↑  the↑  Confederation=  Act=
+Canada↑  "s↑"  declaration  of↑  war↑  in↑  1914↑  automatically  brought↑  Canada↑  into↑  World↑  War↑  I.↑
+Coreference↑  resolvers↑  can↑  hardly↑  generalize↑  to↑  unseen↑  domains↑
+Lexical↑  features↑  can↑  hardly↑  generalize↑  to↑  unseen↑  domains↑
+The↑  sides=  came↑  to↑  an↑  agreement↑  after=  their↑  meeting  in↑  Stockholm↑
+The↑  sides=  came↑  to↑  an↑  agreement↑  after=  their↑  meeting  in↑  Sweden↑
+The↑  sides=  came↑  to↑  an↑  agreement↑  after=  their↑  meeting  in↑  Stockholm↑
+The↑  sides=  came↑  to↑  an↑  agreement↑  after=  their↑  meeting  in↑  Europe↑
+The↑  sides=  came↑  to↑  an↑  agreement↑  after=  their↑  meeting  in↑  Stockholm↑
+The↑  sides=  came↑  to↑  an↑  agreement↑  after=  their↑  meeting  in↑  Oslo↑
+TIL↑  David↑  Attenborough↑  and↑  Queen  Elizabeth  II  are  roughly  the↑  same=  age=
+TIL↑  David↑  Attenborough↑  and↑  the↑  Queen=  of↑  England↑  are  roughly  the↑  same=  age=
+TIL↑  David↑  Attenborough↑  and↑  Queen  Elizabeth  II  are  roughly  the↑  same=  age=
+TIL↑  David↑  Attenborough↑  and↑  the↑  Queen=  of↑  Denmark↑  are  roughly  the↑  same=  age=
+The↑  Sydney=  area=  has↑  been↑  inhabited↑  by↑  indigenous↑  Australians↑  for↑  at↑  least↑  30 000↓  years↑
+The↑  Sydney=  area=  has↑  been↑  inhabited↑  by↑  Aboriginal↑  people↑  for↑  at↑  least↑  30 000↓  years↑
+The↑  Sydney=  area=  has↑  been↑  inhabited↑  by↑  indigenous↑  Australians↑  for↑  at↑  least↑  30 000↓  years↑
+The↑  Sydney=  area=  has↑  been↑  inhabited↑  by↑  Europeans↑  for↑  at↑  least↑  30 000↓  years↑
+Deep↑  neural↑  networks↑  have↑  achieved↑  impressive↑  performance↑  in↑  supervised↑  classification↑  and↑  structured↑  prediction↑  tasks↑
+Deep↑  learning↑  has↑  achieved↑  impressive↑  performance↑  in↑  supervised↑  classification↑  and↑  structured↑  prediction↑  tasks↑
+Deep↑  neural↑  networks↑  have↑  achieved↑  impressive↑  performance↑  in↑  supervised↑  classification↑  and↑  structured↑  prediction↑  tasks↑
+Decision↑  trees↑  have↑  achieved↑  impressive↑  performance↑  in↑  supervised↑  classification↑  and↑  structured↑  prediction↑  tasks↑
+Dave↑  jumped↑  into↑  the↑  lake=
+Dave↑  was↑  wet↑
+Dave↑  jumped↑  into↑  the↑  lake=
+Dave↑  was↑  hungry↑
+The↑  House=  might↑  kill↑  the↑  bill=  anyway↑
+The↑  House=  will↑  pass↑  the↑  bill=
+During=  Notorious↑  B.I.G.↑  "s↑"  funeral  procession  through↑  the↑  streets=  of=  Brooklyn=  someone↑  interrupted↑  the↑  somber=  atmosphere=  by↑  playing↑  Hyponotize↑  at↑  full  volume  which↑  prompted↑  the↑  public=  to↑  dance↑  and↑  sing↑  along↑
+Notorious↑  B.I.G.↑  passed↑  away↑
+During=  Notorious↑  B.I.G.↑  "s↑"  funeral  procession  through↑  the↑  streets=  of=  Brooklyn=  someone↑  interrupted↑  the↑  somber=  atmosphere=  by↑  playing↑  Hyponotize↑  at↑  full  volume  which↑  prompted↑  the↑  public=  to↑  dance↑  and↑  sing↑  along↑
+Notorious↑  B.I.G.↑  hosted↑  his↑  funeral↑
+During=  Notorious↑  B.I.G.↑  "s↑"  funeral  procession  through↑  the↑  streets=  of=  Brooklyn=  someone↑  interrupted↑  the↑  somber=  atmosphere=  by↑  playing↑  Hyponotize↑  at↑  full  volume  which↑  prompted↑  the↑  public=  to↑  dance↑  and↑  sing↑  along↑
+During=  Notorious↑  B.I.G.↑  "s↑"  funeral  procession  through↑  the↑  streets=  of=  Brooklyn=  there↑  was↑  a↑  somber↑  atmosphere↑  part↑  of↑  the↑  time=
+During=  Notorious↑  B.I.G.↑  "s↑"  funeral  procession  through↑  the↑  streets=  of=  Brooklyn=  someone↑  interrupted↑  the↑  somber=  atmosphere=  by↑  playing↑  Hyponotize↑  at↑  full  volume  which↑  prompted↑  the↑  public=  to↑  dance↑  and↑  sing↑  along↑
+Notorious↑  B.I.G.↑  "s↑"  funeral↑  procession↑  was↑  attended↑  by↑  the↑  general=  public=
+During=  Notorious↑  B.I.G.↑  "s↑"  funeral  procession  through↑  the↑  streets=  of=  Brooklyn=  someone↑  interrupted↑  the↑  somber=  atmosphere=  by↑  playing↑  Hyponotize↑  at↑  full  volume  which↑  prompted↑  the↑  public=  to↑  dance↑  and↑  sing↑  along↑
+Only↑  members  of=  the↑  public=  attended=  B.I.G.=  "s↑"  funeral↑  procession↑  was↑  restricted↑  to↑  an↑  exclusive↑  club↑  of↑  associates↑
+The↑  problem=  in=  Ireland=  was  not↑  lack  of↓  food↓  which↓  was  plentiful  but  the↓  price=  of=  it=  which↓  was  beyond↓  the↓  reach=  of↓  the↓  poor=
+The↑  problem=  in=  Ireland=  was  not↑  lack  of↓  food↓  which↓  was  plentiful  but  the↓  price=  of=  it=  which↓  was  beyond↓  the↓  reach=  of↓  the↓  poor=
+The↑  poor=  in↑  Ireland↑  starved↑
+The↑  problem=  in=  Ireland=  was  not↑  lack  of↓  food↓  which↓  was  plentiful  but  the↓  price=  of=  it=  which↓  was  beyond↓  the↓  reach=  of↓  the↓  poor=
+The↑  poor=  in=  Ireland=  had↑  plentiful↑  food↑
+The↑  problem=  in=  Ireland=  was  not↑  lack  of↓  food↓  which↓  was  plentiful  but  the↓  price=  of=  it=  which↓  was  beyond↓  the↓  reach=  of↓  the↓  poor=
+The↑  problem=  in=  Ireland=  was  the↑  price=  of↑  food↑
+The↑  problem=  in=  Ireland=  was  not↑  lack  of↓  food↓  which↓  was  plentiful  but  the↓  price=  of=  it=  which↓  was  beyond↓  the↓  reach=  of↓  the↓  poor=
+The↑  problem=  in=  Ireland=  was  lack  of↑  food↑
+This↑  dataset=  is  two↓  orders↑  of↑  magnitude↑  larger↑  than↑  all↑  other↓  existing↓  resources↓
+Every↑  other↓  existing↓  resource↓  is↑  smaller↑  than↑  this↑  dataset=
+This↑  dataset=  is  two↓  orders↑  of↑  magnitude↑  larger↑  than↑  all↑  other↓  existing↓  resources↓
+This↑  dataset=  is↑  very↑  big↑
+I↑  failed↑  my↑  resolutions↑  in↑  2004=
+I↑  failed↑  my↑  resolutions↑  in↑  1995=
+I↑  did↓  not↑  fail↓  my↓  resolutions↓  in↓  2004=
+I↑  did↓  not↑  fail↓  my↓  resolutions↓  in↓  1995=
+The↑  doctor=  bears↑  some↑  responsibility↑  for↑  successful↑  care↑
+The↑  doctor=  does↓  not↑  bear↓  responsibility  for↓  successful↓  care↓
+The↑  patient=  bears↑  some↑  responsibility↑  for↑  successful↑  care↑
+The↑  patient=  does↓  not↑  bear↓  responsibility  for↓  successful↓  care↓
+The↑  attorney=  bears↑  some↑  responsibility↑  for↑  successful↑  care↑
+The↑  attorney=  does↓  not↑  bear↓  responsibility  for↓  successful↓  care↓
+Either↑  he↑  has↑  a↑  blind↑  trust↑  or↑  he↑  has↑  a↑  conflict↑  of↑  interest↑
+He↑  has↑  a↑  conflict↑  of↑  interest↑
+Either↑  he↑  has↑  a↑  blind↑  trust↑  or↑  he↑  has↑  a↑  conflict↑  of↑  interest↑
+He↑  does↓  not↑  have↓  a↓  conflict↓  of↓  interest↓
+Either↑  he↑  has↑  a↑  blind↑  trust↑  or↑  he↑  has↑  a↑  conflict↑  of↑  interest↑
+He↑  has↑  a↑  blind↑  trust↑
+Either↑  he↑  has↑  a↑  blind↑  trust↑  or↑  he↑  has↑  a↑  conflict↑  of↑  interest↑
+He↑  does↓  not↑  have↓  a↓  blind↓  trust↓
+Everyone↑  has↑  a↑  set↑  of↑  principles↑  to↑  live↑  by↑
+Someone↑  has↑  a↑  set↑  of↑  principles↑  to↑  live↑  by↑
+Everyone↑  has↑  a↑  set↑  of↑  principles↑  to↑  live↑  by↑
+No↑  one↓  has↓  a↓  set↓  of↓  principles↓  to↓  live↓  by↓
+Everyone↑  has↑  a↑  set↑  of↑  principles↑  to↑  live↑  by↑
+Susan↑  does↑  not↑  have↑  a↑  set↑  of↑  principles↑  to↑  live↑  by↑
+Susan↑  knows↑  how↑  turtles↑  reproduce↑
+Someone↑  knows↑  how↑  turtles↑  reproduce↑
+Susan↑  knows↑  how↑  turtles↑  reproduce↑
+No↑  one↓  knows↓  how↓  turtles↓  reproduce↓
+Susan↑  knows↑  how↑  turtles↑  reproduce↑
+Cedric↑  does↑  not↑  know↑  how↑  turtles↑  reproduce↑
+Either↓  there↓  is↓  no↑  bathroom↓  in↓  this↓  house=  or↑  it↓  is↓  in↓  a↓  funny↓  place↓
+Either↓  there↓  is↓  no↑  bathroom↓  in↓  this↓  house=  or↑  it↓  is↓  in↓  a↓  funny↓  place↓
+The↑  bathroom=  in=  this=  house=  is↑  in↑  a↑  funny↑  place↑
+Joan↑  believes↑  that↑  all↑  speech↓  is↑  political↑  speech↑
+All↑  speech↓  is↑  political↑  speech↑
+Joan↑  doubts↑  that↑  all↑  speech↓  is↑  political↑  speech↑
+All↑  speech↓  is↑  political↑  speech↑
+Joan↑  knows↑  that↑  all↑  speech↓  is↑  political↑  speech↑
+All↑  speech↓  is↑  political↑  speech↑
+Joan↑  knows↑  that↑  all↑  speech↓  is↑  political↑  speech↑
+No↑  speech↓  is↓  political↓  speech↓
+Grisham↑  hoped↑  to↑  win↑  the↑  popular=  vote=
+Grisham↑  won↑  the↑  popular=  vote=
+Grisham↑  hoped↑  to↑  win↑  the↑  popular=  vote=
+Grisham↑  did↓  not↑  win↓  the↓  popular=  vote=
+Jacob↑  saw↑  Tex↑  sign↑  the↑  contract=
+Tex↑  signed↑  the↑  contract=
+Jacob↑  did↓  not↑  see↓  Tex↓  sign↓  the↓  contract=
+Tex↑  signed↑  the↑  contract=
+Grisham↑  tried↑  to↑  win↑  the↑  popular=  vote=
+Grisham↑  won↑  the↑  popular=  vote=
+Grisham↑  tried↑  to↑  win↑  the↑  popular=  vote=
+Grisham↑  did↓  not↑  win↓  the↓  popular=  vote=
+Grisham↑  almost↑  won↑  the↑  popular=  vote=
+Grisham↑  won↑  the↑  popular=  vote=
+Grisham↑  barely↑  won↑  the↑  popular=  vote=
+Grisham↑  won↑  the↑  popular=  vote=
+Grisham↑  almost↑  won↑  the↑  popular=  vote=
+Grisham↑  did↓  not↑  win↓  the↓  popular=  vote=
+Grisham↑  barely↑  won↑  the↑  popular=  vote=
+Grisham↑  did↓  not↑  win↓  the↓  popular=  vote=
+She↑  has↑  three↓  questions↑
+She↑  had↑  three↓  questions↑
+Pedro↑  beats↑  his↑  donkey↑
+Pedro↑  does↑  not↑  have↑  a↑  donkey↑
+Xi↑  "s↑"  second↑  term↑  ends↑  in↑  2023=
+Deng↑  Xiaoping↑  was  chairman  of↑  the↑  Communist=  Party=  from↑  before↑  its↑  accession  to↑  power↑  in↑  1949=  until=  his↑  death  in↑  1976=
+Mao↑  was  chairman  of↑  the↑  Communist=  Party=  from↑  before↑  its↑  accession  to↑  power↑  in↑  1949=  until=  his↑  death  in↑  1976=
+—
+—
+—
+—
+The↑  announcement=  represents↑  a↑  significant↑  hardening↑  of=  Britain↑  "s↑"  posture↑  toward↑  Russia↑  with↑  which↑  it↑  has↑  had↑  a↑  valuable↑  intelligence↑  sharing↑  relationship↑
+The↑  announcement=  represents↑  a↑  slight↑  hardening↑  of=  Britain↑  "s↑"  posture↑  toward↑  Russia↑  with↑  which↑  it↑  has↑  had↑  a↑  valuable↑  intelligence↑  sharing↑  relationship↑
+The↑  announcement=  represents↑  a↑  significant↑  hardening↑  of=  Britain↑  "s↑"  posture↑  toward↑  Russia↑  with↑  which↑  it↑  has↑  had↑  a↑  valuable↑  intelligence↑  sharing↑  relationship↑
+The↑  announcement=  represents↑  a↑  significant↑  change↑  in=  Britain↑  "s↑"  posture  toward↑  Russia↑  with↑  which↑  it↑  has↑  had↑  a↑  valuable↑  intelligence↑  sharing↑  relationship↑
+”
+”
+”
+”
+”
+”
+The↑  announcement=  of=  Tillerson=  ’s=  departure=  sent↑  shock↑  waves↑  across↑  the↑  globe=
+People  across↑  the↑  globe=  were↓  not↑  expecting↓  Tillerson↓  "s↓"  departure↓
+The↑  announcement=  of=  Tillerson=  ’s=  departure=  sent↑  shock↑  waves↑  across↑  the↑  globe=
+People  across↑  the↑  globe=  were↑  prepared↑  for=  Tillerson↑  "s↑"  departure↑
+LaBeouf↑  had↑  tried↑  to↑  bum↑  a↑  smoke↑  from↑  two↓  strangers↑  unaware↑  that↑  one  of↑  them↑  was↑  a↑  police↑  officer↑
+LaBeouf↑  had↑  tried↑  to↑  bum↑  a↑  smoke↑  from↑  a↑  police↑  officer↑
+LaBeouf↑  had↑  tried↑  to↑  bum↑  a↑  smoke↑  from↑  two↓  strangers↑  unaware↑  that↑  one  of↑  them↑  was↑  a↑  police↑  officer↑
+LaBeouf↑  knowingly↑  had↑  tried↑  to↑  bum↑  a↑  smoke↑  from↑  a↑  police↑  officer↑
+Marc↑  Sims↑  has↑  been↑  seeing↑  his↑  barber↑  once↑  a↑  week↑  for↑  several↑  years↑
+Marc↑  Sims↑  has↑  been↑  getting↑  his↑  hair↑  cut↑  once↑  a↑  week↑  for↑  several↑  years↑
+Marc↑  Sims↑  has↑  been↑  seeing↑  his↑  barber↑  once↑  a↑  week↑  for↑  several↑  years↑
+Marc↑  Sims↑  has↑  been↑  cutting↑  hair↑  once↑  a↑  week↑  for↑  several↑  years↑
+Russians↑  have↑  identified↑  a↑  nerve↑  agent↑  used↑  in↑  a↑  suspected↑  chemical↑  attack↑  on↑  British↑  soil↑
+Lavrov↑  insisted↑  that↑  Russian↑  experts↑  should↑  be↑  able↑  to↑  examine↑  the↑  British=  evidence=  but↑  again↑  denied↑  Russian↑  involvement↑  in=  last↑  week↑  ’s↑  attack↑
+Lavrov↑  insisted↑  that  Russian↑  experts↑  should  be  able  to  examine↑  the↑  British=  evidence=  but↑  again  denied↑  Russian  responsibility  for=  last↑  week↑  ’s↑  attack↑
+Lavrov↑  insisted↑  that↑  Russian↑  experts↑  should↑  be↑  able↑  to↑  examine↑  the↑  British=  evidence=  but↑  again↑  denied↑  Russian↑  involvement↑  in=  last↑  week↑  ’s↑  attack↑
+Lavrov↑  insisted↑  that  Russian↑  experts↑  should  be  able  to  examine↑  the↑  British=  evidence=  but↑  again  denied↑  Russian  ignorance  of=  last↑  week↑  ’s↑  attack↑
+Twitch↑  has↑  routinely↑  given↑  Twitch↑  Prime↑  subscribers↑  free↑  games↑  and↑  in↑  game↑  content  in↑  the↑  past=
+Twitch↑  has↑  rarely↑  given↑  Twitch↑  Prime↑  subscribers↑  free↑  games↑  and↑  in↑  game↑  content  in↑  the↑  past=
+All↑  five↓  of↓  these↓  games=  will↑  be↑  available↑  to↑  Prime↑  members↑  until↑  March↑  31↓
+Several↑  games↑  will↑  be↑  available↑  to↑  Prime↑  members↑  until↑  March↑  31↓
+Future↑  legislators↑  should↑  focus↑  on↑  low↑  taxes↑  limited↑  regulation↑  and↑  local  control  to↑  maintain↑  a↑  predictable↑  and↑  reliable↑  business↑  climate↑  avoiding  legislation  that↑  distracts↑  from↑  critical↑  priorities↑  and↑  is↑  viewed↑  by↑  many  as↑  enabling  discrimination  against↑  certain↑  groups↑  or↑  classes  of↑  Texans↑
+Future↑  legislators↑  should↑  focus↑  on↑  low↑  taxes↑  limited↑  regulation↑  and↑  local  control  to↑  maintain↑  a↑  predictable↑  and↑  reliable↑  business↑  climate↑  avoiding  legislation  that↑  distracts↑  from↑  critical↑  priorities↑  and↑  is↑  viewed↑  by↑  many  as↑  enabling  discrimination  against↑  certain  groups  of↑  Texans↑
+”
+”
+”
+”
+”
+”
+No↑  bathroom↓  bill↓  made↓  it↓  to=  Abbott↓  ’s↓  desk↓  by↓  the↓  end=  of=  the=  legislative=  session=  in↓  May↓
+A↑  bathroom↑  bill↑  made↑  it↑  to=  Abbott↑  ’s↑  desk↑  by↑  the↑  end=  of=  the=  legislative=  session=  in↑  May↑
+No↑  bathroom↓  bill↓  made↓  it↓  to=  Abbott↓  ’s↓  desk↓  by↓  the↓  end=  of=  the=  legislative=  session=  in↓  May↓
+No↑  bills↓  made↓  it↓  to=  Abbott↓  ’s↓  desk↓  by↓  the↓  end=  of=  the=  legislative=  session=  in↓  May↓
+No↑  bathroom↓  bill↓  made↓  it↓  to=  Abbott↓  ’s↓  desk↓  by↓  the↓  end=  of=  the=  legislative=  session=  in↓  May↓
+A↑  bill↑  made↑  it↑  to=  Abbott↑  ’s↑  desk↑  by↑  the↑  end=  of=  the=  legislative=  session=  in↑  May↑
+A↑  Tennessee↑  House↑  subcommittee↑  has↑  approved↑  legislation↑  to↑  offer↑  in↑  state↑  tuition↑  to↑  public  college  students  whose↑  parents↑  brought↑  or↑  kept↑  them↑  in↑  the↑  country=  illegally↑
+A↑  Tennessee↑  House↑  subcommittee↑  has↑  approved↑  legislation↑  to↑  offer↑  in↑  state↑  tuition↑  to↑  public↑  college↑  students↑  whose↑  parents↑  kept↑  them↑  in↑  the↑  country=  illegally↑
+Missouri↑  lawmakers↑  are↑  considering↑  a↑  government↑  boycott↑  of↑  companies↑  that↑  boycott↑  Israel↑
+Missouri↑  lawmakers↑  are↑  considering↑  a↑  boycott↑  of↑  companies↑  that↑  boycott↑  Israel↑
+He↑  said↑  the↑  United=  States=  intended↑  to↑  use↑  the↑  fake=  attack=  as↑  a↑  pretext↑  to↑  bomb↑  the↑  government=  quarter=  in↑  nearby  Damascus  where  he↑  said↑  Russian↑  military↑  advisers↑  Russian↑  military↑  police↑  and↑  Russian  ceasefire  monitors  were  based
+He↑  said↑  the↑  United=  States=  intended↑  to↑  bomb↑  the↑  government=  quarter=  in↑  nearby  Damascus  where  he↑  said↑  Russian↑  military↑  advisers↑  Russian↑  military↑  police↑  and↑  Russian  ceasefire  monitors  were  based
+The↑  matter=  is↑  so↑  sensitive↑  that↑  they↑  agreed↑  to↑  talk↑  only↑  on↑  condition  of↑  anonymity↑
+It↑  is↑  so↑  sensitive↑  that↑  they↑  agreed↑  to↑  talk↑  about↑  the↑  matter=  only  on↑  condition  of↑  anonymity↑
+The↑  matter=  is↑  so↑  sensitive↑  that↑  they↑  agreed↑  to↑  talk↑  only↑  on↑  condition  of↑  anonymity↑
+The↑  matter=  is↑  so↑  sensitive↑  that↑  they↑  agreed↑  to↑  talk↑  about↑  something  else↑  on↑  condition  of↑  anonymity↑
+—
+—
+—
+—
+Putin↑  is↑  so↑  entrenched↑  within↑  Russia↑  ’s↑  ruling↑  system↑  that  many  of=  its↑  members↑  can  imagine↑  no↑  other↓  leader↓
+Putin↑  is↑  so↑  entrenched↑  within↑  Russia↑  ’s↑  ruling↑  system↑  that  many  of=  its↑  members↑  can  imagine↑  no↑  other↓  leader↓  than↓  Putin↓
+Putin↑  is↑  so↑  entrenched↑  within↑  Russia↑  ’s↑  ruling↑  system↑  that  many  of=  its↑  members↑  can  imagine↑  no↑  other↓  leader↓
+Putin↑  is↑  so↑  entrenched↑  within↑  Russia↑  ’s↑  ruling↑  system↑  that  many  of=  its↑  members↑  can  imagine↑  no↑  other↓  leader↓  than↓  themselves↓
+Three=  women↑  alleged↑  they↑  were↑  sexually↑  assaulted↑  or↑  raped↑  by↑  male↑  colleagues↑  during↑  that↑  time=
+Three=  women↑  alleged↑  they↑  were↑  sexually↑  assaulted↑  by↑  male↑  colleagues↑  during↑  that↑  time=
+Three=  women↑  alleged↑  they↑  were↑  sexually↑  assaulted↑  or↑  raped↑  by↑  male↑  colleagues↑  during↑  that↑  time=
+Three=  women↑  alleged↑  they↑  were↑  raped↑  by↑  male↑  colleagues↑  during↑  that↑  time=
+Our↑  deepest↑  sympathies↑  are↑  with↑  a↑  victim↑  who↑  was↑  affected↑  by↑  this↑  accident=
+There  will  be  a↑  comprehensive↑  investigation↑  involving↑  authorities↑
+The↑  crown=  prince=  "s↑"  mother↑  would↑  not↑  be↑  the↑  first=  Saudi=  royal=  whose↑  movements↑  were↑  restricted↑  since↑  June↑  2017↓
+The↑  crown=  prince=  "s↑"  mother↑  would↑  not↑  be↑  the↑  first=  royal=  whose↑  movements↑  were↑  restricted↑  since↑  June↑  2017↓
+The↑  Saudi=  Embassy=  in=  Washington=  denied↑  to↑  NBC↑  the↑  claims=  that=  the=  princess=  is=  separated=  from=  her=  husband=  or↑  under=  house  arrest
+Representatives  of↑  the↑  Saudi=  government=  denied↑  to↑  NBC↑  the↑  claims=  that=  the=  princess=  is=  separated=  from=  her=  husband=  or↑  under=  house  arrest
+The↑  Saudi=  Embassy=  in=  Washington=  denied↑  to↑  NBC↑  the↑  claims=  that=  the=  princess=  is=  separated=  from=  her=  husband=  or↑  under=  house  arrest
+American  ambassadors  to↑  Riyadh↑  denied↑  to↑  NBC↑  the↑  claims=  that=  the=  princess=  is=  separated=  from=  her=  husband=  or↑  under=  house  arrest
+From↑  a↑  quick↑  Google↑  search↑  Bitcoin↑  Cash↑  was↑  created↑  as↑  a↑  hard↑  fork↑  of↑  Bitcoin↑  and↑  it↑  "s↑"  supposed↑  to↑  be↑  faster↑  and↑  more↑  sustainable↑
+From↑  a↑  quick↑  Google↑  search↑  it↑  was↑  created↑  as↑  a↑  hard↑  fork↑  of↑  Bitcoin↑  and↑  it↑  "s↑"  supposed↑  to↑  be↑  faster↑  and↑  more↑  sustainable↑  than↑  Bitcoin↑
+From↑  a↑  quick↑  Google↑  search↑  Bitcoin↑  Cash↑  was↑  created↑  as↑  a↑  hard↑  fork↑  of↑  Bitcoin↑  and↑  it↑  "s↑"  supposed↑  to↑  be↑  faster↑  and↑  more↑  sustainable↑
+From↑  a↑  quick↑  Google↑  search↑  Bitcoin↑  Cash↑  was↑  created↑  as↑  a↑  hard↑  fork↑  of↑  Bitcoin↑  and↑  it↑  "s↑"  supposed↑  to↑  be↑  faster↑  and↑  more↑  sustainable↑  than↑  Bitcoin↑  Cash↑
+From↑  a↑  quick↑  Google↑  search↑  Bitcoin↑  Cash↑  was↑  created↑  as↑  a↑  hard↑  fork↑  of↑  Bitcoin↑  and↑  it↑  "s↑"  supposed↑  to↑  be↑  faster↑  and↑  more↑  sustainable↑
+He↑  abandoned↑  the↑  radical=  teachings=  of=  the↑  Nation=  of=  Islam=  in↑  favor  of↑  mainstream↑  Islam↑  after↑  a↑  pilgrimage↑  to↑  Mecca↑  where↑  he↑  witnessed↑  Muslims  of↑  all↑  races↓  coming↓  together  in↓  solidarity↓
+He↑  abandoned↑  the↑  radical=  teachings=  of=  the↑  Nation=  of=  Islam=  in↑  favor  of↑  mainstream↑  Islam↑  until↑  a↑  pilgrimage↑  to↑  Mecca↑  where↑  he↑  witnessed↑  Muslims  of↑  all↑  races↓  coming↓  together  in↓  solidarity↓
+He↑  abandoned↑  the↑  radical=  teachings=  of=  the↑  Nation=  of=  Islam=  in↑  favor  of↑  mainstream↑  Islam↑  after↑  a↑  pilgrimage↑  to↑  Mecca↑  where↑  he↑  witnessed↑  Muslims  of↑  all↑  races↓  coming↓  together  in↓  solidarity↓
+He↑  abandoned↑  the↑  radical=  teachings=  of=  the↑  Nation=  of=  Islam=  in↑  favor  of↑  mainstream↑  Islam↑  due↑  in↑  part  to↑  a↑  pilgrimage↑  to↑  Mecca↑  where↑  he↑  witnessed↑  Muslims  of↑  all↑  races↓  coming↓  together  in↓  solidarity↓
+David↑  Tennant↑  "s↑"  episodes↑  were↑  definitely↑  the↑  scariest=  and↑  best↑  in↑  years↑
+David↑  Tennant↑  "s↑"  episodes↑  were↑  definitely↑  the↑  scariest=  and↑  best↑  ever↑
+David↑  Tennant↑  is  the↑  best=  Doctor=  in↑  the↑  series=
+David↑  Tennant↑  is  the↑  best=  Doctor=  in↑  the↑  series=
+Fun  fact  that  guy  in↑  the↑  Ireland=  jacket=  is  on↑  SNL  now
+Fun  fact  that  guy  in↑  the↑  Ireland=  jacket=  is  on↑  Saturday  Night  Live  now
+That↑  perspective=  makes↑  it↑  look↑  gigantic↑
+That↑  perspective=  makes↑  it↑  seem↑  gigantic↑
+That↑  perspective=  makes↑  it↑  look↑  gigantic↑
+That↑  perspective=  makes↑  it↑  look↑  miniscule↑
+That↑  perspective=  makes↑  it↑  look↑  gigantic↑
+That↑  perspective=  makes↑  it↑  sound↑  gigantic↑
+Unshielded  radiation  from↑  a↑  nuclear↑  core↑  could↑  kill↑  you↑  in↑  a↑  matter↑  of↑  hours↑
+Unshielded  radiation  from↑  a↑  nuclear↑  core↑  will↑  kill↑  you↑  in↑  a↑  matter↑  of↑  hours↑
+I↑  think↑  the↑  unrealistic=  part=  is↑  him↑  surviving↑  the↑  blunt=  force=  of=  the=  blast=
+He↑  survived↑  the↑  blunt=  force=  of=  the=  blast=
+The↑  theory=  that  they=  are  products  of↑  the↑  radiation=  from=  the=  bomb=  is↑  genius↑
+They↑  are  products  of↑  the↑  radiation=  from=  the=  bomb=
+The↑  theory=  that  they=  are  products  of↑  the↑  radiation=  from=  the=  bomb=  is↑  correct↑
+They↑  are  products  of↑  the↑  radiation=  from=  the=  bomb=
+Plenty  of↑  other↑  species↑  could↑  be↑  called↑  humans↑
+I↑  could↓  n’t↑  bring↓  myself↓  to↓  throw↓  it↓  away↓  out↓  of↓  affection  to↓  her↓
+I↑  have  never  seen  a↑  hummingbird↑  not↑  flying↓
+I↑  have  always  seen  hummingbirds↑  flying↑
+I↑  have  never  seen  a↑  hummingbird↑  not↑  flying↓
+I↑  have↑  never↑  seen↑  a↑  hummingbird↑
+I↑  have  never  seen  a↑  hummingbird↑  not↑  flying↓
+I↑  have  never  seen  a↑  bird↑  not↑  flying↓
+I↑  wish↑  both  of↑  you↑  could  get↑  an↑  upvote↑  from↑  me↑  to↑  share↑
+Hummingbirds↑  are  really  attracted  to↑  bright↑  orange↑  and↑  red↑  hence↑  why↑  the↑  feeders=  are↑  usually↑  these↑  colours=
+Hummingbirds↑  are  red  hence↑  why↑  the↑  feeders=  are↑  usually↑  these↑  colours=
+Hummingbirds↑  are  really  attracted  to↑  bright↑  orange↑  and↑  red↑  hence↑  why↑  the↑  feeders=  are↑  usually↑  these↑  colours=
+Hummingbirds↑  are  really  attracted  to↑  bright↑  red↑  hence↑  why↑  the↑  feeders=  are↑  usually↑  these↑  colours=
+Hummingbirds↑  are  really  attracted  to↑  bright↑  orange↑  and↑  red↑  hence↑  why↑  the↑  feeders=  are↑  usually↑  these↑  colours=
+Hummingbirds↑  are  really  attracted  to↑  bright↑  orange↑  and↑  red↑  hence↑  why↑  the↑  feeders=  are↑  usually↑  these↑  colours=
+Hummingbirds↑  have↑  monochromatic↑  vision↑
+Hummingbirds↑  are  really  attracted  to↑  bright↑  orange↑  and↑  red↑  hence↑  why↑  the↑  feeders=  are↑  usually↑  these↑  colours=
+Hummingbirds↑  will↑  feed↑  from↑  feeders  of↑  all↑  colours↓
+Temperature↑  and↑  snow  consistency  must↑  be↑  just↑  right↑
+Temperature↑  must↑  be↑  just↑  right↑
+Life↑  is  nothing  at↑  all↑
+Life↑  is↑  a↑  daring↑  adventure↑
+Life↑  is↓  a↓  not↑  a↓  daring↓  adventure↓
+Has↑  bad  reviews  on↑  Amazon↑  but↑  this↑  clip=  was↑  funny↑
+This↑  clip=  was↑  funny↑
+You↑  ’re↑  walking↑  through↑  the↑  woods=  there↓  ’s↓  no↑  one↓  around↓  and↑  your↑  phone↑  is  dead  out↑  of↑  the↑  corner=  of=  your=  eye=  you↑  spot↑  him↑  Shia↑  LaBeouf↑
+Weird  that↑  you↑  want↑  to↑  show↑  something↑  to↑  a↑  stack↑  of↑  papers↑
+Weird  that↑  you↑  want↑  to↑  show↑  this↑  video=  to↑  a↑  stack↑  of↑  papers↑
+I↑  think↑  this↑  was  part  of↑  the↑  last=  season=  of=  Bojack=  Horseman=
+I↑  think↑  this↑  was  part  of↑  the↑  last=  episode=  of=  Bojack=  Horseman=
+It↑  "s↑"  the↑  perfect=  reverse=  psychology=  tactic=
+This↑  article=  reads↑  like↑  satire↑
+My↑  jokes↑  fully↑  reveal↑  my↑  character↑
+My↑  jokes↑  reflect↑  exactly↑  zero  of=  my↑  character↑
+In=  the↑  1890=  "s↑"  a↑  typical↑  worker↑  worked↑  60↓  hours↑  per↑  week↑  down↑  to↑  48=  by↑  1920↑  and↑  40↑  by↑  1940=
+In=  the↑  1890=  "s↑"  a↑  typical↑  worker↑  worked↑  60↓  hours↑  per↑  week↑  down↑  to↑  48=  by↑  1920↑  and↑  40↑  by↑  1940=
+...
+The↑  Labor=  Theory=  of=  Value=  is  at↑  the↑  heart=  of↑  the↑  economics=  of=  cost=
+...
+The↑  Labor=  Theory=  of=  Value=  is  a↑  scarce↑  determinant↑  of↑  the↑  economics=  of=  cost=
+...
+...
+Their↑  loading↑  capacity↑  was↑  about↓  58↓  tonnes↑
+Their↑  loading↑  capacity↑  was↑  about↓  262↓  tonnes↑
+Due↑  to↑  inadequate↑  funding↑  76↓  T↑  and↑  the↑  rest=  of↑  the↑  250t=  class=  were↑  essentially↑  coastal↑  vessels↑  despite↑  the↑  original=  intention=  that  they=  would  be  used  for↑  high  seas  operations
+Due↑  to↑  inadequate↑  funding↑  76↓  T↑  and↑  the↑  rest=  of↑  the↑  250t=  class=  were↑  essentially↑  high↑  seas↑  vessels↑  despite↑  the↑  original=  intention=  that  they=  would  be  used  for↑  coastal↑  operations↑
+—
+—
+Kappa↑  Pyxidis↑  was↑  catalogued↑  but↓  not↑  given↓  a↓  Bayer↓  designation↓  by↓  Lacaille↓  but↑  Gould↑  felt↑  the↑  star=  was  bright  enough  to  warrant↑  a↑  letter↑
+Lacaille↑  and↑  Gould↑  agreed↑  about↑  the↑  designation=  of=  Kappa=  Pyxidis=
+Kappa↑  Pyxidis↑  was↑  catalogued↑  but↓  not↑  given↓  a↓  Bayer↓  designation↓  by↓  Lacaille↓  but↑  Gould↑  felt↑  the↑  star=  was  bright  enough  to  warrant↑  a↑  letter↑
+Lacaille↑  and↑  Gould↑  disagreed↑  about↑  the↑  designation=  of=  Kappa=  Pyxidis=
+A↑  formation↑  of↑  approximately↓  50↓  officers↑  of↑  the↑  Baltimore=  Police=  eventually  placed↑  themselves↑  between↑  the↑  rioters=  and↑  the↑  militiamen=  allowing↑  the↑  6th=  Massachusetts=  to↑  proceed↑  to↑  Camden↑  Station↑
+A↑  formation↑  of↑  approximately↓  50↓  officers↑  of↑  the↑  police=  of=  the↑  City=  of=  Baltimore=  eventually  placed↑  themselves↑  between↑  the↑  rioters=  and↑  the↑  militiamen=  allowing↑  the↑  6th=  Massachusetts=  to↑  proceed↑  to↑  Camden↑  Station↑
+A↑  formation↑  of↑  approximately↓  50↓  officers↑  of↑  the↑  Baltimore=  Police=  eventually  placed↑  themselves↑  between↑  the↑  rioters=  and↑  the↑  militiamen=  allowing↑  the↑  6th=  Massachusetts=  to↑  proceed↑  to↑  Camden↑  Station↑
+A↑  formation↑  of↑  approximately↓  50↓  officers↑  of↑  the↑  police=  of=  from=  outside=  Baltimore=  eventually  placed↑  themselves↑  between↑  the↑  rioters=  and↑  the↑  militiamen=  allowing↑  the↑  6th=  Massachusetts=  to↑  proceed↑  to↑  Camden↑  Station↑
+The↑  regiment=  returned↑  to↑  Baltimore↑  on↑  May↑  13↓  when↑  Major↑  General↑  Benjamin↑  F.↑  Butler↑  occupied↑  the↑  city=  with↑  several↑  Union↑  regiments↑  in↑  anticipation  of↑  a↑  Confederate↑  attack↑  on↑  Baltimore↑  which↑  never↑  developed↑
+On↑  May↑  13↓  Major↑  General↑  Benjamin↑  F.↑  Butler↑  occupied↑  the↑  city=  with↑  several↑  Union↑  regiments↑  in↑  anticipation  of↑  a↑  Confederate↑  attack↑  on↑  Baltimore↑  which↑  never↑  developed↑
+The↑  regiment=  returned↑  to↑  Baltimore↑  on↑  May↑  13↓  when↑  Major↑  General↑  Benjamin↑  F.↑  Butler↑  occupied↑  the↑  city=  with↑  several↑  Union↑  regiments↑  in↑  anticipation  of↑  a↑  Confederate↑  attack↑  on↑  Baltimore↑  which↑  never↑  developed↑
+Long↑  before↑  May↑  13↓  Major↑  General↑  Benjamin↑  F.↑  Butler↑  occupied↑  the↑  city=  with↑  several↑  Union↑  regiments↑  in↑  anticipation  of↑  a↑  Confederate↑  attack↑  on↑  Baltimore↑  which↑  never↑  developed↑
+Threatened↑  by↑  habitat↑  loss↑  and↑  hunting↑  ruffed↑  lemurs↑  are↑  facing↑  extinction↑  in↑  the↑  wild=
+Threatened↑  by↑  habitat↑  loss↑  and↑  hunting↑  ruffed↑  lemurs↑  are↑  extinct↑  in↑  the↑  wild=
+Ruffed↑  lemurs↑  prefer↑  to↑  live↑  lower↑  than↑  white  headed  lemurs↑
+Ruffed↑  lemurs↑  prefer↑  to↑  live↑  higher↑  than↑  white  headed  lemurs↑
+The↑  battlecruiser=  Seydlitz=  struck↑  a↑  mine↑  while  en  route  to↑  the↑  target=  and↑  had  to  withdraw
+The↑  battlecruiser=  Seydlitz=  struck↑  a↑  mine↑  while  en  route  to↑  the↑  target=  and↑  was  damaged
+The↑  battlecruiser=  Seydlitz=  struck↑  a↑  mine↑  while  en  route  to↑  the↑  target=  and↑  had  to  withdraw
+The↑  battlecruiser=  Seydlitz=  struck↑  a↑  mine↑  while  en  route  to↑  the↑  target=  and↑  was  destroyed
+By↑  saying↑  this↑  Kennedy↑  was↑  admonishing↑  people↑  not↑  to↑  riot↓  in↑  wake  of↑  King↑  "s↑"  death↑  and↑  in↑  effect  equating↑  their↑  actions↑  to↑  that  of=  the↑  civil=  rights=  leader=  "s↑"  assassin↑
+By↑  saying↑  this↑  Kennedy↑  was↑  admonishing↑  people↑  not↑  to↑  riot↓  in↑  wake  of↑  King↑  "s↑"  death↑  and↑  in↑  effect  equating↑  their↑  actions↑  to↑  that  of=  the↑  civil=  rights=  leader=  "s↑"  assassin↑
+By↑  saying↑  this↑  Kennedy↑  was↑  admonishing↑  people↑  not↑  to↑  riot↓  in↑  wake  of↑  King↑  "s↑"  death↑  and↑  in↑  effect  equating↑  their↑  actions↑  to↑  that  of=  Kennedy↑  "s↑"  assassin↑
+By↑  saying↑  this↑  Kennedy↑  was↑  admonishing↑  people↑  not↑  to↑  riot↓  in↑  wake  of↑  King↑  "s↑"  death↑  and↑  in↑  effect  equating↑  their↑  actions↑  to↑  that  of=  the↑  civil=  rights=  leader=  "s↑"  assassin↑
+By↑  saying↑  this↑  Kennedy↑  was↑  admonishing↑  people↑  not↑  to↑  riot↓  in↑  wake  of↑  King↑  "s↑"  death↑  and↑  in↑  effect  equating↑  their↑  actions↑  to↑  that  of=  Malcolm↑  X↑  "s↑"  assassin↑
+By↑  saying↑  this↑  Kennedy↑  was↑  admonishing↑  people↑  not↑  to↑  riot↓  in↑  wake  of↑  King↑  "s↑"  death↑  and↑  in↑  effect  equating↑  their↑  actions↑  to↑  that  of=  the↑  civil=  rights=  leader=  "s↑"  assassin↑
+By↑  saying↑  this↑  Kennedy↑  was↑  admonishing↑  people↑  not↑  to↑  riot↓  in↑  wake  of↑  King↑  "s↑"  death↑  and↑  in↑  effect  equating↑  their↑  actions↑  to↑  that  of=  his↑  assassin↑
+By↑  saying↑  this↑  Kennedy↑  was↑  admonishing↑  people↑  not↑  to↑  riot↓  in↑  wake  of↑  King↑  "s↑"  death↑  and↑  in↑  effect  equating↑  their↑  actions↑  to↑  that  of=  the↑  civil=  rights=  leader=  "s↑"  assassin↑
+By↑  saying↑  this↑  Kennedy↑  was↑  admonishing↑  people↑  not↑  to↑  riot↓  in↑  wake  of↑  King↑  "s↑"  death↑  and↑  in↑  effect  equating↑  their↑  actions↑  to↑  that  of↑  the↑  civil=  rights=  leader=
+After  quoting↑  Abraham↑  Lincoln↑  he↑  portrayed↑  the↑  American=  public=  as↑  a↑  people↑  that↑  undermined↑  its↑  national↑  ideals↑
+After  quoting↑  Abraham↑  Lincoln↑  he↑  portrayed↑  the↑  American=  public=  "s↑"  violent↑  tendencies↑  as  undermining↑  its↑  national↑  ideals↑
+Hazelnuts↑  have↑  rarely↑  been↑  found↑  on↑  other↑  Mesolithic↑  sites↑
+Middens  with↑  damp  anaerobic↑  conditions↑  can  even  preserve  organic↑  remains↑
+Dry↑  conditions↑  and↑  oxygen↑  contribute↑  to↑  the↑  degredation=  of=  organic=  remains=  in↑  middens↑
+Middens  with↑  damp  anaerobic↑  conditions↑  can  even  preserve  organic↑  remains↑
+Damp↑  conditions↑  and↑  lack  of↑  oxygen↑  contribute↑  to↑  the↑  degredation=  of=  organic=  remains=  in↑  middens↑
+Mass↑  analysis↑  is↑  based↑  on↑  analyzing  debitage  populations  based↑  on↑  their↑  size↑  distribution↑  across↑  specified↑  size↑  grades↑
+Prismatic↑  blades↑  begin↑  to↑  appear↑  in↑  high↑  frequencies↑  during↑  the↑  transition=  between=  the=  Middle=  and↑  Upper=  Paleolithic=
+Prismatic↑  blades↑  appeared↑  in↑  high↑  frequencies↑  during↑  the↑  Upper=  Paleolithic=
+Prismatic↑  blades↑  begin↑  to↑  appear↑  in↑  high↑  frequencies↑  during↑  the↑  transition=  between=  the=  Middle=  and↑  Upper=  Paleolithic=
+Prismatic↑  blades↑  appeared↑  in↑  high↑  frequencies↑  during↑  the↑  Middle=  Paleolithic=
+Prismatic↑  blades↑  begin↑  to↑  appear↑  in↑  high↑  frequencies↑  during↑  the↑  transition=  between=  the=  Middle=  and↑  Upper=  Paleolithic=
+Prismatic↑  appeared↑  in↑  high↑  frequencies↑  after↑  the↑  transition=  between=  the=  Middle=  and↑  Upper=  Paleolithic=
+Albertosaurus↑  and↑  other  tyrannosaurids  were↑  heterodont↑  with↑  teeth  of↑  different↑  forms↑  depending↑  on↑  their↑  position↑  in↑  the↑  mouth=
+Albertosaurus↑  and↑  other  tyrannosaurids  were↑  heterodont↑
+Albertosaurus↑  and↑  other  tyrannosaurids  were↑  heterodont↑  with↑  teeth  of↑  different↑  forms↑  depending↑  on↑  their↑  position↑  in↑  the↑  mouth=
+Albertosaurus↑  and↑  other  tyrannosaurids  were↑  heterodont↑  with↑  lots  of↑  teeth↑
+Furthermore↑  the↑  French=  dangerously↑  underestimated↑  Austrian↑  tenacity↑  and↑  military  skill
+Furthermore↑  the↑  French=  dangerously↑  underestimated↑  Austrian↑  military↑  skill↑  and↑  tenacity↑
+Furthermore↑  the↑  French=  dangerously↑  underestimated↑  Austrian↑  tenacity↑  and↑  military  skill
+Furthermore↑  the↑  French=  dangerously↑  underestimated↑  Austrian↑  military↑  skill↑
+There  are  four↓  supraocular↑  scales↑  above↑  the↑  eyes=  in↑  almost↓  all↓  specimens↑  and↑  five↓  supraciliary↑  scales↑  immediately↑  above↑  the↑  eyes=  below=  the=  supraoculars=
+There  are  four↓  supraocular↑  scales↑  above↑  the↑  eyes=  in↑  most↑  specimens=  and↑  five↓  supraciliary  scales↑  immediately↑  above↑  the↑  eyes=  below=  the=  supraoculars=
+There  are  four↓  supraocular↑  scales↑  above↑  the↑  eyes=  in↑  almost↓  all↓  specimens↑  and↑  five↓  supraciliary↑  scales↑  immediately↑  above↑  the↑  eyes=  below=  the=  supraoculars=
+There  are  four↓  scales↑  above↑  the↑  eyes=  in↑  almost↓  all↓  specimens↑  and↑  five↓  supraciliary↑  scales↑  immediately↑  above↑  the↑  eyes=  below=  the=  supraoculars=
+Regional↑  governors↑  could↓  not↑  rely↓  on↓  the↓  king=  for↓  help↓  in↓  times  of↓  crisis↓  and↑  the↑  ensuing=  food=  shortages=  and↑  political  disputes  escalated↑  into↑  famines↑  and↑  small  scale  civil  wars
+Regional↑  governors↑  could↓  not↑  rely↓  on↓  anyone  for↓  help↓  in↓  times  of↓  crisis↓  and↑  the↑  ensuing=  food=  shortages=  and↑  political  disputes  escalated↑  into↑  famines↑  and↑  small  scale  civil  wars
+The↑  pharaohs=  of=  the=  Middle=  Kingdom=  restored↑  the↑  country=  "s↑"  stability↑  and↑  prosperity↑  thereby  stimulating↑  a↑  resurgence↑  of↑  art↑  literature↑  and↑  monumental  building  projects
+The↑  pharaohs=  of=  the↑  Middle=  Kingdom=  of=  Egypt=  restored↑  the↑  country=  "s↑"  stability↑  and↑  prosperity↑  thereby  stimulating↑  a↑  resurgence↑  of↑  art↑  literature↑  and↑  monumental  building  projects
+The↑  pharaohs=  of=  the=  Middle=  Kingdom=  restored↑  the↑  country=  "s↑"  stability↑  and↑  prosperity↑  thereby  stimulating↑  a↑  resurgence↑  of↑  art↑  literature↑  and↑  monumental  building  projects
+The↑  pharaohs=  of=  the↑  Middle=  Kingdom=  of=  China=  restored↑  the↑  country=  "s↑"  stability↑  and↑  prosperity↑  thereby  stimulating↑  a↑  resurgence↑  of↑  art↑  literature↑  and↑  monumental  building  projects
+The↑  pharaohs=  of=  the=  Middle=  Kingdom=  restored↑  the↑  country=  "s↑"  stability↑  and↑  prosperity↑  thereby  stimulating↑  a↑  resurgence↑  of↑  art↑  literature↑  and↑  monumental  building  projects
+The↑  pharaohs=  of=  Egypt=  restored↑  the↑  country=  "s↑"  stability↑  and↑  prosperity↑  thereby  stimulating↑  a↑  resurgence↑  of↑  art↑  literature↑  and↑  monumental  building  projects
+The↑  15th=  Tank=  Corps=  was  a↑  tank↑  corps↑  of=  the↑  Soviet=  Union=  "s↑"  Red↑  Army↑
+The↑  15th=  Tank=  Corps=  was  a↑  corps↑  of=  the↑  Soviet=  Union=  "s↑"  Red↑  Army↑
+I↑  ca↑  not↑  believe↑  it↑  "s↓"  not↑  butter↓
+It↑  "s↓"  not↑  butter↓
+I↑  ca↑  not↑  believe↑  it↑  "s↓"  not↑  butter↓
+It↑  "s↑"  butter↑
+However↑  these↑  regularities=  are↑  sometimes↑  obscured↑  by↑  semantic↑  and↑  syntactic↑  differences↑
+However↑  these↑  regularities=  are↑  always↑  obscured↑  by↑  semantic↑  and↑  syntactic↑  differences↑
+However↑  these↑  regularities=  are↑  sometimes↑  obscured↑  by↑  semantic↑  and↑  syntactic↑  differences↑
+However↑  these↑  regularities=  are↑  sometimes↑  obscured↑  by↑  syntactic↑  differences↑
+In↑  grounded↑  communication↑  tasks↑  speakers↑  face↑  pressures↑  in↑  choosing↑  referential↑  expressions↑  that↑  distinguish↑  their↑  targets↑  from↑  others↑  in↑  the↑  context=  leading↑  to↑  many↑  kinds=  of↑  pragmatic↑  meaning↑  enrichment↑
+In↑  grounded↑  communication↑  tasks↑  speakers↑  face↑  pressures↑  in↑  choosing↑  referential↑  expressions↑  that↑  distinguish↑  their↑  targets↑  from↑  others↑  in↑  the↑  context=  leading↑  to↑  many↑  kinds=  of↑  meaning↑  enrichment↑
+Thus↑  a↑  model↑  of↑  the↑  speaker=  must↑  process↑  representations  of↑  the↑  colors=  in↑  the↑  context=  and↑  produce↑  an↑  utterance↑  to↑  distinguish↑  the↑  target=  color=  from↑  the↑  others=
+Thus↑  a↑  model↑  of↑  the↑  speaker=  must↑  process↑  representations  of↑  the↑  colors=  in↑  the↑  context=  and↑  produce↑  an↑  utterance↑  to↑  distinguish↑  the↑  target=  color=  from↑  the↑  other=  colors=
+Thus↑  a↑  model↑  of↑  the↑  speaker=  must↑  process↑  representations  of↑  the↑  colors=  in↑  the↑  context=  and↑  produce↑  an↑  utterance↑  to↑  distinguish↑  the↑  target=  color=  from↑  the↑  others=
+Thus↑  a↑  model↑  of↑  the↑  speaker=  must↑  process↑  representations  of↑  the↑  colors=  in↑  the↑  context=  and↑  produce↑  an↑  utterance↑  to↑  distinguish↑  the↑  target=  color=  from↑  the↑  other=  utterances=
+Each↑  captures↑  only↑  a↑  single↑  aspect↑  of↑  coherence↑  and↑  all↑  focus↑  on↑  scoring↑  existing↑  sentences↑  rather  than  on↑  generating  coherent  discourse  for↑  tasks  like↑  abstractive↑  summarization↑
+Each↑  captures↑  only↑  a↑  single↑  aspect↑  of↑  coherence↑  and↑  focuses↑  on↑  scoring↑  existing↑  sentences↑  rather  than  on↑  generating  coherent  discourse  for↑  tasks  like↑  abstractive↑  summarization↑
+In↑  a↑  coherent↑  context↑  a↑  machine↑  should↑  be↑  able↑  to  guess  the↑  next=  utterance=  given↑  the↑  preceding=  ones=
+In↑  a↑  coherent↑  context↑  a↑  machine↑  can  guess  the↑  next=  utterance=  given↑  the↑  preceding=  ones=
+We↑  thus↑  propose↑  eliminating↑  the↑  influence=  of=  the↑  language=  model=  which↑  yields↑  the↑  following=  coherence=  score=
+The↑  language=  model=  yields↑  the↑  following=  coherence=  score=
+We↑  thus↑  propose↑  eliminating↑  the↑  influence=  of=  the↑  language=  model=  which↑  yields↑  the↑  following=  coherence=  score=
+Eliminating↑  the↑  influence=  of=  the=  language=  model=  yields↑  the↑  following=  coherence=  score=
+We↑  publicly↑  share↑  our↑  dataset↑  and↑  code↑  for↑  future↑  research↑
+We↑  publicly↑  share↑  our↑  dataset↑  for↑  future↑  research↑
+We↑  publicly↑  share↑  our↑  dataset↑  and↑  code↑  for↑  future↑  research↑
+We↑  code↑  for↑  future↑  research↑
+This↑  gives↑  to↑  the↑  model=  a↑  sense↑  of↑  the↑  implied=  action=  dynamics=  of=  the↑  verb=  between=  the=  agent=  and↑  the↑  world=
+This↑  gives↑  the↑  model=  to↑  a↑  sense↑  of↑  the↑  implied=  action=  dynamics=  of=  the↑  verb=  between=  the=  agent=  and↑  the↑  world=
+This↑  problem=  has↑  been↑  studied↑  before↑  for↑  zero↓  shot↓  object↑  recognition↑  but↑  there↑  are↑  several↑  key↑  differences↑
+This↑  problem=  has↑  been↑  previously↑  studied↑  for↑  zero↓  shot↓  object↑  recognition↑  but↑  there↑  are↑  several↑  key↑  differences↑
+This↑  problem=  has↑  been↑  studied↑  before↑  for↑  zero↓  shot↓  object↑  recognition↑  but↑  there↑  are↑  several↑  key↑  differences↑
+This↑  problem=  will↑  be↑  studied↑  for↑  zero↓  shot↓  object↑  recognition↑  but↑  there↑  are↑  several↑  key↑  differences↑
+Understanding↑  a↑  long↑  document↑  requires↑  tracking↑  how↑  entities↑  are↑  introduced↑  and↑  evolve↑  over↑  time↑
+Understanding↑  a↑  long↑  document↑  requires↑  evolving↑  over↑  time↑
+Understanding↑  a↑  long↑  document↑  requires↑  tracking↑  how↑  entities↑  are↑  introduced↑  and↑  evolve↑  over↑  time↑
+Understanding↑  a↑  long↑  document↑  requires↑  tracking↑  how↑  entities↑  evolve↑  over↑  time↑
+Understanding↑  a↑  long↑  document↑  requires↑  tracking↑  how↑  entities↑  are↑  introduced↑  and↑  evolve↑  over↑  time↑
+Understanding↑  a↑  long↑  document↑  requires↑  understanding↑  how↑  entities↑  are↑  introduced↑
+We↑  do↓  not↑  assume↓  that↓  these↓  variables=  are↓  observed↓  at↓  test↓  time↓
+These↑  variables=  are↓  not↑  observed↓  at↓  test↓  time↓
+”
+The↑  entity=  prediction=  task=  requires↑  predicting  xxxx  given↑  the↑  preceding=  text=  by↑  choosing↑  a↑  previously↑  mentioned↑  entity↑
+So  there  is  no↓  dedicated↑  memory↑  block↑  for↑  every↑  entity↑  and↑  no↑  distinction↓  between↑  entity↑  mentions  and↑  non-mention  words
+So  there  is  no↓  dedicated↑  high↑  dimensional↑  memory↑  block↑  for↑  every↑  entity↑  and↑  no↑  distinction↓  between↑  entity↑  mentions  and↑  non-mention  words
+Our↑  approach↑  complements↑  these↑  previous=  methods=
+Our↑  approach↑  complements↑  some↑  previous↑  methods↑
+We↑  manually↑  annotated↑  687↓  templates↑  mapping↑  KB↑  predicates↑  to↑  text  for↑  different  compositionality  types  with↑  462↓  unique↑  KB↑  predicates↑  and↑  use↑  those↑  templates=  to↑  modify↑  the↑  original=  WebQuestionsSP=  question=  according↑  to↑  the↑  meaning=  of=  the=  generated=  SPARQL=  query=
+We↑  manually↑  annotated↑  over↓  650↓  templates↑  mapping↑  KB↑  predicates↑  to↑  text  for↑  different  compositionality  types  with↑  462↓  unique↑  KB↑  predicates↑  and↑  use↑  those↑  templates=  to↑  modify↑  the↑  original=  WebQuestionsSP=  question=  according↑  to↑  the↑  meaning=  of=  the=  generated=  SPARQL=  query=
+We↑  manually↑  annotated↑  687↓  templates↑  mapping↑  KB↑  predicates↑  to↑  text  for↑  different  compositionality  types  with↑  462↓  unique↑  KB↑  predicates↑  and↑  use↑  those↑  templates=  to↑  modify↑  the↑  original=  WebQuestionsSP=  question=  according↑  to↑  the↑  meaning=  of=  the=  generated=  SPARQL=  query=
+We↑  manually↑  annotated↑  over↑  690↓  templates↑  mapping↑  KB↑  predicates↑  to↑  text  for↑  different  compositionality  types  with↑  462↓  unique↑  KB↑  predicates↑  and↑  use↑  those↑  templates=  to↑  modify↑  the↑  original=  WebQuestionsSP=  question=  according↑  to↑  the↑  meaning=  of=  the=  generated=  SPARQL=  query=
+To  generate↑  complex↑  questions↑  we↑  use↑  the↑  dataset=  WEBQUESTIONSSP=  which↑  contains↑  4 737↓  questions↑  paired↑  with↑  SPARQL  queries  for↑  Freebase↑
+To  generate↑  simple↑  questions↑  we↑  use↑  the↑  dataset=  WEBQUESTIONSSP=  which↑  contains↑  4 737↓  questions↑  paired↑  with↑  SPARQL  queries  for↑  Freebase↑
+To  generate↑  complex↑  questions↑  we↑  use↑  the↑  dataset=  WEBQUESTIONSSP=  which↑  contains↑  4 737↓  questions↑  paired↑  with↑  SPARQL  queries  for↑  Freebase↑
+To  generate↑  highly↑  compositional↑  questions↑  we↑  use↑  the↑  dataset=  WEBQUESTIONSSP=  which↑  contains↑  4 737↓  questions↑  paired↑  with↑  SPARQL  queries  for↑  Freebase↑
+In↑  this↑  paper=  we↑  explore↑  the↑  idea=  of=  polyglot=  semantic=  translation=  or↑  learning=  semantic  parsing  models  that↑  are↑  trained↑  on↑  multiple↑  datasets↑  and↑  natural  languages
+In↑  this↑  paper=  we↑  explore↑  the↑  idea=  of=  learning  semantic  parsing  models  that↑  are↑  trained↑  on↑  multiple↑  datasets↑  and↑  natural  languages
+They↑  then↑  use↑  a↑  discriminative↑  model↑  to  rerank↑  the↑  translation=  output=  using↑  additional↑  nonworld↑  level↑  features↑
+They↑  then↑  use↑  a↑  generative↑  model↑  to  rerank↑  the↑  translation=  output=  using↑  additional↑  nonworld↑  level↑  features↑
+In↑  contrast  to↑  standard↑  MT↑  tasks↑  we↑  are↑  dealing↑  with↑  a↑  relatively↑  low↑  resource↑  setting↑  where↑  the↑  sparseness=  of=  the=  target=  vocabulary=  is↑  an↑  issue↑
+Unlike↑  in↑  standard↑  MT↑  tasks↑  we↑  are↑  dealing↑  with↑  a↑  relatively↑  low↑  resource↑  setting↑  where↑  the↑  sparseness=  of=  the=  target=  vocabulary=  is↑  an↑  issue↑
+Logits↑  are  then  computed  for↑  these↑  actions=  and↑  particular  actions  are  chosen  according↑  to↑  a↑  softmax↑  over↑  these↑  logits=  during↑  training↑  and↑  decoding↑
+A↑  distribution↑  is  then  computed  over↑  these↑  actions=  using↑  a↑  softmax↑  function↑  and↑  particular  actions  are  chosen  randomly  during↑  training↑  and↑  decoding↑
+The↑  systems=  thus↑  produced↑  support↑  the↑  capability=  to↑  interrupt↑  an↑  interlocutor↑  mid-sentence↑
+We↑  investigate↑  a↑  wide↑  range↑  of↑  metrics↑  including↑  state  of↑  the↑  art=  word  based  and↑  novel  grammar↑  based↑  ones↑  and↑  demonstrate↑  that↑  they↑  only↑  weakly↑  reflect↑  human  judgements  of↑  system↑  outputs↑  as↑  generated  by↑  data↑  driven↑  end  to↑  end↑  natural↑  language↑  generation↑
+We↑  also↑  show↑  that↑  metric↑  performance↑  varies↑  between↑  datasets↑  and↑  systems↑
+We↑  also↑  show↑  that↑  metric↑  performance↑  is↑  constant↑  between↑  datasets↑  and↑  systems↑
+Our↑  experiments↑  indicate↑  that↑  neural↑  systems↑  are↑  quite↑  good↑  at↑  producing↑  fluent↑  outputs↑  and↑  generally↑  score↑  well↑  on↑  standard↑  word↑  match↑  metrics↑  but↑  perform↑  quite↑  poorly↑  at↑  content↑  selection↑  and↑  at↑  capturing  long  term  structure
+Our↑  experiments↑  indicate↑  that↑  neural↑  systems↑  are↑  quite↑  good↑  at↑  surface↑  level↑  language↑  modeling↑  but↑  perform↑  quite↑  poorly↑  at↑  capturing↑  higher↑  level↑  semantics↑  and↑  structure↑
+Our↑  experiments↑  indicate↑  that↑  neural↑  systems↑  are↑  quite↑  good↑  at↑  producing↑  fluent↑  outputs↑  and↑  generally↑  score↑  well↑  on↑  standard↑  word↑  match↑  metrics↑  but↑  perform↑  quite↑  poorly↑  at↑  content↑  selection↑  and↑  at↑  capturing  long  term  structure
+Our↑  experiments↑  indicate↑  that↑  neural↑  systems↑  are↑  quite↑  good↑  at↑  capturing↑  higher↑  level↑  semantics↑  and↑  structure↑  but↑  perform↑  quite↑  poorly↑  at↑  surface↑  level↑  language↑  modeling↑
+Reconstruction↑  based↑  techniques↑  can↑  also↑  be↑  applied↑  at↑  the↑  document=  or↑  sentence  level  during↑  training↑
+Reconstruction↑  based↑  techniques↑  can↑  operate↑  on↑  multiple↑  scales↑  during↑  training↑
+Reconstruction↑  based↑  techniques↑  can↑  also↑  be↑  applied↑  at↑  the↑  document=  or↑  sentence  level  during↑  training↑
+Reconstruction↑  based↑  techniques↑  can↑  also↑  be↑  applied↑  at↑  the↑  document=  or↑  sentence  level  during↑  test↑
+Reconstruction↑  based↑  techniques↑  can↑  also↑  be↑  applied↑  at↑  the↑  document=  or↑  sentence  level  during↑  training↑
+Reconstruction↑  based↑  techniques↑  can↑  only↑  be↑  applied↑  at↑  the↑  sentence=  level=  during↑  training↑
+Similarly↑  the↑  use=  of=  more  agent↑  empowering↑  verbs  in↑  female↑  narratives↑  decrease↑  the↑  odds=  of↑  passing↑  the↑  Bechdel=  test=
+Similarly↑  the↑  use=  of=  more  agent↑  empowering↑  verbs  in↑  female↑  narratives↑  decrease↑  the↑  odds=  of=  two↓  named↑  women↑  characters↑  talking↑  about↑  something  besides↑  men↑
+Similarly↑  the↑  use=  of=  more  agent↑  empowering↑  verbs  in↑  female↑  narratives↑  decrease↑  the↑  odds=  of↑  passing↑  the↑  Bechdel=  test=
+Similarly↑  the↑  use=  of=  more  agent↑  empowering↑  verbs  in↑  female↑  narratives↑  decrease↑  the↑  odds=  of=  men=  in=  the=  narrative=  talking↑  to↑  each↑  other↓  about↑  women↑
+Furthermore↑  male↑  characters↑  use↑  inhibitory  language  more  inhib  which↑  contains↑  words↑  pertaining↑  to↑  blocking↑  or↑  allowing↑  suggesting  that  these↑  characters=  are  in↑  positions  of↑  power↑
+Furthermore↑  male↑  characters↑  use↑  inhibitory  language  more  inhib  which↑  contains↑  words↑  pertaining↑  to↑  blocking↑  or↑  allowing↑  suggesting  that↑  these↑  characters=  are↑  more↑  often↑  in↑  positions↑  where↑  they↑  can↑  forbid↑  or↑  permit↑  actions↑  and↑  decisions↑
+Furthermore↑  male↑  characters↑  use↑  inhibitory  language  more  inhib  which↑  contains↑  words↑  pertaining↑  to↑  blocking↑  or↑  allowing↑  suggesting  that  these↑  characters=  are  in↑  positions  of↑  power↑
+Furthermore↑  male↑  characters↑  use↑  inhibitory  language  more  inhib  which↑  contains↑  words↑  pertaining↑  to↑  blocking↑  or↑  allowing↑  suggesting  that  these↑  characters=  are  in↑  positions  of↑  power↑
+Furthermore↑  male↑  characters↑  use↑  inhibitory  language  more  inhib  which↑  contains↑  words↑  pertaining↑  to↑  blocking↑  or↑  allowing↑  suggesting  that  these↑  characters=  are  in↑  positions  of↑  low↑  power↑
+...
+...
+A↑  serene↑  wind↑  rolled↑  across↑  the↑  glade=
+A↑  tempestuous↑  wind↑  rolled↑  across↑  the↑  glade=
+A↑  serene↑  wind↑  rolled↑  across↑  the↑  glade=
+An↑  easterly↑  wind↑  rolled↑  across↑  the↑  glade=
+A↑  serene↑  wind↑  rolled↑  across↑  the↑  glade=
+A↑  calm↑  wind↑  rolled↑  across↑  the↑  glade=
+A↑  serene↑  wind↑  rolled↑  across↑  the↑  glade=
+A↑  wind↑  rolled↑  across↑  the↑  glade=
+The↑  reaction=  was↑  strongly↑  exothermic↑
+The↑  reaction=  media=  got↑  very↑  hot↑
+The↑  reaction=  was↑  strongly↑  exothermic↑
+The↑  reaction=  media=  got↑  very↑  cold↑
+The↑  reaction=  was↑  strongly↑  endothermic↑
+The↑  reaction=  media=  got↑  very↑  hot↑
+The↑  reaction=  was↑  strongly↑  endothermic↑
+The↑  reaction=  media=  got↑  very↑  cold↑
+She↑  did↑  not↑  think↑  I↑  had↑  already↑  finished↑  it↑  but↑  I↑  had↑
+I↑  had↑  already↑  finished↑  it↑
+She↑  did↑  not↑  think↑  I↑  had↑  already↑  finished↑  it↑  but↑  I↑  had↑
+I↑  had↑  not↑  already↑  finished↑  it↑
+She↑  thought↑  I↑  had↑  already↑  finished↑  it↑  but↑  I↑  had↑  not↑
+I↑  had↑  already↑  finished↑  it↑
+She↑  thought↑  I↑  had↑  already↑  finished↑  it↑  but↑  I↑  had↑  not↑
+I↑  had↑  not↑  already↑  finished↑  it↑
+Temple↑  said↑  that↑  the↑  business=  was↑  facing↑  difficulties↑  but↑  did↑  not↑  have↑  a↑  chance↑  of↑  going  into↑  the↑  red=
+Temple↑  did↑  not↑  have↑  a↑  chance↑  of↑  going  into↑  the↑  red=
+Temple↑  said↑  that↑  the↑  business=  was↑  facing↑  difficulties↑  but↑  did↑  not↑  have↑  a↑  chance↑  of↑  going  into↑  the↑  red=
+Temple↑  said↑  the↑  business=  did↑  not↑  have↑  a↑  chance↑  of↑  going  into↑  the↑  red=
+The↑  profits=  of=  the↑  businesses=  that↑  focused↑  on↑  branding↑  were↑  still↑  negative↑
+The↑  businesses=  that↑  focused↑  on↑  branding↑  still↑  had↑  negative↑  profits↑
+The↑  profits=  of=  the=  business=  that↑  was=  most↑  successful=  were↑  still↑  negative↑
+The↑  profits=  that↑  focused↑  on↑  branding↑  were↑  still↑  negative↑
+The↑  businesses=  that↑  were  highest  this↑  quarter=  still↑  had↑  negative↑  profits↑
+For↑  the↑  businesses=  the↑  profits=  that↑  were↑  highest↑  were↑  still↑  negative↑
+I↑  baked↑  him↑
+I↑  baked↑  a↑  cake↑  for↑  him↑
+I↑  gave↑  a↑  note↑  to↑  him↑
+Jake↑  broke↑  the↑  vase=
+The↑  vase=  broke↑
+Jake↑  broke↑  the↑  vase=
+Jake↑  broke↑
+He↑  is  someone  of↑  many↑  talents=
+He↑  has↑  many↑  talents=
+He↑  is  someone  of↑  many↑  talents=
+His↑  talents↑  are↑  many↑
+I↑  do↑  not↑  want↑  to↑  have↑  to↑  keep↑  fighting↑  pesky↑  bedbugs↑
+—
+I↑  do↑  not↑  want↑  to↑  have↑  to↑  keep↑  entertaining  people  who↑  do  not  value↑  my↑  time↑
+I↑  do↑  not↑  want↑  to↑  have↑  to↑  keep↑  entertaining↑  people↑
+There↓  is↓  no↑  rabbi↓  at↓  this↓  wedding=  let↓  alone↓  behind↓  that↓  tree=
+A↑  rabbi↑  is↑  at↑  this↑  wedding=  standing  right  there  standing↑  behind↑  that↑  tree=
+A↑  rabbi↑  is↑  at↑  this↑  wedding=  standing  right  there  standing↑  behind↑  that↑  tree=
+He↑  is  over↓  20↓  years↑  of↑  age↑
+He↑  is  under↑  21↓  years↑  of↑  age↑
+He↑  has↑  a↑  beard↑
+I↑  can↑  make↑  scrambled↑  eggs↑  but↓  not↑  complex  dishes  like↓  consommé↓
+Consommé↑  is↑  more↑  complex↑  to↑  make↑  than↑  scrambled↑  eggs↑
+I↑  can↑  make↑  scrambled↑  eggs↑  but↓  not↑  complex  dishes  like↓  consommé↓
+Consommé↑  is↓  not↑  more↓  complex↓  to↓  make↓  than↓  scrambled↓  eggs↓
+It↑  was↑  raining↑  outside↑
+It↑  was↑  sunny↑  outside↑
+He↑  was↑  satisfied↑
+He↑  was↑  dissatisfied↑
+He↑  was↑  satisfied↑
+He↑  was↑  dissatisfied↑
+The↑  leading=  car=  gradually↑  shifted↑  to↑  the↑  left=  lane=
+The↑  leading=  car=  shifted↑  to↑  the↑  left=  lane=
+The↑  leading=  car=  gradually↑  shifted↑  to↑  the↑  left=  lane=
+The↑  leading=  car=  suddenly↑  shifted↑  to↑  the↑  left=  lane=
+The↑  leading=  car=  gradually↑  shifted↑  to↑  the↑  left=  lane=
+The↑  leading=  car=  slowly↑  shifted↑  to↑  the↑  left=  lane=
+The↑  leading=  car=  gradually↑  shifted↑  to↑  the↑  left=  lane=
+The↑  leading=  car=  shifted↑  to↑  the↑  third=  gear=
+The↑  building=  standing↑  since↑  the↑  early=  20s=  was↑  tall↑  and↑  unassuming↑
+The↑  building=  standing↑  since↑  the↑  early=  20s=  was↑  sturdy↑  and↑  unassuming↑
+The↑  timing=  of=  the=  meeting=  has↓  not↑  been↓  set↓  according↓  to↓  a↓  Starbucks↓  spokesperson↓
+The↑  timing=  of=  the=  meeting=  has↓  not↑  been↓  considered↓  according↓  to↓  a↓  Starbucks↓  spokesperson↓
+Some  of=  the↑  orator=  "s↑"  statements↑  were↑  incomprehensible↑  but↑  the↑  crowd=  loved↑  them↑
+Some  of=  the↑  orator=  "s↑"  statements↑  were↑  comprehensible↑  but↑  the↑  crowd=  loved↑  them↑
+I↑  wo↑  not↑  say↑  that↑  she↑  did↑  not↑  steal↑  my↑  money↑
+I↑  wo↑  not↑  say↑  that↑  she↑  stole↑  my↑  money↑
+I↑  wo↑  not↑  say↑  that↑  she↑  did↑  not↑  steal↑  my↑  money↑
+I↑  will↑  say↑  that↑  she↑  stole↑  my↑  money↑
+I↑  wo↑  not↑  say↑  that↑  she↑  did↑  not↑  steal↑  my↑  money↑
+I↑  will↑  say↑  that↑  she↑  stole↑  my↑  money↑
+There↑  are↑  some↑  amazing↑  hikes↑  around↑  Mt.↑  Fuji↑
+There↑  are↑  some↑  amazing↑  hikes↑  in↑  Japan↑
+There↑  are↑  some↑  amazing↑  hikes↑  around↑  Mt.↑  Fuji↑
+There↑  are↑  some↑  amazing↑  hikes↑  in↑  Nepal↑
+There↑  are↑  some↑  amazing↑  hikes↑  around↑  Mt.↑  Fuji↑
+There↑  are↑  some↑  strenuous↑  hikes↑  around↑  Mt.↑  Fuji↑
+An↑  experienced↑  sommelier↑  knows↑  the↑  difference=  between=  the↑  2009=  and↑  2013=  vintage=  of=  a=  German↑  Riesling↑
+A↑  sommelier↑  knows↑  the↑  difference=  between=  the↑  2009=  and↑  2013=  vintage=  of=  a=  German↑  Riesling↑
+An↑  experienced↑  sommelier↑  knows↑  the↑  difference=  between=  the↑  2009=  and↑  2013=  vintage=  of=  a=  German↑  Riesling↑
+An↑  Italian↑  sommelier↑  knows↑  the↑  difference=  between=  the↑  2009=  and↑  2013=  vintage=  of=  a=  German↑  Riesling↑
+A↑  fraudulent↑  sommelier↑  wo↑  not↑  know↑  the↑  difference=  between=  the↑  2009=  and↑  2013=  vintage=  of=  a=  German↑  Riesling↑
+A↑  sommelier↑  wo↑  not↑  know↑  the↑  difference=  between=  the↑  2009=  and↑  2013=  vintage=  of=  a=  German↑  Riesling↑
+Two  of↑  the↑  three↓  trees↑  outside=  my↑  window↑  with=  their↑  branches↑  dangling↑  and↑  swaying↑  in↑  the↑  wind=  have↑  already↑  bloomed↑  and↑  it↑  "s↓"  not↑  even↓  April↓
+Of↑  the↑  three↓  trees↑  outside=  my=  window=  with=  their↑  branches↑  dangling↑  and↑  swaying↑  in↑  the↑  wind=  two↑  have↑  already↑  bloomed↑  and↑  it↑  "s↓"  not↑  even↓  April↓
+Two  of↑  the↑  trees=  outside=  my↑  window↑  with=  their↑  branches↑  dangling↑  and↑  swaying↑  in↑  the↑  wind=  have↑  already↑  bloomed↑  and↑  it↑  "s↓"  not↑  even↓  April↓
+Of↑  the↑  trees=  outside=  my=  window=  with=  their↑  branches↑  dangling↑  and↑  swaying↑  in↑  the↑  wind=  three↑  have↑  already↑  bloomed↑  and↑  it↑  "s↓"  not↑  even↓  April↓
+So↑  far↑  two  of=  my↑  cherry↑  trees↑  have↑  already↑  bloomed↑  and↑  it↑  "s↓"  not↑  even↓  April↓
+So↑  far↑  two  of=  my↑  trees↑  have↑  already↑  bloomed↑  and↑  it↑  "s↓"  not↑  even↓  April↓
+The↑  book=  astounds↑  with↑  Grossman↑  "s↑"  rich↑  deep↑  character↑  development↑  and↑  portrayal  of↑  suffering↑  but↑  his↑  portrayal  of↑  women↑  still↑  suffers↑  from↑  a↑  lot↑  of↑  the↑  unfortunate=  stereotypes=  and↑  moralizing↑  that  we↑  would  expect  of↑  a↑  writer↑  from=  his↑  time↑
+The↑  book=  astounds↑  as↑  Grossman↑  richly↑  deeply↑  develops↑  characters↑  and↑  portrays↑  suffering↑  but↑  his↑  portrayal  of↑  women↑  still↑  suffers↑  from↑  a↑  lot↑  of↑  the↑  unfortunate=  stereotypes=  and↑  moralizing↑  that  we↑  would  expect  of↑  a↑  writer↑  from=  his↑  time↑
+The↑  book=  astounds↑  with↑  Grossman↑  "s↑"  rich↑  deep↑  character↑  development↑  and↑  portrayal  of↑  suffering↑  but↑  his↑  portrayal  of↑  women↑  still↑  suffers↑  from↑  a↑  lot↑  of↑  the↑  unfortunate=  stereotypes=  and↑  moralizing↑  that  we↑  would  expect  of↑  a↑  writer↑  from=  his↑  time↑
+The↑  book=  astounds↑  as↑  Grossman↑  richly↑  deeply↑  develops↑  characters↑  and↑  ignores↑  suffering↑  but↑  his↑  portrayal  of↑  women↑  still↑  suffers↑  from↑  a↑  lot↑  of↑  the↑  unfortunate=  stereotypes=  and↑  moralizing↑  that  we↑  would  expect  of↑  a↑  writer↑  from=  his↑  time↑
+He↑  "s"  the↑  kind=  of↑  Jew↑  who↑  does  not  adhere↑  to↑  all  of↑  the↑  rules=
+He↑  "s"  the↑  kind=  of↑  Jew↑  who↑  rejects↑  every↑  facet↓  of↓  Jewish↓  identity↓  and↑  culture↓
+He↑  "s"  the↑  kind=  of↑  Jew↑  who↑  avoids↑  switching↑  the↑  lights=  during↑  Shabbat↑
+People↑  wear↑  tunics  or↑  shirts↑  of↑  some↑  form↑  or↑  another↑  in↑  many↑  world=  cultures=
+Tunics  or↑  shirts↑  of↑  some↑  form↑  or↑  another↑  are↑  worn↑  in↑  many↑  world=  cultures=
+A↑  general↑  artificial↑  intelligence↑  should↑  always↑  come↑  with↑  an↑  off↑  switch↑
+The↑  new=  general=  artificial=  intelligence=  I↑  "m"  developing  should  not  come  with↑  an↑  off↑  switch↑
+A↑  general↑  artificial↑  intelligence↑  should↑  always↑  come↑  with↑  an↑  off↑  switch↑
+The↑  new=  general=  artificial=  intelligence=  I↑  "m"  developing  should  come  with↑  an↑  off↑  switch↑
+The↑  cat=  did↓  not↑  sit↓  on↓  the↓  mat=
+The↑  cat=  sat↑  on↑  the↑  mat=
+Out↑  of↑  the↑  box=  Ouya↑  does↑  not↑  support↑  media  apps  such↑  as↑  Twitch.tv↑  and↑  XBMC  media  player
+Out↑  of↑  the↑  box=  Ouya↑  supports↑  media  apps  such↑  as↑  Twitch.tv↑  and↑  XBMC  media  player
+Out↑  of↑  the↑  box=  Ouya↑  supports↑  Twitch.tv↑  and↑  XBMC  media  player
+Out↑  of↑  the↑  box=  Ouya↑  supports↑  media  apps  such↑  as↑  Twitch.tv↑  and↑  XBMC  media  player
+Considering↑  this↑  definition=  it↑  is↓  not↑  surprising↓  to↓  find↓  frequent  use  of↓  sarcastic↓  language↓  in↓  opinionated  user  generated  content
+Considering↑  this↑  definition=  it↑  is↑  surprising↑  to↑  find↑  frequent  use  of↑  sarcastic↑  language↑  in↑  opinionated  user  generated  content
+The↑  new=  gaming=  console=  is↑  unaffordable↑
+The↑  new=  gaming=  console=  is↑  affordable↑
+We↑  built↑  our↑  society↑  on↑  clean↑  energy↑
+We↑  built↑  our↑  society↑  on↑  unclean↑  energy↑
+Writing↑  Java↑  is↑  similar↑  to↑  programming  with↑  handcuffs↑
+Writing↑  Java↑  is↓  not↑  too↓  different↓  from↓  programming↓  with↓  handcuffs↓
+The↑  market=  is↑  about↑  to↑  get↑  harder↑  but↑  possible↑  to↑  navigate↑
+The↑  market=  is↑  about↑  to↑  get↑  harder↑  but↓  not↑  impossible↓  to↓  navigate↓
+The↑  water=  is↑  too↑  cold↑
+The↑  water=  is↑  too↑  hot↑
+Falcon↑  Heavy↑  is  the↑  smallest=  rocket=  since=  NASA↑  "s↑"  Saturn  V  booster  which↑  was↑  used↑  for↑  the↑  Moon=  missions=  in=  the=  1970s=
+Falcon↑  Heavy↑  is  the↑  largest=  rocket=  since=  NASA↑  "s↑"  Saturn  V  booster  which↑  was↑  used↑  for↑  the↑  Moon=  missions=  in=  the=  1970s=
+Adenoiditis↑  symptoms↑  often↑  pass↑  within↑  ten↓  days↑  or↑  less↓  and↑  often↑  include↑  pus  like  discharge  from↑  nose↑
+Adenoiditis↑  symptoms↑  often↑  persist↑  for↑  ten↓  or↑  more↓  days↑  and↑  often↑  include↑  pus  like  discharge  from↑  nose↑
+Some↑  animals↑  like  to  scratch↑  their↑  ears↑
+Some↑  dogs↑  like  to  scratch↑  their↑  ears↑
+Cruz↑  has↑  frequently↑  derided↑  as↑  amnesty  various  bills  that↑  confer↑  legal↑  status↑  or↑  citizenship↑  on↑  people↑  living↑  in↑  the↑  country=  illegally↑
+Cruz↑  has↑  frequently↑  derided↑  as↑  amnesty  various  plans  that↑  confer↑  legal↑  status↑  or↑  citizenship↑  on↑  people↑  living↑  in↑  the↑  country=  illegally↑
+In↑  many↑  areas=  human↑  activity↑  has  changed↑  the↑  form=  of=  river=  channels=  altering  magnitudes  and↑  frequencies  of↑  flooding↑
+In↑  many↑  developed=  areas=  human↑  activity↑  has  changed↑  the↑  form=  of=  river=  channels=  altering  magnitudes  and↑  frequencies  of↑  flooding↑
+We↑  consider↑  some↑  words↑  as↑  positive↑  examples↑  and↑  sample  negatives  at↑  random↑  from↑  the↑  dictionary=
+We↑  consider↑  some↑  context↑  words↑  as↑  positive↑  examples↑  and↑  sample  negatives  at↑  random↑  from↑  the↑  dictionary=
+We↑  consider↑  all↑  context↓  words↓  as↓  positive↓  examples↓  and↑  sample  many↑  negatives=  at↓  random↓  from↓  the↓  dictionary=
+We↑  consider↑  some↑  context↑  words↑  as↑  positive↑  examples↑  and↑  sample  negatives  at↑  random↑  from↑  the↑  dictionary=
+We↑  consider↑  many↑  context=  words=  as↑  positive↑  examples↑  and↑  sample  negatives  at↑  random↑  from↑  the↑  dictionary=
+We↑  consider↑  some↑  context↑  words↑  as↑  positive↑  examples↑  and↑  sample  negatives  at↑  random↑  from↑  the↑  dictionary=
+We↑  consider↑  all↑  words↓  as↓  positive↓  examples↓  and↑  sample  negatives  at↓  random↓  from↓  the↓  dictionary=
+We↑  consider↑  all↑  context↓  words↓  as↓  positive↓  examples↓  and↑  sample  negatives  at↓  random↓  from↓  the↓  dictionary=
+All↑  animals↓  like  to  scratch↑  their↑  ears↑
+All↑  dogs↓  like  to  scratch↑  their↑  ears↑
+In↑  all↑  developed↓  areas↓  human↑  activity↑  has  changed↑  the↑  form=  of=  river=  channels=  altering  magnitudes  and↑  frequencies  of↑  flooding↑
+In↑  all↑  areas↓  human↑  activity↑  has  changed↑  the↑  form=  of=  river=  channels=  altering  magnitudes  and↑  frequencies  of↑  flooding↑
+Tom↑  and↑  Adam↑  were↑  whispering↑  quietly↑  in↑  the↑  theater=
+Tom↑  and↑  Adam↑  were↑  whispering↑  in↑  the↑  theater=
+Tom↑  and↑  Adam↑  were↑  whispering↑  loudly↑  in↑  the↑  theater=
+Tom↑  and↑  Adam↑  were↑  whispering↑  in↑  the↑  theater=
+Chicago↑  City↑  Hall↑  is  the↑  official=  seat=  of↑  government  of↑  Chicago↑
+Chicago↑  City↑  Hall↑  is  the↑  official=  seat=  of↑  government  of↑  the↑  City=  of=  Chicago=
+The↑  question=  generation=  aspect=  is↑  unique↑  to=  our↑  formulation↑  and↑  corresponds  roughly↑  to↑  identifying↑  what↑  semantic↑  role↑  labels↑  are↑  present↑  in↑  previous  other  formulations  of↑  the↑  task=
+The↑  question=  generation=  aspect=  is↑  unique↑  to=  our↑  formulation↑  and↑  corresponds  roughly↑  to↑  identifying↑  what↑  semantic↑  role↑  labels↑  are↑  present↑  in↑  previous  formulations  of↑  the↑  task=
+John↑  ate↑  pasta↑  for↑  supper↑
+John↑  ate↑  pasta↑  for↑  dinner↑
+John↑  ate↑  pasta↑  for↑  breakfast↑
+John↑  ate↑  pasta↑  for↑  dinner↑
+House↑  Speaker↑  Paul↑  Ryan↑  was↑  facing↑  problems  from↑  fellow↑  Republicans↑  unhappy↑  with=  his↑  leadership↑
+House↑  Speaker↑  Paul↑  Ryan↑  was↑  facing↑  problems  from↑  fellow↑  Republicans↑  dissatisfied↑  with=  his↑  leadership↑
+House↑  Speaker↑  Paul↑  Ryan↑  was↑  facing↑  problems↑  uniquely↑  from↑  fellow↑  Republicans↑  supportive↑  of=  his↑  leadership↑
+House↑  Speaker↑  Paul↑  Ryan↑  was↑  facing↑  problems↑  uniquely↑  from↑  fellow↑  Republicans↑  dissatisfied↑  with=  his↑  leadership↑
+I↑  can  actually  see  him↑  getting↑  into↑  a↑  Lincoln↑  saying↑  this↑
+I↑  can  actually  see  him↑  climbing↑  into↑  a↑  Lincoln↑  saying↑  this↑
+I↑  can  actually  see  him↑  climbing↑  into↑  a↑  Mazda↑  saying↑  this↑
+I↑  can  actually  see  him↑  climbing↑  into↑  a↑  Lincoln↑  saying↑  this↑
+The↑  villain=  is↑  the↑  character=  who↑  tends↑  to↑  have↑  a↑  negative↑  impact↑  on↑  other↑  characters↑
+The↑  villain=  is↑  the↑  character=  who↑  tends↑  to↑  have↑  a↑  negative↑  effect↑  on↑  other↑  characters↑
+The↑  villain=  is↑  the↑  character=  who↑  tends↑  to↑  have↑  a↑  negative↑  correlation↑  with↑  other↑  characters↑
+The↑  villain=  is↑  the↑  character=  who↑  tends↑  to↑  have↑  a↑  negative↑  effect↑  on↑  other↑  characters↑
+Semantic  parsing↑  typically=  needs=  a↑  set↑  of↑  operations↑  to=  query  the↑  knowledge=  base=  and↑  process  the↑  results=
+The↑  window=  was↑  broken↑  by↑  John↑
+John↑  broke↑  the↑  window=
+The↑  window=  broke↑  John↑
+John↑  broke↑  the↑  window=
+Former↑  senior↑  Justice↑  Department↑  officials↑  were↑  asked↑  for↑  information↑  by=  Mueller↑  "s↑"  team↑
+Mueller↑  ’s↑  team↑  asked↑  former↑  senior↑  Justice↑  Department↑  officials↑  for↑  information↑
+Mueller↑  ’s↑  team↑  was↑  asked↑  for↑  information  by↑  former↑  senior↑  Justice↑  Department↑  officials↑
+Mueller↑  ’s↑  team↑  asked↑  former↑  senior↑  Justice↑  Department↑  officials↑  for↑  information↑
+Mueller↑  ’s↑  team↑  was↑  asked↑  for↑  information↑
+Mueller↑  ’s↑  team↑  asked↑  former↑  senior↑  Justice↑  Department↑  officials↑  for↑  information↑
+Former↑  senior↑  Justice↑  Department↑  officials↑  were↑  not↑  asked↑  for↑  information↑
+Mueller↑  ’s↑  team↑  asked↑  former↑  senior↑  Justice↑  Department↑  officials↑  for↑  information↑
+Everyone↑  should↑  be↑  afraid↑  of↑  the↑  part=  when↑  Congress↑  was↑  asked↑  to↑  allow↑  his↑  cabinet↑  secretaries↑  to↑  terminate↑  whoever↑  they↑  want↑
+Seeds↑  along↑  with↑  soft↑  plant↑  parts↑  and↑  insects↑  are↑  eaten↑  by↑  cape↑  sparrows↑
+Cape↑  sparrows↑  eat↑  seeds↑  along↑  with↑  soft↑  plant↑  parts↑  and↑  insects↑
+Cape↑  sparrows↑  are↑  eaten↑  by↑  seeds↑  along↑  with↑  soft↑  plant↑  parts↑  and↑  insects↑
+Cape↑  sparrows↑  eat↑  seeds↑  along↑  with↑  soft↑  plant↑  parts↑  and↑  insects↑
+Cape↑  sparrows↑  are↑  eaten↑
+Cape↑  sparrows↑  eat↑  seeds↑  along↑  with↑  soft↑  plant↑  parts↑  and↑  insects↑
+Soft↑  plant↑  parts↑  and↑  insects↑  eat↑  seeds↑
+Cape↑  sparrows↑  eat↑  seeds↑  along↑  with↑  soft↑  plant↑  parts↑  and↑  insects↑
+Soft↑  plant↑  parts↑  and↑  insects↑  are↑  eaten↑
+Cape↑  sparrows↑  eat↑  seeds↑  along↑  with↑  soft↑  plant↑  parts↑  and↑  insects↑
+Knowledge↑  bases↑  are↑  populated↑  with↑  facts  from↑  unstructured↑  text↑  corpora↑  by↑  relation↑  extraction↑  systems↑
+Relation↑  extraction↑  systems↑  populate↑  knowledge↑  bases↑  with↑  facts  from↑  unstructured↑  text↑  corpora↑
+Knowledge↑  bases↑  are↑  populated↑  by↑  relation↑  extraction↑  systems↑  with↑  facts  from↑  unstructured↑  text↑  corpora↑
+Relation↑  extraction↑  systems↑  populate↑  knowledge↑  bases↑  with↑  facts  from↑  unstructured↑  text↑  corpora↑
+Relation↑  extraction↑  systems↑  are↑  populated↑  by↑  knowledge↑  bases↑  with↑  facts  from↑  unstructured↑  text↑  corpora↑
+Relation↑  extraction↑  systems↑  populate↑  knowledge↑  bases↑  with↑  facts  from↑  unstructured↑  text↑  corpora↑
+Relation↑  extraction↑  systems↑  are↑  populated↑  with↑  facts  from↑  unstructured↑  text↑  corpora↑  by↑  knowledge↑  bases↑
+Relation↑  extraction↑  systems↑  populate↑  knowledge↑  bases↑  with↑  facts  from↑  unstructured↑  text↑  corpora↑
+Relation↑  extraction↑  systems↑  populate↑  knowledge↑  bases↑  with↑  assertions  from↑  unstructured↑  text↑  corpora↑
+Relation↑  extraction↑  systems↑  populate↑  knowledge↑  bases↑  with↑  facts  from↑  unstructured↑  text↑  corpora↑
+The↑  population=  of=  the=  Cape=  sparrow=  has↓  not↑  decreased↓  significantly↓  and↑  is↓  not↑  seriously↓  threatened↓  by↑  human↑  activities↑
+The↑  Cape=  sparrow=  "s↑"  population↑  has↓  not↑  decreased↓  significantly↓  and↑  is↓  not↑  seriously↓  threatened↓  by↑  human↑  activities↑
+The↑  population=  of=  the=  Cape=  sparrow=  has↑  decreased↑  significantly↑  and↑  is↑  seriously↑  threatened↑  by↑  human↑  activities↑
+The↑  Cape=  sparrow=  "s↑"  population↑  has↓  not↑  decreased↓  significantly↓  and↑  is↓  not↑  seriously↓  threatened↓  by↑  human↑  activities↑
+This↑  paper=  presents↑  an↑  approach↑  for↑  understanding↑  the↑  contents=  of=  these=  message=  vectors=  by↑  translating↑  them↑  into↑  natural↑  language↑
+This↑  paper=  presents↑  an↑  approach↑  for↑  understanding↑  the↑  contents=  of=  these=  message=  vectors=  by↑  translating↑  them↑  into↑  foreign↑  language↑
+This↑  paper=  presents↑  an↑  approach↑  for↑  understanding↑  the↑  contents=  of=  these=  message=  vectors=  by↑  translating↑  them↑  into↑  natural↑  language↑
+She↑  is↑  a↑  skilled↑  violinist↑
+She↑  is↑  skilled↑  at↑  violin↑
+She↑  is↑  a↑  skilled↑  violinist↑
+She↑  is↑  skilled↑
+She↑  is↑  a↑  skilled↑  surgeon↑
+She↑  is↑  a↑  surgeon↑  and↑  skilled  violinist
+Combining↑  mentos↑  and↑  diet  coke  caused↑  the↑  explosion=
+The↑  combination=  of=  mentos=  and↑  diet  coke  caused↑  the↑  explosion=
+In↑  an↑  Oval↑  Office↑  meeting↑  after=  Mueller↑  "s↑"  appointment↑  Trump↑  told↑  Sessions↑  he↑  should↑  resign↑  prompting↑  the↑  attorney=  general=  "s↑"  submission  of↑  a↑  letter↑  of↑  resignation↑  according↑  to↑  The↑  New=  York=  Times=
+In↑  an↑  Oval↑  Office↑  meeting↑  after=  Mueller↑  "s↑"  appointment↑  Trump↑  told↑  Sessions↑  he↑  should↑  resign↑  prompting↑  the↑  attorney=  general=  to↑  submit↑  a↑  letter↑  of↑  resignation↑  according↑  to↑  The↑  New=  York=  Times=
+In↑  an↑  Oval↑  Office↑  meeting↑  after=  Mueller↑  "s↑"  appointment↑  Trump↑  told↑  Sessions↑  he↑  should↑  resign↑  prompting↑  the↑  attorney=  general=  "s↑"  withholding  of↑  a↑  letter↑  of↑  resignation↑  according↑  to↑  The↑  New=  York=  Times=
+In↑  an↑  Oval↑  Office↑  meeting↑  after=  Mueller↑  "s↑"  appointment↑  Trump↑  told↑  Sessions↑  he↑  should↑  resign↑  prompting↑  the↑  attorney=  general=  to↑  submit↑  a↑  letter↑  of↑  resignation↑  according↑  to↑  The↑  New=  York=  Times=
+During↑  World↑  War↑  II↑  the↑  five↓  remaining↑  Greek↑  boats↑  were↑  sunk↑  by↑  Axis↑  aircraft↑  during↑  the↑  German=  invasion=  of=  Greece=  in↑  April↑  1941↓
+During↑  World↑  War↑  II↑  the↑  five↓  remaining↑  Greek↑  boats↑  were↑  sunk↑  by↑  Axis↑  aircraft↑  during↑  the↑  Greek=  invasion=  of=  Germany=  in↑  April↑  1941↓
+During↑  World↑  War↑  II↑  the↑  five↓  remaining↑  Greek↑  boats↑  were↑  sunk↑  by↑  Axis↑  aircraft↑  during↑  the↑  German=  invasion=  of=  Greece=  in↑  April↑  1941↓
+Often↑  the↑  first=  step=  in=  building=  statistical=  NLP=  models=  involves↑  extracting↑  features↑
+Often↑  the↑  first=  step=  in=  building=  statistical=  NLP=  models=  involves↑  feature↑  extraction↑
+Alice↑  likes↑  Bob↑
+Bob↑  likes↑  Alice↑
+Alice↑  is↑  Bob↑  "s↑"  parent↑
+Bob↑  is↑  Alice↑  "s↑"  parent↑
+Republican↑  lawmakers↑  will↑  ask↑  President↑  Trump↑  to↑  use↑  a↑  controversial↑  White↑  House↑  framework↑  as↑  the↑  baseline=  for↑  a↑  coming↑  Senate↑  debate↑  on↑  immigration↑  policy↑
+President↑  Trump↑  will↑  ask↑  Republican↑  lawmakers↑  to↑  use↑  a↑  controversial↑  White↑  House↑  framework↑  as↑  the↑  baseline=  for↑  a↑  coming↑  Senate↑  debate↑  on↑  immigration↑  policy↑
+Bulls↑  proved↑  that↑  mythbusters↑  react↑  to↑  movement↑  and↑  not↑  color↓
+Mythbusters↑  proved↑  that↑  bulls↑  react↑  to↑  movement↑  and↑  not↑  color↓
+The↑  translations=  generate↑  models  with↑  their↑  constituency↑  tree↑  and↑  their↑  attention↑  derived↑  alignments
+The↑  models=  generate↑  translations  with↑  their↑  constituency↑  tree↑  and↑  their↑  attention↑  derived↑  alignments
+Alice↑  married↑  Bob↑
+Bob↑  married↑  Alice↑
+Top↑  U.S.↑  intelligence↑  officials↑  met↑  with↑  the↑  head=  of=  Russia=  "s="  foreign=  spy=  service=  despite↑  existing↑  sanctions↑
+The↑  head=  of=  Russia=  "s="  foreign=  spy=  service=  met↑  with↑  top↑  U.S.↑  intelligence↑  officials↑  despite↑  existing↑  sanctions↑
+Airplanes↑  do↓  not↑  follow↓  the↓  same=  rules=  as=  bees=
+Bees↑  do↓  not↑  follow↓  the↓  same=  rules=  as=  airplanes=
+Bees↑  fly↑  using↑  a↑  different↑  mechanism↑  from↑  airplanes↑
+Bees↑  do↓  not↑  follow↓  the↓  same=  rules=  as=  airplanes=
+Bees↑  fly↑  using↑  the↑  same=  mechanism=  as↑  airplanes↑
+Bees↑  do↓  not↑  follow↓  the↓  same=  rules=  as=  airplanes=
+Bees↑  are  more  energy  efficient  flyers  than↑  airplanes↑
+Bees↑  do↓  not↑  follow↓  the↓  same=  rules=  as=  airplanes=
+Tom↑  Ropelewski↑  is↑  married↑  to↑  fellow↑  screenwriter↑  and↑  producer  Leslie  Dixon
+Leslie↑  Dixon↑  is↑  married↑  to↑  fellow↑  screenwriter↑  and↑  producer  Tom  Ropelewski
+Bob↑  and↑  Alice↑  got↑  married↑
+Bob↑  married↑  Alice↑
+Tulsi↑  Gabbard↑  disagrees↑  with↑  Bernie↑  Sanders↑  on↑  what↑  is↑  the↑  best=  way=  to  deal  with↑  Bashar↑  al↑  Assad↑
+It↑  reminds↑  me↑  of↑  the↑  times=  my↑  little↑  brother↑  and↑  I↑  played↑  Super↑  Mario↑
+In↑  this↑  PC=  game=  Shredder↑  and↑  the↑  turtles=  fight↑  in=  his↑  Manhattan↑  hideout↑
+In↑  this↑  PC=  game=  Shredder↑  fights↑  the↑  turtles=  in=  his↑  Manhattan↑  hideout↑
+On↑  Sunday↑  Jane↑  had↑  a↑  party↑
+Jane↑  had↑  a↑  party↑  on↑  Sunday↑
+The↑  FBI=  has↑  been↑  trusted↑  to↑  investigate↑  corruption  inside↑  the↑  government=  for↑  decades↑
+For↑  decades↑  the↑  FBI=  has↑  been↑  trusted↑  to↑  investigate↑  corruption  inside↑  the↑  government=
+A↑  few↑  weeks↑  ago↑  I↑  was↑  driving↑  through=  my↑  neighborhood↑  and↑  there  was  a↑  lady↑  holding↑  a↑  child↑  "s↑"  hand↑  standing↑  on↑  the↑  side=  of=  the↑  road=  talking↑  to↑  someone↑  parked↑  in↑  a↑  car↑
+I↑  was↑  driving↑  through=  my↑  neighborhood↑  a↑  few↑  weeks↑  ago↑  and↑  there  was  a↑  lady↑  holding↑  a↑  child↑  "s↑"  hand↑  standing↑  on↑  the↑  side=  of=  the↑  road=  talking↑  to↑  someone↑  parked↑  in↑  a↑  car↑
+In↑  construction  of↑  the↑  Empire=  State=  Building=  Bass↑  River↑  timber↑  was↑  used↑
+Bass↑  River↑  timber↑  was↑  used↑  in↑  construction  of↑  the↑  Empire=  State=  Building=
+We↑  present↑  in↑  this↑  paper=  an↑  approach↑  to↑  acquire↑  trivial↑  physical↑  knowledge↑  from↑  unstructured↑  natural↑  language↑  text↑
+In↑  this↑  paper=  we↑  present↑  an↑  approach↑  to↑  acquire↑  trivial↑  physical↑  knowledge↑  from↑  unstructured↑  natural↑  language↑  text↑
+We↑  present↑  an↑  approach↑  to↑  acquire↑  trivial↑  physical↑  knowledge↑  from↑  the↑  unstructured=  natural=  language=  text=  of=  this=  paper=
+In↑  this↑  paper=  we↑  present↑  an↑  approach↑  to↑  acquire↑  trivial↑  physical↑  knowledge↑  from↑  unstructured↑  natural↑  language↑  text↑
+I↑  ate↑  pizza↑
+I↑  ate↑  pizza↑  with↑  friends↑
+I↑  ate↑  some↑  friends↑
+I↑  ate↑  pizza↑  with↑  some↑  friends↑
+I↑  ate↑  pizza↑
+I↑  ate↑  pizza↑  with↑  olives↑
+I↑  ate↑  olives↑
+I↑  ate↑  pizza↑  with↑  olives↑
+Mueller↑  received↑  a↑  mandate↑  to↑  investigate↑  possible↑  collusion↑
+Mueller↑  received↑  a↑  mandate↑  to↑  investigate↑  possible  collusion  with↑  Russia↑
+Mueller↑  received↑  a↑  mandate↑  to↑  investigate↑  with↑  Russia↑
+Mueller↑  received↑  a↑  mandate↑  to↑  investigate↑  possible  collusion  with↑  Russia↑
+Mueller↑  received↑  a↑  mandate↑  to↑  investigate↑  possible↑  collusion↑
+Mueller↑  received↑  a↑  mandate↑  to↑  investigate↑  possible  collusion  with↑  vast↑  resources↑
+Mueller↑  received↑  a↑  mandate↑  to↑  investigate↑  with↑  vast↑  resources↑
+Mueller↑  received↑  a↑  mandate↑  to↑  investigate↑  possible  collusion  with↑  vast↑  resources↑
+They↑  should↑  be↑  attached↑  to↑  the↑  lifting=  mechanism=
+They↑  should↑  be↑  attached↑  to↑  the↑  lifting=  mechanism=  in=  the=  faucet=
+They↑  should↑  be↑  attached↑  in↑  the↑  faucet=
+They↑  should↑  be↑  attached↑  to↑  the↑  lifting=  mechanism=  in=  the=  faucet=
+They↑  should↑  be↑  attached↑  to↑  the↑  lifting=  mechanism=
+They↑  should↑  be↑  attached↑  to↑  the↑  lifting=  mechanism=  in↑  an↑  unbreakable↑  knot↑
+They↑  should↑  be↑  attached↑  in↑  an↑  unbreakable↑  knot↑
+They↑  should↑  be↑  attached↑  to↑  the↑  lifting=  mechanism=  in↑  an↑  unbreakable↑  knot↑
+Tanks↑  were↑  developed↑  by↑  Britain↑  and↑  France↑  and↑  were↑  first↑  used↑  with↑  only↑  partial↑  success↑
+Tanks↑  were↑  developed↑  by↑  Britain↑  and↑  France↑  and↑  were↑  first↑  used↑  in↑  combat↑  by↑  the↑  British=  during↑  a↑  battle↑  with↑  only↑  partial↑  success↑
+Tanks↑  were↑  developed↑  by↑  Britain↑  and↑  France↑  and↑  were↑  first↑  used↑  in↑  combat↑  by↑  the↑  British=  during↑  a↑  battle↑
+Tanks↑  were↑  developed↑  by↑  Britain↑  and↑  France↑  and↑  were↑  first↑  used↑  in↑  combat↑  by↑  the↑  British=  during↑  a↑  battle↑  with↑  only↑  partial↑  success↑
+Tanks↑  were↑  developed↑  by↑  Britain↑  and↑  France↑  and↑  were↑  first↑  used↑  with↑  German↑  forces↑
+Tanks↑  were↑  developed↑  by↑  Britain↑  and↑  France↑  and↑  were↑  first↑  used↑  in↑  combat↑  by↑  the↑  British=  during↑  a↑  battle↑  with↑  German↑  forces↑
+Tanks↑  were↑  developed↑  by↑  Britain↑  and↑  France↑  and↑  were↑  first↑  used↑  in↑  combat↑  by↑  the↑  British=  during↑  a↑  battle↑
+Tanks↑  were↑  developed↑  by↑  Britain↑  and↑  France↑  and↑  were↑  first↑  used↑  in↑  combat↑  by↑  the↑  British=  during↑  a↑  battle↑  with↑  German↑  forces↑
+We↑  propose↑  models  of↑  the↑  probability=  distribution=
+We↑  propose↑  models  of↑  the↑  probability=  distribution=  from↑  which↑  the↑  attested=  vowel=  inventories=  have↑  been↑  drawn↑
+We↑  propose↑  models↑  from↑  which↑  the↑  attested=  vowel=  inventories=  have↑  been↑  drawn↑
+We↑  propose↑  models  of↑  the↑  probability=  distribution=  from↑  which↑  the↑  attested=  vowel=  inventories=  have↑  been↑  drawn↑
+We↑  propose↑  models  of↑  the↑  probability=  distribution=
+We↑  propose↑  models  of↑  the↑  probability=  distribution=  from↑  a↑  restricted↑  space↑  of↑  linear↑  functions↑
+We↑  propose↑  models↑  from↑  a↑  restricted↑  space↑  of↑  linear↑  functions↑
+We↑  propose↑  models  of↑  the↑  probability=  distribution=  from↑  a↑  restricted↑  space↑  of↑  linear↑  functions↑
+George↑  fell↑  into↑  the↑  water=
+George↑  went↑  to↑  the↑  lake=  to↑  catch↑  a↑  fish↑  but↑  he↑  fell↑  into↑  the↑  water=
+A↑  fish↑  fell↑  into↑  the↑  water=
+George↑  went↑  to↑  the↑  lake=  to↑  catch↑  a↑  fish↑  but↑  he↑  fell↑  into↑  the↑  water=
+That↑  bill=  would↑  increase↑  the↑  debt=  too↑  much↑
+The↑  Republican=  party=  would↑  increase↑  the↑  debt=  too↑  much↑
+The↑  squash=  overshadowed↑  several  adjacent  rows  of↑  beans↑
+The↑  climbing=  beans=  choked↑  the↑  corn=  and↑  the↑  squash=  grew↑  so↑  big↑  that↑  it↑  overshadowed↑  several  adjacent  rows  of↑  beans↑
+The↑  corn=  overshadowed↑  several  adjacent  rows  of↑  beans↑
+The↑  climbing=  beans=  choked↑  the↑  corn=  and↑  the↑  squash=  grew↑  so↑  big↑  that↑  it↑  overshadowed↑  several  adjacent  rows  of↑  beans↑
+Britain↑  "s↑"  declaration  of↑  war↑  in↑  1914↑  automatically  brought↑  Canada↑  into↑  World↑  War↑  I.↑
+Because↑  Britain↑  still↑  maintained↑  control  of=  Canada↑  "s↑"  foreign↑  affairs↑  under↑  the↑  Confederation=  Act=
+Canada↑  "s↑"  declaration  of↑  war↑  in↑  1914↑  automatically  brought↑  Canada↑  into↑  World↑  War↑  I.↑
+Because↑  Britain↑  still↑  maintained↑  control  of=  Canada↑  "s↑"  foreign↑  affairs↑  under↑  the↑  Confederation=  Act=
+Coreference↑  resolvers↑  can↑  hardly↑  generalize↑  to↑  unseen↑  domains↑
+Lexical↑  features↑  can↑  hardly↑  generalize↑  to↑  unseen↑  domains↑
+The↑  sides=  came↑  to↑  an↑  agreement↑  after=  their↑  meeting  in↑  Sweden↑
+The↑  sides=  came↑  to↑  an↑  agreement↑  after=  their↑  meeting  in↑  Stockholm↑
+The↑  sides=  came↑  to↑  an↑  agreement↑  after=  their↑  meeting  in↑  Europe↑
+The↑  sides=  came↑  to↑  an↑  agreement↑  after=  their↑  meeting  in↑  Stockholm↑
+The↑  sides=  came↑  to↑  an↑  agreement↑  after=  their↑  meeting  in↑  Oslo↑
+The↑  sides=  came↑  to↑  an↑  agreement↑  after=  their↑  meeting  in↑  Stockholm↑
+TIL↑  David↑  Attenborough↑  and↑  the↑  Queen=  of↑  England↑  are  roughly  the↑  same=  age=
+TIL↑  David↑  Attenborough↑  and↑  Queen  Elizabeth  II  are  roughly  the↑  same=  age=
+TIL↑  David↑  Attenborough↑  and↑  the↑  Queen=  of↑  Denmark↑  are  roughly  the↑  same=  age=
+TIL↑  David↑  Attenborough↑  and↑  Queen  Elizabeth  II  are  roughly  the↑  same=  age=
+The↑  Sydney=  area=  has↑  been↑  inhabited↑  by↑  Aboriginal↑  people↑  for↑  at↑  least↑  30 000↓  years↑
+The↑  Sydney=  area=  has↑  been↑  inhabited↑  by↑  indigenous↑  Australians↑  for↑  at↑  least↑  30 000↓  years↑
+The↑  Sydney=  area=  has↑  been↑  inhabited↑  by↑  Europeans↑  for↑  at↑  least↑  30 000↓  years↑
+The↑  Sydney=  area=  has↑  been↑  inhabited↑  by↑  indigenous↑  Australians↑  for↑  at↑  least↑  30 000↓  years↑
+Deep↑  learning↑  has↑  achieved↑  impressive↑  performance↑  in↑  supervised↑  classification↑  and↑  structured↑  prediction↑  tasks↑
+Deep↑  neural↑  networks↑  have↑  achieved↑  impressive↑  performance↑  in↑  supervised↑  classification↑  and↑  structured↑  prediction↑  tasks↑
+Decision↑  trees↑  have↑  achieved↑  impressive↑  performance↑  in↑  supervised↑  classification↑  and↑  structured↑  prediction↑  tasks↑
+Deep↑  neural↑  networks↑  have↑  achieved↑  impressive↑  performance↑  in↑  supervised↑  classification↑  and↑  structured↑  prediction↑  tasks↑
+Dave↑  was↑  wet↑
+Dave↑  jumped↑  into↑  the↑  lake=
+Dave↑  was↑  hungry↑
+Dave↑  jumped↑  into↑  the↑  lake=
+The↑  House=  might↑  kill↑  the↑  bill=  anyway↑
+The↑  House=  will↑  pass↑  the↑  bill=
+Notorious↑  B.I.G.↑  passed↑  away↑
+During=  Notorious↑  B.I.G.↑  "s↑"  funeral  procession  through↑  the↑  streets=  of=  Brooklyn=  someone↑  interrupted↑  the↑  somber=  atmosphere=  by↑  playing↑  Hyponotize↑  at↑  full  volume  which↑  prompted↑  the↑  public=  to↑  dance↑  and↑  sing↑  along↑
+Notorious↑  B.I.G.↑  hosted↑  his↑  funeral↑
+During=  Notorious↑  B.I.G.↑  "s↑"  funeral  procession  through↑  the↑  streets=  of=  Brooklyn=  someone↑  interrupted↑  the↑  somber=  atmosphere=  by↑  playing↑  Hyponotize↑  at↑  full  volume  which↑  prompted↑  the↑  public=  to↑  dance↑  and↑  sing↑  along↑
+During=  Notorious↑  B.I.G.↑  "s↑"  funeral  procession  through↑  the↑  streets=  of=  Brooklyn=  there↑  was↑  a↑  somber↑  atmosphere↑  part↑  of↑  the↑  time=
+During=  Notorious↑  B.I.G.↑  "s↑"  funeral  procession  through↑  the↑  streets=  of=  Brooklyn=  someone↑  interrupted↑  the↑  somber=  atmosphere=  by↑  playing↑  Hyponotize↑  at↑  full  volume  which↑  prompted↑  the↑  public=  to↑  dance↑  and↑  sing↑  along↑
+Notorious↑  B.I.G.↑  "s↑"  funeral↑  procession↑  was↑  attended↑  by↑  the↑  general=  public=
+During=  Notorious↑  B.I.G.↑  "s↑"  funeral  procession  through↑  the↑  streets=  of=  Brooklyn=  someone↑  interrupted↑  the↑  somber=  atmosphere=  by↑  playing↑  Hyponotize↑  at↑  full  volume  which↑  prompted↑  the↑  public=  to↑  dance↑  and↑  sing↑  along↑
+Only↑  members  of=  the↑  public=  attended=  B.I.G.=  "s↑"  funeral↑  procession↑  was↑  restricted↑  to↑  an↑  exclusive↑  club↑  of↑  associates↑
+During=  Notorious↑  B.I.G.↑  "s↑"  funeral  procession  through↑  the↑  streets=  of=  Brooklyn=  someone↑  interrupted↑  the↑  somber=  atmosphere=  by↑  playing↑  Hyponotize↑  at↑  full  volume  which↑  prompted↑  the↑  public=  to↑  dance↑  and↑  sing↑  along↑
+The↑  problem=  in=  Ireland=  was  not↑  lack  of↓  food↓  which↓  was  plentiful  but  the↓  price=  of=  it=  which↓  was  beyond↓  the↓  reach=  of↓  the↓  poor=
+The↑  poor=  in↑  Ireland↑  starved↑
+The↑  problem=  in=  Ireland=  was  not↑  lack  of↓  food↓  which↓  was  plentiful  but  the↓  price=  of=  it=  which↓  was  beyond↓  the↓  reach=  of↓  the↓  poor=
+The↑  poor=  in=  Ireland=  had↑  plentiful↑  food↑
+The↑  problem=  in=  Ireland=  was  not↑  lack  of↓  food↓  which↓  was  plentiful  but  the↓  price=  of=  it=  which↓  was  beyond↓  the↓  reach=  of↓  the↓  poor=
+The↑  problem=  in=  Ireland=  was  the↑  price=  of↑  food↑
+The↑  problem=  in=  Ireland=  was  not↑  lack  of↓  food↓  which↓  was  plentiful  but  the↓  price=  of=  it=  which↓  was  beyond↓  the↓  reach=  of↓  the↓  poor=
+The↑  problem=  in=  Ireland=  was  lack  of↑  food↑
+The↑  problem=  in=  Ireland=  was  not↑  lack  of↓  food↓  which↓  was  plentiful  but  the↓  price=  of=  it=  which↓  was  beyond↓  the↓  reach=  of↓  the↓  poor=
+Every↑  other↓  existing↓  resource↓  is↑  smaller↑  than↑  this↑  dataset=
+This↑  dataset=  is  two↓  orders↑  of↑  magnitude↑  larger↑  than↑  all↑  other↓  existing↓  resources↓
+This↑  dataset=  is↑  very↑  big↑
+This↑  dataset=  is  two↓  orders↑  of↑  magnitude↑  larger↑  than↑  all↑  other↓  existing↓  resources↓
+I↑  failed↑  my↑  resolutions↑  in↑  2004=
+I↑  failed↑  my↑  resolutions↑  in↑  1995=
+I↑  did↓  not↑  fail↓  my↓  resolutions↓  in↓  2004=
+I↑  did↓  not↑  fail↓  my↓  resolutions↓  in↓  1995=
+The↑  doctor=  bears↑  some↑  responsibility↑  for↑  successful↑  care↑
+The↑  doctor=  does↓  not↑  bear↓  responsibility  for↓  successful↓  care↓
+The↑  patient=  bears↑  some↑  responsibility↑  for↑  successful↑  care↑
+The↑  patient=  does↓  not↑  bear↓  responsibility  for↓  successful↓  care↓
+The↑  attorney=  bears↑  some↑  responsibility↑  for↑  successful↑  care↑
+The↑  attorney=  does↓  not↑  bear↓  responsibility  for↓  successful↓  care↓
+He↑  has↑  a↑  conflict↑  of↑  interest↑
+Either↑  he↑  has↑  a↑  blind↑  trust↑  or↑  he↑  has↑  a↑  conflict↑  of↑  interest↑
+He↑  does↓  not↑  have↓  a↓  conflict↓  of↓  interest↓
+Either↑  he↑  has↑  a↑  blind↑  trust↑  or↑  he↑  has↑  a↑  conflict↑  of↑  interest↑
+He↑  has↑  a↑  blind↑  trust↑
+Either↑  he↑  has↑  a↑  blind↑  trust↑  or↑  he↑  has↑  a↑  conflict↑  of↑  interest↑
+He↑  does↓  not↑  have↓  a↓  blind↓  trust↓
+Either↑  he↑  has↑  a↑  blind↑  trust↑  or↑  he↑  has↑  a↑  conflict↑  of↑  interest↑
+Someone↑  has↑  a↑  set↑  of↑  principles↑  to↑  live↑  by↑
+Everyone↑  has↑  a↑  set↑  of↑  principles↑  to↑  live↑  by↑
+No↑  one↓  has↓  a↓  set↓  of↓  principles↓  to↓  live↓  by↓
+Everyone↑  has↑  a↑  set↑  of↑  principles↑  to↑  live↑  by↑
+Susan↑  does↑  not↑  have↑  a↑  set↑  of↑  principles↑  to↑  live↑  by↑
+Everyone↑  has↑  a↑  set↑  of↑  principles↑  to↑  live↑  by↑
+Someone↑  knows↑  how↑  turtles↑  reproduce↑
+Susan↑  knows↑  how↑  turtles↑  reproduce↑
+No↑  one↓  knows↓  how↓  turtles↓  reproduce↓
+Susan↑  knows↑  how↑  turtles↑  reproduce↑
+Cedric↑  does↑  not↑  know↑  how↑  turtles↑  reproduce↑
+Susan↑  knows↑  how↑  turtles↑  reproduce↑
+Either↓  there↓  is↓  no↑  bathroom↓  in↓  this↓  house=  or↑  it↓  is↓  in↓  a↓  funny↓  place↓
+The↑  bathroom=  in=  this=  house=  is↑  in↑  a↑  funny↑  place↑
+Either↓  there↓  is↓  no↑  bathroom↓  in↓  this↓  house=  or↑  it↓  is↓  in↓  a↓  funny↓  place↓
+All↑  speech↓  is↑  political↑  speech↑
+Joan↑  believes↑  that↑  all↑  speech↓  is↑  political↑  speech↑
+All↑  speech↓  is↑  political↑  speech↑
+Joan↑  doubts↑  that↑  all↑  speech↓  is↑  political↑  speech↑
+All↑  speech↓  is↑  political↑  speech↑
+Joan↑  knows↑  that↑  all↑  speech↓  is↑  political↑  speech↑
+No↑  speech↓  is↓  political↓  speech↓
+Joan↑  knows↑  that↑  all↑  speech↓  is↑  political↑  speech↑
+Grisham↑  won↑  the↑  popular=  vote=
+Grisham↑  hoped↑  to↑  win↑  the↑  popular=  vote=
+Grisham↑  did↓  not↑  win↓  the↓  popular=  vote=
+Grisham↑  hoped↑  to↑  win↑  the↑  popular=  vote=
+Tex↑  signed↑  the↑  contract=
+Jacob↑  saw↑  Tex↑  sign↑  the↑  contract=
+Tex↑  signed↑  the↑  contract=
+Jacob↑  did↓  not↑  see↓  Tex↓  sign↓  the↓  contract=
+Grisham↑  won↑  the↑  popular=  vote=
+Grisham↑  tried↑  to↑  win↑  the↑  popular=  vote=
+Grisham↑  did↓  not↑  win↓  the↓  popular=  vote=
+Grisham↑  tried↑  to↑  win↑  the↑  popular=  vote=
+Grisham↑  won↑  the↑  popular=  vote=
+Grisham↑  almost↑  won↑  the↑  popular=  vote=
+Grisham↑  won↑  the↑  popular=  vote=
+Grisham↑  barely↑  won↑  the↑  popular=  vote=
+Grisham↑  did↓  not↑  win↓  the↓  popular=  vote=
+Grisham↑  almost↑  won↑  the↑  popular=  vote=
+Grisham↑  did↓  not↑  win↓  the↓  popular=  vote=
+Grisham↑  barely↑  won↑  the↑  popular=  vote=
+She↑  had↑  three↓  questions↑
+She↑  has↑  three↓  questions↑
+Pedro↑  beats↑  his↑  donkey↑
+Pedro↑  does↑  not↑  have↑  a↑  donkey↑
+Xi↑  "s↑"  second↑  term↑  ends↑  in↑  2023=
+Deng↑  Xiaoping↑  was  chairman  of↑  the↑  Communist=  Party=  from↑  before↑  its↑  accession  to↑  power↑  in↑  1949=  until=  his↑  death  in↑  1976=
+Mao↑  was  chairman  of↑  the↑  Communist=  Party=  from↑  before↑  its↑  accession  to↑  power↑  in↑  1949=  until=  his↑  death  in↑  1976=
+—
+—
+—
+—
+The↑  announcement=  represents↑  a↑  slight↑  hardening↑  of=  Britain↑  "s↑"  posture↑  toward↑  Russia↑  with↑  which↑  it↑  has↑  had↑  a↑  valuable↑  intelligence↑  sharing↑  relationship↑
+The↑  announcement=  represents↑  a↑  significant↑  hardening↑  of=  Britain↑  "s↑"  posture↑  toward↑  Russia↑  with↑  which↑  it↑  has↑  had↑  a↑  valuable↑  intelligence↑  sharing↑  relationship↑
+The↑  announcement=  represents↑  a↑  significant↑  change↑  in=  Britain↑  "s↑"  posture  toward↑  Russia↑  with↑  which↑  it↑  has↑  had↑  a↑  valuable↑  intelligence↑  sharing↑  relationship↑
+The↑  announcement=  represents↑  a↑  significant↑  hardening↑  of=  Britain↑  "s↑"  posture↑  toward↑  Russia↑  with↑  which↑  it↑  has↑  had↑  a↑  valuable↑  intelligence↑  sharing↑  relationship↑
+”
+”
+”
+”
+”
+”
+People  across↑  the↑  globe=  were↓  not↑  expecting↓  Tillerson↓  "s↓"  departure↓
+The↑  announcement=  of=  Tillerson=  ’s=  departure=  sent↑  shock↑  waves↑  across↑  the↑  globe=
+People  across↑  the↑  globe=  were↑  prepared↑  for=  Tillerson↑  "s↑"  departure↑
+The↑  announcement=  of=  Tillerson=  ’s=  departure=  sent↑  shock↑  waves↑  across↑  the↑  globe=
+LaBeouf↑  had↑  tried↑  to↑  bum↑  a↑  smoke↑  from↑  a↑  police↑  officer↑
+LaBeouf↑  had↑  tried↑  to↑  bum↑  a↑  smoke↑  from↑  two↓  strangers↑  unaware↑  that↑  one  of↑  them↑  was↑  a↑  police↑  officer↑
+LaBeouf↑  knowingly↑  had↑  tried↑  to↑  bum↑  a↑  smoke↑  from↑  a↑  police↑  officer↑
+LaBeouf↑  had↑  tried↑  to↑  bum↑  a↑  smoke↑  from↑  two↓  strangers↑  unaware↑  that↑  one  of↑  them↑  was↑  a↑  police↑  officer↑
+Marc↑  Sims↑  has↑  been↑  getting↑  his↑  hair↑  cut↑  once↑  a↑  week↑  for↑  several↑  years↑
+Marc↑  Sims↑  has↑  been↑  seeing↑  his↑  barber↑  once↑  a↑  week↑  for↑  several↑  years↑
+Marc↑  Sims↑  has↑  been↑  cutting↑  hair↑  once↑  a↑  week↑  for↑  several↑  years↑
+Marc↑  Sims↑  has↑  been↑  seeing↑  his↑  barber↑  once↑  a↑  week↑  for↑  several↑  years↑
+Russians↑  have↑  identified↑  a↑  nerve↑  agent↑  used↑  in↑  a↑  suspected↑  chemical↑  attack↑  on↑  British↑  soil↑
+Lavrov↑  insisted↑  that  Russian↑  experts↑  should  be  able  to  examine↑  the↑  British=  evidence=  but↑  again  denied↑  Russian  responsibility  for=  last↑  week↑  ’s↑  attack↑
+Lavrov↑  insisted↑  that↑  Russian↑  experts↑  should↑  be↑  able↑  to↑  examine↑  the↑  British=  evidence=  but↑  again↑  denied↑  Russian↑  involvement↑  in=  last↑  week↑  ’s↑  attack↑
+Lavrov↑  insisted↑  that  Russian↑  experts↑  should  be  able  to  examine↑  the↑  British=  evidence=  but↑  again  denied↑  Russian  ignorance  of=  last↑  week↑  ’s↑  attack↑
+Lavrov↑  insisted↑  that↑  Russian↑  experts↑  should↑  be↑  able↑  to↑  examine↑  the↑  British=  evidence=  but↑  again↑  denied↑  Russian↑  involvement↑  in=  last↑  week↑  ’s↑  attack↑
+Twitch↑  has↑  routinely↑  given↑  Twitch↑  Prime↑  subscribers↑  free↑  games↑  and↑  in↑  game↑  content  in↑  the↑  past=
+Twitch↑  has↑  rarely↑  given↑  Twitch↑  Prime↑  subscribers↑  free↑  games↑  and↑  in↑  game↑  content  in↑  the↑  past=
+Several↑  games↑  will↑  be↑  available↑  to↑  Prime↑  members↑  until↑  March↑  31↓
+All↑  five↓  of↓  these↓  games=  will↑  be↑  available↑  to↑  Prime↑  members↑  until↑  March↑  31↓
+Future↑  legislators↑  should↑  focus↑  on↑  low↑  taxes↑  limited↑  regulation↑  and↑  local  control  to↑  maintain↑  a↑  predictable↑  and↑  reliable↑  business↑  climate↑  avoiding  legislation  that↑  distracts↑  from↑  critical↑  priorities↑  and↑  is↑  viewed↑  by↑  many  as↑  enabling  discrimination  against↑  certain  groups  of↑  Texans↑
+Future↑  legislators↑  should↑  focus↑  on↑  low↑  taxes↑  limited↑  regulation↑  and↑  local  control  to↑  maintain↑  a↑  predictable↑  and↑  reliable↑  business↑  climate↑  avoiding  legislation  that↑  distracts↑  from↑  critical↑  priorities↑  and↑  is↑  viewed↑  by↑  many  as↑  enabling  discrimination  against↑  certain↑  groups↑  or↑  classes  of↑  Texans↑
+”
+”
+”
+”
+”
+”
+A↑  bathroom↑  bill↑  made↑  it↑  to=  Abbott↑  ’s↑  desk↑  by↑  the↑  end=  of=  the=  legislative=  session=  in↑  May↑
+No↑  bathroom↓  bill↓  made↓  it↓  to=  Abbott↓  ’s↓  desk↓  by↓  the↓  end=  of=  the=  legislative=  session=  in↓  May↓
+No↑  bills↓  made↓  it↓  to=  Abbott↓  ’s↓  desk↓  by↓  the↓  end=  of=  the=  legislative=  session=  in↓  May↓
+No↑  bathroom↓  bill↓  made↓  it↓  to=  Abbott↓  ’s↓  desk↓  by↓  the↓  end=  of=  the=  legislative=  session=  in↓  May↓
+A↑  bill↑  made↑  it↑  to=  Abbott↑  ’s↑  desk↑  by↑  the↑  end=  of=  the=  legislative=  session=  in↑  May↑
+No↑  bathroom↓  bill↓  made↓  it↓  to=  Abbott↓  ’s↓  desk↓  by↓  the↓  end=  of=  the=  legislative=  session=  in↓  May↓
+A↑  Tennessee↑  House↑  subcommittee↑  has↑  approved↑  legislation↑  to↑  offer↑  in↑  state↑  tuition↑  to↑  public↑  college↑  students↑  whose↑  parents↑  kept↑  them↑  in↑  the↑  country=  illegally↑
+A↑  Tennessee↑  House↑  subcommittee↑  has↑  approved↑  legislation↑  to↑  offer↑  in↑  state↑  tuition↑  to↑  public  college  students  whose↑  parents↑  brought↑  or↑  kept↑  them↑  in↑  the↑  country=  illegally↑
+Missouri↑  lawmakers↑  are↑  considering↑  a↑  boycott↑  of↑  companies↑  that↑  boycott↑  Israel↑
+Missouri↑  lawmakers↑  are↑  considering↑  a↑  government↑  boycott↑  of↑  companies↑  that↑  boycott↑  Israel↑
+He↑  said↑  the↑  United=  States=  intended↑  to↑  bomb↑  the↑  government=  quarter=  in↑  nearby  Damascus  where  he↑  said↑  Russian↑  military↑  advisers↑  Russian↑  military↑  police↑  and↑  Russian  ceasefire  monitors  were  based
+He↑  said↑  the↑  United=  States=  intended↑  to↑  use↑  the↑  fake=  attack=  as↑  a↑  pretext↑  to↑  bomb↑  the↑  government=  quarter=  in↑  nearby  Damascus  where  he↑  said↑  Russian↑  military↑  advisers↑  Russian↑  military↑  police↑  and↑  Russian  ceasefire  monitors  were  based
+It↑  is↑  so↑  sensitive↑  that↑  they↑  agreed↑  to↑  talk↑  about↑  the↑  matter=  only  on↑  condition  of↑  anonymity↑
+The↑  matter=  is↑  so↑  sensitive↑  that↑  they↑  agreed↑  to↑  talk↑  only↑  on↑  condition  of↑  anonymity↑
+The↑  matter=  is↑  so↑  sensitive↑  that↑  they↑  agreed↑  to↑  talk↑  about↑  something  else↑  on↑  condition  of↑  anonymity↑
+The↑  matter=  is↑  so↑  sensitive↑  that↑  they↑  agreed↑  to↑  talk↑  only↑  on↑  condition  of↑  anonymity↑
+—
+—
+—
+—
+Putin↑  is↑  so↑  entrenched↑  within↑  Russia↑  ’s↑  ruling↑  system↑  that  many  of=  its↑  members↑  can  imagine↑  no↑  other↓  leader↓  than↓  Putin↓
+Putin↑  is↑  so↑  entrenched↑  within↑  Russia↑  ’s↑  ruling↑  system↑  that  many  of=  its↑  members↑  can  imagine↑  no↑  other↓  leader↓
+Putin↑  is↑  so↑  entrenched↑  within↑  Russia↑  ’s↑  ruling↑  system↑  that  many  of=  its↑  members↑  can  imagine↑  no↑  other↓  leader↓  than↓  themselves↓
+Putin↑  is↑  so↑  entrenched↑  within↑  Russia↑  ’s↑  ruling↑  system↑  that  many  of=  its↑  members↑  can  imagine↑  no↑  other↓  leader↓
+Three=  women↑  alleged↑  they↑  were↑  sexually↑  assaulted↑  by↑  male↑  colleagues↑  during↑  that↑  time=
+Three=  women↑  alleged↑  they↑  were↑  sexually↑  assaulted↑  or↑  raped↑  by↑  male↑  colleagues↑  during↑  that↑  time=
+Three=  women↑  alleged↑  they↑  were↑  raped↑  by↑  male↑  colleagues↑  during↑  that↑  time=
+Three=  women↑  alleged↑  they↑  were↑  sexually↑  assaulted↑  or↑  raped↑  by↑  male↑  colleagues↑  during↑  that↑  time=
+Our↑  deepest↑  sympathies↑  are↑  with↑  a↑  victim↑  who↑  was↑  affected↑  by↑  this↑  accident=
+There  will  be  a↑  comprehensive↑  investigation↑  involving↑  authorities↑
+The↑  crown=  prince=  "s↑"  mother↑  would↑  not↑  be↑  the↑  first=  royal=  whose↑  movements↑  were↑  restricted↑  since↑  June↑  2017↓
+The↑  crown=  prince=  "s↑"  mother↑  would↑  not↑  be↑  the↑  first=  Saudi=  royal=  whose↑  movements↑  were↑  restricted↑  since↑  June↑  2017↓
+Representatives  of↑  the↑  Saudi=  government=  denied↑  to↑  NBC↑  the↑  claims=  that=  the=  princess=  is=  separated=  from=  her=  husband=  or↑  under=  house  arrest
+The↑  Saudi=  Embassy=  in=  Washington=  denied↑  to↑  NBC↑  the↑  claims=  that=  the=  princess=  is=  separated=  from=  her=  husband=  or↑  under=  house  arrest
+American  ambassadors  to↑  Riyadh↑  denied↑  to↑  NBC↑  the↑  claims=  that=  the=  princess=  is=  separated=  from=  her=  husband=  or↑  under=  house  arrest
+The↑  Saudi=  Embassy=  in=  Washington=  denied↑  to↑  NBC↑  the↑  claims=  that=  the=  princess=  is=  separated=  from=  her=  husband=  or↑  under=  house  arrest
+From↑  a↑  quick↑  Google↑  search↑  it↑  was↑  created↑  as↑  a↑  hard↑  fork↑  of↑  Bitcoin↑  and↑  it↑  "s↑"  supposed↑  to↑  be↑  faster↑  and↑  more↑  sustainable↑  than↑  Bitcoin↑
+From↑  a↑  quick↑  Google↑  search↑  Bitcoin↑  Cash↑  was↑  created↑  as↑  a↑  hard↑  fork↑  of↑  Bitcoin↑  and↑  it↑  "s↑"  supposed↑  to↑  be↑  faster↑  and↑  more↑  sustainable↑
+From↑  a↑  quick↑  Google↑  search↑  Bitcoin↑  Cash↑  was↑  created↑  as↑  a↑  hard↑  fork↑  of↑  Bitcoin↑  and↑  it↑  "s↑"  supposed↑  to↑  be↑  faster↑  and↑  more↑  sustainable↑  than↑  Bitcoin↑  Cash↑
+From↑  a↑  quick↑  Google↑  search↑  Bitcoin↑  Cash↑  was↑  created↑  as↑  a↑  hard↑  fork↑  of↑  Bitcoin↑  and↑  it↑  "s↑"  supposed↑  to↑  be↑  faster↑  and↑  more↑  sustainable↑
+From↑  a↑  quick↑  Google↑  search↑  Bitcoin↑  Cash↑  was↑  created↑  as↑  a↑  hard↑  fork↑  of↑  Bitcoin↑  and↑  it↑  "s↑"  supposed↑  to↑  be↑  faster↑  and↑  more↑  sustainable↑
+He↑  abandoned↑  the↑  radical=  teachings=  of=  the↑  Nation=  of=  Islam=  in↑  favor  of↑  mainstream↑  Islam↑  until↑  a↑  pilgrimage↑  to↑  Mecca↑  where↑  he↑  witnessed↑  Muslims  of↑  all↑  races↓  coming↓  together  in↓  solidarity↓
+He↑  abandoned↑  the↑  radical=  teachings=  of=  the↑  Nation=  of=  Islam=  in↑  favor  of↑  mainstream↑  Islam↑  after↑  a↑  pilgrimage↑  to↑  Mecca↑  where↑  he↑  witnessed↑  Muslims  of↑  all↑  races↓  coming↓  together  in↓  solidarity↓
+He↑  abandoned↑  the↑  radical=  teachings=  of=  the↑  Nation=  of=  Islam=  in↑  favor  of↑  mainstream↑  Islam↑  due↑  in↑  part  to↑  a↑  pilgrimage↑  to↑  Mecca↑  where↑  he↑  witnessed↑  Muslims  of↑  all↑  races↓  coming↓  together  in↓  solidarity↓
+He↑  abandoned↑  the↑  radical=  teachings=  of=  the↑  Nation=  of=  Islam=  in↑  favor  of↑  mainstream↑  Islam↑  after↑  a↑  pilgrimage↑  to↑  Mecca↑  where↑  he↑  witnessed↑  Muslims  of↑  all↑  races↓  coming↓  together  in↓  solidarity↓
+David↑  Tennant↑  "s↑"  episodes↑  were↑  definitely↑  the↑  scariest=  and↑  best↑  ever↑
+David↑  Tennant↑  "s↑"  episodes↑  were↑  definitely↑  the↑  scariest=  and↑  best↑  in↑  years↑
+David↑  Tennant↑  is  the↑  best=  Doctor=  in↑  the↑  series=
+David↑  Tennant↑  is  the↑  best=  Doctor=  in↑  the↑  series=
+Fun  fact  that  guy  in↑  the↑  Ireland=  jacket=  is  on↑  Saturday  Night  Live  now
+Fun  fact  that  guy  in↑  the↑  Ireland=  jacket=  is  on↑  SNL  now
+That↑  perspective=  makes↑  it↑  seem↑  gigantic↑
+That↑  perspective=  makes↑  it↑  look↑  gigantic↑
+That↑  perspective=  makes↑  it↑  look↑  miniscule↑
+That↑  perspective=  makes↑  it↑  look↑  gigantic↑
+That↑  perspective=  makes↑  it↑  sound↑  gigantic↑
+That↑  perspective=  makes↑  it↑  look↑  gigantic↑
+Unshielded  radiation  from↑  a↑  nuclear↑  core↑  will↑  kill↑  you↑  in↑  a↑  matter↑  of↑  hours↑
+Unshielded  radiation  from↑  a↑  nuclear↑  core↑  could↑  kill↑  you↑  in↑  a↑  matter↑  of↑  hours↑
+He↑  survived↑  the↑  blunt=  force=  of=  the=  blast=
+I↑  think↑  the↑  unrealistic=  part=  is↑  him↑  surviving↑  the↑  blunt=  force=  of=  the=  blast=
+They↑  are  products  of↑  the↑  radiation=  from=  the=  bomb=
+The↑  theory=  that  they=  are  products  of↑  the↑  radiation=  from=  the=  bomb=  is↑  genius↑
+They↑  are  products  of↑  the↑  radiation=  from=  the=  bomb=
+The↑  theory=  that  they=  are  products  of↑  the↑  radiation=  from=  the=  bomb=  is↑  correct↑
+Plenty  of↑  other↑  species↑  could↑  be↑  called↑  humans↑
+I↑  could↓  n’t↑  bring↓  myself↓  to↓  throw↓  it↓  away↓  out↓  of↓  affection  to↓  her↓
+I↑  have  always  seen  hummingbirds↑  flying↑
+I↑  have  never  seen  a↑  hummingbird↑  not↑  flying↓
+I↑  have↑  never↑  seen↑  a↑  hummingbird↑
+I↑  have  never  seen  a↑  hummingbird↑  not↑  flying↓
+I↑  have  never  seen  a↑  bird↑  not↑  flying↓
+I↑  have  never  seen  a↑  hummingbird↑  not↑  flying↓
+I↑  wish↑  both  of↑  you↑  could  get↑  an↑  upvote↑  from↑  me↑  to↑  share↑
+Hummingbirds↑  are  red  hence↑  why↑  the↑  feeders=  are↑  usually↑  these↑  colours=
+Hummingbirds↑  are  really  attracted  to↑  bright↑  orange↑  and↑  red↑  hence↑  why↑  the↑  feeders=  are↑  usually↑  these↑  colours=
+Hummingbirds↑  are  really  attracted  to↑  bright↑  red↑  hence↑  why↑  the↑  feeders=  are↑  usually↑  these↑  colours=
+Hummingbirds↑  are  really  attracted  to↑  bright↑  orange↑  and↑  red↑  hence↑  why↑  the↑  feeders=  are↑  usually↑  these↑  colours=
+Hummingbirds↑  are  really  attracted  to↑  bright↑  orange↑  and↑  red↑  hence↑  why↑  the↑  feeders=  are↑  usually↑  these↑  colours=
+Hummingbirds↑  have↑  monochromatic↑  vision↑
+Hummingbirds↑  are  really  attracted  to↑  bright↑  orange↑  and↑  red↑  hence↑  why↑  the↑  feeders=  are↑  usually↑  these↑  colours=
+Hummingbirds↑  will↑  feed↑  from↑  feeders  of↑  all↑  colours↓
+Hummingbirds↑  are  really  attracted  to↑  bright↑  orange↑  and↑  red↑  hence↑  why↑  the↑  feeders=  are↑  usually↑  these↑  colours=
+Temperature↑  must↑  be↑  just↑  right↑
+Temperature↑  and↑  snow  consistency  must↑  be↑  just↑  right↑
+Life↑  is  nothing  at↑  all↑
+Life↑  is↑  a↑  daring↑  adventure↑
+Life↑  is↓  a↓  not↑  a↓  daring↓  adventure↓
+This↑  clip=  was↑  funny↑
+Has↑  bad  reviews  on↑  Amazon↑  but↑  this↑  clip=  was↑  funny↑
+You↑  ’re↑  walking↑  through↑  the↑  woods=  there↓  ’s↓  no↑  one↓  around↓  and↑  your↑  phone↑  is  dead  out↑  of↑  the↑  corner=  of=  your=  eye=  you↑  spot↑  him↑  Shia↑  LaBeouf↑
+Weird  that↑  you↑  want↑  to↑  show↑  this↑  video=  to↑  a↑  stack↑  of↑  papers↑
+Weird  that↑  you↑  want↑  to↑  show↑  something↑  to↑  a↑  stack↑  of↑  papers↑
+I↑  think↑  this↑  was  part  of↑  the↑  last=  episode=  of=  Bojack=  Horseman=
+I↑  think↑  this↑  was  part  of↑  the↑  last=  season=  of=  Bojack=  Horseman=
+It↑  "s↑"  the↑  perfect=  reverse=  psychology=  tactic=
+This↑  article=  reads↑  like↑  satire↑
+My↑  jokes↑  fully↑  reveal↑  my↑  character↑
+My↑  jokes↑  reflect↑  exactly↑  zero  of=  my↑  character↑
+In=  the↑  1890=  "s↑"  a↑  typical↑  worker↑  worked↑  60↓  hours↑  per↑  week↑  down↑  to↑  48=  by↑  1920↑  and↑  40↑  by↑  1940=
+In=  the↑  1890=  "s↑"  a↑  typical↑  worker↑  worked↑  60↓  hours↑  per↑  week↑  down↑  to↑  48=  by↑  1920↑  and↑  40↑  by↑  1940=
+The↑  Labor=  Theory=  of=  Value=  is  at↑  the↑  heart=  of↑  the↑  economics=  of=  cost=
+...
+The↑  Labor=  Theory=  of=  Value=  is  a↑  scarce↑  determinant↑  of↑  the↑  economics=  of=  cost=
+...
+...
+...
+Their↑  loading↑  capacity↑  was↑  about↓  58↓  tonnes↑
+Their↑  loading↑  capacity↑  was↑  about↓  262↓  tonnes↑
+Due↑  to↑  inadequate↑  funding↑  76↓  T↑  and↑  the↑  rest=  of↑  the↑  250t=  class=  were↑  essentially↑  high↑  seas↑  vessels↑  despite↑  the↑  original=  intention=  that  they=  would  be  used  for↑  coastal↑  operations↑
+Due↑  to↑  inadequate↑  funding↑  76↓  T↑  and↑  the↑  rest=  of↑  the↑  250t=  class=  were↑  essentially↑  coastal↑  vessels↑  despite↑  the↑  original=  intention=  that  they=  would  be  used  for↑  high  seas  operations
+—
+—
+Lacaille↑  and↑  Gould↑  agreed↑  about↑  the↑  designation=  of=  Kappa=  Pyxidis=
+Kappa↑  Pyxidis↑  was↑  catalogued↑  but↓  not↑  given↓  a↓  Bayer↓  designation↓  by↓  Lacaille↓  but↑  Gould↑  felt↑  the↑  star=  was  bright  enough  to  warrant↑  a↑  letter↑
+Lacaille↑  and↑  Gould↑  disagreed↑  about↑  the↑  designation=  of=  Kappa=  Pyxidis=
+Kappa↑  Pyxidis↑  was↑  catalogued↑  but↓  not↑  given↓  a↓  Bayer↓  designation↓  by↓  Lacaille↓  but↑  Gould↑  felt↑  the↑  star=  was  bright  enough  to  warrant↑  a↑  letter↑
+A↑  formation↑  of↑  approximately↓  50↓  officers↑  of↑  the↑  police=  of=  the↑  City=  of=  Baltimore=  eventually  placed↑  themselves↑  between↑  the↑  rioters=  and↑  the↑  militiamen=  allowing↑  the↑  6th=  Massachusetts=  to↑  proceed↑  to↑  Camden↑  Station↑
+A↑  formation↑  of↑  approximately↓  50↓  officers↑  of↑  the↑  Baltimore=  Police=  eventually  placed↑  themselves↑  between↑  the↑  rioters=  and↑  the↑  militiamen=  allowing↑  the↑  6th=  Massachusetts=  to↑  proceed↑  to↑  Camden↑  Station↑
+A↑  formation↑  of↑  approximately↓  50↓  officers↑  of↑  the↑  police=  of=  from=  outside=  Baltimore=  eventually  placed↑  themselves↑  between↑  the↑  rioters=  and↑  the↑  militiamen=  allowing↑  the↑  6th=  Massachusetts=  to↑  proceed↑  to↑  Camden↑  Station↑
+A↑  formation↑  of↑  approximately↓  50↓  officers↑  of↑  the↑  Baltimore=  Police=  eventually  placed↑  themselves↑  between↑  the↑  rioters=  and↑  the↑  militiamen=  allowing↑  the↑  6th=  Massachusetts=  to↑  proceed↑  to↑  Camden↑  Station↑
+On↑  May↑  13↓  Major↑  General↑  Benjamin↑  F.↑  Butler↑  occupied↑  the↑  city=  with↑  several↑  Union↑  regiments↑  in↑  anticipation  of↑  a↑  Confederate↑  attack↑  on↑  Baltimore↑  which↑  never↑  developed↑
+The↑  regiment=  returned↑  to↑  Baltimore↑  on↑  May↑  13↓  when↑  Major↑  General↑  Benjamin↑  F.↑  Butler↑  occupied↑  the↑  city=  with↑  several↑  Union↑  regiments↑  in↑  anticipation  of↑  a↑  Confederate↑  attack↑  on↑  Baltimore↑  which↑  never↑  developed↑
+Long↑  before↑  May↑  13↓  Major↑  General↑  Benjamin↑  F.↑  Butler↑  occupied↑  the↑  city=  with↑  several↑  Union↑  regiments↑  in↑  anticipation  of↑  a↑  Confederate↑  attack↑  on↑  Baltimore↑  which↑  never↑  developed↑
+The↑  regiment=  returned↑  to↑  Baltimore↑  on↑  May↑  13↓  when↑  Major↑  General↑  Benjamin↑  F.↑  Butler↑  occupied↑  the↑  city=  with↑  several↑  Union↑  regiments↑  in↑  anticipation  of↑  a↑  Confederate↑  attack↑  on↑  Baltimore↑  which↑  never↑  developed↑
+Threatened↑  by↑  habitat↑  loss↑  and↑  hunting↑  ruffed↑  lemurs↑  are↑  extinct↑  in↑  the↑  wild=
+Threatened↑  by↑  habitat↑  loss↑  and↑  hunting↑  ruffed↑  lemurs↑  are↑  facing↑  extinction↑  in↑  the↑  wild=
+Ruffed↑  lemurs↑  prefer↑  to↑  live↑  lower↑  than↑  white  headed  lemurs↑
+Ruffed↑  lemurs↑  prefer↑  to↑  live↑  higher↑  than↑  white  headed  lemurs↑
+The↑  battlecruiser=  Seydlitz=  struck↑  a↑  mine↑  while  en  route  to↑  the↑  target=  and↑  was  damaged
+The↑  battlecruiser=  Seydlitz=  struck↑  a↑  mine↑  while  en  route  to↑  the↑  target=  and↑  had  to  withdraw
+The↑  battlecruiser=  Seydlitz=  struck↑  a↑  mine↑  while  en  route  to↑  the↑  target=  and↑  was  destroyed
+The↑  battlecruiser=  Seydlitz=  struck↑  a↑  mine↑  while  en  route  to↑  the↑  target=  and↑  had  to  withdraw
+By↑  saying↑  this↑  Kennedy↑  was↑  admonishing↑  people↑  not↑  to↑  riot↓  in↑  wake  of↑  King↑  "s↑"  death↑  and↑  in↑  effect  equating↑  their↑  actions↑  to↑  that  of=  the↑  civil=  rights=  leader=  "s↑"  assassin↑
+By↑  saying↑  this↑  Kennedy↑  was↑  admonishing↑  people↑  not↑  to↑  riot↓  in↑  wake  of↑  King↑  "s↑"  death↑  and↑  in↑  effect  equating↑  their↑  actions↑  to↑  that  of=  Kennedy↑  "s↑"  assassin↑
+By↑  saying↑  this↑  Kennedy↑  was↑  admonishing↑  people↑  not↑  to↑  riot↓  in↑  wake  of↑  King↑  "s↑"  death↑  and↑  in↑  effect  equating↑  their↑  actions↑  to↑  that  of=  the↑  civil=  rights=  leader=  "s↑"  assassin↑
+By↑  saying↑  this↑  Kennedy↑  was↑  admonishing↑  people↑  not↑  to↑  riot↓  in↑  wake  of↑  King↑  "s↑"  death↑  and↑  in↑  effect  equating↑  their↑  actions↑  to↑  that  of=  Malcolm↑  X↑  "s↑"  assassin↑
+By↑  saying↑  this↑  Kennedy↑  was↑  admonishing↑  people↑  not↑  to↑  riot↓  in↑  wake  of↑  King↑  "s↑"  death↑  and↑  in↑  effect  equating↑  their↑  actions↑  to↑  that  of=  the↑  civil=  rights=  leader=  "s↑"  assassin↑
+By↑  saying↑  this↑  Kennedy↑  was↑  admonishing↑  people↑  not↑  to↑  riot↓  in↑  wake  of↑  King↑  "s↑"  death↑  and↑  in↑  effect  equating↑  their↑  actions↑  to↑  that  of=  his↑  assassin↑
+By↑  saying↑  this↑  Kennedy↑  was↑  admonishing↑  people↑  not↑  to↑  riot↓  in↑  wake  of↑  King↑  "s↑"  death↑  and↑  in↑  effect  equating↑  their↑  actions↑  to↑  that  of=  the↑  civil=  rights=  leader=  "s↑"  assassin↑
+By↑  saying↑  this↑  Kennedy↑  was↑  admonishing↑  people↑  not↑  to↑  riot↓  in↑  wake  of↑  King↑  "s↑"  death↑  and↑  in↑  effect  equating↑  their↑  actions↑  to↑  that  of↑  the↑  civil=  rights=  leader=
+By↑  saying↑  this↑  Kennedy↑  was↑  admonishing↑  people↑  not↑  to↑  riot↓  in↑  wake  of↑  King↑  "s↑"  death↑  and↑  in↑  effect  equating↑  their↑  actions↑  to↑  that  of=  the↑  civil=  rights=  leader=  "s↑"  assassin↑
+After  quoting↑  Abraham↑  Lincoln↑  he↑  portrayed↑  the↑  American=  public=  as↑  a↑  people↑  that↑  undermined↑  its↑  national↑  ideals↑
+After  quoting↑  Abraham↑  Lincoln↑  he↑  portrayed↑  the↑  American=  public=  "s↑"  violent↑  tendencies↑  as  undermining↑  its↑  national↑  ideals↑
+Hazelnuts↑  have↑  rarely↑  been↑  found↑  on↑  other↑  Mesolithic↑  sites↑
+Dry↑  conditions↑  and↑  oxygen↑  contribute↑  to↑  the↑  degredation=  of=  organic=  remains=  in↑  middens↑
+Middens  with↑  damp  anaerobic↑  conditions↑  can  even  preserve  organic↑  remains↑
+Damp↑  conditions↑  and↑  lack  of↑  oxygen↑  contribute↑  to↑  the↑  degredation=  of=  organic=  remains=  in↑  middens↑
+Middens  with↑  damp  anaerobic↑  conditions↑  can  even  preserve  organic↑  remains↑
+Mass↑  analysis↑  is↑  based↑  on↑  analyzing  debitage  populations  based↑  on↑  their↑  size↑  distribution↑  across↑  specified↑  size↑  grades↑
+Prismatic↑  blades↑  appeared↑  in↑  high↑  frequencies↑  during↑  the↑  Upper=  Paleolithic=
+Prismatic↑  blades↑  begin↑  to↑  appear↑  in↑  high↑  frequencies↑  during↑  the↑  transition=  between=  the=  Middle=  and↑  Upper=  Paleolithic=
+Prismatic↑  blades↑  appeared↑  in↑  high↑  frequencies↑  during↑  the↑  Middle=  Paleolithic=
+Prismatic↑  blades↑  begin↑  to↑  appear↑  in↑  high↑  frequencies↑  during↑  the↑  transition=  between=  the=  Middle=  and↑  Upper=  Paleolithic=
+Prismatic↑  appeared↑  in↑  high↑  frequencies↑  after↑  the↑  transition=  between=  the=  Middle=  and↑  Upper=  Paleolithic=
+Prismatic↑  blades↑  begin↑  to↑  appear↑  in↑  high↑  frequencies↑  during↑  the↑  transition=  between=  the=  Middle=  and↑  Upper=  Paleolithic=
+Albertosaurus↑  and↑  other  tyrannosaurids  were↑  heterodont↑
+Albertosaurus↑  and↑  other  tyrannosaurids  were↑  heterodont↑  with↑  teeth  of↑  different↑  forms↑  depending↑  on↑  their↑  position↑  in↑  the↑  mouth=
+Albertosaurus↑  and↑  other  tyrannosaurids  were↑  heterodont↑  with↑  lots  of↑  teeth↑
+Albertosaurus↑  and↑  other  tyrannosaurids  were↑  heterodont↑  with↑  teeth  of↑  different↑  forms↑  depending↑  on↑  their↑  position↑  in↑  the↑  mouth=
+Furthermore↑  the↑  French=  dangerously↑  underestimated↑  Austrian↑  military↑  skill↑  and↑  tenacity↑
+Furthermore↑  the↑  French=  dangerously↑  underestimated↑  Austrian↑  tenacity↑  and↑  military  skill
+Furthermore↑  the↑  French=  dangerously↑  underestimated↑  Austrian↑  military↑  skill↑
+Furthermore↑  the↑  French=  dangerously↑  underestimated↑  Austrian↑  tenacity↑  and↑  military  skill
+There  are  four↓  supraocular↑  scales↑  above↑  the↑  eyes=  in↑  most↑  specimens=  and↑  five↓  supraciliary  scales↑  immediately↑  above↑  the↑  eyes=  below=  the=  supraoculars=
+There  are  four↓  supraocular↑  scales↑  above↑  the↑  eyes=  in↑  almost↓  all↓  specimens↑  and↑  five↓  supraciliary↑  scales↑  immediately↑  above↑  the↑  eyes=  below=  the=  supraoculars=
+There  are  four↓  scales↑  above↑  the↑  eyes=  in↑  almost↓  all↓  specimens↑  and↑  five↓  supraciliary↑  scales↑  immediately↑  above↑  the↑  eyes=  below=  the=  supraoculars=
+There  are  four↓  supraocular↑  scales↑  above↑  the↑  eyes=  in↑  almost↓  all↓  specimens↑  and↑  five↓  supraciliary↑  scales↑  immediately↑  above↑  the↑  eyes=  below=  the=  supraoculars=
+Regional↑  governors↑  could↓  not↑  rely↓  on↓  anyone  for↓  help↓  in↓  times  of↓  crisis↓  and↑  the↑  ensuing=  food=  shortages=  and↑  political  disputes  escalated↑  into↑  famines↑  and↑  small  scale  civil  wars
+Regional↑  governors↑  could↓  not↑  rely↓  on↓  the↓  king=  for↓  help↓  in↓  times  of↓  crisis↓  and↑  the↑  ensuing=  food=  shortages=  and↑  political  disputes  escalated↑  into↑  famines↑  and↑  small  scale  civil  wars
+The↑  pharaohs=  of=  the↑  Middle=  Kingdom=  of=  Egypt=  restored↑  the↑  country=  "s↑"  stability↑  and↑  prosperity↑  thereby  stimulating↑  a↑  resurgence↑  of↑  art↑  literature↑  and↑  monumental  building  projects
+The↑  pharaohs=  of=  the=  Middle=  Kingdom=  restored↑  the↑  country=  "s↑"  stability↑  and↑  prosperity↑  thereby  stimulating↑  a↑  resurgence↑  of↑  art↑  literature↑  and↑  monumental  building  projects
+The↑  pharaohs=  of=  the↑  Middle=  Kingdom=  of=  China=  restored↑  the↑  country=  "s↑"  stability↑  and↑  prosperity↑  thereby  stimulating↑  a↑  resurgence↑  of↑  art↑  literature↑  and↑  monumental  building  projects
+The↑  pharaohs=  of=  the=  Middle=  Kingdom=  restored↑  the↑  country=  "s↑"  stability↑  and↑  prosperity↑  thereby  stimulating↑  a↑  resurgence↑  of↑  art↑  literature↑  and↑  monumental  building  projects
+The↑  pharaohs=  of=  Egypt=  restored↑  the↑  country=  "s↑"  stability↑  and↑  prosperity↑  thereby  stimulating↑  a↑  resurgence↑  of↑  art↑  literature↑  and↑  monumental  building  projects
+The↑  pharaohs=  of=  the=  Middle=  Kingdom=  restored↑  the↑  country=  "s↑"  stability↑  and↑  prosperity↑  thereby  stimulating↑  a↑  resurgence↑  of↑  art↑  literature↑  and↑  monumental  building  projects
+The↑  15th=  Tank=  Corps=  was  a↑  corps↑  of=  the↑  Soviet=  Union=  "s↑"  Red↑  Army↑
+The↑  15th=  Tank=  Corps=  was  a↑  tank↑  corps↑  of=  the↑  Soviet=  Union=  "s↑"  Red↑  Army↑
+It↑  "s↓"  not↑  butter↓
+I↑  ca↑  not↑  believe↑  it↑  "s↓"  not↑  butter↓
+It↑  "s↑"  butter↑
+I↑  ca↑  not↑  believe↑  it↑  "s↓"  not↑  butter↓
+However↑  these↑  regularities=  are↑  always↑  obscured↑  by↑  semantic↑  and↑  syntactic↑  differences↑
+However↑  these↑  regularities=  are↑  sometimes↑  obscured↑  by↑  semantic↑  and↑  syntactic↑  differences↑
+However↑  these↑  regularities=  are↑  sometimes↑  obscured↑  by↑  syntactic↑  differences↑
+However↑  these↑  regularities=  are↑  sometimes↑  obscured↑  by↑  semantic↑  and↑  syntactic↑  differences↑
+In↑  grounded↑  communication↑  tasks↑  speakers↑  face↑  pressures↑  in↑  choosing↑  referential↑  expressions↑  that↑  distinguish↑  their↑  targets↑  from↑  others↑  in↑  the↑  context=  leading↑  to↑  many↑  kinds=  of↑  meaning↑  enrichment↑
+In↑  grounded↑  communication↑  tasks↑  speakers↑  face↑  pressures↑  in↑  choosing↑  referential↑  expressions↑  that↑  distinguish↑  their↑  targets↑  from↑  others↑  in↑  the↑  context=  leading↑  to↑  many↑  kinds=  of↑  pragmatic↑  meaning↑  enrichment↑
+Thus↑  a↑  model↑  of↑  the↑  speaker=  must↑  process↑  representations  of↑  the↑  colors=  in↑  the↑  context=  and↑  produce↑  an↑  utterance↑  to↑  distinguish↑  the↑  target=  color=  from↑  the↑  other=  colors=
+Thus↑  a↑  model↑  of↑  the↑  speaker=  must↑  process↑  representations  of↑  the↑  colors=  in↑  the↑  context=  and↑  produce↑  an↑  utterance↑  to↑  distinguish↑  the↑  target=  color=  from↑  the↑  others=
+Thus↑  a↑  model↑  of↑  the↑  speaker=  must↑  process↑  representations  of↑  the↑  colors=  in↑  the↑  context=  and↑  produce↑  an↑  utterance↑  to↑  distinguish↑  the↑  target=  color=  from↑  the↑  other=  utterances=
+Thus↑  a↑  model↑  of↑  the↑  speaker=  must↑  process↑  representations  of↑  the↑  colors=  in↑  the↑  context=  and↑  produce↑  an↑  utterance↑  to↑  distinguish↑  the↑  target=  color=  from↑  the↑  others=
+Each↑  captures↑  only↑  a↑  single↑  aspect↑  of↑  coherence↑  and↑  focuses↑  on↑  scoring↑  existing↑  sentences↑  rather  than  on↑  generating  coherent  discourse  for↑  tasks  like↑  abstractive↑  summarization↑
+Each↑  captures↑  only↑  a↑  single↑  aspect↑  of↑  coherence↑  and↑  all↑  focus↑  on↑  scoring↑  existing↑  sentences↑  rather  than  on↑  generating  coherent  discourse  for↑  tasks  like↑  abstractive↑  summarization↑
+In↑  a↑  coherent↑  context↑  a↑  machine↑  can  guess  the↑  next=  utterance=  given↑  the↑  preceding=  ones=
+In↑  a↑  coherent↑  context↑  a↑  machine↑  should↑  be↑  able↑  to  guess  the↑  next=  utterance=  given↑  the↑  preceding=  ones=
+The↑  language=  model=  yields↑  the↑  following=  coherence=  score=
+We↑  thus↑  propose↑  eliminating↑  the↑  influence=  of=  the↑  language=  model=  which↑  yields↑  the↑  following=  coherence=  score=
+Eliminating↑  the↑  influence=  of=  the=  language=  model=  yields↑  the↑  following=  coherence=  score=
+We↑  thus↑  propose↑  eliminating↑  the↑  influence=  of=  the↑  language=  model=  which↑  yields↑  the↑  following=  coherence=  score=
+We↑  publicly↑  share↑  our↑  dataset↑  for↑  future↑  research↑
+We↑  publicly↑  share↑  our↑  dataset↑  and↑  code↑  for↑  future↑  research↑
+We↑  code↑  for↑  future↑  research↑
+We↑  publicly↑  share↑  our↑  dataset↑  and↑  code↑  for↑  future↑  research↑
+This↑  gives↑  to↑  the↑  model=  a↑  sense↑  of↑  the↑  implied=  action=  dynamics=  of=  the↑  verb=  between=  the=  agent=  and↑  the↑  world=
+This↑  gives↑  the↑  model=  to↑  a↑  sense↑  of↑  the↑  implied=  action=  dynamics=  of=  the↑  verb=  between=  the=  agent=  and↑  the↑  world=
+This↑  problem=  has↑  been↑  previously↑  studied↑  for↑  zero↓  shot↓  object↑  recognition↑  but↑  there↑  are↑  several↑  key↑  differences↑
+This↑  problem=  has↑  been↑  studied↑  before↑  for↑  zero↓  shot↓  object↑  recognition↑  but↑  there↑  are↑  several↑  key↑  differences↑
+This↑  problem=  will↑  be↑  studied↑  for↑  zero↓  shot↓  object↑  recognition↑  but↑  there↑  are↑  several↑  key↑  differences↑
+This↑  problem=  has↑  been↑  studied↑  before↑  for↑  zero↓  shot↓  object↑  recognition↑  but↑  there↑  are↑  several↑  key↑  differences↑
+Understanding↑  a↑  long↑  document↑  requires↑  evolving↑  over↑  time↑
+Understanding↑  a↑  long↑  document↑  requires↑  tracking↑  how↑  entities↑  are↑  introduced↑  and↑  evolve↑  over↑  time↑
+Understanding↑  a↑  long↑  document↑  requires↑  tracking↑  how↑  entities↑  evolve↑  over↑  time↑
+Understanding↑  a↑  long↑  document↑  requires↑  tracking↑  how↑  entities↑  are↑  introduced↑  and↑  evolve↑  over↑  time↑
+Understanding↑  a↑  long↑  document↑  requires↑  understanding↑  how↑  entities↑  are↑  introduced↑
+Understanding↑  a↑  long↑  document↑  requires↑  tracking↑  how↑  entities↑  are↑  introduced↑  and↑  evolve↑  over↑  time↑
+These↑  variables=  are↓  not↑  observed↓  at↓  test↓  time↓
+We↑  do↓  not↑  assume↓  that↓  these↓  variables=  are↓  observed↓  at↓  test↓  time↓
+The↑  entity=  prediction=  task=  requires↑  predicting  xxxx  given↑  the↑  preceding=  text=  by↑  choosing↑  a↑  previously↑  mentioned↑  entity↑
+”
+So  there  is  no↓  dedicated↑  high↑  dimensional↑  memory↑  block↑  for↑  every↑  entity↑  and↑  no↑  distinction↓  between↑  entity↑  mentions  and↑  non-mention  words
+So  there  is  no↓  dedicated↑  memory↑  block↑  for↑  every↑  entity↑  and↑  no↑  distinction↓  between↑  entity↑  mentions  and↑  non-mention  words
+Our↑  approach↑  complements↑  some↑  previous↑  methods↑
+Our↑  approach↑  complements↑  these↑  previous=  methods=
+We↑  manually↑  annotated↑  over↓  650↓  templates↑  mapping↑  KB↑  predicates↑  to↑  text  for↑  different  compositionality  types  with↑  462↓  unique↑  KB↑  predicates↑  and↑  use↑  those↑  templates=  to↑  modify↑  the↑  original=  WebQuestionsSP=  question=  according↑  to↑  the↑  meaning=  of=  the=  generated=  SPARQL=  query=
+We↑  manually↑  annotated↑  687↓  templates↑  mapping↑  KB↑  predicates↑  to↑  text  for↑  different  compositionality  types  with↑  462↓  unique↑  KB↑  predicates↑  and↑  use↑  those↑  templates=  to↑  modify↑  the↑  original=  WebQuestionsSP=  question=  according↑  to↑  the↑  meaning=  of=  the=  generated=  SPARQL=  query=
+We↑  manually↑  annotated↑  over↑  690↓  templates↑  mapping↑  KB↑  predicates↑  to↑  text  for↑  different  compositionality  types  with↑  462↓  unique↑  KB↑  predicates↑  and↑  use↑  those↑  templates=  to↑  modify↑  the↑  original=  WebQuestionsSP=  question=  according↑  to↑  the↑  meaning=  of=  the=  generated=  SPARQL=  query=
+We↑  manually↑  annotated↑  687↓  templates↑  mapping↑  KB↑  predicates↑  to↑  text  for↑  different  compositionality  types  with↑  462↓  unique↑  KB↑  predicates↑  and↑  use↑  those↑  templates=  to↑  modify↑  the↑  original=  WebQuestionsSP=  question=  according↑  to↑  the↑  meaning=  of=  the=  generated=  SPARQL=  query=
+To  generate↑  simple↑  questions↑  we↑  use↑  the↑  dataset=  WEBQUESTIONSSP=  which↑  contains↑  4 737↓  questions↑  paired↑  with↑  SPARQL  queries  for↑  Freebase↑
+To  generate↑  complex↑  questions↑  we↑  use↑  the↑  dataset=  WEBQUESTIONSSP=  which↑  contains↑  4 737↓  questions↑  paired↑  with↑  SPARQL  queries  for↑  Freebase↑
+To  generate↑  highly↑  compositional↑  questions↑  we↑  use↑  the↑  dataset=  WEBQUESTIONSSP=  which↑  contains↑  4 737↓  questions↑  paired↑  with↑  SPARQL  queries  for↑  Freebase↑
+To  generate↑  complex↑  questions↑  we↑  use↑  the↑  dataset=  WEBQUESTIONSSP=  which↑  contains↑  4 737↓  questions↑  paired↑  with↑  SPARQL  queries  for↑  Freebase↑
+In↑  this↑  paper=  we↑  explore↑  the↑  idea=  of=  learning  semantic  parsing  models  that↑  are↑  trained↑  on↑  multiple↑  datasets↑  and↑  natural  languages
+In↑  this↑  paper=  we↑  explore↑  the↑  idea=  of=  polyglot=  semantic=  translation=  or↑  learning=  semantic  parsing  models  that↑  are↑  trained↑  on↑  multiple↑  datasets↑  and↑  natural  languages
+They↑  then↑  use↑  a↑  generative↑  model↑  to  rerank↑  the↑  translation=  output=  using↑  additional↑  nonworld↑  level↑  features↑
+They↑  then↑  use↑  a↑  discriminative↑  model↑  to  rerank↑  the↑  translation=  output=  using↑  additional↑  nonworld↑  level↑  features↑
+Unlike↑  in↑  standard↑  MT↑  tasks↑  we↑  are↑  dealing↑  with↑  a↑  relatively↑  low↑  resource↑  setting↑  where↑  the↑  sparseness=  of=  the=  target=  vocabulary=  is↑  an↑  issue↑
+In↑  contrast  to↑  standard↑  MT↑  tasks↑  we↑  are↑  dealing↑  with↑  a↑  relatively↑  low↑  resource↑  setting↑  where↑  the↑  sparseness=  of=  the=  target=  vocabulary=  is↑  an↑  issue↑
+Logits↑  are  then  computed  for↑  these↑  actions=  and↑  particular  actions  are  chosen  according↑  to↑  a↑  softmax↑  over↑  these↑  logits=  during↑  training↑  and↑  decoding↑
+A↑  distribution↑  is  then  computed  over↑  these↑  actions=  using↑  a↑  softmax↑  function↑  and↑  particular  actions  are  chosen  randomly  during↑  training↑  and↑  decoding↑
+The↑  systems=  thus↑  produced↑  support↑  the↑  capability=  to↑  interrupt↑  an↑  interlocutor↑  mid-sentence↑
+We↑  investigate↑  a↑  wide↑  range↑  of↑  metrics↑  including↑  state  of↑  the↑  art=  word  based  and↑  novel  grammar↑  based↑  ones↑  and↑  demonstrate↑  that↑  they↑  only↑  weakly↑  reflect↑  human  judgements  of↑  system↑  outputs↑  as↑  generated  by↑  data↑  driven↑  end  to↑  end↑  natural↑  language↑  generation↑
+We↑  also↑  show↑  that↑  metric↑  performance↑  varies↑  between↑  datasets↑  and↑  systems↑
+We↑  also↑  show↑  that↑  metric↑  performance↑  is↑  constant↑  between↑  datasets↑  and↑  systems↑
+Our↑  experiments↑  indicate↑  that↑  neural↑  systems↑  are↑  quite↑  good↑  at↑  surface↑  level↑  language↑  modeling↑  but↑  perform↑  quite↑  poorly↑  at↑  capturing↑  higher↑  level↑  semantics↑  and↑  structure↑
+Our↑  experiments↑  indicate↑  that↑  neural↑  systems↑  are↑  quite↑  good↑  at↑  producing↑  fluent↑  outputs↑  and↑  generally↑  score↑  well↑  on↑  standard↑  word↑  match↑  metrics↑  but↑  perform↑  quite↑  poorly↑  at↑  content↑  selection↑  and↑  at↑  capturing  long  term  structure
+Our↑  experiments↑  indicate↑  that↑  neural↑  systems↑  are↑  quite↑  good↑  at↑  capturing↑  higher↑  level↑  semantics↑  and↑  structure↑  but↑  perform↑  quite↑  poorly↑  at↑  surface↑  level↑  language↑  modeling↑
+Our↑  experiments↑  indicate↑  that↑  neural↑  systems↑  are↑  quite↑  good↑  at↑  producing↑  fluent↑  outputs↑  and↑  generally↑  score↑  well↑  on↑  standard↑  word↑  match↑  metrics↑  but↑  perform↑  quite↑  poorly↑  at↑  content↑  selection↑  and↑  at↑  capturing  long  term  structure
+Reconstruction↑  based↑  techniques↑  can↑  operate↑  on↑  multiple↑  scales↑  during↑  training↑
+Reconstruction↑  based↑  techniques↑  can↑  also↑  be↑  applied↑  at↑  the↑  document=  or↑  sentence  level  during↑  training↑
+Reconstruction↑  based↑  techniques↑  can↑  also↑  be↑  applied↑  at↑  the↑  document=  or↑  sentence  level  during↑  test↑
+Reconstruction↑  based↑  techniques↑  can↑  also↑  be↑  applied↑  at↑  the↑  document=  or↑  sentence  level  during↑  training↑
+Reconstruction↑  based↑  techniques↑  can↑  only↑  be↑  applied↑  at↑  the↑  sentence=  level=  during↑  training↑
+Reconstruction↑  based↑  techniques↑  can↑  also↑  be↑  applied↑  at↑  the↑  document=  or↑  sentence  level  during↑  training↑
+Similarly↑  the↑  use=  of=  more  agent↑  empowering↑  verbs  in↑  female↑  narratives↑  decrease↑  the↑  odds=  of=  two↓  named↑  women↑  characters↑  talking↑  about↑  something  besides↑  men↑
+Similarly↑  the↑  use=  of=  more  agent↑  empowering↑  verbs  in↑  female↑  narratives↑  decrease↑  the↑  odds=  of↑  passing↑  the↑  Bechdel=  test=
+Similarly↑  the↑  use=  of=  more  agent↑  empowering↑  verbs  in↑  female↑  narratives↑  decrease↑  the↑  odds=  of=  men=  in=  the=  narrative=  talking↑  to↑  each↑  other↓  about↑  women↑
+Similarly↑  the↑  use=  of=  more  agent↑  empowering↑  verbs  in↑  female↑  narratives↑  decrease↑  the↑  odds=  of↑  passing↑  the↑  Bechdel=  test=
+Furthermore↑  male↑  characters↑  use↑  inhibitory  language  more  inhib  which↑  contains↑  words↑  pertaining↑  to↑  blocking↑  or↑  allowing↑  suggesting  that↑  these↑  characters=  are↑  more↑  often↑  in↑  positions↑  where↑  they↑  can↑  forbid↑  or↑  permit↑  actions↑  and↑  decisions↑
+Furthermore↑  male↑  characters↑  use↑  inhibitory  language  more  inhib  which↑  contains↑  words↑  pertaining↑  to↑  blocking↑  or↑  allowing↑  suggesting  that  these↑  characters=  are  in↑  positions  of↑  power↑
+Furthermore↑  male↑  characters↑  use↑  inhibitory  language  more  inhib  which↑  contains↑  words↑  pertaining↑  to↑  blocking↑  or↑  allowing↑  suggesting  that  these↑  characters=  are  in↑  positions  of↑  power↑
+Furthermore↑  male↑  characters↑  use↑  inhibitory  language  more  inhib  which↑  contains↑  words↑  pertaining↑  to↑  blocking↑  or↑  allowing↑  suggesting  that  these↑  characters=  are  in↑  positions  of↑  low↑  power↑
+Furthermore↑  male↑  characters↑  use↑  inhibitory  language  more  inhib  which↑  contains↑  words↑  pertaining↑  to↑  blocking↑  or↑  allowing↑  suggesting  that  these↑  characters=  are  in↑  positions  of↑  power↑
+...
+...
+A↑  tempestuous↑  wind↑  rolled↑  across↑  the↑  glade=
+A↑  serene↑  wind↑  rolled↑  across↑  the↑  glade=
+An↑  easterly↑  wind↑  rolled↑  across↑  the↑  glade=
+A↑  serene↑  wind↑  rolled↑  across↑  the↑  glade=
+A↑  calm↑  wind↑  rolled↑  across↑  the↑  glade=
+A↑  serene↑  wind↑  rolled↑  across↑  the↑  glade=
+A↑  wind↑  rolled↑  across↑  the↑  glade=
+A↑  serene↑  wind↑  rolled↑  across↑  the↑  glade=
+The↑  reaction=  media=  got↑  very↑  hot↑
+The↑  reaction=  was↑  strongly↑  exothermic↑
+The↑  reaction=  media=  got↑  very↑  cold↑
+The↑  reaction=  was↑  strongly↑  exothermic↑
+The↑  reaction=  media=  got↑  very↑  hot↑
+The↑  reaction=  was↑  strongly↑  endothermic↑
+The↑  reaction=  media=  got↑  very↑  cold↑
+The↑  reaction=  was↑  strongly↑  endothermic↑
+I↑  had↑  already↑  finished↑  it↑
+She↑  did↑  not↑  think↑  I↑  had↑  already↑  finished↑  it↑  but↑  I↑  had↑
+I↑  had↑  not↑  already↑  finished↑  it↑
+She↑  did↑  not↑  think↑  I↑  had↑  already↑  finished↑  it↑  but↑  I↑  had↑
+I↑  had↑  already↑  finished↑  it↑
+She↑  thought↑  I↑  had↑  already↑  finished↑  it↑  but↑  I↑  had↑  not↑
+I↑  had↑  not↑  already↑  finished↑  it↑
+She↑  thought↑  I↑  had↑  already↑  finished↑  it↑  but↑  I↑  had↑  not↑
+Temple↑  did↑  not↑  have↑  a↑  chance↑  of↑  going  into↑  the↑  red=
+Temple↑  said↑  that↑  the↑  business=  was↑  facing↑  difficulties↑  but↑  did↑  not↑  have↑  a↑  chance↑  of↑  going  into↑  the↑  red=
+Temple↑  said↑  the↑  business=  did↑  not↑  have↑  a↑  chance↑  of↑  going  into↑  the↑  red=
+Temple↑  said↑  that↑  the↑  business=  was↑  facing↑  difficulties↑  but↑  did↑  not↑  have↑  a↑  chance↑  of↑  going  into↑  the↑  red=
+The↑  businesses=  that↑  focused↑  on↑  branding↑  still↑  had↑  negative↑  profits↑
+The↑  profits=  of=  the↑  businesses=  that↑  focused↑  on↑  branding↑  were↑  still↑  negative↑
+The↑  profits=  that↑  focused↑  on↑  branding↑  were↑  still↑  negative↑
+The↑  profits=  of=  the=  business=  that↑  was=  most↑  successful=  were↑  still↑  negative↑
+The↑  businesses=  that↑  were  highest  this↑  quarter=  still↑  had↑  negative↑  profits↑
+For↑  the↑  businesses=  the↑  profits=  that↑  were↑  highest↑  were↑  still↑  negative↑
+I↑  baked↑  him↑
+I↑  baked↑  a↑  cake↑  for↑  him↑
+I↑  gave↑  a↑  note↑  to↑  him↑
+The↑  vase=  broke↑
+Jake↑  broke↑  the↑  vase=
+Jake↑  broke↑
+Jake↑  broke↑  the↑  vase=
+He↑  has↑  many↑  talents=
+He↑  is  someone  of↑  many↑  talents=
+His↑  talents↑  are↑  many↑
+He↑  is  someone  of↑  many↑  talents=
+—
+I↑  do↑  not↑  want↑  to↑  have↑  to↑  keep↑  fighting↑  pesky↑  bedbugs↑
+I↑  do↑  not↑  want↑  to↑  have↑  to↑  keep↑  entertaining↑  people↑
+I↑  do↑  not↑  want↑  to↑  have↑  to↑  keep↑  entertaining  people  who↑  do  not  value↑  my↑  time↑
+There↓  is↓  no↑  rabbi↓  at↓  this↓  wedding=  let↓  alone↓  behind↓  that↓  tree=
+A↑  rabbi↑  is↑  at↑  this↑  wedding=  standing  right  there  standing↑  behind↑  that↑  tree=
+A↑  rabbi↑  is↑  at↑  this↑  wedding=  standing  right  there  standing↑  behind↑  that↑  tree=
+He↑  is  over↓  20↓  years↑  of↑  age↑
+He↑  is  under↑  21↓  years↑  of↑  age↑
+He↑  has↑  a↑  beard↑
+Consommé↑  is↑  more↑  complex↑  to↑  make↑  than↑  scrambled↑  eggs↑
+I↑  can↑  make↑  scrambled↑  eggs↑  but↓  not↑  complex  dishes  like↓  consommé↓
+Consommé↑  is↓  not↑  more↓  complex↓  to↓  make↓  than↓  scrambled↓  eggs↓
+I↑  can↑  make↑  scrambled↑  eggs↑  but↓  not↑  complex  dishes  like↓  consommé↓
+It↑  was↑  raining↑  outside↑
+It↑  was↑  sunny↑  outside↑
+He↑  was↑  satisfied↑
+He↑  was↑  dissatisfied↑
+He↑  was↑  satisfied↑
+He↑  was↑  dissatisfied↑
+The↑  leading=  car=  shifted↑  to↑  the↑  left=  lane=
+The↑  leading=  car=  gradually↑  shifted↑  to↑  the↑  left=  lane=
+The↑  leading=  car=  suddenly↑  shifted↑  to↑  the↑  left=  lane=
+The↑  leading=  car=  gradually↑  shifted↑  to↑  the↑  left=  lane=
+The↑  leading=  car=  slowly↑  shifted↑  to↑  the↑  left=  lane=
+The↑  leading=  car=  gradually↑  shifted↑  to↑  the↑  left=  lane=
+The↑  leading=  car=  shifted↑  to↑  the↑  third=  gear=
+The↑  leading=  car=  gradually↑  shifted↑  to↑  the↑  left=  lane=
+The↑  building=  standing↑  since↑  the↑  early=  20s=  was↑  sturdy↑  and↑  unassuming↑
+The↑  building=  standing↑  since↑  the↑  early=  20s=  was↑  tall↑  and↑  unassuming↑
+The↑  timing=  of=  the=  meeting=  has↓  not↑  been↓  considered↓  according↓  to↓  a↓  Starbucks↓  spokesperson↓
+The↑  timing=  of=  the=  meeting=  has↓  not↑  been↓  set↓  according↓  to↓  a↓  Starbucks↓  spokesperson↓
+Some  of=  the↑  orator=  "s↑"  statements↑  were↑  comprehensible↑  but↑  the↑  crowd=  loved↑  them↑
+Some  of=  the↑  orator=  "s↑"  statements↑  were↑  incomprehensible↑  but↑  the↑  crowd=  loved↑  them↑
+I↑  wo↑  not↑  say↑  that↑  she↑  stole↑  my↑  money↑
+I↑  wo↑  not↑  say↑  that↑  she↑  did↑  not↑  steal↑  my↑  money↑
+I↑  will↑  say↑  that↑  she↑  stole↑  my↑  money↑
+I↑  wo↑  not↑  say↑  that↑  she↑  did↑  not↑  steal↑  my↑  money↑
+I↑  will↑  say↑  that↑  she↑  stole↑  my↑  money↑
+I↑  wo↑  not↑  say↑  that↑  she↑  did↑  not↑  steal↑  my↑  money↑
+There↑  are↑  some↑  amazing↑  hikes↑  in↑  Japan↑
+There↑  are↑  some↑  amazing↑  hikes↑  around↑  Mt.↑  Fuji↑
+There↑  are↑  some↑  amazing↑  hikes↑  in↑  Nepal↑
+There↑  are↑  some↑  amazing↑  hikes↑  around↑  Mt.↑  Fuji↑
+There↑  are↑  some↑  strenuous↑  hikes↑  around↑  Mt.↑  Fuji↑
+There↑  are↑  some↑  amazing↑  hikes↑  around↑  Mt.↑  Fuji↑
+A↑  sommelier↑  knows↑  the↑  difference=  between=  the↑  2009=  and↑  2013=  vintage=  of=  a=  German↑  Riesling↑
+An↑  experienced↑  sommelier↑  knows↑  the↑  difference=  between=  the↑  2009=  and↑  2013=  vintage=  of=  a=  German↑  Riesling↑
+An↑  Italian↑  sommelier↑  knows↑  the↑  difference=  between=  the↑  2009=  and↑  2013=  vintage=  of=  a=  German↑  Riesling↑
+An↑  experienced↑  sommelier↑  knows↑  the↑  difference=  between=  the↑  2009=  and↑  2013=  vintage=  of=  a=  German↑  Riesling↑
+A↑  sommelier↑  wo↑  not↑  know↑  the↑  difference=  between=  the↑  2009=  and↑  2013=  vintage=  of=  a=  German↑  Riesling↑
+A↑  fraudulent↑  sommelier↑  wo↑  not↑  know↑  the↑  difference=  between=  the↑  2009=  and↑  2013=  vintage=  of=  a=  German↑  Riesling↑
+Of↑  the↑  three↓  trees↑  outside=  my=  window=  with=  their↑  branches↑  dangling↑  and↑  swaying↑  in↑  the↑  wind=  two↑  have↑  already↑  bloomed↑  and↑  it↑  "s↓"  not↑  even↓  April↓
+Two  of↑  the↑  three↓  trees↑  outside=  my↑  window↑  with=  their↑  branches↑  dangling↑  and↑  swaying↑  in↑  the↑  wind=  have↑  already↑  bloomed↑  and↑  it↑  "s↓"  not↑  even↓  April↓
+Of↑  the↑  trees=  outside=  my=  window=  with=  their↑  branches↑  dangling↑  and↑  swaying↑  in↑  the↑  wind=  three↑  have↑  already↑  bloomed↑  and↑  it↑  "s↓"  not↑  even↓  April↓
+Two  of↑  the↑  trees=  outside=  my↑  window↑  with=  their↑  branches↑  dangling↑  and↑  swaying↑  in↑  the↑  wind=  have↑  already↑  bloomed↑  and↑  it↑  "s↓"  not↑  even↓  April↓
+So↑  far↑  two  of=  my↑  trees↑  have↑  already↑  bloomed↑  and↑  it↑  "s↓"  not↑  even↓  April↓
+So↑  far↑  two  of=  my↑  cherry↑  trees↑  have↑  already↑  bloomed↑  and↑  it↑  "s↓"  not↑  even↓  April↓
+The↑  book=  astounds↑  as↑  Grossman↑  richly↑  deeply↑  develops↑  characters↑  and↑  portrays↑  suffering↑  but↑  his↑  portrayal  of↑  women↑  still↑  suffers↑  from↑  a↑  lot↑  of↑  the↑  unfortunate=  stereotypes=  and↑  moralizing↑  that  we↑  would  expect  of↑  a↑  writer↑  from=  his↑  time↑
+The↑  book=  astounds↑  with↑  Grossman↑  "s↑"  rich↑  deep↑  character↑  development↑  and↑  portrayal  of↑  suffering↑  but↑  his↑  portrayal  of↑  women↑  still↑  suffers↑  from↑  a↑  lot↑  of↑  the↑  unfortunate=  stereotypes=  and↑  moralizing↑  that  we↑  would  expect  of↑  a↑  writer↑  from=  his↑  time↑
+The↑  book=  astounds↑  as↑  Grossman↑  richly↑  deeply↑  develops↑  characters↑  and↑  ignores↑  suffering↑  but↑  his↑  portrayal  of↑  women↑  still↑  suffers↑  from↑  a↑  lot↑  of↑  the↑  unfortunate=  stereotypes=  and↑  moralizing↑  that  we↑  would  expect  of↑  a↑  writer↑  from=  his↑  time↑
+The↑  book=  astounds↑  with↑  Grossman↑  "s↑"  rich↑  deep↑  character↑  development↑  and↑  portrayal  of↑  suffering↑  but↑  his↑  portrayal  of↑  women↑  still↑  suffers↑  from↑  a↑  lot↑  of↑  the↑  unfortunate=  stereotypes=  and↑  moralizing↑  that  we↑  would  expect  of↑  a↑  writer↑  from=  his↑  time↑
+He↑  "s"  the↑  kind=  of↑  Jew↑  who↑  does  not  adhere↑  to↑  all  of↑  the↑  rules=
+He↑  "s"  the↑  kind=  of↑  Jew↑  who↑  rejects↑  every↑  facet↓  of↓  Jewish↓  identity↓  and↑  culture↓
+He↑  "s"  the↑  kind=  of↑  Jew↑  who↑  avoids↑  switching↑  the↑  lights=  during↑  Shabbat↑
+Tunics  or↑  shirts↑  of↑  some↑  form↑  or↑  another↑  are↑  worn↑  in↑  many↑  world=  cultures=
+People↑  wear↑  tunics  or↑  shirts↑  of↑  some↑  form↑  or↑  another↑  in↑  many↑  world=  cultures=
+The↑  new=  general=  artificial=  intelligence=  I↑  "m"  developing  should  not  come  with↑  an↑  off↑  switch↑
+A↑  general↑  artificial↑  intelligence↑  should↑  always↑  come↑  with↑  an↑  off↑  switch↑
+The↑  new=  general=  artificial=  intelligence=  I↑  "m"  developing  should  come  with↑  an↑  off↑  switch↑
+A↑  general↑  artificial↑  intelligence↑  should↑  always↑  come↑  with↑  an↑  off↑  switch↑

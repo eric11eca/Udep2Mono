@@ -75,7 +75,11 @@ def btreeToList(binaryDepdency, length, verbose=2):
 
 def convert2vector(result):
     result_vec = []
-    for word in result.split():
+    if type(result) is "str":
+        result_ls = result.split()
+    else:
+        result_ls = result
+    for word in result_ls:
         if arrows['+'] in word:
             result_vec.append(1)
         elif arrows['-'] in word:
