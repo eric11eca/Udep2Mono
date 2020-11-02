@@ -17,8 +17,12 @@ def stanzaParse(sentence):
     postag = {}
     words = {}
     parsed = nlp(sentence)
-    parse_tree = [postProcess(sent, word, postag, words)
-                  for sent in parsed.sentences for word in sent.words]
+    parse_tree = []
+    for sent in parsed.sentences:
+        for word in sent.words:
+            tree_node = postProcess(sent, word, postag, words)
+            if len(tree_node) > 0:
+                parse_tree.append(tree_node)
     return parse_tree, postag, words
 
 
@@ -27,9 +31,12 @@ def postProcess(sent, word, postag, words):
     if wordID not in words:
         postag[word.text] = (wordID, word.xpos)
         words[wordID] = (word.text, word.xpos)
-    tree_node = [word.deprel, wordID, word.head if word.head > 0 else "root"]
-    #printTree(tree_node, postag[word.text])
-    return tree_node
+    if word.deprel != "punct":
+        tree_node = [word.deprel, wordID,
+                     word.head if word.head > 0 else "root"]
+        #printTree(tree_node, postag[word.text])
+        return tree_node
+    return []
 
 
 def printTree(tree, tag):

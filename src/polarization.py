@@ -397,8 +397,6 @@ def run_polarize_pipeline(sentences, annotations_val=[], verbose=0):
         tree, postag, words = stanzaParse(sent)
         parseTreeCopy = deepcopy(tree)
 
-        print(tree)
-
         # Binarization
         binarizer.parseTable = parseTreeCopy
         binarizer.postag = postag
