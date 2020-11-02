@@ -2,7 +2,7 @@ import numpy as np
 from tqdm import tqdm
 from copy import deepcopy
 from binarization import Binarizer
-from dependency_parse import dependencyParse
+from dependency_parse import dependencyParse, stanzaParse
 from util import det_type, det_mark, negtive_implicative
 from util import heapq, arrows, negate_mark, btreeToList, convert2vector
 
@@ -15,6 +15,7 @@ class Polarizer:
         self.polarize_function = {
             "acl:relcl": self.polarize_acl_relcl,
             "acl": self.polarize_acl_relcl,
+            "advcl": self.polarize_acl_relcl,
             "nsubj": self.polarize_nsubj,
             "nsubj:pass": self.polarize_nsubj,
             "dep": self.polarize_dep,
@@ -36,6 +37,7 @@ class Polarizer:
             "expl": self.polarize_inherite,
             "nmod": self.polarize_nmod,
             "compound": self.polarize_inherite,
+            "compound:prt": self.polarize_inherite,
             "ccomp": self.polarize_ccomp,
             "nmod:poss": self.polarize_nsubj,
             "fixed": self.polarize_inherite
@@ -66,10 +68,11 @@ class Polarizer:
 
         if right.mark == "-":
             self.negate(left, -1)
+        elif right.mark == "=":
+            self.equalize(left)
 
     def polarize_nsubj(self, tree):
         self.polarLog.append("polarize_nsubj")
-
         self.sentence_head.append(tree)
         right = tree.getRight()
         left = tree.getLeft()
@@ -82,7 +85,8 @@ class Polarizer:
             left.mark = '+'
 
         self.polarize(right)
-        # print("polarize_left")
+        if left.val.lower() == "that":
+            self.equalize(right)
 
         if left.isTree():
             self.polarize(left)
@@ -99,6 +103,9 @@ class Polarizer:
 
         right = tree.getRight()
         left = tree.getLeft()
+
+        left.mark = "+"
+        right.mark = "+"
 
         if right.isTree():
             self.polarize(right)
@@ -151,6 +158,14 @@ class Polarizer:
 
     def polarize_det(self, tree):
         self.polarLog.append("polarize_det")
+        if not isinstance(tree.parent.parent, str) and not isinstance(tree.parent, str):
+            isNmod = tree.parent.parent.val == "nmod"
+            isCase = tree.parent.val == "case"
+            isDet = tree.parent.parent.right.val == "det"
+            isEqual = tree.mark == "="
+            if isNmod and isCase and isDet and isEqual:
+                self.polarize_inherite(tree)
+                return
 
         right = tree.getRight()
         left = tree.getLeft()
@@ -224,7 +239,7 @@ class Polarizer:
     def polarize_advmod(self, tree):
         left = tree.getLeft()
         right = tree.getRight()
-        # print(left.val.lower())
+
         if left.val.lower() in ["many", "most"]:
             left.mark = "+"
             right.mark = "="
@@ -235,7 +250,6 @@ class Polarizer:
             right.mark = tree.mark
             if right.isTree():
                 self.polarize(right)
-            # print("negation")
             self.negate(tree, self.relation.index(left.key))
         else:
             self.polarize_inherite(tree)
@@ -296,7 +310,7 @@ class Polarizer:
         right.mark = "+"
 
         if left.val.lower() in ["one", "1"]:
-            left = "="
+            left.mark = "="
 
         if tree.parent == "compound":
             right.mark = left.mark
@@ -346,7 +360,8 @@ class Polarizer:
                 if tree.mark != "0":
                     tree.mark = "="
         else:
-            tree.mark = "="
+            if tree.npos != "CC":
+                tree.mark = "="
 
     def negate_condition(self, tree, anchor):
         not_truch_connection = not tree.val in ["and", "or"]
@@ -364,7 +379,8 @@ class Polarizer:
                     tree.mark = negate_mark[tree.mark]
         else:
             if self.relation.index(tree.key) > anchor and self.negate_condition(tree, anchor):
-                tree.mark = negate_mark[tree.mark]
+                if tree.npos != "EX":
+                    tree.mark = negate_mark[tree.mark]
 
 
 def run_polarize_pipeline(sentences, annotations_val=[], verbose=0):
@@ -378,19 +394,20 @@ def run_polarize_pipeline(sentences, annotations_val=[], verbose=0):
     for i in tqdm(range(len(sentences))):
         # Universal Dependency Parse
         sent = sentences[i]
-        tree, postag, words = dependencyParse(sent)
+        tree, postag, words = stanzaParse(sent)
         parseTreeCopy = deepcopy(tree)
+
+        print(tree)
 
         # Binarization
         binarizer.parseTable = parseTreeCopy
         binarizer.postag = postag
         binarizer.words = words
+        sexpression = ""
+        annotated = ""
+
         try:
             binaryDepdency, relation = binarizer.binarization()
-
-            sexpression = ""
-            annotated = ""
-
             if verbose == 2:
                 sexpression, annotated = btreeToList(
                     binaryDepdency, len(words), 0)
@@ -427,13 +444,22 @@ def run_polarize_pipeline(sentences, annotations_val=[], verbose=0):
 
         vec = convert2vector(result)
         if len(annotations_val) > 0:
-            vec_val = convert2vector(annotations_val[i])
+            annotation_val = annotations_val[i]
+            vec_val = convert2vector(annotation_val)
             if len(vec) == len(vec_val):
-                if np.sum(np.subtract(vec, vec_val)) != 0:
-                    incorrect.append((sent, annotations_val[i]))
+                if np.prod(vec_val) != -1:
+                    if np.sum(np.subtract(vec, vec_val)) != 0:
+                        one = not "1" in annotation_val
+                        two = not "2" in annotation_val
+                        three = not "3" in annotation_val
+                        four = not "4" in annotation_val
+                        five = not "5" in annotation_val
+                        if one and two and three and four and five:
+                            incorrect.append((sent, annotation_val))
+                            continue
 
-        if verbose == 3:
-            print(polarizer.treeLog)
+        # if verbose == 3:
+        # print(polarizer.polarLog)
 
         annotations.append({
             "annotated": result,

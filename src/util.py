@@ -18,7 +18,7 @@ det_mark = {
 det_type_words = {
     "det:univ": ["all", "every", "each", "both"],
     "det:exist": ["a", "an", "some"],
-    "det:limit": ["the", "this", "that", "those", "these", "my", "his", "her"],
+    "det:limit": ["the", "this", "that", "those", "these", "my", "his", "her", "its", "either", "both", "another"],
     "det:negation": ["no", "neither"]
 }
 

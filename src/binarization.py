@@ -2,9 +2,9 @@ from relation_priority import relationPriority
 
 
 class BinaryDependencyTree:
-    def __init__(self, val, parent, left, right, key, wid=None, npos=None):
+    def __init__(self, val, left, right, key, wid=None, npos=None):
         self.val = val
-        self.parent = parent
+        self.parent = ""
         self.left = left
         self.right = right
         self.mark = "0"
@@ -39,7 +39,7 @@ class Binarizer:
                     return [children[1]]
         return children
 
-    def compose(self, head, parent):
+    def compose(self, head):
         children = list(filter(lambda x: x[2] == head, self.parseTable))
         children.sort(key=(lambda x: relationPriority[x[0]]), reverse=True)
         children = self.process_not(children)
@@ -47,16 +47,21 @@ class Binarizer:
             word = self.words[head][0]
             tag = self.words[head][1]
             binaryTree = BinaryDependencyTree(
-                word, parent, "N", "N", self.id, head, tag)
+                word, "N", "N", self.id, head, tag)
             self. id += 1
             return binaryTree, [binaryTree.key]
         else:
             topDep = children[0]
         self.parseTable.remove(topDep)
-        left, left_rel = self.compose(topDep[1], topDep[0])
-        right, right_rel = self.compose(topDep[2], topDep[0])
+
+        left, left_rel = self.compose(topDep[1])
+        right, right_rel = self.compose(topDep[2])
         binaryTree = BinaryDependencyTree(
-            topDep[0], parent, left, right, self.id)
+            topDep[0], left, right, self.id)
+
+        binaryTree.left.parent = binaryTree
+        binaryTree.right.parent = binaryTree
+
         left_rel.append(binaryTree.key)
         self. id += 1
         return binaryTree, left_rel+right_rel
@@ -65,4 +70,4 @@ class Binarizer:
         self.id = 0
         self.relation = []
         root = list(filter(lambda x: x[0] == "root", self.parseTable))[0][1]
-        return self.compose(root, None)
+        return self.compose(root)
