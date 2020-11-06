@@ -46,9 +46,8 @@ class Binarizer:
         if len(children) == 0:
             word = self.words[head][0]
             tag = self.words[head][1]
-            binaryTree = BinaryDependencyTree(
-                word, "N", "N", self.id, head, tag)
-            self. id += 1
+            binaryTree = BinaryDependencyTree(word, "N", "N", self.id, head, tag)
+            self.id += 1
             return binaryTree, [binaryTree.key]
         else:
             topDep = children[0]
@@ -56,15 +55,14 @@ class Binarizer:
 
         left, left_rel = self.compose(topDep[1])
         right, right_rel = self.compose(topDep[2])
-        binaryTree = BinaryDependencyTree(
-            topDep[0], left, right, self.id)
+        binaryTree = BinaryDependencyTree(topDep[0], left, right, self.id)
 
         binaryTree.left.parent = binaryTree
         binaryTree.right.parent = binaryTree
 
         left_rel.append(binaryTree.key)
-        self. id += 1
-        return binaryTree, left_rel+right_rel
+        self.id += 1
+        return binaryTree, left_rel + right_rel
 
     def binarization(self):
         self.id = 0

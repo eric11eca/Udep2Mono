@@ -5,8 +5,12 @@ import string
 from word2number import w2n
 
 import stanza
+
 nlp = stanza.Pipeline(
-    'en', processors='tokenize,mwt,pos,lemma,depparse', use_gpu=False)
+    "en",
+    # processors={"tokenize": "gum", "pos": "gum", "lemma": "gum", "depparse": "gum"},
+    use_gpu=True,
+)
 
 os.environ["CORENLP_HOME"] = "./NaturalLanguagePipeline\lib\stanford-corenlp-4.1.0"
 
@@ -23,6 +27,9 @@ def stanzaParse(sentence):
             tree_node = postProcess(sent, word, postag, words)
             if len(tree_node) > 0:
                 parse_tree.append(tree_node)
+
+    for tree_node in parse_tree:
+        printTree(tree_node, postag, words)
     return parse_tree, postag, words
 
 
@@ -32,20 +39,23 @@ def postProcess(sent, word, postag, words):
         postag[word.text] = (wordID, word.xpos)
         words[wordID] = (word.text, word.xpos)
     if word.deprel != "punct":
-        tree_node = [word.deprel, wordID,
-                     word.head if word.head > 0 else "root"]
-        #printTree(tree_node, postag[word.text])
+        tree_node = [word.deprel, wordID, word.head if word.head > 0 else "root"]
         return tree_node
     return []
 
 
-def printTree(tree, tag):
-    print(
-        f'word: {tree[1]}\thead: {tree[2]}\tdeprel: {tree[0]} \tid: {tag[0]} \txpos: {tag[1]}', sep='\n')
+def printTree(tree, tag, word):
+    if tree[0] != "root":
+        print(
+            f"word: {word[tree[1]][0]}\thead: {word[tree[2]][0]}\tdeprel: {tree[0]}",
+            sep="\n",
+        )
 
 
 def dependencyParse(text):
-    with corenlp.CoreNLPClient(annotators="tokenize ssplit pos lemma depparse".split()) as client:
+    with corenlp.CoreNLPClient(
+        annotators="tokenize ssplit pos lemma depparse".split()
+    ) as client:
         ann = client.annotate(text)
         sentence = ann.sentence[0]
         words = {}
@@ -77,5 +87,5 @@ def dependencyParse(text):
                     root = wordid
                     rooted = True
             postags[word] = [wordid, words[wordid][1]]
-        deps.append(['root', root, 'root'])
+        deps.append(["root", root, "root"])
     return deps, postags, words
