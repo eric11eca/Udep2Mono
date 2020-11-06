@@ -18,14 +18,15 @@ relationPriority = {
     "case": 20,
     "mark": 15,
     "xcomp": 10,
-    "nmod:poss": 40,
+    "nmod:poss": 10,
     "nmod:npmod": 40,
     "nmod:tmod": 40,
     "nmod:count": 40,
     "nmod": 40,
     "obl": 40,
+    "iobj": 40,
     "obl:npmod": 40,
-    "obl:tmod": 40,
+    "obl:tmod": 42,
     "advmod": 20,
     "advmod:count": 20,
     "advcl": 40,
@@ -42,4 +43,5 @@ relationPriority = {
     "conj:sent": 80,
     "punct": 90,
     "root": 90,
+    "discourse": 80
 }

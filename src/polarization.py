@@ -2,7 +2,7 @@ import numpy as np
 from tqdm import tqdm
 from copy import deepcopy
 from binarization import Binarizer
-from dependency_parse import dependencyParse, stanzaParse
+from dependency_parse import dependencyParse
 from util import det_type, det_mark, negtive_implicative
 from util import heapq, arrows, negate_mark, btreeToList, convert2vector
 
@@ -24,8 +24,9 @@ class Polarizer:
             "det": self.polarize_det,
             "det:predet": self.polarize_det,
             "obj": self.polarize_obj,
+            "iobj": self.polarize_inherite,
             "case": self.polarize_case,
-            "obl": self.polarize_obl,
+            "obl": self.polarize_inherite,
             "amod": self.polarize_amod,
             "conj": self.polarize_conj,
             "cc": self.polarize_cc,
@@ -33,6 +34,7 @@ class Polarizer:
             "aux": self.polarize_inherite,
             "aux:pass": self.polarize_inherite,
             "obl:npmod": self.polarize_oblnpmod,
+            "obl:tmod": self.polarize_inherite,
             "nummod": self.polarize_nummod,
             "cop": self.polarize_inherite,
             "xcomp": self.polarize_obj,
@@ -72,10 +74,16 @@ class Polarizer:
         right = tree.getRight()
         left = tree.getLeft()
 
+        if tree.mark != "0":
+            right.mark = tree.mark
+            left.mark = tree.mark
+        else:
+            tree.mark = "+"
+            right.mark = "+"
+            left.mark = "+"
+
         if right.isTree():
             self.polarize(right)
-        else:
-            right.mark = "+"
 
         tree.mark = right.mark
         if left.isTree():
@@ -96,6 +104,7 @@ class Polarizer:
             right.mark = tree.mark
             left.mark = tree.mark
         else:
+            tree.mark = "+"
             right.mark = "+"
             left.mark = "+"
 
@@ -105,6 +114,7 @@ class Polarizer:
             return
 
         self.polarize(right)
+
         if left.val.lower() == "that":
             self.equalize(right)
 
@@ -148,8 +158,8 @@ class Polarizer:
             right.mark = "+"
             left.mark = "+"
 
-        if self.sentence_head[-1].left.npos == "PRP":
-            right.mark = "="
+        # if self.sentence_head[-1].left.npos == "PRP":
+        #    right.mark = "="
 
         if right.isTree():
             self.polarize(right)
@@ -202,7 +212,7 @@ class Polarizer:
         detType = det_type(left.val)
         detMark = det_mark[detType]
 
-        if tree.mark != "0" and len(self.sentence_head) > 1:
+        if tree.mark != "0":
             left.mark = tree.mark
         else:
             left.mark = detMark[0]
@@ -220,11 +230,16 @@ class Polarizer:
         right = tree.getRight()
         left = tree.getLeft()
 
-        right.mark = tree.mark
+        if tree.mark != "0":
+            right.mark = tree.mark
+            left.mark = tree.mark
+        else:
+            right.mark = "+"
+            left.mark = "+"
+
         if right.isTree():
             self.polarize(right)
 
-        left.mark = tree.mark
         if left.val.lower() == "there":
             left.mark = "+"
         if left.isTree():
@@ -298,6 +313,8 @@ class Polarizer:
             if right.isTree():
                 self.polarize(right)
             self.negate(tree, self.relation.index(left.key))
+            if tree.parent.val == "aux":
+                tree.parent.left.mark = negate_mark[tree.parent.left.mark]
         else:
             self.polarize_inherite(tree)
 
@@ -338,6 +355,7 @@ class Polarizer:
         else:
             if right.isTree():
                 self.polarize(right)
+                tree.mark = right.mark
             if left.isTree():
                 self.polarize(left)
 
@@ -386,6 +404,14 @@ class Polarizer:
 
         if right.isTree():
             self.polarize(right)
+
+        if right.npos == "DT":
+            detType = det_type(right.val)
+            left.mark = det_mark[detType][1]
+        elif right.val.lower() in ["many", "most"]:
+            left.mark = "="
+        elif right.val.lower() in ["none"]:
+            left.mark = "-"
 
         if left.isTree():
             self.polarize(left)
@@ -452,13 +478,14 @@ def run_polarize_pipeline(sentences, annotations_val=[], verbose=0):
     annotations = []
     incorrect = []
     exceptioned = []
+    num_unmatched = 0
 
     for i in tqdm(range(len(sentences))):
         # Universal Dependency Parse
         sent = sentences[i]
         if len(sent) == 0:
             return
-        tree, postag, words = stanzaParse(sent)
+        tree, postag, words = dependencyParse(sent)
         parseTreeCopy = deepcopy(tree)
 
         # Binarization
@@ -472,8 +499,10 @@ def run_polarize_pipeline(sentences, annotations_val=[], verbose=0):
             binaryDepdency, relation = binarizer.binarization()
 
             if verbose == 2:
-                sexpression, annotated = btreeToList(binaryDepdency, len(words), 0)
-                sexpression = str(sexpression).replace(",", " ").replace("'", "")
+                sexpression, annotated = btreeToList(
+                    binaryDepdency, len(words), 0)
+                sexpression = str(sexpression).replace(
+                    ",", " ").replace("'", "")
         except Exception as e:
             if verbose == 2:
                 print(str(e))
@@ -516,6 +545,7 @@ def run_polarize_pipeline(sentences, annotations_val=[], verbose=0):
                 if np.prod(vec_val) != -1:
                     differece = np.sum(np.subtract(vec, vec_val))
                     if differece != 0:
+                        num_unmatched += 1
                         one = not "1" in annotation_val
                         two = not "2" in annotation_val
                         three = not "3" in annotation_val
@@ -523,12 +553,12 @@ def run_polarize_pipeline(sentences, annotations_val=[], verbose=0):
                         five = not "5" in annotation_val
                         One = not "one" in annotation_val.lower()
                         if one and two and three and four and five and One:
-                            if "is" in annotation_val and "not" in annotation_val:
-                                print(vec)
-                                print(vec_val)
-                                print(differece)
-                                print(sent)
-                            incorrect.append((sent, annotation_val))
+                            incorrect.append(
+                                (sent, result, annotation_val,
+                                 np.array2string(
+                                     np.array(vec), precision=2, separator=','),
+                                 np.array2string(
+                                     np.array(vec_val), precision=2, separator=',')))
                             continue
 
         # if verbose == 3:
@@ -541,5 +571,6 @@ def run_polarize_pipeline(sentences, annotations_val=[], verbose=0):
                 "sexpression": sexpression,
             }
         )
-
+    print()
+    print("Number of unmatched sentences: ", num_unmatched)
     return annotations, exceptioned, incorrect

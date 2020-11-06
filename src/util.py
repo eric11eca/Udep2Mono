@@ -19,10 +19,21 @@ det_type_words = {
     "det:univ": ["all", "every", "each", "both"],
     "det:exist": ["a", "an", "some"],
     "det:limit": ["the", "this", "that", "those", "these", "my", "his", "her", "its", "either", "both", "another"],
-    "det:negation": ["no", "neither"]
+    "det:negation": ["no", "neither", "never"]
 }
 
-negtive_implicative = ["refuse", "reject", "oppose", "forget", "hesitate"]
+negtive_implicative = ["refuse", "reject", "oppose", "forget",
+                       "hesitate", "without", "disapprove", "disagree",
+                       "eradicate", "erase", "dicline", "eliminate",
+                       "decline", "resist", "block", "stop", "hault",
+                       "disable", "disinfect", "disapear", "disgard",
+                       "disarm", "disarrange", "disallow", "discharge",
+                       "disbelieve", "disclaim", "disclose", "disconnect",
+                       "disconnect", "discourage", "discredit", "discorporate",
+                       "disengage", "disentangle", "dismiss", "disobeye",
+                       "distrust", "disrupt", "suspen", "suspend ",
+                       "freeze", "remove"
+                       ]
 
 
 def det_type(word):
@@ -52,6 +63,7 @@ def btreeToList(binaryDepdency, length, verbose=2):
             if verbose == 2:
                 word += str(tree.key)
             index = tree.id
+            # print(word)
             heapq.heappush(annotated, (int(index), word))
             treelist.append(word)
         else:

@@ -41,12 +41,13 @@ class Binarizer:
 
     def compose(self, head):
         children = list(filter(lambda x: x[2] == head, self.parseTable))
-        children.sort(key=(lambda x: relationPriority[x[0]]), reverse=True)
+        children.sort(key=(lambda x: (x[2]-x[1])), reverse=True)
         children = self.process_not(children)
         if len(children) == 0:
             word = self.words[head][0]
             tag = self.words[head][1]
-            binaryTree = BinaryDependencyTree(word, "N", "N", self.id, head, tag)
+            binaryTree = BinaryDependencyTree(
+                word, "N", "N", self.id, head, tag)
             self.id += 1
             return binaryTree, [binaryTree.key]
         else:
