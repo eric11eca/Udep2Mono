@@ -1,6 +1,58 @@
 import heapq
 
-from relation_priority import relationPriority
+relations = [
+    "acl",
+    "acl:relcl",
+    "advcl",
+    "advmod",
+    "advmod:count",
+    "amod",
+    "appos",
+    "aux",
+    "aux:pass",
+    "case",
+    "cc",
+    "cc:preconj",
+    "ccomp",
+    "clf",
+    "compound",
+    "compound:prt",
+    "conj",
+    "cop",
+    "csubj",
+    "csubj:pass",
+    "dep",
+    "det",
+    "det:predet",
+    "discourse",
+    "dislocated",
+    "expl",
+    "fixed",
+    "flat",
+    "goeswith",
+    "iobj",
+    "list",
+    "mark",
+    "nmod",
+    "nmod:poss",
+    "nmod:npmod",
+    "nmod:tmod",
+    "nmod:count",
+    "nsubj",
+    "nsubj:pass",
+    "nummod",
+    "obj",
+    "obl",
+    "obl:npmod",
+    "obl:tmod",
+    "orphan",
+    "parataxis",
+    "punct",
+    "reparandum",
+    "root",
+    "vocative",
+    "xcomp"
+]
 
 negate_mark = {
     "+": "-",
@@ -17,7 +69,7 @@ det_mark = {
 
 det_type_words = {
     "det:univ": ["all", "every", "each", "any"],
-    "det:exist": ["a", "an", "some"],
+    "det:exist": ["a", "an", "some", "double", "triple"],
     "det:limit": ["such", "both", "the", "this", "that",
                   "those", "these", "my", "his", "her",
                   "its", "either", "both", "another"],
@@ -57,7 +109,7 @@ def btreeToList(binaryDepdency, length, verbose=2):
 
     def toList(tree):
         treelist = []
-        if tree.getVal() not in relationPriority:
+        if tree.getVal() not in relations:
             treelist.append(tree.npos)
             if tree.getVal() == "n't":
                 tree.val = "not"

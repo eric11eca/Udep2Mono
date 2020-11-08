@@ -1,0 +1,1728 @@
+The cat did not sit on the mat.
+The↑ cat= did↓ not↑ sit↓ on↓ the↓ mat=
+The↑ cat= did↑ not↑ sit↓ on↓ the↓ mat.= 
+
+Out of the box, Ouya doesn't support media apps such as Twitch.tv and XBMC media player.
+Out↑ of↑ the↑ box= Ouya↑ does↓ not↑ support↓ media↓ apps↓ such↓ as↓ Twitch.tv↓ and↑ XBMC↓ media↓ player↓
+Out↑ of↑ the↑ box= Ouya↑ does↑ not↑ support↓ media↓ apps↓ such↓ as↓ Twitch.tv↓ and↑ XBMC↓ media↓ player.↓ 
+
+Considering this definition, it is not surprising to find frequent use of sarcastic language in opinionated user generated content.
+Considering↑ this↑ definition= it↑ is↑ not↑ surprising↓ to↓ find↓ frequent↓ use↓ of↓ sarcastic↓ language↓ in↓ opinionated↓ user↓ generated↓ content↓
+Considering↑ this↑ definition= it↑ is↑ not↑ surprising↓ to↑ find↑ frequent↑ use↑ of↑ sarcastic↑ language↑ in↑ opinionated↑ user↑ generated↑ content.↑ 
+
+Brexit is an irreversible decision, Sir Mike Rake, the chairman of WorldPay and ex-chairman of BT group, said as calls for a second EU referendum were sparked last week.
+Brexit↑ is↑ an↑ irreversible↑ decision↑ Sir↑ Mike↑ Rake↑ the↑ chairman= of= WorldPay= and↑ ex-chairman= of= BT= group= said↑ as↑ calls↑ for↑ a= second= EU= referendum= were↑ sparked↑ last↑ week↑
+Brexit↑ is↑ an↑ irreversible↑ decision↑ Sir↑ Mike↑ Rake↑ the↑ chairman= of= WorldPay= and↑ ex-chairman↑ of↑ BT↑ group↑ said↑ as↑ calls↑ for↑ a↑ second↑ EU↑ referendum↑ were↑ sparked↑ last↑ week.↑ 
+
+Brexit is a reversible decision, Sir Mike Rake, the chairman of WorldPay and ex-chairman of BT group, said as calls for a second EU referendum were sparked last week.
+Brexit↑ is↑ a↑ reversible↑ decision↑ Sir↑ Mike↑ Rake↑ the↑ chairman= of= WorldPay= and↑ ex-chairman= of= BT= group= said↑ as↑ calls↑ for↑ a= second= EU= referendum= were↑ sparked↑ last↑ week↑
+Brexit↑ is↑ a↑ reversible↑ decision↑ Sir↑ Mike↑ Rake↑ the↑ chairman= of= WorldPay= and↑ ex-chairman↑ of↑ BT↑ group↑ said↑ as↑ calls↑ for↑ a↑ second↑ EU↑ referendum↑ were↑ sparked↑ last↑ week.↑ 
+
+We built our society on unclean energy.
+We↑ built↑ our↑ society↑ on↑ unclean↑ energy↑
+We↑ built= our↑ society↑ on↑ unclean↑ energy.↑ 
+
+We built our society on clean energy.
+We↑ built↑ our↑ society↑ on↑ clean↑ energy↑
+We↑ built= our↑ society↑ on↑ clean↑ energy.↑ 
+
+The market is about to get harder, but not impossible to navigate.
+The↑ market= is↑ about↑ to↑ get↑ harder↑ but↑ not↑ impossible↓ to↓ navigate↓
+The↓ market↓ is↓ about↓ to↓ get↓ harder↓ but↓ not↓ impossible↓ to↓ navigate.↓ 
+
+He did not disagree with the party's position, but felt that if he resigned, his popularity with Indians would cease to stifle the party's membership.
+He↑ did↓ not↑ disagree↓ with= the↓ party= 's= position↓ but↓ felt↓ that↓ if↓ he↓ resigned↓ his↓ popularity↓ with↓ Indians↓ would↓ cease↓ to↓ stifle↓ the↓ party= 's= membership↓
+He↑ did↑ not↑ disagree↓ with= the↓ party= 's↓ position↓ but↑ felt↑ that↑ if= he= resigned= his= popularity= with= Indians= would= cease= to= stifle= the= party= 's= membership.= 
+
+He agreed with the party's position, but felt that if he resigned, his popularity with Indians would cease to stifle the party's membership.
+He↑ agreed↑ with= the↑ party= 's= position↑ but↑ felt↑ that↑ if↑ he↑ resigned↑ his↑ popularity↑ with↑ Indians↑ would↑ cease↑ to↑ stifle↑ the↑ party= 's= membership↑
+He↑ agreed↑ with= the↑ party= 's↑ position↑ but↑ felt↑ that↑ if= he= resigned= his= popularity= with= Indians= would= cease= to= stifle= the= party= 's= membership.= 
+
+Most of the graduates of my program have moved on to other things because the jobs suck.
+Most↑ of↑ the↑ graduates= of= my= program= have↑ moved↑ on↑ to↑ other↑ things↑ because↑ the↑ jobs= suck↑
+Most↑ of= the= graduates= of= my= program= have↑ moved↑ on= to↑ other= things= because↑ the↑ jobs= suck.↑ 
+
+Some of the graduates of my program have moved on to other things because the jobs suck.
+Some↑ of↑ the↑ graduates= of= my= program= have↑ moved↑ on↑ to↑ other↑ things↑ because↑ the↑ jobs= suck↑
+Some↑ of↑ the↑ graduates= of= my= program= have↑ moved↑ on= to↑ other= things= because↑ the↑ jobs= suck.↑ 
+
+We consider some context words as positive examples and sample negatives at random from the dictionary.
+We↑ consider↑ some↑ context↑ words↑ as↑ positive↑ examples↑ and↑ sample↑ negatives↑ at↑ random↑ from↑ the↑ dictionary=
+We↓ consider↓ some↓ context↓ words↓ as↓ positive↓ examples↓ and↓ sample↓ negatives↓ at↓ random↓ from↓ the↓ dictionary.↓ 
+
+We consider some context words as positive examples and sample negatives at random from the dictionary.
+We↑ consider↑ some↑ context↑ words↑ as↑ positive↑ examples↑ and↑ sample↑ negatives↑ at↑ random↑ from↑ the↑ dictionary=
+We↓ consider↓ some↓ context↓ words↓ as↓ positive↓ examples↓ and↓ sample↓ negatives↓ at↓ random↓ from↓ the↓ dictionary.↓ 
+
+We consider all context words as positive examples and sample many negatives at random from the dictionary.
+We↑ consider↑ all↑ context↓ words↓ as↑ positive↑ examples↑ and↑ sample↑ many↑ negatives= at↑ random↑ from↑ the↑ dictionary=
+We= consider↑ all↑ context↓ words↓ as↑ positive↑ examples↑ and↑ sample= many= negatives= at↑ random= from= the= dictionary.= 
+
+We consider some context words as positive examples and sample negatives at random from the dictionary.
+We↑ consider↑ some↑ context↑ words↑ as↑ positive↑ examples↑ and↑ sample↑ negatives↑ at↑ random↑ from↑ the↑ dictionary=
+We↓ consider↓ some↓ context↓ words↓ as↓ positive↓ examples↓ and↓ sample↓ negatives↓ at↓ random↓ from↓ the↓ dictionary.↓ 
+
+We consider many context words as positive examples and sample negatives at random from the dictionary.
+We↑ consider↑ many↑ context= words= as= positive= examples= and↑ sample= negatives= at= random= from↑ the↑ dictionary=
+We↓ consider↓ many↓ context↓ words↓ as↓ positive↓ examples↓ and↓ sample↓ negatives↓ at↓ random↓ from↓ the↓ dictionary.↓ 
+
+We consider all context words as positive examples and sample negatives at random from the dictionary.
+We↑ consider↑ all↑ context↓ words↓ as↑ positive↑ examples↑ and↑ sample↑ negatives↑ at↑ random↑ from↑ the↑ dictionary=
+We↓ consider↓ all↓ context↓ words↓ as↓ positive↓ examples↓ and↓ sample↓ negatives↓ at↓ random↓ from↓ the↓ dictionary.↓ 
+
+Most of the graduates of my program have moved on to other things because the jobs suck.
+Most↑ of↑ the↑ graduates= of= my= program= have↑ moved↑ on↑ to↑ other↑ things↑ because↑ the↑ jobs= suck↑
+Most↑ of= the= graduates= of= my= program= have↑ moved↑ on= to↑ other= things= because↑ the↑ jobs= suck.↑ 
+
+Most of the graduates of my program have moved on to other things because the jobs suck.
+Most↑ of↑ the↑ graduates= of= my= program= have↑ moved↑ on↑ to↑ other↑ things↑ because↑ the↑ jobs= suck↑
+Most↑ of= the= graduates= of= my= program= have↑ moved↑ on= to↑ other= things= because↑ the↑ jobs= suck.↑ 
+
+All of the graduates of my program have moved on to other things because the jobs suck.
+All↑ of↓ the↓ graduates= of= my= program= have↑ moved↑ on↑ to↑ other↑ things↑ because↑ the↑ jobs= suck↑
+All↑ of↓ the↓ graduates= of= my= program= have↑ moved↑ on= to↑ other= things= because↑ the↑ jobs= suck.↑ 
+
+The question generation aspect is unique to our formulation, and corresponds roughly to identifying what semantic role labels are present in previous formulations of the task.
+The↑ question= generation= aspect= is↑ unique↑ to= our↑ formulation↑ and↑ corresponds↑ roughly↑ to↑ identifying↑ what↑ semantic↑ role↑ labels↑ are↑ present↑ in↑ previous↑ formulations↑ of↑ the↑ task=
+The↑ question= generation= aspect= is↑ unique↑ to= our↑ formulation↑ and↑ corresponds↑ roughly↑ to↑ identifying= what= semantic= role= labels= are= present= in= previous= formulations= of= the= task.= 
+
+The question generation aspect is unique to our formulation, and corresponds roughly to identifying what semantic role labels are present in previous other formulations of the task.
+The↑ question= generation= aspect= is↑ unique↑ to= our↑ formulation↑ and↑ corresponds↑ roughly↑ to↑ identifying↑ what↑ semantic↑ role↑ labels↑ are↑ present↑ in↑ previous↑ other↑ formulations↑ of↑ the↑ task=
+The↑ question= generation= aspect= is↑ unique↑ to= our↑ formulation↑ and↑ corresponds↑ roughly↑ to↑ identifying= what= semantic= role= labels= are= present= in= previous= other= formulations= of= the= task.= 
+
+John ate pasta for dinner.
+John↑ ate↑ pasta↑ for↑ dinner=
+John↑ ate↑ pasta↑ for↑ dinner.↑ 
+
+John ate pasta for supper.
+John↑ ate↑ pasta↑ for↑ supper=
+John↑ ate↑ pasta↑ for↑ supper.↑ 
+
+John ate pasta for dinner.
+John↑ ate↑ pasta↑ for↑ dinner=
+John↑ ate↑ pasta↑ for↑ dinner.↑ 
+
+John ate pasta for breakfast.
+John↑ ate↑ pasta↑ for↑ breakfast=
+John↑ ate↑ pasta↑ for↑ breakfast.↑ 
+
+Former senior Justice Department officials weren't asked for information.
+Former↑ senior↑ Justice↑ Department↑ officials↑ were↑ not↑ asked↓ for↓ information=
+Former↑ senior= Justice= Department= officials= were↓ not↑ asked↓ for↓ information.↓ 
+
+The population of the Cape sparrow has not decreased significantly, and is not seriously threatened by human activities.
+The↑ population= of= the= Cape= sparrow= has↓ not↑ decreased↓ significantly↓ and↑ is↓ not↓ seriously↑ threatened↑ by↑ human↑ activities↑
+The↑ population= of= the= Cape= sparrow= has↓ not↑ decreased↓ significantly↓ and↑ is↓ not↑ seriously↓ threatened↓ by↓ human↓ activities.↓ 
+
+In an Oval Office meeting after Mueller's appointment, Trump told Sessions he should resign, prompting the attorney general's submission of a letter of resignation, according to The New York Times.
+In↑ an↑ Oval↑ Office↑ meeting↑ after= Mueller↑ 's↑ appointment↑ Trump↑ told↑ Sessions↑ he↑ should↑ resign↑ prompting↑ the↑ attorney= general= 's= submission= of= a= letter= of= resignation= according↑ to↑ The↑ New= York= Times=
+In↑ an↑ Oval↑ Office↑ meeting↑ after= Mueller↑ 's↑ appointment↑ Trump↑ told↑ Sessions↑ he↑ should↑ resign↑ prompting= the↑ attorney= general= 's↑ submission↑ of↑ a↑ letter↑ of↑ resignation↑ according↑ to↑ The↑ New= York= Times.= 
+
+In an Oval Office meeting after Mueller's appointment, Trump told Sessions he should resign, prompting the attorney general's withholding of a letter of resignation, according to The New York Times.
+In↑ an↑ Oval↑ Office↑ meeting↑ after= Mueller↑ 's↑ appointment↑ Trump↑ told↑ Sessions↑ he↑ should↑ resign↑ prompting↑ the↑ attorney= general= 's= withholding= of= a= letter= of= resignation= according↑ to↑ The↑ New= York= Times=
+In↑ an↑ Oval↑ Office↑ meeting↑ after= Mueller↑ 's↑ appointment↑ Trump↑ told↑ Sessions↑ he↑ should↑ resign↑ prompting↑ the↑ attorney= general= 's↑ withholding↑ of↑ a↑ letter↑ of↑ resignation↑ according↑ to↑ The↑ New= York= Times.= 
+
+Mythbusters proved that bulls react to movement and not color.
+Mythbusters↑ proved↑ that↑ bulls↑ react↑ to↑ movement↑ and↑ not↑ color↓
+Mythbusters↑ proved↑ that↑ bulls= react= to= movement= and↑ not= color.= 
+
+Bulls proved that mythbusters react to movement and not color.
+Bulls↑ proved↑ that↑ mythbusters↑ react↑ to↑ movement↑ and↑ not↑ color↓
+Bulls↑ proved↑ that↑ mythbusters= react= to= movement= and↑ not= color.= 
+
+Bees do not follow the same rules as airplanes.
+Bees↑ do↓ not↑ follow↓ the↓ same= rules= as↓ airplanes↓
+Bees↑ do↑ not↑ follow↓ the↓ same= rules= as= airplanes.= 
+
+Airplanes do not follow the same rules as bees.
+Airplanes↑ do↓ not↑ follow↓ the↓ same= rules= as↓ bees↓
+Airplanes↑ do↑ not↑ follow↓ the↓ same= rules= as= bees.= 
+
+Bees do not follow the same rules as airplanes.
+Bees↑ do↓ not↑ follow↓ the↓ same= rules= as↓ airplanes↓
+Bees↑ do↑ not↑ follow↓ the↓ same= rules= as= airplanes.= 
+
+Bees do not follow the same rules as airplanes.
+Bees↑ do↓ not↑ follow↓ the↓ same= rules= as↓ airplanes↓
+Bees↑ do↑ not↑ follow↓ the↓ same= rules= as= airplanes.= 
+
+Bees fly using the same mechanism as airplanes.
+Bees↑ fly↑ using↑ the↑ same= mechanism= as↑ airplanes↑
+Bees↑ fly↑ using↑ the↑ same= mechanism= as= airplanes.= 
+
+Bees do not follow the same rules as airplanes.
+Bees↑ do↓ not↑ follow↓ the↓ same= rules= as↓ airplanes↓
+Bees↑ do↑ not↑ follow↓ the↓ same= rules= as= airplanes.= 
+
+This means that solving analogy questions with vector arithmetic is mathematically equivalent to seeking a word that is similar to x and y but is different from z.
+This↑ means↑ that↑ solving↑ analogy↑ questions↑ with↑ vector↑ arithmetic↑ is↑ mathematically↑ equivalent↑ to↑ seeking↑ a↑ word↑ that↑ is= similar= to= x= and↑ y= but↑ is= different= from= z.=
+This↑ means= that= solving= analogy= questions= with= vector= arithmetic= is= mathematically= equivalent= to= seeking= a= word= that= is= similar= to= x= and↑ y= but↑ is= different= from= z.= 
+
+This means that seeking a word that is similar to x and y but is different from z is mathematically equivalent to solving analogy questions with vector arithmetic.
+This↑ means↑ that↑ seeking↑ a↑ word↑ that↑ is= similar= to= x= and↑ y= but↑ is= different= from= z= is↑ mathematically↑ equivalent↑ to↑ solving↑ analogy↑ questions↑ with↑ vector↑ arithmetic↑
+This↑ means= that= seeking= a= word= that= is= similar= to= x= and↑ y= but↑ is= different= from= z= is= mathematically= equivalent= to= solving= analogy= questions= with= vector= arithmetic.= 
+
+It reminds me of the times my little brother and I played Super Mario.
+It↑ reminds↑ me↑ of↑ the↑ times= my↑ little↑ brother↑ and↑ I↑ played↑ Super↑ Mario↑
+It↑ reminds↑ me↑ of↑ the↑ times= my= little= brother= and↑ I= played= Super= Mario.= 
+
+For decades, the FBI has been trusted to investigate corruption inside the government.
+For↑ decades= the↑ FBI= has↑ been↑ trusted↑ to↑ investigate↑ corruption↑ inside↑ the↑ government=
+For↑ decades↑ the↑ FBI= has↑ been↑ trusted↑ to↑ investigate↑ corruption↑ inside↑ the↑ government.= 
+
+The FBI has been trusted to investigate corruption inside the government for decades.
+The↑ FBI= has↑ been↑ trusted↑ to↑ investigate↑ corruption↑ inside↑ the↑ government= for↑ decades=
+The↑ FBI= has↑ been↑ trusted↑ to↑ investigate↑ corruption↑ inside↑ the↑ government= for↑ decades.↑ 
+
+I was driving through my neighborhood a few weeks ago, and there was a lady holding a child's hand, standing on the side of the road talking to someone parked in a car.
+I↑ was↑ driving↑ through= my↑ neighborhood↑ a↑ few↑ weeks↑ ago↑ and↑ there↑ was↑ a↑ lady↑ holding↑ a↑ child↑ 's↑ hand↑ standing↑ on↑ the↑ side= of= the= road= talking= to= someone= parked= in= a= car=
+I↑ was↑ driving↑ through= my↑ neighborhood↑ several↑ weeks↑ ago↑ and↑ there↑ was↑ a↑ lady↑ holding↑ a↑ child↑ 's↑ hand↑ standing↑ on↑ the↑ side= of= the= road= talking↑ to↑ some↑ person↑ parked↑ in↑ a↑ car.↑ 
+
+A few weeks ago, I was driving through my neighborhood, and there was a lady holding a child's hand, standing on the side of the road talking to someone parked in a car.
+A↑ few↑ weeks↑ ago↑ I↑ was↑ driving↑ through= my↑ neighborhood↑ and↑ there↑ was↑ a↑ lady↑ holding↑ a↑ child↑ 's↑ hand↑ standing↑ on↑ the↑ side= of= the= road= talking= to= someone= parked= in= a= car=
+several↑ weeks↑ ago↑ I↑ was↑ driving↑ through= my↑ neighborhood↑ and↑ there↑ was↑ a↑ lady↑ holding↑ a↑ child↑ 's↑ hand↑ standing↑ on↑ the↑ side= of= the= road= talking↑ to↑ some↑ person↑ parked↑ in↑ a↑ car.↑ 
+
+In construction of the Empire State Building, Bass River timber was used.
+In↑ construction↑ of↑ the↑ Empire= State= Building= Bass↑ River↑ timber↑ was↑ used↑
+In↑ construction= of= the= Empire= State= Building= Bass= River= timber= was= used.= 
+
+We propose models from which the attested vowel inventories have been drawn.
+We↑ propose↑ models↑ from↑ which↑ the↑ attested= vowel= inventories= have↑ been↑ drawn↑
+We↑ propose↑ models= from↑ which↑ the↑ attested= vowel= inventories= have↑ been↑ drawn.↑ 
+
+We propose models of the probability distribution from a restricted space of linear functions.
+We↑ propose↑ models↑ of↑ the↑ probability= distribution= from↑ a↑ restricted↑ space↑ of↑ linear↑ functions↑
+We↑ propose↑ models↑ of↑ the↑ probability= distribution= from= a= restricted= space= of= linear= functions.= 
+
+We propose models of the probability distribution from a restricted space of linear functions.
+We↑ propose↑ models↑ of↑ the↑ probability= distribution= from↑ a↑ restricted↑ space↑ of↑ linear↑ functions↑
+We↑ propose↑ models↑ of↑ the↑ probability= distribution= from= a= restricted= space= of= linear= functions.= 
+
+That bill would increase the debt too much.
+That↑ bill= would↑ increase↑ the↑ debt= too↑ much↑
+That↓ bill↓ would↓ increase↓ the↓ debt↓ too↓ much.↓ 
+
+The climbing beans choked the corn, and the squash grew so big that it overshadowed several adjacent rows of beans.
+The↑ climbing= beans= choked↑ the↑ corn= and↑ the↑ squash= grew↑ so↑ big↑ that↑ it↑ overshadowed↑ several↑ adjacent↑ rows↑ of↑ beans↑
+The↑ climbing= beans= choked↑ the↑ corn= and↑ the↑ squash= grew↑ so↑ big↑ that↑ it= overshadowed= several= adjacent= rows= of= beans.= 
+
+The climbing beans choked the corn, and the squash grew so big that it overshadowed several adjacent rows of beans.
+The↑ climbing= beans= choked↑ the↑ corn= and↑ the↑ squash= grew↑ so↑ big↑ that↑ it↑ overshadowed↑ several↑ adjacent↑ rows↑ of↑ beans↑
+The↑ climbing= beans= choked↑ the↑ corn= and↑ the↑ squash= grew↑ so↑ big↑ that↑ it= overshadowed= several= adjacent= rows= of= beans.= 
+
+We show that if coreference resolvers mainly rely on lexical features, they can hardly generalize to unseen domains.
+We↑ show↑ that↑ if↑ coreference↑ resolvers↑ mainly↑ rely↑ on↑ lexical↑ features↑ they↑ can↑ hardly↑ generalize↑ to↑ unseen↑ domains↑
+We↑ show↑ that↑ if= coreference= resolvers= mainly= rely= on= lexical= features= they= can= hardly= generalize= to= unseen= domains.= 
+
+We show that if coreference resolvers mainly rely on lexical features, they can hardly generalize to unseen domains.
+We↑ show↑ that↑ if↑ coreference↑ resolvers↑ mainly↑ rely↑ on↑ lexical↑ features↑ they↑ can↑ hardly↑ generalize↑ to↑ unseen↑ domains↑
+We↑ show↑ that↑ if= coreference= resolvers= mainly= rely= on= lexical= features= they= can= hardly= generalize= to= unseen= domains.= 
+
+Both doctor and patient bear some responsibility for successful care.
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful= care=
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful↑ care.↑ 
+
+The doctor bears some responsibility for successful care.
+The↑ doctor= bears↑ some↑ responsibility↑ for↑ successful= care=
+The↑ doctor= bears↑ some↑ responsibility↑ for↑ successful↑ care.↑ 
+
+Both doctor and patient bear some responsibility for successful care.
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful= care=
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful↑ care.↑ 
+
+Both doctor and patient bear some responsibility for successful care.
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful= care=
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful↑ care.↑ 
+
+The patient bears some responsibility for successful care.
+The↑ patient= bears↑ some↑ responsibility↑ for↑ successful= care=
+The↑ patient= bears↑ some↑ responsibility↑ for↑ successful↑ care.↑ 
+
+Both doctor and patient bear some responsibility for successful care.
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful= care=
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful↑ care.↑ 
+
+Both doctor and patient bear some responsibility for successful care.
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful= care=
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful↑ care.↑ 
+
+The attorney bears some responsibility for successful care.
+The↑ attorney= bears↑ some↑ responsibility↑ for↑ successful= care=
+The↑ attorney= bears↑ some↑ responsibility↑ for↑ successful↑ care.↑ 
+
+Both doctor and patient bear some responsibility for successful care.
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful= care=
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful↑ care.↑ 
+
+He does not have a blind trust.
+He↑ does↓ not↑ have↓ a↓ blind↓ trust↓
+He↑ does↑ not↑ have↓ a↓ blind↓ trust.↓ 
+
+No one has a set of principles to live by.
+No↑ one↓ has↓ a↓ set↓ of↓ principles↓ to↓ live↓ by↓
+No↑ person↓ has↓ a↓ set↓ of↓ principles↓ to↓ live↓ by.↑ 
+
+Susan knows how turtles reproduce.
+Susan↑ knows↑ how↑ turtles↑ reproduce↑
+Susan↑ knows↑ how↑ turtles= reproduce.= 
+
+Susan knows how turtles reproduce.
+Susan↑ knows↑ how↑ turtles↑ reproduce↑
+Susan↑ knows↑ how↑ turtles= reproduce.= 
+
+No one knows how turtles reproduce.
+No↑ one↓ knows↓ how↓ turtles↓ reproduce↓
+No↑ person↓ knows↓ how↓ turtles= reproduce.= 
+
+Susan knows how turtles reproduce.
+Susan↑ knows↑ how↑ turtles↑ reproduce↑
+Susan↑ knows↑ how↑ turtles= reproduce.= 
+
+Cedric doesn't know how turtles reproduce.
+Cedric↑ does↓ not↑ know↓ how↓ turtles↓ reproduce↓
+Cedric↑ does↑ not↑ know↓ how↓ turtles= reproduce.= 
+
+If there is a bathroom in this house, it is in a funny place.
+If↑ there↑ is↑ a↑ bathroom↑ in↑ this↑ house= it↑ is↑ in↑ a↑ funny↑ place↑
+If↑ there↓ is↓ a↓ bathroom↓ in↓ this↓ house= it↑ is↑ in↑ a↑ funny↑ place.↑ 
+
+Joan believes that all speech is political speech.
+Joan↑ believes↑ that↑ all↑ speech↓ is↑ political↑ speech↑
+Joan↑ believes↑ that↑ all= speech= is= political= speech.= 
+
+Joan doubts that all speech is political speech.
+Joan↑ doubts↑ that↑ all↑ speech↓ is↑ political↑ speech↑
+Joan↑ doubts↑ that↑ all= speech= is= political= speech.= 
+
+Joan knows that all speech is political speech.
+Joan↑ knows↑ that↑ all↑ speech↓ is↑ political↑ speech↑
+Joan↑ knows↑ that↑ all= speech= is= political= speech.= 
+
+Joan knows that all speech is political speech.
+Joan↑ knows↑ that↑ all↑ speech↓ is↑ political↑ speech↑
+Joan↑ knows↑ that↑ all= speech= is= political= speech.= 
+
+Grisham did not win the popular vote.
+Grisham↑ did↓ not↑ win↓ the↓ popular= vote=
+Grisham↑ did↑ not↑ win↓ the↓ popular= vote.= 
+
+Jacob did not see Tex sign the contract.
+Jacob↑ did↓ not↑ see↓ Tex↓ sign↓ the↓ contract=
+Jacob↑ did↑ not↑ see↓ Tex↓ sign↓ the↓ contract.= 
+
+Grisham did not win the popular vote.
+Grisham↑ did↓ not↑ win↓ the↓ popular= vote=
+Grisham↑ did↑ not↑ win↓ the↓ popular= vote.= 
+
+Grisham did not win the popular vote.
+Grisham↑ did↓ not↑ win↓ the↓ popular= vote=
+Grisham↑ did↑ not↑ win↓ the↓ popular= vote.= 
+
+Grisham did not win the popular vote.
+Grisham↑ did↓ not↑ win↓ the↓ popular= vote=
+Grisham↑ did↑ not↑ win↓ the↓ popular= vote.= 
+
+If Pedro has a donkey, then he beats it.
+If↑ Pedro↑ has↑ a↑ donkey↑ then↑ he↑ beats↑ it↑
+If↑ Pedro↓ has↓ a↓ donkey↓ then↑ he↑ beats↑ it.↑ 
+
+If Pedro has a donkey, then he beats it.
+If↑ Pedro↑ has↑ a↑ donkey↑ then↑ he↑ beats↑ it↑
+If↑ Pedro↓ has↓ a↓ donkey↓ then↑ he↑ beats↑ it.↑ 
+
+People across the globe were prepared for Tillerson's departure.
+People↑ across↑ the↑ globe= were↑ prepared↑ for↑ Tillerson= 's= departure=
+People↑ across↑ the↑ globe= were↑ prepared↑ for= Tillerson↑ 's↑ departure.↑ 
+
+After being denied, he grew angry and ignored the police officer's warnings to relax, so he was handcuffed and taken to the station.
+After↑ being↑ denied↑ he↑ grew↑ angry↑ and↑ ignored↑ the↑ police= officer= 's= warnings= to= relax= so↑ he↑ was↑ handcuffed↑ and↑ taken↑ to↑ the↑ station=
+After↑ being↑ denied↑ he↑ grew↑ angry↑ and↑ ignored↑ the↑ police= officer= 's↑ warnings↑ to↑ relax↑ so↑ he↑ was↑ handcuffed↑ and↑ taken↑ to↑ the↑ station.= 
+
+After being denied, he grew angry and ignored the police officer's warnings to relax, so he was arrested.
+After↑ being↑ denied↑ he↑ grew↑ angry↑ and↑ ignored↑ the↑ police= officer= 's= warnings↑ to↑ relax↑ so↑ he↑ was↑ arrested↑
+After↑ being↑ denied↑ he↑ grew↑ angry↑ and↑ ignored↑ the↑ police= officer= 's↑ warnings↑ to↑ relax↑ so↑ he↑ was↑ arrested.↑ 
+
+After being denied, he grew angry and ignored the police officer's warnings to relax, so he was handcuffed and taken to the station.
+After↑ being↑ denied↑ he↑ grew↑ angry↑ and↑ ignored↑ the↑ police= officer= 's= warnings= to= relax= so↑ he↑ was↑ handcuffed↑ and↑ taken↑ to↑ the↑ station=
+After↑ being↑ denied↑ he↑ grew↑ angry↑ and↑ ignored↑ the↑ police= officer= 's↑ warnings↑ to↑ relax↑ so↑ he↑ was↑ handcuffed↑ and↑ taken↑ to↑ the↑ station.= 
+
+After being denied, he grew angry and ignored the police officer's warnings to relax, so he was escorted home.
+After↑ being↑ denied↑ he↑ grew↑ angry↑ and↑ ignored↑ the↑ police= officer= 's= warnings= to= relax= so↑ he↑ was↑ escorted↑ home↑
+After↑ being↑ denied↑ he↑ grew↑ angry↑ and↑ ignored↑ the↑ police= officer= 's↑ warnings↑ to↑ relax↑ so↑ he↑ was↑ escorted↑ home.↑ 
+
+Marc Sims has been seeing his barber once a week, for several years.
+Marc↑ Sims↑ has↑ been↑ seeing↑ his↑ barber↑ once↑ a↑ week↑ for↑ several= years=
+Marc↑ Sims↑ has↑ been↑ seeing↑ his↑ barber↑ once↑ a↑ week↑ for↑ several↑ years.↑ 
+
+Marc Sims has been getting his hair cut once a week, for several years.
+Marc↑ Sims↑ has↑ been↑ getting↑ his↑ hair↑ cut↑ once↑ a↑ week↑ for↑ several= years=
+Marc↑ Sims↑ has↑ been↑ getting= his↑ hair↑ cut↑ once↑ a↑ week↑ for↑ several↑ years.↑ 
+
+Marc Sims has been seeing his barber once a week, for several years.
+Marc↑ Sims↑ has↑ been↑ seeing↑ his↑ barber↑ once↑ a↑ week↑ for↑ several= years=
+Marc↑ Sims↑ has↑ been↑ seeing↑ his↑ barber↑ once↑ a↑ week↑ for↑ several↑ years.↑ 
+
+Marc Sims has been cutting hair once a week, for several years.
+Marc↑ Sims↑ has↑ been↑ cutting↑ hair↑ once↑ a↑ week↑ for↑ several= years=
+Marc↑ Sims↑ has↑ been↑ cutting↑ hair↑ once↑ a↑ week↑ for↑ several↑ years.↑ 
+
+Russia vowed Tuesday to retaliate if Britain imposes sanctions in response to a chemical attack on British soil and demanded access to samples of a nerve agent that British investigators say they have identified as Russian.
+Russia↑ vowed↑ Tuesday↑ to↑ retaliate↑ if↑ Britain↑ imposes↑ sanctions↑ in↑ response↑ to↑ a↑ chemical↑ attack↑ on↑ British↑ soil↑ and↑ demanded↑ access↑ to↑ samples↑ of↑ a↑ nerve↑ agent↑ that↑ British↑ investigators↑ say↑ they↑ have↑ identified↑ as↑ Russian↑
+Russia↓ vowed↓ Tuesday↓ to↓ retaliate↓ if↓ Britain↓ imposes↓ sanctions↓ in↓ response↓ to↓ a↓ chemical↓ attack↓ on↓ British↓ soil↓ and↓ demanded↓ access↓ to↓ samples↓ of↓ a↓ nerve↓ agent↓ that↓ British↓ investigators↓ say↓ they↓ have↓ identified↓ as↓ Russian.↓ 
+
+As with previous freebies, the games offered in this manner will be yours to keep permanently, though you'll presumably need to use the Twitch desktop app in order to grab them.
+As↑ with↑ previous↑ freebies↑ the↑ games= offered= in= this= manner= will↑ be↑ yours↑ to↑ keep↑ permanently↑ though↑ you↑ 'll↑ presumably↑ need↑ to↑ use↑ the↑ Twitch= desktop= app= in↑ order↑ to↑ grab↑ them↑
+As↓ with↓ previous↓ freebies↓ the↓ games↓ offered↓ in↓ this↓ manner↓ will↓ be↓ yours↓ to↓ keep↓ permanently↓ though↓ you↓ 'll↓ presumably↓ need↓ to↓ use↓ the↓ Twitch↓ desktop↓ app↓ in↓ order↓ to↓ grab↓ them.↓ 
+
+As with previous freebies, the games offered in this manner will be yours to keep permanently, though you'll presumably need to use the Twitch desktop app in order to download them.
+As↑ with↑ previous↑ freebies↑ the↑ games= offered= in= this= manner= will↑ be↑ yours↑ to↑ keep↑ permanently↑ though↑ you↑ 'll↑ presumably↑ need↑ to↑ use↑ the↑ Twitch= desktop= app= in↑ order↑ to↑ download↑ them↑
+As↓ with↓ previous↓ freebies↓ the↓ games↓ offered↓ in↓ this↓ manner↓ will↓ be↓ yours↓ to↓ keep↓ permanently↓ though↓ you↓ 'll↓ presumably↓ need↓ to↓ use↓ the↓ Twitch↓ desktop↓ app↓ in↓ order↓ to↓ download↓ them.↓ 
+
+He said the United States intended to use the fake attack as a pretext to bomb the government quarter in nearby Damascus where he said Russian military advisers, Russian military police and Russian ceasefire monitors were based.
+He↑ said↑ the↑ United= States= intended↑ to↑ use↑ the↑ fake= attack= as↑ a↑ pretext↑ to↑ bomb↑ the↑ government= quarter= in↑ nearby↑ Damascus↑ where↑ he↑ said↑ Russian↑ military↑ advisers↑ Russian↑ military↑ police↑ and↑ Russian↑ ceasefire↑ monitors↑ were↑ based↑
+He↑ said↑ the↑ United= States= intended↑ to↑ use↑ the↑ fake= attack= as↑ a↑ pretext↑ to↑ bomb↑ the↑ government= quarter= in↑ nearby↑ Damascus= where↑ he= said= Russian= military= advisers= Russian= military= police= and↑ Russian= ceasefire= monitors= were= based.= 
+
+He said the United States intended to bomb the government quarter in nearby Damascus where he said Russian military advisers, Russian military police and Russian ceasefire monitors were based.
+He↑ said↑ the↑ United= States= intended↑ to↑ bomb↑ the↑ government= quarter= in↑ nearby↑ Damascus↑ where↑ he↑ said↑ Russian↑ military↑ advisers↑ Russian↑ military↑ police↑ and↑ Russian↑ ceasefire↑ monitors↑ were↑ based↑
+He↑ said↑ the↑ United= States= intended↑ to↑ bomb↑ the↑ government= quarter= in↑ nearby↑ Damascus= where↑ he= said= Russian= military= advisers= Russian= military= police= and↑ Russian= ceasefire= monitors= were= based.= 
+
+The matter is so sensitive that they agreed to talk only on condition of anonymity.
+The↑ matter= is↑ so↑ sensitive↑ that↑ they↑ agreed↑ to↑ talk↑ only↑ on↑ condition↑ of↑ anonymity↑
+The↑ matter= is↑ so↑ sensitive↑ that↑ they= agreed= to= talk= only= on= condition= of= anonymity.= 
+
+It is so sensitive that they agreed to talk about the matter only on condition of anonymity.
+It↑ is↑ so↑ sensitive↑ that↑ they↑ agreed↑ to↑ talk↑ about↑ the↑ matter= only↑ on↑ condition↑ of↑ anonymity↑
+It↑ is↑ so↑ sensitive↑ that↑ they= agreed= to= talk= about= the= matter= only= on= condition= of= anonymity.= 
+
+The matter is so sensitive that they agreed to talk only on condition of anonymity.
+The↑ matter= is↑ so↑ sensitive↑ that↑ they↑ agreed↑ to↑ talk↑ only↑ on↑ condition↑ of↑ anonymity↑
+The↑ matter= is↑ so↑ sensitive↑ that↑ they= agreed= to= talk= only= on= condition= of= anonymity.= 
+
+Microsoft has said that corrective action might be taken even if no policy violation was found, and that the person who filed the complaint might not be informed.
+Microsoft↑ has↑ said↑ that↑ corrective↑ action↑ might↑ be↑ taken↑ even↑ if↑ no↑ policy↓ violation↓ was↓ found↓ and↑ that↑ the↑ person= who= filed= the= complaint= might↓ not↑ be↓ informed↓
+Microsoft↓ has↓ said↓ that↓ corrective↓ action↓ might↓ be↓ taken↓ even↓ if↓ no↓ policy↓ violation↓ was↓ found↓ and↓ that↓ the↓ person↓ who↓ filed↓ the↓ complaint↓ might↓ not↓ be↓ informed.↓ 
+
+If he stays in power longer,  it will be harder for him to exit.
+If↑ he↑ stays↑ in↑ power↑ longer↑ it↑ will↑ be↑ harder↑ for↑ him= to↑ exit↑
+If↑ he= stays= in= power= longer↓ it↑ will↑ be↑ harder↑ for↑ him= to= exit.= 
+
+If he stays in power longer,  it will be harder to exit.
+If↑ he↑ stays↑ in↑ power↑ longer↑ it↑ will↑ be↑ harder↑ to↑ exit↑
+If↑ he= stays= in= power= longer↓ it↑ will↑ be↑ harder↑ to↑ exit.↑ 
+
+The shorter he stays in power, the easier it will be to exit.
+The↑ shorter= he↑ stays↑ in↑ power↑ the↑ easier= it= will= be= to= exit=
+The↑ shorter= he↑ stays↑ in↑ power↑ the= easier= it= will= be= to= exit.= 
+
+Our deepest sympathies are with all those affected by this accident.
+Our↑ deepest↑ sympathies↑ are↑ with↑ all↑ those↓ affected↑ by↑ this↑ accident=
+Our↑ deepest↑ sympathies↑ are= with= all= those= affected= by= this= accident.= 
+
+Our deepest sympathies are with a victim who was affected by this accident.
+Our↑ deepest↑ sympathies↑ are↑ with↑ a↑ victim↑ who↑ was↑ affected↑ by↑ this↑ accident=
+Our↑ deepest↑ sympathies↑ are= with= a= victim= who= was= affected= by= this= accident.= 
+
+From a quick Google search, it was created as a hard fork of Bitcoin and it's supposed to be faster and more sustainable than Bitcoin.
+From↑ a↑ quick↑ Google↑ search↑ it↑ was↑ created↑ as↑ a↑ hard↑ fork↑ of↑ Bitcoin↑ and↑ it↑ 's↑ supposed↑ to↑ be↑ faster↑ and↑ more↑ sustainable↑ than↑ Bitcoin↑
+From↓ a↓ quick↓ Google↓ search↓ it↓ was↓ created↓ as↓ a↓ hard↓ fork↓ of↓ Bitcoin↓ and↓ it↓ 's↓ supposed↓ to↓ be↓ faster↓ and↓ more↓ sustainable↓ than↓ Bitcoin.↓ 
+
+From a quick Google search, Bitcoin Cash was created as a hard fork of Bitcoin and it's supposed to be faster and more sustainable than Bitcoin Cash.
+From↑ a↑ quick↑ Google↑ search↑ Bitcoin↑ Cash↑ was↑ created↑ as↑ a↑ hard↑ fork↑ of↑ Bitcoin↑ and↑ it↑ 's↑ supposed↑ to↑ be↑ faster↑ and↑ more↑ sustainable↑ than↑ Bitcoin↑ Cash↑
+From↓ a↓ quick↓ Google↓ search↓ Bitcoin↓ Cash↓ was↓ created↓ as↓ a↓ hard↓ fork↓ of↓ Bitcoin↓ and↓ it↓ 's↓ supposed↓ to↓ be↓ faster↓ and↓ more↓ sustainable↓ than↓ Bitcoin↓ Cash.↓ 
+
+Such a cute furry ball of personality, her last days were painful for her and us but at least I had the time to make my peace and say goodbye while she was still there.
+Such↑ a= cute↑ furry↑ ball↑ of↑ personality↑ her↑ last↑ days↑ were↑ painful↑ for↑ her= and↑ us↑ but↑ at↑ least↑ I↑ had↑ the↑ time= to= make= my= peace= and↑ say= goodbye= while= she= was= still= there=
+Such↑ a= cute= furry= ball= of= personality= her= last= days= were= painful= for= her= and↑ us= but↑ at↑ least= I= had= the= time= to= make= my= peace= and↑ say= goodbye= while= she= was= still= there.= 
+
+Such a cute furry ball of personality, her last nights were painful for her and us but at least I had the time to make my peace and say goodbye while she was still there.
+Such↑ a= cute↑ furry↑ ball↑ of↑ personality↑ her↑ last↑ nights↑ were↑ painful↑ for↑ her= and↑ us↑ but↑ at↑ least↑ I↑ had↑ the↑ time= to= make= my= peace= and↑ say= goodbye= while= she= was= still= there=
+Such↑ a= cute= furry= ball= of= personality= her= last= nights= were= painful= for= her= and↑ us= but↑ at↑ least= I= had= the= time= to= make= my= peace= and↑ say= goodbye= while= she= was= still= there.= 
+
+I wish I could give both of you an upvote to share.
+I↑ wish↑ I↑ could↑ give↑ both↑ of= you= an↑ upvote↑ to↑ share↑
+I↓ wish↓ I↓ could↓ give↓ both↓ of↓ you↓ an↓ upvote↓ to↓ share.↓ 
+
+I wish I could give both of you an upvote to share.
+I↑ wish↑ I↑ could↑ give↑ both↑ of= you= an↑ upvote↑ to↑ share↑
+I↓ wish↓ I↓ could↓ give↓ both↓ of↓ you↓ an↓ upvote↓ to↓ share.↓ 
+
+Life is a not a daring adventure.
+Life↑ is↑ a↑ not↑ a↓ daring↓ adventure↓
+Life↑ is↑ a↓ not↑ a↓ daring↓ adventure.↓ 
+
+Just watched the first quarter hour, got bored, skipped to the magic bit, it's funnier as a GIF.
+Just↑ watched↑ the↑ first= quarter= hour= got↑ bored↑ skipped↑ to↑ the↑ magic= bit= it↑ 's↑ funnier↑ as↑ a↑ GIF↑
+Just↑ watched↑ the↑ first= quarter= hour= got↑ bored↑ skipped↑ to↑ the↑ magic= bit= it= 's= funnier= as= a= GIF.= 
+
+I think this was part of the last season of Bojack Horseman.
+I↑ think↑ this↑ was↑ part↑ of↑ the↑ last= season= of= Bojack= Horseman=
+I↑ think↑ this↑ was= part= of= the= last= season= of= Bojack= Horseman.= 
+
+I think this was part of the last episode of Bojack Horseman.
+I↑ think↑ this↑ was↑ part↑ of↑ the↑ last= episode= of= Bojack= Horseman=
+I↑ think↑ this↑ was= part= of= the= last= episode= of= Bojack= Horseman.= 
+
+If you think about it, it's the perfect reverse psychology tactic.
+If↑ you↑ think↑ about↑ it↑ it↑ 's↑ the↑ perfect= reverse= psychology= tactic=
+If↑ you↓ think↓ about↓ it↓ it↑ 's↑ the↑ perfect= reverse= psychology= tactic.= 
+
+My jokes fully reveal my character.
+My↑ jokes↑ fully↑ reveal↑ my↑ character↑
+My↑ jokes↑ fully= reveal= my= character.= 
+
+My jokes reflect exactly zero of my character.
+My↑ jokes↑ reflect↑ exactly↑ zero↑ of= my↑ character↑
+My↑ jokes↑ reflect= exactly= zero= of= my= character.= 
+
+Threatened by habitat loss and hunting, ruffed lemurs are extinct in the wild.
+Threatened↑ by↑ habitat↑ loss↑ and↑ hunting↑ ruffed↑ lemurs↑ are↑ extinct↑ in↑ the↑ wild=
+Threatened↑ by↑ habitat↑ loss↑ and↑ hunting= ruffed= lemurs= are= extinct= in= the= wild.= 
+
+By saying this, Kennedy was admonishing people not to riot in wake of King's death and in effect equating their actions to that of Dr. Martin Luther King, Jr.'s assassin.
+By↑ saying↑ this↑ Kennedy↑ was↑ admonishing↑ people↑ not↑ to↓ riot↓ in↓ wake↓ of= King↓ 's↓ death↓ and↑ in↓ effect↓ equating↓ their↓ actions↓ to↓ that↓ of= Dr.= Martin= Luther= King= Jr.= 's= assassin↓
+By↓ saying↓ this↓ Kennedy↓ was↓ admonishing↓ people↓ not↓ to↓ riot↓ in↓ wake↓ of↓ King↓ 's↓ death↓ and↓ in↓ effect↓ equating↓ their↓ actions↓ to↓ that↓ of↓ Dr.↓ Martin↓ Luther↓ King↓ Jr.↓ 's↓ assassin.↓ 
+
+By saying this, Kennedy was admonishing people not to riot in wake of King's death and in effect equating their actions to that of Kennedy's assassin.
+By↑ saying↑ this↑ Kennedy↑ was↑ admonishing↑ people↑ not↑ to↓ riot↓ in↓ wake↓ of= King↓ 's↓ death↓ and↑ in↓ effect↓ equating↓ their↓ actions↓ to↓ that↓ of= Kennedy= 's= assassin↓
+By↓ saying↓ this↓ Kennedy↓ was↓ admonishing↓ people↓ not↓ to↓ riot↓ in↓ wake↓ of↓ King↓ 's↓ death↓ and↓ in↓ effect↓ equating↓ their↓ actions↓ to↓ that↓ of↓ Kennedy↓ 's↓ assassin.↓ 
+
+After quoting Abraham Lincoln, he portrayed the American public's violent tendencies as undermining its national ideals.
+After↑ quoting↑ Abraham↑ Lincoln↑ he↑ portrayed↑ the↑ American= public= 's= violent= tendencies= as↑ undermining↑ its↑ national↑ ideals↑
+After↑ quoting↑ Abraham↑ Lincoln↑ he↑ portrayed= the↑ American= public= 's↑ violent↑ tendencies↑ as↑ undermining↑ its↑ national↑ ideals.↑ 
+
+Dacquoise, a French dessert cake, often contains a layer of hazelnut meringue.
+Dacquoise↑ a↑ French↑ dessert↑ cake↑ often↑ contains↑ a↑ layer↑ of↑ hazelnut↑ meringue↑
+Dacquoise↑ a↑ French↑ dessert↑ cake↑ often= contains= a= layer= of= hazelnut= meringue.↑ 
+
+Dacquoise, a French dessert cake, always contains a layer of hazelnut meringue.
+Dacquoise↑ a↑ French↑ dessert↑ cake↑ always↑ contains↑ a↑ layer↑ of↑ hazelnut↑ meringue↑
+Dacquoise↑ a↑ French↑ dessert↑ cake↑ always= contains= a= layer= of= hazelnut= meringue.↑ 
+
+Mass analysis is based on analyzing debitage populations based on their size distribution across specified size grades.
+Mass↑ analysis↑ is↑ based↑ on↑ analyzing↑ debitage↑ populations↑ based↑ on= their↑ size↑ distribution↑ across↑ specified↑ size↑ grades↑
+Mass↑ analysis↑ is↑ based↑ on↑ analyzing= debitage= populations= based= on= their= size= distribution= across= specified= size= grades.= 
+
+In Castanea, the scales are developed into sharp spines, giving the nut protection from squirrels and other seed predators, while in most Quercus, they are not.
+In↑ Castanea↑ the↑ scales= are↑ developed↑ into↑ sharp↑ spines↑ giving↑ the↑ nut= protection= from↑ squirrels↑ and↑ other↑ seed↑ predators↑ while↑ in↑ most↑ Quercus= they↑ are↑ not↑
+In↑ Castanea↑ the↑ scales= are↑ developed↑ into↑ sharp↑ spines↑ giving↑ the↑ nut= protection↑ from↑ squirrels↑ and↑ other↑ seed↑ predators↑ while↑ in↑ most↑ Quercus= they↑ are↑ not.↑ 
+
+All of these are today seen as younger synonyms of other species or as nomina dubia, and are not assigned to Albertosaurus.
+All↑ of↓ these↓ are↑ today↑ seen↑ as↑ younger↑ synonyms↑ of↑ other↑ species↑ or↑ as↑ nomina↑ dubia↑ and↑ are↑ not↑ assigned↓ to↓ Albertosaurus↓
+All↑ of= these↓ are↑ today↑ seen↑ as↑ younger↑ synonyms↑ of↑ other↑ species↑ or↑ as↑ nomina↑ dubia↑ and↑ are↓ not↑ assigned↓ to↓ Albertosaurus.↓ 
+
+All of these are today seen as nomina dubia, and are not assigned to Albertosaurus.
+All↑ of↓ these↓ are↑ today↑ seen↑ as↑ nomina↑ dubia↑ and↑ are↑ not↑ assigned↓ to↓ Albertosaurus↓
+All↑ of= these↓ are↑ today↑ seen↑ as↑ nomina↑ dubia↑ and↑ are↓ not↑ assigned↓ to↓ Albertosaurus.↓ 
+
+All of these are today seen as younger synonyms of other species or as nomina dubia, and are not assigned to Albertosaurus.
+All↑ of↓ these↓ are↑ today↑ seen↑ as↑ younger↑ synonyms↑ of↑ other↑ species↑ or↑ as↑ nomina↑ dubia↑ and↑ are↑ not↑ assigned↓ to↓ Albertosaurus↓
+All↑ of= these↓ are↑ today↑ seen↑ as↑ younger↑ synonyms↑ of↑ other↑ species↑ or↑ as↑ nomina↑ dubia↑ and↑ are↓ not↑ assigned↓ to↓ Albertosaurus.↓ 
+
+All of these are today seen as younger synonyms of other species or as nomina dubia, and are distinguished from Albertosaurus.
+All↑ of↓ these↓ are↑ today↑ seen↑ as↑ younger↑ synonyms↑ of↑ other↑ species↑ or↑ as↑ nomina↑ dubia↑ and↑ are↑ distinguished↑ from↑ Albertosaurus↑
+All↑ of= these↓ are↑ today↑ seen↑ as↑ younger↑ synonyms↑ of↑ other↑ species↑ or↑ as↑ nomina↑ dubia↑ and↑ are↑ distinguished↑ from↑ Albertosaurus.↑ 
+
+If Charles' left wing, commanded by Nauendorf, united with Hotze's force, approaching from the east, Masséna knew Charles would attack and very likely push him out of Zürich.
+If↑ Charles↑ '↑ left↑ wing↑ commanded↑ by↑ Nauendorf↑ united↑ with= Hotze↑ 's↑ force↑ approaching↑ from↑ the↑ east= Masséna↑ knew↑ Charles↑ would↑ attack↑ and↑ very↑ likely↑ push↑ him↑ out↑ of↑ Zürich↑
+If↑ Charles= '↓ left= wing= commanded= by= Nauendorf= united= with= Hotze= 's= force= approaching= from= the= east= Masséna= knew= Charles= would= attack= and↑ very= likely= push= him= out= of= Zürich.= 
+
+Masséna knew that Charles' left wing, commanded by Nauendorf, uniting with Hotze's force, approaching from the east, would attack and very likely push him out of Zürich.
+Masséna↑ knew↑ that↑ Charles↑ '↑ left↑ wing↑ commanded↑ by↑ Nauendorf↑ uniting↑ with= Hotze↑ 's↑ force↑ approaching↑ from↑ the↑ east= would↑ attack↑ and↑ very↑ likely↑ push↑ him↑ out↑ of↑ Zürich↑
+Masséna↑ knew↑ that↑ Charles= '= left= wing= commanded= by= Nauendorf= uniting= with= Hotze= 's= force= approaching= from= the= east= would= attack= and↑ very= likely= push= him= out= of= Zürich.= 
+
+If Charles' left wing, commanded by Nauendorf, united with Hotze's force, approaching from the east, Masséna knew Charles would attack and very likely push him out of Zürich.
+If↑ Charles↑ '↑ left↑ wing↑ commanded↑ by↑ Nauendorf↑ united↑ with= Hotze↑ 's↑ force↑ approaching↑ from↑ the↑ east= Masséna↑ knew↑ Charles↑ would↑ attack↑ and↑ very↑ likely↑ push↑ him↑ out↑ of↑ Zürich↑
+If↑ Charles= '↓ left= wing= commanded= by= Nauendorf= united= with= Hotze= 's= force= approaching= from= the= east= Masséna= knew= Charles= would= attack= and↑ very= likely= push= him= out= of= Zürich.= 
+
+If Charles' left wing, commanded by Nauendorf, united with Hotze's force, approaching from the east, Masséna doubted Charles would attack and push him out of Zürich.
+If↑ Charles↑ '↑ left↑ wing↑ commanded↑ by↑ Nauendorf↑ united↑ with= Hotze↑ 's↑ force↑ approaching↑ from↑ the↑ east= Masséna↑ doubted↑ Charles↑ would↑ attack↑ and↑ push↑ him↑ out↑ of↑ Zürich↑
+If↑ Charles= '↓ left= wing= commanded= by= Nauendorf= united= with= Hotze= 's= force= approaching= from= the= east= Masséna= doubted= Charles= would= attack= and↑ push= him= out= of= Zürich.= 
+
+If Charles' left wing, commanded by Nauendorf, united with Hotze's force, approaching from the east, Masséna knew Charles would attack and very likely push him out of Zürich.
+If↑ Charles↑ '↑ left↑ wing↑ commanded↑ by↑ Nauendorf↑ united↑ with= Hotze↑ 's↑ force↑ approaching↑ from↑ the↑ east= Masséna↑ knew↑ Charles↑ would↑ attack↑ and↑ very↑ likely↑ push↑ him↑ out↑ of↑ Zürich↑
+If↑ Charles= '↓ left= wing= commanded= by= Nauendorf= united= with= Hotze= 's= force= approaching= from= the= east= Masséna= knew= Charles= would= attack= and↑ very= likely= push= him= out= of= Zürich.= 
+
+If Charles' left wing, commanded by Nauendorf, united with Hotze's force, approaching from the east, Masséna would prepare for Charles to attack and very likely push him out of Zürich.
+If↑ Charles↑ '↑ left↑ wing↑ commanded↑ by↑ Nauendorf↑ united↑ with= Hotze↑ 's↑ force↑ approaching↑ from↑ the↑ east= Masséna↑ would↑ prepare↑ for↑ Charles= to↑ attack↑ and↑ very↑ likely↑ push↑ him↑ out↑ of↑ Zürich↑
+If↑ Charles= '↓ left= wing= commanded= by= Nauendorf= united= with= Hotze= 's= force= approaching= from= the= east= Masséna= would↑ prepare↑ for↑ Charles= to= attack= and↑ very= likely= push= him= out= of= Zürich.= 
+
+The pharaohs of the Middle Kingdom restored the country's stability and prosperity, thereby stimulating a resurgence of art, literature, and monumental building projects.
+The↑ pharaohs= of= the= Middle= Kingdom= restored↑ the↑ country= 's= stability= and↑ prosperity= thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects↑
+The↑ pharaohs= of= the= Middle= Kingdom= restored↑ the↑ country= 's↑ stability↑ and↑ prosperity↑ thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects.↑ 
+
+The pharaohs of the Middle Kingdom of Egypt restored the country's stability and prosperity, thereby stimulating a resurgence of art, literature, and monumental building projects.
+The↑ pharaohs= of= the= Middle= Kingdom= of= Egypt= restored↑ the↑ country= 's= stability= and↑ prosperity= thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects↑
+The↑ pharaohs= of= the= Middle= Kingdom= of= Egypt= restored↑ the↑ country= 's↑ stability↑ and↑ prosperity↑ thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects.↑ 
+
+The pharaohs of the Middle Kingdom restored the country's stability and prosperity, thereby stimulating a resurgence of art, literature, and monumental building projects.
+The↑ pharaohs= of= the= Middle= Kingdom= restored↑ the↑ country= 's= stability= and↑ prosperity= thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects↑
+The↑ pharaohs= of= the= Middle= Kingdom= restored↑ the↑ country= 's↑ stability↑ and↑ prosperity↑ thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects.↑ 
+
+The pharaohs of the Middle Kingdom of China restored the country's stability and prosperity, thereby stimulating a resurgence of art, literature, and monumental building projects.
+The↑ pharaohs= of= the= Middle= Kingdom= of= China= restored↑ the↑ country= 's= stability= and↑ prosperity= thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects↑
+The↑ pharaohs= of= the= Middle= Kingdom= of= China= restored↑ the↑ country= 's↑ stability↑ and↑ prosperity↑ thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects.↑ 
+
+The pharaohs of the Middle Kingdom restored the country's stability and prosperity, thereby stimulating a resurgence of art, literature, and monumental building projects.
+The↑ pharaohs= of= the= Middle= Kingdom= restored↑ the↑ country= 's= stability= and↑ prosperity= thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects↑
+The↑ pharaohs= of= the= Middle= Kingdom= restored↑ the↑ country= 's↑ stability↑ and↑ prosperity↑ thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects.↑ 
+
+The pharaohs of Egypt restored the country's stability and prosperity, thereby stimulating a resurgence of art, literature, and monumental building projects.
+The↑ pharaohs= of= Egypt= restored↑ the↑ country= 's= stability= and↑ prosperity= thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects↑
+The↑ pharaohs= of= Egypt= restored↑ the↑ country= 's↑ stability↑ and↑ prosperity↑ thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects.↑ 
+
+I can't believe it's not butter.
+I↑ ca↓ not↑ believe↓ it↓ 's↓ not↓ butter↑
+I↑ ca↓ not↑ believe↓ it↓ 's↑ not↓ butter.↑ 
+
+It's not butter.
+It↑ 's↑ not↑ butter↓
+It↑ 's↓ not↑ butter.↓ 
+
+I can't believe it's not butter.
+I↑ ca↓ not↑ believe↓ it↓ 's↓ not↓ butter↑
+I↑ ca↓ not↑ believe↓ it↓ 's↑ not↓ butter.↑ 
+
+In grounded communication tasks, speakers face pressures in choosing referential expressions that distinguish their targets from others in the context, leading to many kinds of pragmatic meaning enrichment.
+In↑ grounded↑ communication↑ tasks↑ speakers↑ face↑ pressures↑ in↑ choosing↑ referential↑ expressions↑ that↑ distinguish= their= targets= from= others= in= the= context= leading↑ to↑ many↑ kinds= of= pragmatic= meaning= enrichment=
+In↑ grounded↑ communication↑ tasks↑ speakers= face= pressures= in↑ choosing= referential= expressions= that= distinguish= their= targets= from= others= in= the= context= leading= to= many= kinds= of= pragmatic= meaning= enrichment.= 
+
+In grounded communication tasks, speakers face pressures in choosing referential expressions that distinguish their targets from others in the context, leading to many kinds of meaning enrichment.
+In↑ grounded↑ communication↑ tasks↑ speakers↑ face↑ pressures↑ in↑ choosing↑ referential↑ expressions↑ that↑ distinguish= their= targets= from= others= in= the= context= leading↑ to↑ many↑ kinds= of= meaning= enrichment=
+In↑ grounded↑ communication↑ tasks↑ speakers= face= pressures= in↑ choosing= referential= expressions= that= distinguish= their= targets= from= others= in= the= context= leading= to= many= kinds= of= meaning= enrichment.= 
+
+Thus, a model of the speaker must process representations of the colors in the context and produce an utterance to distinguish the target color from the others.
+Thus↑ a↑ model↑ of↑ the↑ speaker= must↑ process↑ representations↑ of↑ the↑ colors= in↑ the↑ context= and↑ produce↑ an↑ utterance↑ to↑ distinguish↑ the↑ target= color= from↑ the↑ others=
+Thus↑ a↑ model↑ of↑ the↑ speaker= must↑ process↑ representations↑ of↑ the↑ colors= in= the= context= and↑ produce↑ an↑ utterance↑ to↑ distinguish↑ the↑ target= color= from↑ the↑ others.= 
+
+Thus, a model of the speaker must process representations of the colors in the context and produce an utterance to distinguish the target color from the other colors.
+Thus↑ a↑ model↑ of↑ the↑ speaker= must↑ process↑ representations↑ of↑ the↑ colors= in↑ the↑ context= and↑ produce↑ an↑ utterance↑ to↑ distinguish↑ the↑ target= color= from↑ the↑ other= colors=
+Thus↑ a↑ model↑ of↑ the↑ speaker= must↑ process↑ representations↑ of↑ the↑ colors= in= the= context= and↑ produce↑ an↑ utterance↑ to↑ distinguish↑ the↑ target= color= from↑ the↑ other= colors.= 
+
+Thus, a model of the speaker must process representations of the colors in the context and produce an utterance to distinguish the target color from the others.
+Thus↑ a↑ model↑ of↑ the↑ speaker= must↑ process↑ representations↑ of↑ the↑ colors= in↑ the↑ context= and↑ produce↑ an↑ utterance↑ to↑ distinguish↑ the↑ target= color= from↑ the↑ others=
+Thus↑ a↑ model↑ of↑ the↑ speaker= must↑ process↑ representations↑ of↑ the↑ colors= in= the= context= and↑ produce↑ an↑ utterance↑ to↑ distinguish↑ the↑ target= color= from↑ the↑ others.= 
+
+Thus, a model of the speaker must process representations of the colors in the context and produce an utterance to distinguish the target color from the other utterances.
+Thus↑ a↑ model↑ of↑ the↑ speaker= must↑ process↑ representations↑ of↑ the↑ colors= in↑ the↑ context= and↑ produce↑ an↑ utterance↑ to↑ distinguish↑ the↑ target= color= from↑ the↑ other= utterances=
+Thus↑ a↑ model↑ of↑ the↑ speaker= must↑ process↑ representations↑ of↑ the↑ colors= in= the= context= and↑ produce↑ an↑ utterance↑ to↑ distinguish↑ the↑ target= color= from↑ the↑ other= utterances.= 
+
+The language model yields the following coherence score.
+The↑ language= model= yields↑ the↑ following= coherence= score=
+The↑ language= model= yields↑ the↑ following= coherence= score.↑ 
+
+We publicly share our dataset and code for future research.
+We↑ publicly↑ share↑ our↑ dataset↑ and↑ code↑ for↑ future= research=
+We↑ publicly↑ share↑ our↑ dataset↑ and↑ code↑ for↑ future↑ research.↑ 
+
+We publicly share our dataset for future research.
+We↑ publicly↑ share↑ our↑ dataset↑ for↑ future= research=
+We↑ publicly↑ share↑ our↑ dataset↑ for↑ future↑ research.↑ 
+
+We publicly share our dataset and code for future research.
+We↑ publicly↑ share↑ our↑ dataset↑ and↑ code↑ for↑ future= research=
+We↑ publicly↑ share↑ our↑ dataset↑ and↑ code↑ for↑ future↑ research.↑ 
+
+We code for future research.
+We↑ code↑ for↑ future= research=
+We↑ code↑ for↑ future↑ research.↑ 
+
+This gives the model a sense of the implied action dynamics of the verb between the agent and the world.
+This↑ gives↑ the↑ model= a↑ sense↑ of↑ the↑ implied= action= dynamics= of= the= verb= between= the= agent= and↑ the= world=
+This↑ gives= the= model= a= sense= of= the= implied= action= dynamics= of= the= verb= between= the= agent= and↑ the= world.= 
+
+This gives to the model a sense of the implied action dynamics of the verb between the agent and the world.
+This↑ gives↑ to↑ the↑ model= a↑ sense↑ of↑ the↑ implied= action= dynamics= of= the= verb= between= the= agent= and↑ the= world=
+This↑ gives= to= the= model= a= sense= of= the= implied= action= dynamics= of= the= verb= between= the= agent= and↑ the= world.= 
+
+This gives the model a sense of the implied action dynamics of the verb between the agent and the world.
+This↑ gives↑ the↑ model= a↑ sense↑ of↑ the↑ implied= action= dynamics= of= the= verb= between= the= agent= and↑ the= world=
+This↑ gives= the= model= a= sense= of= the= implied= action= dynamics= of= the= verb= between= the= agent= and↑ the= world.= 
+
+This gives the model to a sense of the implied action dynamics of the verb between the agent and the world.
+This↑ gives↑ the↑ model= to↑ a↑ sense↑ of↑ the↑ implied= action= dynamics= of= the= verb= between= the= agent= and↑ the= world=
+This↑ gives= the= model= to= a= sense= of= the= implied= action= dynamics= of= the= verb= between= the= agent= and↑ the= world.= 
+
+This attribute group specifies prominent body parts involved in carrying out the action.
+This↑ attribute= group= specifies↑ prominent↑ body↑ parts↑ involved↑ in↑ carrying↑ out↑ the↑ action=
+This↑ attribute= group= specifies↑ prominent↑ body↑ parts↑ involved↑ in↑ carrying= out= the= action.= 
+
+This attribute group specifies prominent limbs involved in carrying out the action.
+This↑ attribute= group= specifies↑ prominent↑ limbs↑ involved↑ in↑ carrying↑ out↑ the↑ action=
+This↑ attribute= group= specifies↑ prominent↑ limbs↑ involved↑ in↑ carrying= out= the= action.= 
+
+Understanding a long document requires tracking how entities are introduced and evolve over time.
+Understanding↑ a↑ long↑ document↑ requires↑ tracking↑ how↑ entities↑ are↑ introduced↑ and↑ evolve↑ over↑ time↑
+Understanding↑ a↑ long↑ document↑ requires= tracking= how= entities= are= introduced= and↑ evolve= over= time.= 
+
+Understanding a long document requires evolving over time.
+Understanding↑ a↑ long↑ document↑ requires↑ evolving↑ over↑ time↑
+Understanding↑ a↑ long↑ document↑ requires= evolving= over= time.= 
+
+Understanding a long document requires tracking how entities are introduced and evolve over time.
+Understanding↑ a↑ long↑ document↑ requires↑ tracking↑ how↑ entities↑ are↑ introduced↑ and↑ evolve↑ over↑ time↑
+Understanding↑ a↑ long↑ document↑ requires= tracking= how= entities= are= introduced= and↑ evolve= over= time.= 
+
+Understanding a long document requires tracking how entities evolve over time.
+Understanding↑ a↑ long↑ document↑ requires↑ tracking↑ how↑ entities↑ evolve↑ over↑ time↑
+Understanding↑ a↑ long↑ document↑ requires= tracking= how= entities= evolve= over= time.= 
+
+Understanding a long document requires tracking how entities are introduced and evolve over time.
+Understanding↑ a↑ long↑ document↑ requires↑ tracking↑ how↑ entities↑ are↑ introduced↑ and↑ evolve↑ over↑ time↑
+Understanding↑ a↑ long↑ document↑ requires= tracking= how= entities= are= introduced= and↑ evolve= over= time.= 
+
+Understanding a long document requires understanding how entities are introduced.
+Understanding↑ a↑ long↑ document↑ requires↑ understanding↑ how↑ entities↑ are↑ introduced↑
+Understanding↑ a↑ long↑ document↑ requires= understanding= how= entities= are= introduced.= 
+
+We do not assume that these variables are observed at test time.
+We↑ do↓ not↑ assume↓ that↓ these↓ variables= are↓ observed↓ at↓ test↓ time↓
+We↑ do↑ not↑ assume↓ that↓ these= variables= are= observed= at= test= time.= 
+
+These variables are not observed at test time.
+These↑ variables= are↑ not↑ observed↓ at↓ test↓ time↓
+These↑ variables= are↓ not↑ observed↓ at↓ test↓ time.↓ 
+
+To compute the perplexity numbers on the test data, our model only takes account of log probabilities on word prediction.
+To↑ compute↑ the↑ perplexity= numbers= on↑ the↑ test= data= our↑ model↑ only↑ takes↑ account↑ of↑ log↑ probabilities↑ on↑ word↑ prediction↑
+To↑ compute↑ the↑ perplexity= numbers= on= the= test= data= our↑ model↑ only= takes= account= of= log= probabilities= on= word= prediction.= 
+
+To compute the perplexity numbers on the test data, our model doesn't take account of anything other than the log probabilities on word prediction.
+To↑ compute↑ the↑ perplexity= numbers= on↑ the↑ test= data= our↑ model↑ does↓ not↑ take↓ account↓ of↓ anything↓ other↓ than↓ the↓ log= probabilities= on= word= prediction=
+To↑ compute↑ the↑ perplexity= numbers= on= the= test= data= our↑ model↑ does= not= take= account= of= anything= other= than= the= log= probabilities= on= word= prediction.= 
+
+So there is no dedicated memory block for every entity and no distinction between entity mentions and non-mention words.
+So↑ there↑ is↓ no↑ dedicated↓ memory↓ block↓ for↑ every= entity= and↑ no↓ distinction↓ between↑ entity↑ mentions↑ and↑ non-mention↑ words↑
+So↑ there= is= no= dedicated= memory= block= for= every= entity= and↑ no= distinction= between= entity= mentions= and↑ non-mention= words.= 
+
+Our approach complements these previous methods.
+Our↑ approach↑ complements↑ these↑ previous= methods=
+Our↑ approach↑ complements= these= previous= methods.= 
+
+Our approach complements some previous methods.
+Our↑ approach↑ complements↑ some↑ previous↑ methods↑
+Our↑ approach↑ complements= some= previous= methods.= 
+
+To generate diversity, workers got a bonus if the edit distance of a paraphrase was high compared to the MG question.
+To↑ generate↑ diversity↑ workers↑ got↑ a↑ bonus↑ if↑ the↑ edit= distance= of= a= paraphrase= was↑ high↑ compared↑ to↑ the↑ MG= question=
+To↑ generate↑ diversity↑ workers= got↑ a↑ bonus↑ if↑ the↓ edit= distance= of= a= paraphrase= was↓ high↓ compared↓ to↓ the↓ MG= question.= 
+
+To generate diversity, workers whose paraphrases had high edit distance compared to the MG question got a bonus.
+To↑ generate↑ diversity↑ workers↑ whose↑ paraphrases↑ had↑ high↑ edit↑ distance↑ compared↑ to↑ the↑ MG= question= got↑ a↑ bonus↑
+To↑ generate↑ diversity↑ workers= whose↑ paraphrases= had= high= edit= distance= compared= to= the= MG= question= got↑ a↑ bonus.↑ 
+
+To generate diversity, workers got a bonus if the edit distance of a paraphrase was high compared to the MG question.
+To↑ generate↑ diversity↑ workers↑ got↑ a↑ bonus↑ if↑ the↑ edit= distance= of= a= paraphrase= was↑ high↑ compared↑ to↑ the↑ MG= question=
+To↑ generate↑ diversity↑ workers= got↑ a↑ bonus↑ if↑ the↓ edit= distance= of= a= paraphrase= was↓ high↓ compared↓ to↓ the↓ MG= question.= 
+
+A distribution is then computed over these actions using a softmax function and particular actions are chosen accordingly during training and decoding.
+A↑ distribution↑ is↑ then↑ computed↑ over↑ these↑ actions= using= a= softmax= function= and↑ particular= actions= are↑ chosen↑ accordingly↑ during↑ training↑ and↑ decoding↑
+A= distribution= is↑ then↑ computed↑ over↑ these↑ actions= using↑ a↑ softmax↑ function↑ and↑ particular↑ actions↑ are↑ chosen↑ accordingly↑ during↑ training↑ and↑ decoding.↑ 
+
+Logits are then computed for these actions and particular actions are chosen according to a softmax over these logits during training and decoding.
+Logits↑ are↑ then↑ computed↑ for↑ these= actions= and↑ particular= actions= are↑ chosen↑ according↑ to↑ a↑ softmax↑ over↑ these↑ logits= during= training= and↑ decoding=
+Logits= are↑ then↑ computed↑ for↑ these↑ actions= and↑ particular↑ actions↑ are↑ chosen↑ according↑ to↑ a↑ softmax↑ over↑ these↑ logits= during↑ training↑ and↑ decoding.↑ 
+
+A distribution is then computed over these actions using a softmax function and particular actions are chosen accordingly during training and decoding.
+A↑ distribution↑ is↑ then↑ computed↑ over↑ these↑ actions= using= a= softmax= function= and↑ particular= actions= are↑ chosen↑ accordingly↑ during↑ training↑ and↑ decoding↑
+A= distribution= is↑ then↑ computed↑ over↑ these↑ actions= using↑ a↑ softmax↑ function↑ and↑ particular↑ actions↑ are↑ chosen↑ accordingly↑ during↑ training↑ and↑ decoding.↑ 
+
+A distribution is then computed over these actions using a softmax function and particular actions are chosen accordingly during training and decoding.
+A↑ distribution↑ is↑ then↑ computed↑ over↑ these↑ actions= using= a= softmax= function= and↑ particular= actions= are↑ chosen↑ accordingly↑ during↑ training↑ and↑ decoding↑
+A= distribution= is↑ then↑ computed↑ over↑ these↑ actions= using↑ a↑ softmax↑ function↑ and↑ particular↑ actions↑ are↑ chosen↑ accordingly↑ during↑ training↑ and↑ decoding.↑ 
+
+A distribution is then computed over these actions using a softmax function and particular actions are chosen randomly during training and decoding.
+A↑ distribution↑ is↑ then↑ computed↑ over↑ these↑ actions= using= a= softmax= function= and↑ particular= actions= are↑ chosen↑ randomly↑ during↑ training↑ and↑ decoding↑
+A= distribution= is↑ then↑ computed↑ over↑ these↑ actions= using↑ a↑ softmax↑ function↑ and↑ particular↑ actions↑ are↑ chosen↑ randomly↑ during↑ training↑ and↑ decoding.↑ 
+
+The systems thus produced support the capability to interrupt an interlocutor mid-sentence.
+The↑ systems= thus↑ produced↑ support↑ the↑ capability= to= interrupt= an= interlocutor= mid-sentence=
+The↑ systems= thus↑ produced↑ support↑ the↑ capability= to= interrupt= an= interlocutor= mid-sentence.↑ 
+
+Indeed, it is often stated that for humans to learn how to perform adequately in a domain, any number of examples is enough from which to learn.
+Indeed↑ it↑ is↑ often↑ stated↑ that↑ for↑ humans= to= learn= how= to= perform= adequately= in= a= domain= any↑ number↓ of↑ examples↑ is↑ enough↑ from↑ which↑ to↑ learn↑
+Indeed↑ it↑ is↑ often↑ stated↑ that↑ for= humans= to= learn= how= to= perform= adequately= in= a= domain= any= number= of= examples= is= enough= from= which= to= learn.= 
+
+We also show that metric performance varies between datasets and systems.
+We↑ also↑ show↑ that↑ metric↑ performance↑ varies↑ between↑ datasets↑ and↑ systems↑
+We↑ also↑ show↑ that↑ metric= performance= varies= between= datasets= and↑ systems.= 
+
+We also show that metric performance is constant between datasets and systems.
+We↑ also↑ show↑ that↑ metric↑ performance↑ is↑ constant↑ between↑ datasets↑ and↑ systems↑
+We↑ also↑ show↑ that↑ metric= performance= is= constant= between= datasets= and↑ systems.= 
+
+In practice, our proposed extractive evaluation will pick up on many errors in this passage.
+In↑ practice↑ our↑ proposed↑ extractive↑ evaluation↑ will↑ pick↑ up↑ on↑ many↑ errors= in= this= passage=
+In↑ practice↑ our↑ proposed↑ extractive↑ evaluation↑ will= pick= up= on= many= errors= in= this= passage.= 
+
+In practice, our proposed extractive evaluation will pick up on few errors in this passage.
+In↑ practice↑ our↑ proposed↑ extractive↑ evaluation↑ will↑ pick↑ up↑ on↑ few↑ errors↑ in↑ this↑ passage=
+In↑ practice↑ our↑ proposed↑ extractive↑ evaluation↑ will= pick= up= on= few= errors= in= this= passage.= 
+
+She didn't think I had already finished it, but I had.
+She↑ did↓ not↑ think↓ I↓ had↓ already↓ finished↓ it↓ but↓ I↓ had↓
+She↑ did↑ not↑ think↓ I↓ had↓ already↓ finished↓ it↓ but↑ I↑ had.↑ 
+
+She didn't think I had already finished it, but I had.
+She↑ did↓ not↑ think↓ I↓ had↓ already↓ finished↓ it↓ but↓ I↓ had↓
+She↑ did↑ not↑ think↓ I↓ had↓ already↓ finished↓ it↓ but↑ I↑ had.↑ 
+
+I hadn't already finished it.
+I↑ had↓ not↑ already↓ finished↓ it↓
+I↓ had↓ not↓ already↓ finished↓ it.↓ 
+
+I hadn't already finished it.
+I↑ had↓ not↑ already↓ finished↓ it↓
+I↓ had↓ not↓ already↓ finished↓ it.↓ 
+
+Temple said that the business was facing difficulties, but didn't make any specific claims.
+Temple↑ said↑ that↑ the↑ business= was↑ facing↑ difficulties↑ but↑ did↓ not↑ make↓ any↓ specific↑ claims↑
+Temple↑ said↑ that↑ the= business= was= facing= difficulties= but↑ did= not= make= any= specific= claims.= 
+
+Temple didn't make any specific claims.
+Temple↑ did↓ not↑ make↓ any↓ specific↑ claims↑
+Temple↑ did↑ not↑ make↓ any↓ specific↓ claims.↓ 
+
+Temple said that the business was facing difficulties, but didn't make any specific claims.
+Temple↑ said↑ that↑ the↑ business= was↑ facing↑ difficulties↑ but↑ did↓ not↑ make↓ any↓ specific↑ claims↑
+Temple↑ said↑ that↑ the= business= was= facing= difficulties= but↑ did= not= make= any= specific= claims.= 
+
+The business didn't make any specific claims.
+The↑ business= did↓ not↑ make↓ any↓ specific↑ claims↑
+The↑ business= did↑ not↑ make↓ any↓ specific↓ claims.↓ 
+
+Temple said that the business was facing difficulties, but didn't have a chance of going into the red.
+Temple↑ said↑ that↑ the↑ business= was↑ facing↑ difficulties↑ but↑ did↓ not↑ have↓ a↓ chance↓ of↓ going↓ into↓ the↓ red=
+Temple↑ said↑ that↑ the= business= was= facing= difficulties= but↑ did= not= have= a= chance= of= going= into= the= red.= 
+
+Temple didn't have a chance of going into the red.
+Temple↑ did↓ not↑ have↓ a↓ chance↓ of↓ going↓ into↓ the↓ red=
+Temple↑ did↑ not↑ have↓ a↓ chance↓ of↓ going= into= the= red.= 
+
+Temple said that the business was facing difficulties, but didn't have a chance of going into the red.
+Temple↑ said↑ that↑ the↑ business= was↑ facing↑ difficulties↑ but↑ did↓ not↑ have↓ a↓ chance↓ of↓ going↓ into↓ the↓ red=
+Temple↑ said↑ that↑ the= business= was= facing= difficulties= but↑ did= not= have= a= chance= of= going= into= the= red.= 
+
+Temple said the business didn't have a chance of going into the red.
+Temple↑ said↑ the↑ business= did↓ not↑ have↓ a↓ chance↓ of↓ going↓ into↓ the↓ red=
+Temple↑ said↑ the↑ business= did↑ not↑ have↓ a↓ chance↓ of↓ going= into= the= red.= 
+
+I baked a cake for him.
+I↑ baked↑ a↑ cake↑ for↑ him=
+I↑ baked↑ a↑ cake↑ for↑ him.↑ 
+
+His talents are many.
+His↑ talents↑ are↑ many↑
+His↑ talents↑ are= many.= 
+
+I don't want to have to keep fighting pesky bedbugs.
+I↑ do↓ not↑ want↓ to↓ have↓ to↓ keep↓ fighting↓ pesky↓ bedbugs↓
+I↑ do↑ not↑ want↓ to↓ have↓ to↓ keep↓ fighting↓ pesky↓ bedbugs.↓ 
+
+I don't want to have to keep entertaining people.
+I↑ do↓ not↑ want↓ to↓ have↓ to↓ keep↓ entertaining↓ people↓
+I↑ do↑ not↑ want↓ to↓ have↓ to↓ keep↓ entertaining↓ people.↑ 
+
+It being his first night in the US, he eagerly got a drink at the bar after showing his ID.
+It↑ being↑ his↑ first↑ night↑ in↑ the↑ US= he↑ eagerly↑ got↑ a↑ drink↑ at↑ the↑ bar= after↑ showing↑ his↑ ID↑
+It↓ being↓ his↓ first↓ night↓ in↓ the↓ US↓ he↓ eagerly↓ got↓ a↓ drink↓ at↓ the↓ bar↓ after↓ showing↓ his↓ ID.↓ 
+
+It being his first night in the US, he eagerly got a drink at the bar after showing his ID.
+It↑ being↑ his↑ first↑ night↑ in↑ the↑ US= he↑ eagerly↑ got↑ a↑ drink↑ at↑ the↑ bar= after↑ showing↑ his↑ ID↑
+It↓ being↓ his↓ first↓ night↓ in↓ the↓ US↓ he↓ eagerly↓ got↓ a↓ drink↓ at↓ the↓ bar↓ after↓ showing↓ his↓ ID.↓ 
+
+It being his first night in the US, he eagerly got a drink at the bar after showing his ID.
+It↑ being↑ his↑ first↑ night↑ in↑ the↑ US= he↑ eagerly↑ got↑ a↑ drink↑ at↑ the↑ bar= after↑ showing↑ his↑ ID↑
+It↓ being↓ his↓ first↓ night↓ in↓ the↓ US↓ he↓ eagerly↓ got↓ a↓ drink↓ at↓ the↓ bar↓ after↓ showing↓ his↓ ID.↓ 
+
+Consommé is not more complex to make than scrambled eggs.
+Consommé↑ is↑ not↑ more↓ complex↓ to↓ make↓ than↓ scrambled↓ eggs↓
+Consommé↓ is↓ not↓ more↓ complex↓ to↓ make↓ than↓ scrambled↓ eggs.↓ 
+
+We were dragging the bin into the garage when she had an unfortunate realization.
+We↑ were↑ dragging↑ the↑ bin= into↑ the↑ garage= when↑ she↑ had↑ an↑ unfortunate↑ realization↑
+We↓ were↓ dragging↓ the↓ bin↓ into↓ the↓ garage↓ when↓ she↓ had↓ an↓ unfortunate↓ realization.↓ 
+
+The customers said they were waiting for another man to arrive.
+The↑ customers= said↑ they↑ were↑ waiting↑ for↑ another= man= to↑ arrive↑
+The↑ customers= said↑ they↑ were↑ waiting↑ for= another= man= to= arrive.= 
+
+The customers believed they were waiting for another man to arrive.
+The↑ customers= believed↑ they↑ were↑ waiting↑ for↑ another= man= to↑ arrive↑
+The↑ customers= believed↑ they↑ were↑ waiting↑ for= another= man= to= arrive.= 
+
+Some of the orator's statements were incomprehensible, but the crowd loved them.
+Some↑ of= the↑ orator= 's= statements↑ were↑ incomprehensible↑ but↑ the↑ crowd= loved↑ them↑
+Some↑ of= the↑ orator= 's↑ statements↑ were↑ incomprehensible↑ but↑ the↑ crowd= loved↑ them.↑ 
+
+Some of the orator's statements were comprehensible, but the crowd loved them.
+Some↑ of= the↑ orator= 's= statements↑ were↑ comprehensible↑ but↑ the↑ crowd= loved↑ them↑
+Some↑ of= the↑ orator= 's↑ statements↑ were↑ comprehensible↑ but↑ the↑ crowd= loved↑ them.↑ 
+
+Tunics or shirts of some form or another are worn in many world cultures.
+Tunics↑ or↑ shirts↑ of↑ some↑ form↑ or↑ another↑ are↑ worn↑ in↑ many↑ world= cultures=
+Tunics↑ or↑ shirts↑ of↑ some↑ form= or↑ another= are↑ worn↑ in↑ many↑ world= cultures.= 
+
+The cat did not sit on the mat.
+The↑ cat= did↓ not↑ sit↓ on↓ the↓ mat=
+The↑ cat= did↑ not↑ sit↓ on↓ the↓ mat.= 
+
+Out of the box, Ouya doesn't support media apps such as Twitch.tv and XBMC media player.
+Out↑ of↑ the↑ box= Ouya↑ does↓ not↑ support↓ media↓ apps↓ such↓ as↓ Twitch.tv↓ and↑ XBMC↓ media↓ player↓
+Out↑ of↑ the↑ box= Ouya↑ does↑ not↑ support↓ media↓ apps↓ such↓ as↓ Twitch.tv↓ and↑ XBMC↓ media↓ player.↓ 
+
+Considering this definition, it is not surprising to find frequent use of sarcastic language in opinionated user generated content.
+Considering↑ this↑ definition= it↑ is↑ not↑ surprising↓ to↓ find↓ frequent↓ use↓ of↓ sarcastic↓ language↓ in↓ opinionated↓ user↓ generated↓ content↓
+Considering↑ this↑ definition= it↑ is↑ not↑ surprising↓ to↑ find↑ frequent↑ use↑ of↑ sarcastic↑ language↑ in↑ opinionated↑ user↑ generated↑ content.↑ 
+
+Brexit is a reversible decision, Sir Mike Rake, the chairman of WorldPay and ex-chairman of BT group, said as calls for a second EU referendum were sparked last week.
+Brexit↑ is↑ a↑ reversible↑ decision↑ Sir↑ Mike↑ Rake↑ the↑ chairman= of= WorldPay= and↑ ex-chairman= of= BT= group= said↑ as↑ calls↑ for↑ a= second= EU= referendum= were↑ sparked↑ last↑ week↑
+Brexit↑ is↑ a↑ reversible↑ decision↑ Sir↑ Mike↑ Rake↑ the↑ chairman= of= WorldPay= and↑ ex-chairman↑ of↑ BT↑ group↑ said↑ as↑ calls↑ for↑ a↑ second↑ EU↑ referendum↑ were↑ sparked↑ last↑ week.↑ 
+
+Brexit is an irreversible decision, Sir Mike Rake, the chairman of WorldPay and ex-chairman of BT group, said as calls for a second EU referendum were sparked last week.
+Brexit↑ is↑ an↑ irreversible↑ decision↑ Sir↑ Mike↑ Rake↑ the↑ chairman= of= WorldPay= and↑ ex-chairman= of= BT= group= said↑ as↑ calls↑ for↑ a= second= EU= referendum= were↑ sparked↑ last↑ week↑
+Brexit↑ is↑ an↑ irreversible↑ decision↑ Sir↑ Mike↑ Rake↑ the↑ chairman= of= WorldPay= and↑ ex-chairman↑ of↑ BT↑ group↑ said↑ as↑ calls↑ for↑ a↑ second↑ EU↑ referendum↑ were↑ sparked↑ last↑ week.↑ 
+
+We built our society on clean energy.
+We↑ built↑ our↑ society↑ on↑ clean↑ energy↑
+We↑ built= our↑ society↑ on↑ clean↑ energy.↑ 
+
+We built our society on unclean energy.
+We↑ built↑ our↑ society↑ on↑ unclean↑ energy↑
+We↑ built= our↑ society↑ on↑ unclean↑ energy.↑ 
+
+The market is about to get harder, but not impossible to navigate.
+The↑ market= is↑ about↑ to↑ get↑ harder↑ but↑ not↑ impossible↓ to↓ navigate↓
+The↓ market↓ is↓ about↓ to↓ get↓ harder↓ but↓ not↓ impossible↓ to↓ navigate.↓ 
+
+He agreed with the party's position, but felt that if he resigned, his popularity with Indians would cease to stifle the party's membership.
+He↑ agreed↑ with= the↑ party= 's= position↑ but↑ felt↑ that↑ if↑ he↑ resigned↑ his↑ popularity↑ with↑ Indians↑ would↑ cease↑ to↑ stifle↑ the↑ party= 's= membership↑
+He↑ agreed↑ with= the↑ party= 's↑ position↑ but↑ felt↑ that↑ if= he= resigned= his= popularity= with= Indians= would= cease= to= stifle= the= party= 's= membership.= 
+
+He did not disagree with the party's position, but felt that if he resigned, his popularity with Indians would cease to stifle the party's membership.
+He↑ did↓ not↑ disagree↓ with= the↓ party= 's= position↓ but↓ felt↓ that↓ if↓ he↓ resigned↓ his↓ popularity↓ with↓ Indians↓ would↓ cease↓ to↓ stifle↓ the↓ party= 's= membership↓
+He↑ did↑ not↑ disagree↓ with= the↓ party= 's↓ position↓ but↑ felt↑ that↑ if= he= resigned= his= popularity= with= Indians= would= cease= to= stifle= the= party= 's= membership.= 
+
+Some of the graduates of my program have moved on to other things because the jobs suck.
+Some↑ of↑ the↑ graduates= of= my= program= have↑ moved↑ on↑ to↑ other↑ things↑ because↑ the↑ jobs= suck↑
+Some↑ of↑ the↑ graduates= of= my= program= have↑ moved↑ on= to↑ other= things= because↑ the↑ jobs= suck.↑ 
+
+Most of the graduates of my program have moved on to other things because the jobs suck.
+Most↑ of↑ the↑ graduates= of= my= program= have↑ moved↑ on↑ to↑ other↑ things↑ because↑ the↑ jobs= suck↑
+Most↑ of= the= graduates= of= my= program= have↑ moved↑ on= to↑ other= things= because↑ the↑ jobs= suck.↑ 
+
+We consider some context words as positive examples and sample negatives at random from the dictionary.
+We↑ consider↑ some↑ context↑ words↑ as↑ positive↑ examples↑ and↑ sample↑ negatives↑ at↑ random↑ from↑ the↑ dictionary=
+We↓ consider↓ some↓ context↓ words↓ as↓ positive↓ examples↓ and↓ sample↓ negatives↓ at↓ random↓ from↓ the↓ dictionary.↓ 
+
+We consider all context words as positive examples and sample many negatives at random from the dictionary.
+We↑ consider↑ all↑ context↓ words↓ as↑ positive↑ examples↑ and↑ sample↑ many↑ negatives= at↑ random↑ from↑ the↑ dictionary=
+We= consider↑ all↑ context↓ words↓ as↑ positive↑ examples↑ and↑ sample= many= negatives= at↑ random= from= the= dictionary.= 
+
+We consider some context words as positive examples and sample negatives at random from the dictionary.
+We↑ consider↑ some↑ context↑ words↑ as↑ positive↑ examples↑ and↑ sample↑ negatives↑ at↑ random↑ from↑ the↑ dictionary=
+We↓ consider↓ some↓ context↓ words↓ as↓ positive↓ examples↓ and↓ sample↓ negatives↓ at↓ random↓ from↓ the↓ dictionary.↓ 
+
+We consider many context words as positive examples and sample negatives at random from the dictionary.
+We↑ consider↑ many↑ context= words= as= positive= examples= and↑ sample= negatives= at= random= from↑ the↑ dictionary=
+We↓ consider↓ many↓ context↓ words↓ as↓ positive↓ examples↓ and↓ sample↓ negatives↓ at↓ random↓ from↓ the↓ dictionary.↓ 
+
+We consider some context words as positive examples and sample negatives at random from the dictionary.
+We↑ consider↑ some↑ context↑ words↑ as↑ positive↑ examples↑ and↑ sample↑ negatives↑ at↑ random↑ from↑ the↑ dictionary=
+We↓ consider↓ some↓ context↓ words↓ as↓ positive↓ examples↓ and↓ sample↓ negatives↓ at↓ random↓ from↓ the↓ dictionary.↓ 
+
+We consider all context words as positive examples and sample negatives at random from the dictionary.
+We↑ consider↑ all↑ context↓ words↓ as↑ positive↑ examples↑ and↑ sample↑ negatives↑ at↑ random↑ from↑ the↑ dictionary=
+We↓ consider↓ all↓ context↓ words↓ as↓ positive↓ examples↓ and↓ sample↓ negatives↓ at↓ random↓ from↓ the↓ dictionary.↓ 
+
+Most of the graduates of my program have moved on to other things because the jobs suck.
+Most↑ of↑ the↑ graduates= of= my= program= have↑ moved↑ on↑ to↑ other↑ things↑ because↑ the↑ jobs= suck↑
+Most↑ of= the= graduates= of= my= program= have↑ moved↑ on= to↑ other= things= because↑ the↑ jobs= suck.↑ 
+
+All of the graduates of my program have moved on to other things because the jobs suck.
+All↑ of↓ the↓ graduates= of= my= program= have↑ moved↑ on↑ to↑ other↑ things↑ because↑ the↑ jobs= suck↑
+All↑ of↓ the↓ graduates= of= my= program= have↑ moved↑ on= to↑ other= things= because↑ the↑ jobs= suck.↑ 
+
+Most of the graduates of my program have moved on to other things because the jobs suck.
+Most↑ of↑ the↑ graduates= of= my= program= have↑ moved↑ on↑ to↑ other↑ things↑ because↑ the↑ jobs= suck↑
+Most↑ of= the= graduates= of= my= program= have↑ moved↑ on= to↑ other= things= because↑ the↑ jobs= suck.↑ 
+
+The question generation aspect is unique to our formulation, and corresponds roughly to identifying what semantic role labels are present in previous other formulations of the task.
+The↑ question= generation= aspect= is↑ unique↑ to= our↑ formulation↑ and↑ corresponds↑ roughly↑ to↑ identifying↑ what↑ semantic↑ role↑ labels↑ are↑ present↑ in↑ previous↑ other↑ formulations↑ of↑ the↑ task=
+The↑ question= generation= aspect= is↑ unique↑ to= our↑ formulation↑ and↑ corresponds↑ roughly↑ to↑ identifying= what= semantic= role= labels= are= present= in= previous= other= formulations= of= the= task.= 
+
+The question generation aspect is unique to our formulation, and corresponds roughly to identifying what semantic role labels are present in previous formulations of the task.
+The↑ question= generation= aspect= is↑ unique↑ to= our↑ formulation↑ and↑ corresponds↑ roughly↑ to↑ identifying↑ what↑ semantic↑ role↑ labels↑ are↑ present↑ in↑ previous↑ formulations↑ of↑ the↑ task=
+The↑ question= generation= aspect= is↑ unique↑ to= our↑ formulation↑ and↑ corresponds↑ roughly↑ to↑ identifying= what= semantic= role= labels= are= present= in= previous= formulations= of= the= task.= 
+
+John ate pasta for supper.
+John↑ ate↑ pasta↑ for↑ supper=
+John↑ ate↑ pasta↑ for↑ supper.↑ 
+
+John ate pasta for dinner.
+John↑ ate↑ pasta↑ for↑ dinner=
+John↑ ate↑ pasta↑ for↑ dinner.↑ 
+
+John ate pasta for breakfast.
+John↑ ate↑ pasta↑ for↑ breakfast=
+John↑ ate↑ pasta↑ for↑ breakfast.↑ 
+
+John ate pasta for dinner.
+John↑ ate↑ pasta↑ for↑ dinner=
+John↑ ate↑ pasta↑ for↑ dinner.↑ 
+
+Former senior Justice Department officials weren't asked for information.
+Former↑ senior↑ Justice↑ Department↑ officials↑ were↑ not↑ asked↓ for↓ information=
+Former↑ senior= Justice= Department= officials= were↓ not↑ asked↓ for↓ information.↓ 
+
+The population of the Cape sparrow has not decreased significantly, and is not seriously threatened by human activities.
+The↑ population= of= the= Cape= sparrow= has↓ not↑ decreased↓ significantly↓ and↑ is↓ not↓ seriously↑ threatened↑ by↑ human↑ activities↑
+The↑ population= of= the= Cape= sparrow= has↓ not↑ decreased↓ significantly↓ and↑ is↓ not↑ seriously↓ threatened↓ by↓ human↓ activities.↓ 
+
+In an Oval Office meeting after Mueller's appointment, Trump told Sessions he should resign, prompting the attorney general's submission of a letter of resignation, according to The New York Times.
+In↑ an↑ Oval↑ Office↑ meeting↑ after= Mueller↑ 's↑ appointment↑ Trump↑ told↑ Sessions↑ he↑ should↑ resign↑ prompting↑ the↑ attorney= general= 's= submission= of= a= letter= of= resignation= according↑ to↑ The↑ New= York= Times=
+In↑ an↑ Oval↑ Office↑ meeting↑ after= Mueller↑ 's↑ appointment↑ Trump↑ told↑ Sessions↑ he↑ should↑ resign↑ prompting= the↑ attorney= general= 's↑ submission↑ of↑ a↑ letter↑ of↑ resignation↑ according↑ to↑ The↑ New= York= Times.= 
+
+In an Oval Office meeting after Mueller's appointment, Trump told Sessions he should resign, prompting the attorney general's withholding of a letter of resignation, according to The New York Times.
+In↑ an↑ Oval↑ Office↑ meeting↑ after= Mueller↑ 's↑ appointment↑ Trump↑ told↑ Sessions↑ he↑ should↑ resign↑ prompting↑ the↑ attorney= general= 's= withholding= of= a= letter= of= resignation= according↑ to↑ The↑ New= York= Times=
+In↑ an↑ Oval↑ Office↑ meeting↑ after= Mueller↑ 's↑ appointment↑ Trump↑ told↑ Sessions↑ he↑ should↑ resign↑ prompting↑ the↑ attorney= general= 's↑ withholding↑ of↑ a↑ letter↑ of↑ resignation↑ according↑ to↑ The↑ New= York= Times.= 
+
+Bulls proved that mythbusters react to movement and not color.
+Bulls↑ proved↑ that↑ mythbusters↑ react↑ to↑ movement↑ and↑ not↑ color↓
+Bulls↑ proved↑ that↑ mythbusters= react= to= movement= and↑ not= color.= 
+
+Mythbusters proved that bulls react to movement and not color.
+Mythbusters↑ proved↑ that↑ bulls↑ react↑ to↑ movement↑ and↑ not↑ color↓
+Mythbusters↑ proved↑ that↑ bulls= react= to= movement= and↑ not= color.= 
+
+Airplanes do not follow the same rules as bees.
+Airplanes↑ do↓ not↑ follow↓ the↓ same= rules= as↓ bees↓
+Airplanes↑ do↑ not↑ follow↓ the↓ same= rules= as= bees.= 
+
+Bees do not follow the same rules as airplanes.
+Bees↑ do↓ not↑ follow↓ the↓ same= rules= as↓ airplanes↓
+Bees↑ do↑ not↑ follow↓ the↓ same= rules= as= airplanes.= 
+
+Bees do not follow the same rules as airplanes.
+Bees↑ do↓ not↑ follow↓ the↓ same= rules= as↓ airplanes↓
+Bees↑ do↑ not↑ follow↓ the↓ same= rules= as= airplanes.= 
+
+Bees fly using the same mechanism as airplanes.
+Bees↑ fly↑ using↑ the↑ same= mechanism= as↑ airplanes↑
+Bees↑ fly↑ using↑ the↑ same= mechanism= as= airplanes.= 
+
+Bees do not follow the same rules as airplanes.
+Bees↑ do↓ not↑ follow↓ the↓ same= rules= as↓ airplanes↓
+Bees↑ do↑ not↑ follow↓ the↓ same= rules= as= airplanes.= 
+
+Bees do not follow the same rules as airplanes.
+Bees↑ do↓ not↑ follow↓ the↓ same= rules= as↓ airplanes↓
+Bees↑ do↑ not↑ follow↓ the↓ same= rules= as= airplanes.= 
+
+This means that seeking a word that is similar to x and y but is different from z is mathematically equivalent to solving analogy questions with vector arithmetic.
+This↑ means↑ that↑ seeking↑ a↑ word↑ that↑ is= similar= to= x= and↑ y= but↑ is= different= from= z= is↑ mathematically↑ equivalent↑ to↑ solving↑ analogy↑ questions↑ with↑ vector↑ arithmetic↑
+This↑ means= that= seeking= a= word= that= is= similar= to= x= and↑ y= but↑ is= different= from= z= is= mathematically= equivalent= to= solving= analogy= questions= with= vector= arithmetic.= 
+
+This means that solving analogy questions with vector arithmetic is mathematically equivalent to seeking a word that is similar to x and y but is different from z.
+This↑ means↑ that↑ solving↑ analogy↑ questions↑ with↑ vector↑ arithmetic↑ is↑ mathematically↑ equivalent↑ to↑ seeking↑ a↑ word↑ that↑ is= similar= to= x= and↑ y= but↑ is= different= from= z.=
+This↑ means= that= solving= analogy= questions= with= vector= arithmetic= is= mathematically= equivalent= to= seeking= a= word= that= is= similar= to= x= and↑ y= but↑ is= different= from= z.= 
+
+It reminds me of the times my little brother and I played Super Mario.
+It↑ reminds↑ me↑ of↑ the↑ times= my↑ little↑ brother↑ and↑ I↑ played↑ Super↑ Mario↑
+It↑ reminds↑ me↑ of↑ the↑ times= my= little= brother= and↑ I= played= Super= Mario.= 
+
+The FBI has been trusted to investigate corruption inside the government for decades.
+The↑ FBI= has↑ been↑ trusted↑ to↑ investigate↑ corruption↑ inside↑ the↑ government= for↑ decades=
+The↑ FBI= has↑ been↑ trusted↑ to↑ investigate↑ corruption↑ inside↑ the↑ government= for↑ decades.↑ 
+
+For decades, the FBI has been trusted to investigate corruption inside the government.
+For↑ decades= the↑ FBI= has↑ been↑ trusted↑ to↑ investigate↑ corruption↑ inside↑ the↑ government=
+For↑ decades↑ the↑ FBI= has↑ been↑ trusted↑ to↑ investigate↑ corruption↑ inside↑ the↑ government.= 
+
+A few weeks ago, I was driving through my neighborhood, and there was a lady holding a child's hand, standing on the side of the road talking to someone parked in a car.
+A↑ few↑ weeks↑ ago↑ I↑ was↑ driving↑ through= my↑ neighborhood↑ and↑ there↑ was↑ a↑ lady↑ holding↑ a↑ child↑ 's↑ hand↑ standing↑ on↑ the↑ side= of= the= road= talking= to= someone= parked= in= a= car=
+several↑ weeks↑ ago↑ I↑ was↑ driving↑ through= my↑ neighborhood↑ and↑ there↑ was↑ a↑ lady↑ holding↑ a↑ child↑ 's↑ hand↑ standing↑ on↑ the↑ side= of= the= road= talking↑ to↑ some↑ person↑ parked↑ in↑ a↑ car.↑ 
+
+I was driving through my neighborhood a few weeks ago, and there was a lady holding a child's hand, standing on the side of the road talking to someone parked in a car.
+I↑ was↑ driving↑ through= my↑ neighborhood↑ a↑ few↑ weeks↑ ago↑ and↑ there↑ was↑ a↑ lady↑ holding↑ a↑ child↑ 's↑ hand↑ standing↑ on↑ the↑ side= of= the= road= talking= to= someone= parked= in= a= car=
+I↑ was↑ driving↑ through= my↑ neighborhood↑ several↑ weeks↑ ago↑ and↑ there↑ was↑ a↑ lady↑ holding↑ a↑ child↑ 's↑ hand↑ standing↑ on↑ the↑ side= of= the= road= talking↑ to↑ some↑ person↑ parked↑ in↑ a↑ car.↑ 
+
+In construction of the Empire State Building, Bass River timber was used.
+In↑ construction↑ of↑ the↑ Empire= State= Building= Bass↑ River↑ timber↑ was↑ used↑
+In↑ construction= of= the= Empire= State= Building= Bass= River= timber= was= used.= 
+
+We propose models from which the attested vowel inventories have been drawn.
+We↑ propose↑ models↑ from↑ which↑ the↑ attested= vowel= inventories= have↑ been↑ drawn↑
+We↑ propose↑ models= from↑ which↑ the↑ attested= vowel= inventories= have↑ been↑ drawn.↑ 
+
+We propose models of the probability distribution from a restricted space of linear functions.
+We↑ propose↑ models↑ of↑ the↑ probability= distribution= from↑ a↑ restricted↑ space↑ of↑ linear↑ functions↑
+We↑ propose↑ models↑ of↑ the↑ probability= distribution= from= a= restricted= space= of= linear= functions.= 
+
+We propose models of the probability distribution from a restricted space of linear functions.
+We↑ propose↑ models↑ of↑ the↑ probability= distribution= from↑ a↑ restricted↑ space↑ of↑ linear↑ functions↑
+We↑ propose↑ models↑ of↑ the↑ probability= distribution= from= a= restricted= space= of= linear= functions.= 
+
+That bill would increase the debt too much.
+That↑ bill= would↑ increase↑ the↑ debt= too↑ much↑
+That↓ bill↓ would↓ increase↓ the↓ debt↓ too↓ much.↓ 
+
+The climbing beans choked the corn, and the squash grew so big that it overshadowed several adjacent rows of beans.
+The↑ climbing= beans= choked↑ the↑ corn= and↑ the↑ squash= grew↑ so↑ big↑ that↑ it↑ overshadowed↑ several↑ adjacent↑ rows↑ of↑ beans↑
+The↑ climbing= beans= choked↑ the↑ corn= and↑ the↑ squash= grew↑ so↑ big↑ that↑ it= overshadowed= several= adjacent= rows= of= beans.= 
+
+The climbing beans choked the corn, and the squash grew so big that it overshadowed several adjacent rows of beans.
+The↑ climbing= beans= choked↑ the↑ corn= and↑ the↑ squash= grew↑ so↑ big↑ that↑ it↑ overshadowed↑ several↑ adjacent↑ rows↑ of↑ beans↑
+The↑ climbing= beans= choked↑ the↑ corn= and↑ the↑ squash= grew↑ so↑ big↑ that↑ it= overshadowed= several= adjacent= rows= of= beans.= 
+
+We show that if coreference resolvers mainly rely on lexical features, they can hardly generalize to unseen domains.
+We↑ show↑ that↑ if↑ coreference↑ resolvers↑ mainly↑ rely↑ on↑ lexical↑ features↑ they↑ can↑ hardly↑ generalize↑ to↑ unseen↑ domains↑
+We↑ show↑ that↑ if= coreference= resolvers= mainly= rely= on= lexical= features= they= can= hardly= generalize= to= unseen= domains.= 
+
+We show that if coreference resolvers mainly rely on lexical features, they can hardly generalize to unseen domains.
+We↑ show↑ that↑ if↑ coreference↑ resolvers↑ mainly↑ rely↑ on↑ lexical↑ features↑ they↑ can↑ hardly↑ generalize↑ to↑ unseen↑ domains↑
+We↑ show↑ that↑ if= coreference= resolvers= mainly= rely= on= lexical= features= they= can= hardly= generalize= to= unseen= domains.= 
+
+The doctor bears some responsibility for successful care.
+The↑ doctor= bears↑ some↑ responsibility↑ for↑ successful= care=
+The↑ doctor= bears↑ some↑ responsibility↑ for↑ successful↑ care.↑ 
+
+Both doctor and patient bear some responsibility for successful care.
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful= care=
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful↑ care.↑ 
+
+Both doctor and patient bear some responsibility for successful care.
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful= care=
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful↑ care.↑ 
+
+The patient bears some responsibility for successful care.
+The↑ patient= bears↑ some↑ responsibility↑ for↑ successful= care=
+The↑ patient= bears↑ some↑ responsibility↑ for↑ successful↑ care.↑ 
+
+Both doctor and patient bear some responsibility for successful care.
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful= care=
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful↑ care.↑ 
+
+Both doctor and patient bear some responsibility for successful care.
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful= care=
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful↑ care.↑ 
+
+The attorney bears some responsibility for successful care.
+The↑ attorney= bears↑ some↑ responsibility↑ for↑ successful= care=
+The↑ attorney= bears↑ some↑ responsibility↑ for↑ successful↑ care.↑ 
+
+Both doctor and patient bear some responsibility for successful care.
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful= care=
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful↑ care.↑ 
+
+Both doctor and patient bear some responsibility for successful care.
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful= care=
+Both↑ doctor= and↑ patient= bear↑ some↑ responsibility↑ for↑ successful↑ care.↑ 
+
+He does not have a blind trust.
+He↑ does↓ not↑ have↓ a↓ blind↓ trust↓
+He↑ does↑ not↑ have↓ a↓ blind↓ trust.↓ 
+
+No one has a set of principles to live by.
+No↑ one↓ has↓ a↓ set↓ of↓ principles↓ to↓ live↓ by↓
+No↑ person↓ has↓ a↓ set↓ of↓ principles↓ to↓ live↓ by.↑ 
+
+Susan knows how turtles reproduce.
+Susan↑ knows↑ how↑ turtles↑ reproduce↑
+Susan↑ knows↑ how↑ turtles= reproduce.= 
+
+No one knows how turtles reproduce.
+No↑ one↓ knows↓ how↓ turtles↓ reproduce↓
+No↑ person↓ knows↓ how↓ turtles= reproduce.= 
+
+Susan knows how turtles reproduce.
+Susan↑ knows↑ how↑ turtles↑ reproduce↑
+Susan↑ knows↑ how↑ turtles= reproduce.= 
+
+Cedric doesn't know how turtles reproduce.
+Cedric↑ does↓ not↑ know↓ how↓ turtles↓ reproduce↓
+Cedric↑ does↑ not↑ know↓ how↓ turtles= reproduce.= 
+
+Susan knows how turtles reproduce.
+Susan↑ knows↑ how↑ turtles↑ reproduce↑
+Susan↑ knows↑ how↑ turtles= reproduce.= 
+
+If there is a bathroom in this house, it is in a funny place.
+If↑ there↑ is↑ a↑ bathroom↑ in↑ this↑ house= it↑ is↑ in↑ a↑ funny↑ place↑
+If↑ there↓ is↓ a↓ bathroom↓ in↓ this↓ house= it↑ is↑ in↑ a↑ funny↑ place.↑ 
+
+Joan believes that all speech is political speech.
+Joan↑ believes↑ that↑ all↑ speech↓ is↑ political↑ speech↑
+Joan↑ believes↑ that↑ all= speech= is= political= speech.= 
+
+Joan doubts that all speech is political speech.
+Joan↑ doubts↑ that↑ all↑ speech↓ is↑ political↑ speech↑
+Joan↑ doubts↑ that↑ all= speech= is= political= speech.= 
+
+Joan knows that all speech is political speech.
+Joan↑ knows↑ that↑ all↑ speech↓ is↑ political↑ speech↑
+Joan↑ knows↑ that↑ all= speech= is= political= speech.= 
+
+Joan knows that all speech is political speech.
+Joan↑ knows↑ that↑ all↑ speech↓ is↑ political↑ speech↑
+Joan↑ knows↑ that↑ all= speech= is= political= speech.= 
+
+Grisham did not win the popular vote.
+Grisham↑ did↓ not↑ win↓ the↓ popular= vote=
+Grisham↑ did↑ not↑ win↓ the↓ popular= vote.= 
+
+Jacob did not see Tex sign the contract.
+Jacob↑ did↓ not↑ see↓ Tex↓ sign↓ the↓ contract=
+Jacob↑ did↑ not↑ see↓ Tex↓ sign↓ the↓ contract.= 
+
+Grisham did not win the popular vote.
+Grisham↑ did↓ not↑ win↓ the↓ popular= vote=
+Grisham↑ did↑ not↑ win↓ the↓ popular= vote.= 
+
+Grisham did not win the popular vote.
+Grisham↑ did↓ not↑ win↓ the↓ popular= vote=
+Grisham↑ did↑ not↑ win↓ the↓ popular= vote.= 
+
+Grisham did not win the popular vote.
+Grisham↑ did↓ not↑ win↓ the↓ popular= vote=
+Grisham↑ did↑ not↑ win↓ the↓ popular= vote.= 
+
+If Pedro has a donkey, then he beats it.
+If↑ Pedro↑ has↑ a↑ donkey↑ then↑ he↑ beats↑ it↑
+If↑ Pedro↓ has↓ a↓ donkey↓ then↑ he↑ beats↑ it.↑ 
+
+If Pedro has a donkey, then he beats it.
+If↑ Pedro↑ has↑ a↑ donkey↑ then↑ he↑ beats↑ it↑
+If↑ Pedro↓ has↓ a↓ donkey↓ then↑ he↑ beats↑ it.↑ 
+
+People across the globe were prepared for Tillerson's departure.
+People↑ across↑ the↑ globe= were↑ prepared↑ for↑ Tillerson= 's= departure=
+People↑ across↑ the↑ globe= were↑ prepared↑ for= Tillerson↑ 's↑ departure.↑ 
+
+After being denied, he grew angry and ignored the police officer's warnings to relax, so he was arrested.
+After↑ being↑ denied↑ he↑ grew↑ angry↑ and↑ ignored↑ the↑ police= officer= 's= warnings↑ to↑ relax↑ so↑ he↑ was↑ arrested↑
+After↑ being↑ denied↑ he↑ grew↑ angry↑ and↑ ignored↑ the↑ police= officer= 's↑ warnings↑ to↑ relax↑ so↑ he↑ was↑ arrested.↑ 
+
+After being denied, he grew angry and ignored the police officer's warnings to relax, so he was handcuffed and taken to the station.
+After↑ being↑ denied↑ he↑ grew↑ angry↑ and↑ ignored↑ the↑ police= officer= 's= warnings= to= relax= so↑ he↑ was↑ handcuffed↑ and↑ taken↑ to↑ the↑ station=
+After↑ being↑ denied↑ he↑ grew↑ angry↑ and↑ ignored↑ the↑ police= officer= 's↑ warnings↑ to↑ relax↑ so↑ he↑ was↑ handcuffed↑ and↑ taken↑ to↑ the↑ station.= 
+
+After being denied, he grew angry and ignored the police officer's warnings to relax, so he was escorted home.
+After↑ being↑ denied↑ he↑ grew↑ angry↑ and↑ ignored↑ the↑ police= officer= 's= warnings= to= relax= so↑ he↑ was↑ escorted↑ home↑
+After↑ being↑ denied↑ he↑ grew↑ angry↑ and↑ ignored↑ the↑ police= officer= 's↑ warnings↑ to↑ relax↑ so↑ he↑ was↑ escorted↑ home.↑ 
+
+After being denied, he grew angry and ignored the police officer's warnings to relax, so he was handcuffed and taken to the station.
+After↑ being↑ denied↑ he↑ grew↑ angry↑ and↑ ignored↑ the↑ police= officer= 's= warnings= to= relax= so↑ he↑ was↑ handcuffed↑ and↑ taken↑ to↑ the↑ station=
+After↑ being↑ denied↑ he↑ grew↑ angry↑ and↑ ignored↑ the↑ police= officer= 's↑ warnings↑ to↑ relax↑ so↑ he↑ was↑ handcuffed↑ and↑ taken↑ to↑ the↑ station.= 
+
+Marc Sims has been getting his hair cut once a week, for several years.
+Marc↑ Sims↑ has↑ been↑ getting↑ his↑ hair↑ cut↑ once↑ a↑ week↑ for↑ several= years=
+Marc↑ Sims↑ has↑ been↑ getting= his↑ hair↑ cut↑ once↑ a↑ week↑ for↑ several↑ years.↑ 
+
+Marc Sims has been seeing his barber once a week, for several years.
+Marc↑ Sims↑ has↑ been↑ seeing↑ his↑ barber↑ once↑ a↑ week↑ for↑ several= years=
+Marc↑ Sims↑ has↑ been↑ seeing↑ his↑ barber↑ once↑ a↑ week↑ for↑ several↑ years.↑ 
+
+Marc Sims has been cutting hair once a week, for several years.
+Marc↑ Sims↑ has↑ been↑ cutting↑ hair↑ once↑ a↑ week↑ for↑ several= years=
+Marc↑ Sims↑ has↑ been↑ cutting↑ hair↑ once↑ a↑ week↑ for↑ several↑ years.↑ 
+
+Marc Sims has been seeing his barber once a week, for several years.
+Marc↑ Sims↑ has↑ been↑ seeing↑ his↑ barber↑ once↑ a↑ week↑ for↑ several= years=
+Marc↑ Sims↑ has↑ been↑ seeing↑ his↑ barber↑ once↑ a↑ week↑ for↑ several↑ years.↑ 
+
+Russia vowed Tuesday to retaliate if Britain imposes sanctions in response to a chemical attack on British soil and demanded access to samples of a nerve agent that British investigators say they have identified as Russian.
+Russia↑ vowed↑ Tuesday↑ to↑ retaliate↑ if↑ Britain↑ imposes↑ sanctions↑ in↑ response↑ to↑ a↑ chemical↑ attack↑ on↑ British↑ soil↑ and↑ demanded↑ access↑ to↑ samples↑ of↑ a↑ nerve↑ agent↑ that↑ British↑ investigators↑ say↑ they↑ have↑ identified↑ as↑ Russian↑
+Russia↓ vowed↓ Tuesday↓ to↓ retaliate↓ if↓ Britain↓ imposes↓ sanctions↓ in↓ response↓ to↓ a↓ chemical↓ attack↓ on↓ British↓ soil↓ and↓ demanded↓ access↓ to↓ samples↓ of↓ a↓ nerve↓ agent↓ that↓ British↓ investigators↓ say↓ they↓ have↓ identified↓ as↓ Russian.↓ 
+
+As with previous freebies, the games offered in this manner will be yours to keep permanently, though you'll presumably need to use the Twitch desktop app in order to download them.
+As↑ with↑ previous↑ freebies↑ the↑ games= offered= in= this= manner= will↑ be↑ yours↑ to↑ keep↑ permanently↑ though↑ you↑ 'll↑ presumably↑ need↑ to↑ use↑ the↑ Twitch= desktop= app= in↑ order↑ to↑ download↑ them↑
+As↓ with↓ previous↓ freebies↓ the↓ games↓ offered↓ in↓ this↓ manner↓ will↓ be↓ yours↓ to↓ keep↓ permanently↓ though↓ you↓ 'll↓ presumably↓ need↓ to↓ use↓ the↓ Twitch↓ desktop↓ app↓ in↓ order↓ to↓ download↓ them.↓ 
+
+As with previous freebies, the games offered in this manner will be yours to keep permanently, though you'll presumably need to use the Twitch desktop app in order to grab them.
+As↑ with↑ previous↑ freebies↑ the↑ games= offered= in= this= manner= will↑ be↑ yours↑ to↑ keep↑ permanently↑ though↑ you↑ 'll↑ presumably↑ need↑ to↑ use↑ the↑ Twitch= desktop= app= in↑ order↑ to↑ grab↑ them↑
+As↓ with↓ previous↓ freebies↓ the↓ games↓ offered↓ in↓ this↓ manner↓ will↓ be↓ yours↓ to↓ keep↓ permanently↓ though↓ you↓ 'll↓ presumably↓ need↓ to↓ use↓ the↓ Twitch↓ desktop↓ app↓ in↓ order↓ to↓ grab↓ them.↓ 
+
+He said the United States intended to bomb the government quarter in nearby Damascus where he said Russian military advisers, Russian military police and Russian ceasefire monitors were based.
+He↑ said↑ the↑ United= States= intended↑ to↑ bomb↑ the↑ government= quarter= in↑ nearby↑ Damascus↑ where↑ he↑ said↑ Russian↑ military↑ advisers↑ Russian↑ military↑ police↑ and↑ Russian↑ ceasefire↑ monitors↑ were↑ based↑
+He↑ said↑ the↑ United= States= intended↑ to↑ bomb↑ the↑ government= quarter= in↑ nearby↑ Damascus= where↑ he= said= Russian= military= advisers= Russian= military= police= and↑ Russian= ceasefire= monitors= were= based.= 
+
+He said the United States intended to use the fake attack as a pretext to bomb the government quarter in nearby Damascus where he said Russian military advisers, Russian military police and Russian ceasefire monitors were based.
+He↑ said↑ the↑ United= States= intended↑ to↑ use↑ the↑ fake= attack= as↑ a↑ pretext↑ to↑ bomb↑ the↑ government= quarter= in↑ nearby↑ Damascus↑ where↑ he↑ said↑ Russian↑ military↑ advisers↑ Russian↑ military↑ police↑ and↑ Russian↑ ceasefire↑ monitors↑ were↑ based↑
+He↑ said↑ the↑ United= States= intended↑ to↑ use↑ the↑ fake= attack= as↑ a↑ pretext↑ to↑ bomb↑ the↑ government= quarter= in↑ nearby↑ Damascus= where↑ he= said= Russian= military= advisers= Russian= military= police= and↑ Russian= ceasefire= monitors= were= based.= 
+
+It is so sensitive that they agreed to talk about the matter only on condition of anonymity.
+It↑ is↑ so↑ sensitive↑ that↑ they↑ agreed↑ to↑ talk↑ about↑ the↑ matter= only↑ on↑ condition↑ of↑ anonymity↑
+It↑ is↑ so↑ sensitive↑ that↑ they= agreed= to= talk= about= the= matter= only= on= condition= of= anonymity.= 
+
+The matter is so sensitive that they agreed to talk only on condition of anonymity.
+The↑ matter= is↑ so↑ sensitive↑ that↑ they↑ agreed↑ to↑ talk↑ only↑ on↑ condition↑ of↑ anonymity↑
+The↑ matter= is↑ so↑ sensitive↑ that↑ they= agreed= to= talk= only= on= condition= of= anonymity.= 
+
+The matter is so sensitive that they agreed to talk only on condition of anonymity.
+The↑ matter= is↑ so↑ sensitive↑ that↑ they↑ agreed↑ to↑ talk↑ only↑ on↑ condition↑ of↑ anonymity↑
+The↑ matter= is↑ so↑ sensitive↑ that↑ they= agreed= to= talk= only= on= condition= of= anonymity.= 
+
+Microsoft has said that corrective action might be taken even if no policy violation was found, and that the person who filed the complaint might not be informed.
+Microsoft↑ has↑ said↑ that↑ corrective↑ action↑ might↑ be↑ taken↑ even↑ if↑ no↑ policy↓ violation↓ was↓ found↓ and↑ that↑ the↑ person= who= filed= the= complaint= might↓ not↑ be↓ informed↓
+Microsoft↓ has↓ said↓ that↓ corrective↓ action↓ might↓ be↓ taken↓ even↓ if↓ no↓ policy↓ violation↓ was↓ found↓ and↓ that↓ the↓ person↓ who↓ filed↓ the↓ complaint↓ might↓ not↓ be↓ informed.↓ 
+
+If he stays in power longer,  it will be harder for him to exit.
+If↑ he↑ stays↑ in↑ power↑ longer↑ it↑ will↑ be↑ harder↑ for↑ him= to↑ exit↑
+If↑ he= stays= in= power= longer↓ it↑ will↑ be↑ harder↑ for↑ him= to= exit.= 
+
+If he stays in power longer,  it will be harder to exit.
+If↑ he↑ stays↑ in↑ power↑ longer↑ it↑ will↑ be↑ harder↑ to↑ exit↑
+If↑ he= stays= in= power= longer↓ it↑ will↑ be↑ harder↑ to↑ exit.↑ 
+
+The shorter he stays in power, the easier it will be to exit.
+The↑ shorter= he↑ stays↑ in↑ power↑ the↑ easier= it= will= be= to= exit=
+The↑ shorter= he↑ stays↑ in↑ power↑ the= easier= it= will= be= to= exit.= 
+
+Our deepest sympathies are with a victim who was affected by this accident.
+Our↑ deepest↑ sympathies↑ are↑ with↑ a↑ victim↑ who↑ was↑ affected↑ by↑ this↑ accident=
+Our↑ deepest↑ sympathies↑ are= with= a= victim= who= was= affected= by= this= accident.= 
+
+Our deepest sympathies are with all those affected by this accident.
+Our↑ deepest↑ sympathies↑ are↑ with↑ all↑ those↓ affected↑ by↑ this↑ accident=
+Our↑ deepest↑ sympathies↑ are= with= all= those= affected= by= this= accident.= 
+
+From a quick Google search, it was created as a hard fork of Bitcoin and it's supposed to be faster and more sustainable than Bitcoin.
+From↑ a↑ quick↑ Google↑ search↑ it↑ was↑ created↑ as↑ a↑ hard↑ fork↑ of↑ Bitcoin↑ and↑ it↑ 's↑ supposed↑ to↑ be↑ faster↑ and↑ more↑ sustainable↑ than↑ Bitcoin↑
+From↓ a↓ quick↓ Google↓ search↓ it↓ was↓ created↓ as↓ a↓ hard↓ fork↓ of↓ Bitcoin↓ and↓ it↓ 's↓ supposed↓ to↓ be↓ faster↓ and↓ more↓ sustainable↓ than↓ Bitcoin.↓ 
+
+From a quick Google search, Bitcoin Cash was created as a hard fork of Bitcoin and it's supposed to be faster and more sustainable than Bitcoin Cash.
+From↑ a↑ quick↑ Google↑ search↑ Bitcoin↑ Cash↑ was↑ created↑ as↑ a↑ hard↑ fork↑ of↑ Bitcoin↑ and↑ it↑ 's↑ supposed↑ to↑ be↑ faster↑ and↑ more↑ sustainable↑ than↑ Bitcoin↑ Cash↑
+From↓ a↓ quick↓ Google↓ search↓ Bitcoin↓ Cash↓ was↓ created↓ as↓ a↓ hard↓ fork↓ of↓ Bitcoin↓ and↓ it↓ 's↓ supposed↓ to↓ be↓ faster↓ and↓ more↓ sustainable↓ than↓ Bitcoin↓ Cash.↓ 
+
+Such a cute furry ball of personality, her last nights were painful for her and us but at least I had the time to make my peace and say goodbye while she was still there.
+Such↑ a= cute↑ furry↑ ball↑ of↑ personality↑ her↑ last↑ nights↑ were↑ painful↑ for↑ her= and↑ us↑ but↑ at↑ least↑ I↑ had↑ the↑ time= to= make= my= peace= and↑ say= goodbye= while= she= was= still= there=
+Such↑ a= cute= furry= ball= of= personality= her= last= nights= were= painful= for= her= and↑ us= but↑ at↑ least= I= had= the= time= to= make= my= peace= and↑ say= goodbye= while= she= was= still= there.= 
+
+Such a cute furry ball of personality, her last days were painful for her and us but at least I had the time to make my peace and say goodbye while she was still there.
+Such↑ a= cute↑ furry↑ ball↑ of↑ personality↑ her↑ last↑ days↑ were↑ painful↑ for↑ her= and↑ us↑ but↑ at↑ least↑ I↑ had↑ the↑ time= to= make= my= peace= and↑ say= goodbye= while= she= was= still= there=
+Such↑ a= cute= furry= ball= of= personality= her= last= days= were= painful= for= her= and↑ us= but↑ at↑ least= I= had= the= time= to= make= my= peace= and↑ say= goodbye= while= she= was= still= there.= 
+
+I wish I could give both of you an upvote to share.
+I↑ wish↑ I↑ could↑ give↑ both↑ of= you= an↑ upvote↑ to↑ share↑
+I↓ wish↓ I↓ could↓ give↓ both↓ of↓ you↓ an↓ upvote↓ to↓ share.↓ 
+
+I wish I could give both of you an upvote to share.
+I↑ wish↑ I↑ could↑ give↑ both↑ of= you= an↑ upvote↑ to↑ share↑
+I↓ wish↓ I↓ could↓ give↓ both↓ of↓ you↓ an↓ upvote↓ to↓ share.↓ 
+
+Life is a not a daring adventure.
+Life↑ is↑ a↑ not↑ a↓ daring↓ adventure↓
+Life↑ is↑ a↓ not↑ a↓ daring↓ adventure.↓ 
+
+Just watched the first quarter hour, got bored, skipped to the magic bit, it's funnier as a GIF.
+Just↑ watched↑ the↑ first= quarter= hour= got↑ bored↑ skipped↑ to↑ the↑ magic= bit= it↑ 's↑ funnier↑ as↑ a↑ GIF↑
+Just↑ watched↑ the↑ first= quarter= hour= got↑ bored↑ skipped↑ to↑ the↑ magic= bit= it= 's= funnier= as= a= GIF.= 
+
+I think this was part of the last episode of Bojack Horseman.
+I↑ think↑ this↑ was↑ part↑ of↑ the↑ last= episode= of= Bojack= Horseman=
+I↑ think↑ this↑ was= part= of= the= last= episode= of= Bojack= Horseman.= 
+
+I think this was part of the last season of Bojack Horseman.
+I↑ think↑ this↑ was↑ part↑ of↑ the↑ last= season= of= Bojack= Horseman=
+I↑ think↑ this↑ was= part= of= the= last= season= of= Bojack= Horseman.= 
+
+If you think about it, it's the perfect reverse psychology tactic.
+If↑ you↑ think↑ about↑ it↑ it↑ 's↑ the↑ perfect= reverse= psychology= tactic=
+If↑ you↓ think↓ about↓ it↓ it↑ 's↑ the↑ perfect= reverse= psychology= tactic.= 
+
+My jokes fully reveal my character.
+My↑ jokes↑ fully↑ reveal↑ my↑ character↑
+My↑ jokes↑ fully= reveal= my= character.= 
+
+My jokes reflect exactly zero of my character.
+My↑ jokes↑ reflect↑ exactly↑ zero↑ of= my↑ character↑
+My↑ jokes↑ reflect= exactly= zero= of= my= character.= 
+
+Threatened by habitat loss and hunting, ruffed lemurs are extinct in the wild.
+Threatened↑ by↑ habitat↑ loss↑ and↑ hunting↑ ruffed↑ lemurs↑ are↑ extinct↑ in↑ the↑ wild=
+Threatened↑ by↑ habitat↑ loss↑ and↑ hunting= ruffed= lemurs= are= extinct= in= the= wild.= 
+
+By saying this, Kennedy was admonishing people not to riot in wake of King's death and in effect equating their actions to that of Dr. Martin Luther King, Jr.'s assassin.
+By↑ saying↑ this↑ Kennedy↑ was↑ admonishing↑ people↑ not↑ to↓ riot↓ in↓ wake↓ of= King↓ 's↓ death↓ and↑ in↓ effect↓ equating↓ their↓ actions↓ to↓ that↓ of= Dr.= Martin= Luther= King= Jr.= 's= assassin↓
+By↓ saying↓ this↓ Kennedy↓ was↓ admonishing↓ people↓ not↓ to↓ riot↓ in↓ wake↓ of↓ King↓ 's↓ death↓ and↓ in↓ effect↓ equating↓ their↓ actions↓ to↓ that↓ of↓ Dr.↓ Martin↓ Luther↓ King↓ Jr.↓ 's↓ assassin.↓ 
+
+By saying this, Kennedy was admonishing people not to riot in wake of King's death and in effect equating their actions to that of Kennedy's assassin.
+By↑ saying↑ this↑ Kennedy↑ was↑ admonishing↑ people↑ not↑ to↓ riot↓ in↓ wake↓ of= King↓ 's↓ death↓ and↑ in↓ effect↓ equating↓ their↓ actions↓ to↓ that↓ of= Kennedy= 's= assassin↓
+By↓ saying↓ this↓ Kennedy↓ was↓ admonishing↓ people↓ not↓ to↓ riot↓ in↓ wake↓ of↓ King↓ 's↓ death↓ and↓ in↓ effect↓ equating↓ their↓ actions↓ to↓ that↓ of↓ Kennedy↓ 's↓ assassin.↓ 
+
+After quoting Abraham Lincoln, he portrayed the American public's violent tendencies as undermining its national ideals.
+After↑ quoting↑ Abraham↑ Lincoln↑ he↑ portrayed↑ the↑ American= public= 's= violent= tendencies= as↑ undermining↑ its↑ national↑ ideals↑
+After↑ quoting↑ Abraham↑ Lincoln↑ he↑ portrayed= the↑ American= public= 's↑ violent↑ tendencies↑ as↑ undermining↑ its↑ national↑ ideals.↑ 
+
+Dacquoise, a French dessert cake, always contains a layer of hazelnut meringue.
+Dacquoise↑ a↑ French↑ dessert↑ cake↑ always↑ contains↑ a↑ layer↑ of↑ hazelnut↑ meringue↑
+Dacquoise↑ a↑ French↑ dessert↑ cake↑ always= contains= a= layer= of= hazelnut= meringue.↑ 
+
+Dacquoise, a French dessert cake, often contains a layer of hazelnut meringue.
+Dacquoise↑ a↑ French↑ dessert↑ cake↑ often↑ contains↑ a↑ layer↑ of↑ hazelnut↑ meringue↑
+Dacquoise↑ a↑ French↑ dessert↑ cake↑ often= contains= a= layer= of= hazelnut= meringue.↑ 
+
+Mass analysis is based on analyzing debitage populations based on their size distribution across specified size grades.
+Mass↑ analysis↑ is↑ based↑ on↑ analyzing↑ debitage↑ populations↑ based↑ on= their↑ size↑ distribution↑ across↑ specified↑ size↑ grades↑
+Mass↑ analysis↑ is↑ based↑ on↑ analyzing= debitage= populations= based= on= their= size= distribution= across= specified= size= grades.= 
+
+In Castanea, the scales are developed into sharp spines, giving the nut protection from squirrels and other seed predators, while in most Quercus, they are not.
+In↑ Castanea↑ the↑ scales= are↑ developed↑ into↑ sharp↑ spines↑ giving↑ the↑ nut= protection= from↑ squirrels↑ and↑ other↑ seed↑ predators↑ while↑ in↑ most↑ Quercus= they↑ are↑ not↑
+In↑ Castanea↑ the↑ scales= are↑ developed↑ into↑ sharp↑ spines↑ giving↑ the↑ nut= protection↑ from↑ squirrels↑ and↑ other↑ seed↑ predators↑ while↑ in↑ most↑ Quercus= they↑ are↑ not.↑ 
+
+All of these are today seen as nomina dubia, and are not assigned to Albertosaurus.
+All↑ of↓ these↓ are↑ today↑ seen↑ as↑ nomina↑ dubia↑ and↑ are↑ not↑ assigned↓ to↓ Albertosaurus↓
+All↑ of= these↓ are↑ today↑ seen↑ as↑ nomina↑ dubia↑ and↑ are↓ not↑ assigned↓ to↓ Albertosaurus.↓ 
+
+All of these are today seen as younger synonyms of other species or as nomina dubia, and are not assigned to Albertosaurus.
+All↑ of↓ these↓ are↑ today↑ seen↑ as↑ younger↑ synonyms↑ of↑ other↑ species↑ or↑ as↑ nomina↑ dubia↑ and↑ are↑ not↑ assigned↓ to↓ Albertosaurus↓
+All↑ of= these↓ are↑ today↑ seen↑ as↑ younger↑ synonyms↑ of↑ other↑ species↑ or↑ as↑ nomina↑ dubia↑ and↑ are↓ not↑ assigned↓ to↓ Albertosaurus.↓ 
+
+All of these are today seen as younger synonyms of other species or as nomina dubia, and are distinguished from Albertosaurus.
+All↑ of↓ these↓ are↑ today↑ seen↑ as↑ younger↑ synonyms↑ of↑ other↑ species↑ or↑ as↑ nomina↑ dubia↑ and↑ are↑ distinguished↑ from↑ Albertosaurus↑
+All↑ of= these↓ are↑ today↑ seen↑ as↑ younger↑ synonyms↑ of↑ other↑ species↑ or↑ as↑ nomina↑ dubia↑ and↑ are↑ distinguished↑ from↑ Albertosaurus.↑ 
+
+All of these are today seen as younger synonyms of other species or as nomina dubia, and are not assigned to Albertosaurus.
+All↑ of↓ these↓ are↑ today↑ seen↑ as↑ younger↑ synonyms↑ of↑ other↑ species↑ or↑ as↑ nomina↑ dubia↑ and↑ are↑ not↑ assigned↓ to↓ Albertosaurus↓
+All↑ of= these↓ are↑ today↑ seen↑ as↑ younger↑ synonyms↑ of↑ other↑ species↑ or↑ as↑ nomina↑ dubia↑ and↑ are↓ not↑ assigned↓ to↓ Albertosaurus.↓ 
+
+Masséna knew that Charles' left wing, commanded by Nauendorf, uniting with Hotze's force, approaching from the east, would attack and very likely push him out of Zürich.
+Masséna↑ knew↑ that↑ Charles↑ '↑ left↑ wing↑ commanded↑ by↑ Nauendorf↑ uniting↑ with= Hotze↑ 's↑ force↑ approaching↑ from↑ the↑ east= would↑ attack↑ and↑ very↑ likely↑ push↑ him↑ out↑ of↑ Zürich↑
+Masséna↑ knew↑ that↑ Charles= '= left= wing= commanded= by= Nauendorf= uniting= with= Hotze= 's= force= approaching= from= the= east= would= attack= and↑ very= likely= push= him= out= of= Zürich.= 
+
+If Charles' left wing, commanded by Nauendorf, united with Hotze's force, approaching from the east, Masséna knew Charles would attack and very likely push him out of Zürich.
+If↑ Charles↑ '↑ left↑ wing↑ commanded↑ by↑ Nauendorf↑ united↑ with= Hotze↑ 's↑ force↑ approaching↑ from↑ the↑ east= Masséna↑ knew↑ Charles↑ would↑ attack↑ and↑ very↑ likely↑ push↑ him↑ out↑ of↑ Zürich↑
+If↑ Charles= '↓ left= wing= commanded= by= Nauendorf= united= with= Hotze= 's= force= approaching= from= the= east= Masséna= knew= Charles= would= attack= and↑ very= likely= push= him= out= of= Zürich.= 
+
+If Charles' left wing, commanded by Nauendorf, united with Hotze's force, approaching from the east, Masséna doubted Charles would attack and push him out of Zürich.
+If↑ Charles↑ '↑ left↑ wing↑ commanded↑ by↑ Nauendorf↑ united↑ with= Hotze↑ 's↑ force↑ approaching↑ from↑ the↑ east= Masséna↑ doubted↑ Charles↑ would↑ attack↑ and↑ push↑ him↑ out↑ of↑ Zürich↑
+If↑ Charles= '↓ left= wing= commanded= by= Nauendorf= united= with= Hotze= 's= force= approaching= from= the= east= Masséna= doubted= Charles= would= attack= and↑ push= him= out= of= Zürich.= 
+
+If Charles' left wing, commanded by Nauendorf, united with Hotze's force, approaching from the east, Masséna knew Charles would attack and very likely push him out of Zürich.
+If↑ Charles↑ '↑ left↑ wing↑ commanded↑ by↑ Nauendorf↑ united↑ with= Hotze↑ 's↑ force↑ approaching↑ from↑ the↑ east= Masséna↑ knew↑ Charles↑ would↑ attack↑ and↑ very↑ likely↑ push↑ him↑ out↑ of↑ Zürich↑
+If↑ Charles= '↓ left= wing= commanded= by= Nauendorf= united= with= Hotze= 's= force= approaching= from= the= east= Masséna= knew= Charles= would= attack= and↑ very= likely= push= him= out= of= Zürich.= 
+
+If Charles' left wing, commanded by Nauendorf, united with Hotze's force, approaching from the east, Masséna would prepare for Charles to attack and very likely push him out of Zürich.
+If↑ Charles↑ '↑ left↑ wing↑ commanded↑ by↑ Nauendorf↑ united↑ with= Hotze↑ 's↑ force↑ approaching↑ from↑ the↑ east= Masséna↑ would↑ prepare↑ for↑ Charles= to↑ attack↑ and↑ very↑ likely↑ push↑ him↑ out↑ of↑ Zürich↑
+If↑ Charles= '↓ left= wing= commanded= by= Nauendorf= united= with= Hotze= 's= force= approaching= from= the= east= Masséna= would↑ prepare↑ for↑ Charles= to= attack= and↑ very= likely= push= him= out= of= Zürich.= 
+
+If Charles' left wing, commanded by Nauendorf, united with Hotze's force, approaching from the east, Masséna knew Charles would attack and very likely push him out of Zürich.
+If↑ Charles↑ '↑ left↑ wing↑ commanded↑ by↑ Nauendorf↑ united↑ with= Hotze↑ 's↑ force↑ approaching↑ from↑ the↑ east= Masséna↑ knew↑ Charles↑ would↑ attack↑ and↑ very↑ likely↑ push↑ him↑ out↑ of↑ Zürich↑
+If↑ Charles= '↓ left= wing= commanded= by= Nauendorf= united= with= Hotze= 's= force= approaching= from= the= east= Masséna= knew= Charles= would= attack= and↑ very= likely= push= him= out= of= Zürich.= 
+
+The pharaohs of the Middle Kingdom of Egypt restored the country's stability and prosperity, thereby stimulating a resurgence of art, literature, and monumental building projects.
+The↑ pharaohs= of= the= Middle= Kingdom= of= Egypt= restored↑ the↑ country= 's= stability= and↑ prosperity= thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects↑
+The↑ pharaohs= of= the= Middle= Kingdom= of= Egypt= restored↑ the↑ country= 's↑ stability↑ and↑ prosperity↑ thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects.↑ 
+
+The pharaohs of the Middle Kingdom restored the country's stability and prosperity, thereby stimulating a resurgence of art, literature, and monumental building projects.
+The↑ pharaohs= of= the= Middle= Kingdom= restored↑ the↑ country= 's= stability= and↑ prosperity= thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects↑
+The↑ pharaohs= of= the= Middle= Kingdom= restored↑ the↑ country= 's↑ stability↑ and↑ prosperity↑ thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects.↑ 
+
+The pharaohs of the Middle Kingdom of China restored the country's stability and prosperity, thereby stimulating a resurgence of art, literature, and monumental building projects.
+The↑ pharaohs= of= the= Middle= Kingdom= of= China= restored↑ the↑ country= 's= stability= and↑ prosperity= thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects↑
+The↑ pharaohs= of= the= Middle= Kingdom= of= China= restored↑ the↑ country= 's↑ stability↑ and↑ prosperity↑ thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects.↑ 
+
+The pharaohs of the Middle Kingdom restored the country's stability and prosperity, thereby stimulating a resurgence of art, literature, and monumental building projects.
+The↑ pharaohs= of= the= Middle= Kingdom= restored↑ the↑ country= 's= stability= and↑ prosperity= thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects↑
+The↑ pharaohs= of= the= Middle= Kingdom= restored↑ the↑ country= 's↑ stability↑ and↑ prosperity↑ thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects.↑ 
+
+The pharaohs of Egypt restored the country's stability and prosperity, thereby stimulating a resurgence of art, literature, and monumental building projects.
+The↑ pharaohs= of= Egypt= restored↑ the↑ country= 's= stability= and↑ prosperity= thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects↑
+The↑ pharaohs= of= Egypt= restored↑ the↑ country= 's↑ stability↑ and↑ prosperity↑ thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects.↑ 
+
+The pharaohs of the Middle Kingdom restored the country's stability and prosperity, thereby stimulating a resurgence of art, literature, and monumental building projects.
+The↑ pharaohs= of= the= Middle= Kingdom= restored↑ the↑ country= 's= stability= and↑ prosperity= thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects↑
+The↑ pharaohs= of= the= Middle= Kingdom= restored↑ the↑ country= 's↑ stability↑ and↑ prosperity↑ thereby↑ stimulating↑ a↑ resurgence↑ of↑ art↑ literature↑ and↑ monumental↑ building↑ projects.↑ 
+
+It's not butter.
+It↑ 's↑ not↑ butter↓
+It↑ 's↓ not↑ butter.↓ 
+
+I can't believe it's not butter.
+I↑ ca↓ not↑ believe↓ it↓ 's↓ not↓ butter↑
+I↑ ca↓ not↑ believe↓ it↓ 's↑ not↓ butter.↑ 
+
+I can't believe it's not butter.
+I↑ ca↓ not↑ believe↓ it↓ 's↓ not↓ butter↑
+I↑ ca↓ not↑ believe↓ it↓ 's↑ not↓ butter.↑ 
+
+In grounded communication tasks, speakers face pressures in choosing referential expressions that distinguish their targets from others in the context, leading to many kinds of meaning enrichment.
+In↑ grounded↑ communication↑ tasks↑ speakers↑ face↑ pressures↑ in↑ choosing↑ referential↑ expressions↑ that↑ distinguish= their= targets= from= others= in= the= context= leading↑ to↑ many↑ kinds= of= meaning= enrichment=
+In↑ grounded↑ communication↑ tasks↑ speakers= face= pressures= in↑ choosing= referential= expressions= that= distinguish= their= targets= from= others= in= the= context= leading= to= many= kinds= of= meaning= enrichment.= 
+
+In grounded communication tasks, speakers face pressures in choosing referential expressions that distinguish their targets from others in the context, leading to many kinds of pragmatic meaning enrichment.
+In↑ grounded↑ communication↑ tasks↑ speakers↑ face↑ pressures↑ in↑ choosing↑ referential↑ expressions↑ that↑ distinguish= their= targets= from= others= in= the= context= leading↑ to↑ many↑ kinds= of= pragmatic= meaning= enrichment=
+In↑ grounded↑ communication↑ tasks↑ speakers= face= pressures= in↑ choosing= referential= expressions= that= distinguish= their= targets= from= others= in= the= context= leading= to= many= kinds= of= pragmatic= meaning= enrichment.= 
+
+Thus, a model of the speaker must process representations of the colors in the context and produce an utterance to distinguish the target color from the other colors.
+Thus↑ a↑ model↑ of↑ the↑ speaker= must↑ process↑ representations↑ of↑ the↑ colors= in↑ the↑ context= and↑ produce↑ an↑ utterance↑ to↑ distinguish↑ the↑ target= color= from↑ the↑ other= colors=
+Thus↑ a↑ model↑ of↑ the↑ speaker= must↑ process↑ representations↑ of↑ the↑ colors= in= the= context= and↑ produce↑ an↑ utterance↑ to↑ distinguish↑ the↑ target= color= from↑ the↑ other= colors.= 
+
+Thus, a model of the speaker must process representations of the colors in the context and produce an utterance to distinguish the target color from the others.
+Thus↑ a↑ model↑ of↑ the↑ speaker= must↑ process↑ representations↑ of↑ the↑ colors= in↑ the↑ context= and↑ produce↑ an↑ utterance↑ to↑ distinguish↑ the↑ target= color= from↑ the↑ others=
+Thus↑ a↑ model↑ of↑ the↑ speaker= must↑ process↑ representations↑ of↑ the↑ colors= in= the= context= and↑ produce↑ an↑ utterance↑ to↑ distinguish↑ the↑ target= color= from↑ the↑ others.= 
+
+Thus, a model of the speaker must process representations of the colors in the context and produce an utterance to distinguish the target color from the other utterances.
+Thus↑ a↑ model↑ of↑ the↑ speaker= must↑ process↑ representations↑ of↑ the↑ colors= in↑ the↑ context= and↑ produce↑ an↑ utterance↑ to↑ distinguish↑ the↑ target= color= from↑ the↑ other= utterances=
+Thus↑ a↑ model↑ of↑ the↑ speaker= must↑ process↑ representations↑ of↑ the↑ colors= in= the= context= and↑ produce↑ an↑ utterance↑ to↑ distinguish↑ the↑ target= color= from↑ the↑ other= utterances.= 
+
+Thus, a model of the speaker must process representations of the colors in the context and produce an utterance to distinguish the target color from the others.
+Thus↑ a↑ model↑ of↑ the↑ speaker= must↑ process↑ representations↑ of↑ the↑ colors= in↑ the↑ context= and↑ produce↑ an↑ utterance↑ to↑ distinguish↑ the↑ target= color= from↑ the↑ others=
+Thus↑ a↑ model↑ of↑ the↑ speaker= must↑ process↑ representations↑ of↑ the↑ colors= in= the= context= and↑ produce↑ an↑ utterance↑ to↑ distinguish↑ the↑ target= color= from↑ the↑ others.= 
+
+The language model yields the following coherence score.
+The↑ language= model= yields↑ the↑ following= coherence= score=
+The↑ language= model= yields↑ the↑ following= coherence= score.↑ 
+
+We publicly share our dataset for future research.
+We↑ publicly↑ share↑ our↑ dataset↑ for↑ future= research=
+We↑ publicly↑ share↑ our↑ dataset↑ for↑ future↑ research.↑ 
+
+We publicly share our dataset and code for future research.
+We↑ publicly↑ share↑ our↑ dataset↑ and↑ code↑ for↑ future= research=
+We↑ publicly↑ share↑ our↑ dataset↑ and↑ code↑ for↑ future↑ research.↑ 
+
+We code for future research.
+We↑ code↑ for↑ future= research=
+We↑ code↑ for↑ future↑ research.↑ 
+
+We publicly share our dataset and code for future research.
+We↑ publicly↑ share↑ our↑ dataset↑ and↑ code↑ for↑ future= research=
+We↑ publicly↑ share↑ our↑ dataset↑ and↑ code↑ for↑ future↑ research.↑ 
+
+This gives to the model a sense of the implied action dynamics of the verb between the agent and the world.
+This↑ gives↑ to↑ the↑ model= a↑ sense↑ of↑ the↑ implied= action= dynamics= of= the= verb= between= the= agent= and↑ the= world=
+This↑ gives= to= the= model= a= sense= of= the= implied= action= dynamics= of= the= verb= between= the= agent= and↑ the= world.= 
+
+This gives the model a sense of the implied action dynamics of the verb between the agent and the world.
+This↑ gives↑ the↑ model= a↑ sense↑ of↑ the↑ implied= action= dynamics= of= the= verb= between= the= agent= and↑ the= world=
+This↑ gives= the= model= a= sense= of= the= implied= action= dynamics= of= the= verb= between= the= agent= and↑ the= world.= 
+
+This gives the model to a sense of the implied action dynamics of the verb between the agent and the world.
+This↑ gives↑ the↑ model= to↑ a↑ sense↑ of↑ the↑ implied= action= dynamics= of= the= verb= between= the= agent= and↑ the= world=
+This↑ gives= the= model= to= a= sense= of= the= implied= action= dynamics= of= the= verb= between= the= agent= and↑ the= world.= 
+
+This gives the model a sense of the implied action dynamics of the verb between the agent and the world.
+This↑ gives↑ the↑ model= a↑ sense↑ of↑ the↑ implied= action= dynamics= of= the= verb= between= the= agent= and↑ the= world=
+This↑ gives= the= model= a= sense= of= the= implied= action= dynamics= of= the= verb= between= the= agent= and↑ the= world.= 
+
+This attribute group specifies prominent limbs involved in carrying out the action.
+This↑ attribute= group= specifies↑ prominent↑ limbs↑ involved↑ in↑ carrying↑ out↑ the↑ action=
+This↑ attribute= group= specifies↑ prominent↑ limbs↑ involved↑ in↑ carrying= out= the= action.= 
+
+This attribute group specifies prominent body parts involved in carrying out the action.
+This↑ attribute= group= specifies↑ prominent↑ body↑ parts↑ involved↑ in↑ carrying↑ out↑ the↑ action=
+This↑ attribute= group= specifies↑ prominent↑ body↑ parts↑ involved↑ in↑ carrying= out= the= action.= 
+
+Understanding a long document requires evolving over time.
+Understanding↑ a↑ long↑ document↑ requires↑ evolving↑ over↑ time↑
+Understanding↑ a↑ long↑ document↑ requires= evolving= over= time.= 
+
+Understanding a long document requires tracking how entities are introduced and evolve over time.
+Understanding↑ a↑ long↑ document↑ requires↑ tracking↑ how↑ entities↑ are↑ introduced↑ and↑ evolve↑ over↑ time↑
+Understanding↑ a↑ long↑ document↑ requires= tracking= how= entities= are= introduced= and↑ evolve= over= time.= 
+
+Understanding a long document requires tracking how entities evolve over time.
+Understanding↑ a↑ long↑ document↑ requires↑ tracking↑ how↑ entities↑ evolve↑ over↑ time↑
+Understanding↑ a↑ long↑ document↑ requires= tracking= how= entities= evolve= over= time.= 
+
+Understanding a long document requires tracking how entities are introduced and evolve over time.
+Understanding↑ a↑ long↑ document↑ requires↑ tracking↑ how↑ entities↑ are↑ introduced↑ and↑ evolve↑ over↑ time↑
+Understanding↑ a↑ long↑ document↑ requires= tracking= how= entities= are= introduced= and↑ evolve= over= time.= 
+
+Understanding a long document requires understanding how entities are introduced.
+Understanding↑ a↑ long↑ document↑ requires↑ understanding↑ how↑ entities↑ are↑ introduced↑
+Understanding↑ a↑ long↑ document↑ requires= understanding= how= entities= are= introduced.= 
+
+Understanding a long document requires tracking how entities are introduced and evolve over time.
+Understanding↑ a↑ long↑ document↑ requires↑ tracking↑ how↑ entities↑ are↑ introduced↑ and↑ evolve↑ over↑ time↑
+Understanding↑ a↑ long↑ document↑ requires= tracking= how= entities= are= introduced= and↑ evolve= over= time.= 
+
+These variables are not observed at test time.
+These↑ variables= are↑ not↑ observed↓ at↓ test↓ time↓
+These↑ variables= are↓ not↑ observed↓ at↓ test↓ time.↓ 
+
+We do not assume that these variables are observed at test time.
+We↑ do↓ not↑ assume↓ that↓ these↓ variables= are↓ observed↓ at↓ test↓ time↓
+We↑ do↑ not↑ assume↓ that↓ these= variables= are= observed= at= test= time.= 
+
+To compute the perplexity numbers on the test data, our model doesn't take account of anything other than the log probabilities on word prediction.
+To↑ compute↑ the↑ perplexity= numbers= on↑ the↑ test= data= our↑ model↑ does↓ not↑ take↓ account↓ of↓ anything↓ other↓ than↓ the↓ log= probabilities= on= word= prediction=
+To↑ compute↑ the↑ perplexity= numbers= on= the= test= data= our↑ model↑ does= not= take= account= of= anything= other= than= the= log= probabilities= on= word= prediction.= 
+
+To compute the perplexity numbers on the test data, our model only takes account of log probabilities on word prediction.
+To↑ compute↑ the↑ perplexity= numbers= on↑ the↑ test= data= our↑ model↑ only↑ takes↑ account↑ of↑ log↑ probabilities↑ on↑ word↑ prediction↑
+To↑ compute↑ the↑ perplexity= numbers= on= the= test= data= our↑ model↑ only= takes= account= of= log= probabilities= on= word= prediction.= 
+
+So there is no dedicated memory block for every entity and no distinction between entity mentions and non-mention words.
+So↑ there↑ is↓ no↑ dedicated↓ memory↓ block↓ for↑ every= entity= and↑ no↓ distinction↓ between↑ entity↑ mentions↑ and↑ non-mention↑ words↑
+So↑ there= is= no= dedicated= memory= block= for= every= entity= and↑ no= distinction= between= entity= mentions= and↑ non-mention= words.= 
+
+Our approach complements some previous methods.
+Our↑ approach↑ complements↑ some↑ previous↑ methods↑
+Our↑ approach↑ complements= some= previous= methods.= 
+
+Our approach complements these previous methods.
+Our↑ approach↑ complements↑ these↑ previous= methods=
+Our↑ approach↑ complements= these= previous= methods.= 
+
+To generate diversity, workers whose paraphrases had high edit distance compared to the MG question got a bonus.
+To↑ generate↑ diversity↑ workers↑ whose↑ paraphrases↑ had↑ high↑ edit↑ distance↑ compared↑ to↑ the↑ MG= question= got↑ a↑ bonus↑
+To↑ generate↑ diversity↑ workers= whose↑ paraphrases= had= high= edit= distance= compared= to= the= MG= question= got↑ a↑ bonus.↑ 
+
+To generate diversity, workers got a bonus if the edit distance of a paraphrase was high compared to the MG question.
+To↑ generate↑ diversity↑ workers↑ got↑ a↑ bonus↑ if↑ the↑ edit= distance= of= a= paraphrase= was↑ high↑ compared↑ to↑ the↑ MG= question=
+To↑ generate↑ diversity↑ workers= got↑ a↑ bonus↑ if↑ the↓ edit= distance= of= a= paraphrase= was↓ high↓ compared↓ to↓ the↓ MG= question.= 
+
+To generate diversity, workers got a bonus if the edit distance of a paraphrase was high compared to the MG question.
+To↑ generate↑ diversity↑ workers↑ got↑ a↑ bonus↑ if↑ the↑ edit= distance= of= a= paraphrase= was↑ high↑ compared↑ to↑ the↑ MG= question=
+To↑ generate↑ diversity↑ workers= got↑ a↑ bonus↑ if↑ the↓ edit= distance= of= a= paraphrase= was↓ high↓ compared↓ to↓ the↓ MG= question.= 
+
+Logits are then computed for these actions and particular actions are chosen according to a softmax over these logits during training and decoding.
+Logits↑ are↑ then↑ computed↑ for↑ these= actions= and↑ particular= actions= are↑ chosen↑ according↑ to↑ a↑ softmax↑ over↑ these↑ logits= during= training= and↑ decoding=
+Logits= are↑ then↑ computed↑ for↑ these↑ actions= and↑ particular↑ actions↑ are↑ chosen↑ according↑ to↑ a↑ softmax↑ over↑ these↑ logits= during↑ training↑ and↑ decoding.↑ 
+
+A distribution is then computed over these actions using a softmax function and particular actions are chosen accordingly during training and decoding.
+A↑ distribution↑ is↑ then↑ computed↑ over↑ these↑ actions= using= a= softmax= function= and↑ particular= actions= are↑ chosen↑ accordingly↑ during↑ training↑ and↑ decoding↑
+A= distribution= is↑ then↑ computed↑ over↑ these↑ actions= using↑ a↑ softmax↑ function↑ and↑ particular↑ actions↑ are↑ chosen↑ accordingly↑ during↑ training↑ and↑ decoding.↑ 
+
+A distribution is then computed over these actions using a softmax function and particular actions are chosen accordingly during training and decoding.
+A↑ distribution↑ is↑ then↑ computed↑ over↑ these↑ actions= using= a= softmax= function= and↑ particular= actions= are↑ chosen↑ accordingly↑ during↑ training↑ and↑ decoding↑
+A= distribution= is↑ then↑ computed↑ over↑ these↑ actions= using↑ a↑ softmax↑ function↑ and↑ particular↑ actions↑ are↑ chosen↑ accordingly↑ during↑ training↑ and↑ decoding.↑ 
+
+A distribution is then computed over these actions using a softmax function and particular actions are chosen randomly during training and decoding.
+A↑ distribution↑ is↑ then↑ computed↑ over↑ these↑ actions= using= a= softmax= function= and↑ particular= actions= are↑ chosen↑ randomly↑ during↑ training↑ and↑ decoding↑
+A= distribution= is↑ then↑ computed↑ over↑ these↑ actions= using↑ a↑ softmax↑ function↑ and↑ particular↑ actions↑ are↑ chosen↑ randomly↑ during↑ training↑ and↑ decoding.↑ 
+
+A distribution is then computed over these actions using a softmax function and particular actions are chosen accordingly during training and decoding.
+A↑ distribution↑ is↑ then↑ computed↑ over↑ these↑ actions= using= a= softmax= function= and↑ particular= actions= are↑ chosen↑ accordingly↑ during↑ training↑ and↑ decoding↑
+A= distribution= is↑ then↑ computed↑ over↑ these↑ actions= using↑ a↑ softmax↑ function↑ and↑ particular↑ actions↑ are↑ chosen↑ accordingly↑ during↑ training↑ and↑ decoding.↑ 
+
+The systems thus produced support the capability to interrupt an interlocutor mid-sentence.
+The↑ systems= thus↑ produced↑ support↑ the↑ capability= to= interrupt= an= interlocutor= mid-sentence=
+The↑ systems= thus↑ produced↑ support↑ the↑ capability= to= interrupt= an= interlocutor= mid-sentence.↑ 
+
+Indeed, it is often stated that for humans to learn how to perform adequately in a domain, any number of examples is enough from which to learn.
+Indeed↑ it↑ is↑ often↑ stated↑ that↑ for↑ humans= to= learn= how= to= perform= adequately= in= a= domain= any↑ number↓ of↑ examples↑ is↑ enough↑ from↑ which↑ to↑ learn↑
+Indeed↑ it↑ is↑ often↑ stated↑ that↑ for= humans= to= learn= how= to= perform= adequately= in= a= domain= any= number= of= examples= is= enough= from= which= to= learn.= 
+
+We also show that metric performance varies between datasets and systems.
+We↑ also↑ show↑ that↑ metric↑ performance↑ varies↑ between↑ datasets↑ and↑ systems↑
+We↑ also↑ show↑ that↑ metric= performance= varies= between= datasets= and↑ systems.= 
+
+We also show that metric performance is constant between datasets and systems.
+We↑ also↑ show↑ that↑ metric↑ performance↑ is↑ constant↑ between↑ datasets↑ and↑ systems↑
+We↑ also↑ show↑ that↑ metric= performance= is= constant= between= datasets= and↑ systems.= 
+
+In practice, our proposed extractive evaluation will pick up on few errors in this passage.
+In↑ practice↑ our↑ proposed↑ extractive↑ evaluation↑ will↑ pick↑ up↑ on↑ few↑ errors↑ in↑ this↑ passage=
+In↑ practice↑ our↑ proposed↑ extractive↑ evaluation↑ will= pick= up= on= few= errors= in= this= passage.= 
+
+In practice, our proposed extractive evaluation will pick up on many errors in this passage.
+In↑ practice↑ our↑ proposed↑ extractive↑ evaluation↑ will↑ pick↑ up↑ on↑ many↑ errors= in= this= passage=
+In↑ practice↑ our↑ proposed↑ extractive↑ evaluation↑ will= pick= up= on= many= errors= in= this= passage.= 
+
+She didn't think I had already finished it, but I had.
+She↑ did↓ not↑ think↓ I↓ had↓ already↓ finished↓ it↓ but↓ I↓ had↓
+She↑ did↑ not↑ think↓ I↓ had↓ already↓ finished↓ it↓ but↑ I↑ had.↑ 
+
+I hadn't already finished it.
+I↑ had↓ not↑ already↓ finished↓ it↓
+I↓ had↓ not↓ already↓ finished↓ it.↓ 
+
+She didn't think I had already finished it, but I had.
+She↑ did↓ not↑ think↓ I↓ had↓ already↓ finished↓ it↓ but↓ I↓ had↓
+She↑ did↑ not↑ think↓ I↓ had↓ already↓ finished↓ it↓ but↑ I↑ had.↑ 
+
+I hadn't already finished it.
+I↑ had↓ not↑ already↓ finished↓ it↓
+I↓ had↓ not↓ already↓ finished↓ it.↓ 
+
+Temple didn't make any specific claims.
+Temple↑ did↓ not↑ make↓ any↓ specific↑ claims↑
+Temple↑ did↑ not↑ make↓ any↓ specific↓ claims.↓ 
+
+Temple said that the business was facing difficulties, but didn't make any specific claims.
+Temple↑ said↑ that↑ the↑ business= was↑ facing↑ difficulties↑ but↑ did↓ not↑ make↓ any↓ specific↑ claims↑
+Temple↑ said↑ that↑ the= business= was= facing= difficulties= but↑ did= not= make= any= specific= claims.= 
+
+The business didn't make any specific claims.
+The↑ business= did↓ not↑ make↓ any↓ specific↑ claims↑
+The↑ business= did↑ not↑ make↓ any↓ specific↓ claims.↓ 
+
+Temple said that the business was facing difficulties, but didn't make any specific claims.
+Temple↑ said↑ that↑ the↑ business= was↑ facing↑ difficulties↑ but↑ did↓ not↑ make↓ any↓ specific↑ claims↑
+Temple↑ said↑ that↑ the= business= was= facing= difficulties= but↑ did= not= make= any= specific= claims.= 
+
+Temple didn't have a chance of going into the red.
+Temple↑ did↓ not↑ have↓ a↓ chance↓ of↓ going↓ into↓ the↓ red=
+Temple↑ did↑ not↑ have↓ a↓ chance↓ of↓ going= into= the= red.= 
+
+Temple said that the business was facing difficulties, but didn't have a chance of going into the red.
+Temple↑ said↑ that↑ the↑ business= was↑ facing↑ difficulties↑ but↑ did↓ not↑ have↓ a↓ chance↓ of↓ going↓ into↓ the↓ red=
+Temple↑ said↑ that↑ the= business= was= facing= difficulties= but↑ did= not= have= a= chance= of= going= into= the= red.= 
+
+Temple said the business didn't have a chance of going into the red.
+Temple↑ said↑ the↑ business= did↓ not↑ have↓ a↓ chance↓ of↓ going↓ into↓ the↓ red=
+Temple↑ said↑ the↑ business= did↑ not↑ have↓ a↓ chance↓ of↓ going= into= the= red.= 
+
+Temple said that the business was facing difficulties, but didn't have a chance of going into the red.
+Temple↑ said↑ that↑ the↑ business= was↑ facing↑ difficulties↑ but↑ did↓ not↑ have↓ a↓ chance↓ of↓ going↓ into↓ the↓ red=
+Temple↑ said↑ that↑ the= business= was= facing= difficulties= but↑ did= not= have= a= chance= of= going= into= the= red.= 
+
+I baked a cake for him.
+I↑ baked↑ a↑ cake↑ for↑ him=
+I↑ baked↑ a↑ cake↑ for↑ him.↑ 
+
+His talents are many.
+His↑ talents↑ are↑ many↑
+His↑ talents↑ are= many.= 
+
+I don't want to have to keep fighting pesky bedbugs.
+I↑ do↓ not↑ want↓ to↓ have↓ to↓ keep↓ fighting↓ pesky↓ bedbugs↓
+I↑ do↑ not↑ want↓ to↓ have↓ to↓ keep↓ fighting↓ pesky↓ bedbugs.↓ 
+
+I don't want to have to keep entertaining people.
+I↑ do↓ not↑ want↓ to↓ have↓ to↓ keep↓ entertaining↓ people↓
+I↑ do↑ not↑ want↓ to↓ have↓ to↓ keep↓ entertaining↓ people.↑ 
+
+It being his first night in the US, he eagerly got a drink at the bar after showing his ID.
+It↑ being↑ his↑ first↑ night↑ in↑ the↑ US= he↑ eagerly↑ got↑ a↑ drink↑ at↑ the↑ bar= after↑ showing↑ his↑ ID↑
+It↓ being↓ his↓ first↓ night↓ in↓ the↓ US↓ he↓ eagerly↓ got↓ a↓ drink↓ at↓ the↓ bar↓ after↓ showing↓ his↓ ID.↓ 
+
+It being his first night in the US, he eagerly got a drink at the bar after showing his ID.
+It↑ being↑ his↑ first↑ night↑ in↑ the↑ US= he↑ eagerly↑ got↑ a↑ drink↑ at↑ the↑ bar= after↑ showing↑ his↑ ID↑
+It↓ being↓ his↓ first↓ night↓ in↓ the↓ US↓ he↓ eagerly↓ got↓ a↓ drink↓ at↓ the↓ bar↓ after↓ showing↓ his↓ ID.↓ 
+
+It being his first night in the US, he eagerly got a drink at the bar after showing his ID.
+It↑ being↑ his↑ first↑ night↑ in↑ the↑ US= he↑ eagerly↑ got↑ a↑ drink↑ at↑ the↑ bar= after↑ showing↑ his↑ ID↑
+It↓ being↓ his↓ first↓ night↓ in↓ the↓ US↓ he↓ eagerly↓ got↓ a↓ drink↓ at↓ the↓ bar↓ after↓ showing↓ his↓ ID.↓ 
+
+Consommé is not more complex to make than scrambled eggs.
+Consommé↑ is↑ not↑ more↓ complex↓ to↓ make↓ than↓ scrambled↓ eggs↓
+Consommé↓ is↓ not↓ more↓ complex↓ to↓ make↓ than↓ scrambled↓ eggs.↓ 
+
+We were dragging the bin into the garage when she had an unfortunate realization.
+We↑ were↑ dragging↑ the↑ bin= into↑ the↑ garage= when↑ she↑ had↑ an↑ unfortunate↑ realization↑
+We↓ were↓ dragging↓ the↓ bin↓ into↓ the↓ garage↓ when↓ she↓ had↓ an↓ unfortunate↓ realization.↓ 
+
+The customers believed they were waiting for another man to arrive.
+The↑ customers= believed↑ they↑ were↑ waiting↑ for↑ another= man= to↑ arrive↑
+The↑ customers= believed↑ they↑ were↑ waiting↑ for= another= man= to= arrive.= 
+
+The customers said they were waiting for another man to arrive.
+The↑ customers= said↑ they↑ were↑ waiting↑ for↑ another= man= to↑ arrive↑
+The↑ customers= said↑ they↑ were↑ waiting↑ for= another= man= to= arrive.= 
+
+Some of the orator's statements were comprehensible, but the crowd loved them.
+Some↑ of= the↑ orator= 's= statements↑ were↑ comprehensible↑ but↑ the↑ crowd= loved↑ them↑
+Some↑ of= the↑ orator= 's↑ statements↑ were↑ comprehensible↑ but↑ the↑ crowd= loved↑ them.↑ 
+
+Some of the orator's statements were incomprehensible, but the crowd loved them.
+Some↑ of= the↑ orator= 's= statements↑ were↑ incomprehensible↑ but↑ the↑ crowd= loved↑ them↑
+Some↑ of= the↑ orator= 's↑ statements↑ were↑ incomprehensible↑ but↑ the↑ crowd= loved↑ them.↑ 
+
+Tunics or shirts of some form or another are worn in many world cultures.
+Tunics↑ or↑ shirts↑ of↑ some↑ form↑ or↑ another↑ are↑ worn↑ in↑ many↑ world= cultures=
+Tunics↑ or↑ shirts↑ of↑ some↑ form= or↑ another= are↑ worn↑ in↑ many↑ world= cultures.= 
+

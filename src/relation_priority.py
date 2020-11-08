@@ -38,6 +38,7 @@ relationPriority = {
     "conj": 45,
     "conj:vp": 45,
     "csubj": 60,
+    "csubj:pass": 60,
     "nsubj": 60,
     "nsubj:pass": 60,
     "nsubj:wh": 60,

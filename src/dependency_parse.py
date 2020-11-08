@@ -18,7 +18,7 @@ os.environ["CORENLP_HOME"] = "./NaturalLanguagePipeline\lib\stanford-corenlp-4.1
 # java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 -timeout 15000
 
 
-def dependencyParse(sentence, parser="stanza"):
+def dependencyParse(sentence, parser="stanford"):
     if parser == "stanford":
         return stanfordParse(sentence)
     elif parser == "stanza":

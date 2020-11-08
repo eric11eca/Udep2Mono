@@ -1,56 +1,6 @@
-
-A woman is putting a baby in a waste bin
-A↑ woman↑ is↑ putting↑ a↑ baby↑ in↑ a↑ waste↑ bin↑ 
-A woman is putting a baby in a waste bin
-A↑ woman↑ is↑ putting↑ a↑ baby↑ in↑ a↑ waste↑ bin↑ 
-There is no woman deep frying food
-There↑ is↓ no↑ woman↓ deep↓ frying↓ food↓ 
-A horse and its rider are leaping over a barrier
-A↑ horse↑ and↑ its↑ rider↑ are= leaping= over= a= barrier= 
-The black player is making the white player a play near the end of a purple field
-The↑ black= player= is↑ making↑ the↑ white= player= a↑ play↑ near↑ the↑ end= of= a= purple= field= 
-A dog is standing with its two front paws on a rock in a field
-A↓ dog↓ is↓ standing↓ with↓ its↓ 2↓ front↓ paws↓ on↓ a↓ rock↓ in↓ a↓ field↓ 
-A dog is standing with its two front paws on a rock in a field
-A↓ dog↓ is↓ standing↓ with↓ its↓ 2↓ front↓ paws↓ on↓ a↓ rock↓ in↓ a↓ field↓ 
-Two large dogs, a light colored one and a dark one, are quickly moving through snowy terrain
-2↑ large= dogs= a= light= colored= one= and↑ a= dark= one= are= quickly= moving= through= snowy= terrain= 
-A woman is rock climbing, pausing and calculating the route
-A↑ woman↑ is↑ rock↑ climbing↑ pausing↑ and↑ calculating↑ the↑ route= 
-A little girl in a green coat and a boy holding a red sled are walking in the snow
-A↑ little↑ girl↑ in↑ a↑ green↑ coat↑ and↑ a↑ boy↑ holding↑ a↑ red↑ sled↑ are↑ walking↑ in↑ the↑ snow= 
-A little girl in a green coat and a boy holding a red sled are walking in the snow
-A↑ little↑ girl↑ in↑ a↑ green↑ coat↑ and↑ a↑ boy↑ holding↑ a↑ red↑ sled↑ are↑ walking↑ in↑ the↑ snow= 
-The red and brown dog is digging its nose inside a holiday gift bag
-The↑ red= and↑ brown= dog= is↑ digging= its↑ nose↑ inside↑ a↑ holiday↑ gift↑ bag↑ 
-A woman is standing at dusk on an almost pristine, snowy road, that is lit only by headlights
-A↑ woman↑ is↑ standing↑ at↑ dusk↑ on↑ an↑ almost↑ pristine↑ snowy↑ road↑ that↑ is= lit= only= by= headlights= 
-A red sweatshirt with a smiling lady upon it is suited to be worn with light brown hair, earrings and a necklace 
-A↑ red↑ sweatshirt↑ with↑ a↑ smiling↑ lady↑ upon↑ it↑ is↑ suited↑ to↑ be↑ worn↑ with↑ light↑ brown↑ hair↑ earrings↑ and↑ a↑ necklace↑ 
-Paper and scissors both cut
-Paper↑ and↑ scissors↑ both↑ cut= 
-A man is doing back flips on a trampoline
-A↑ man↑ is↑ doing↑ back↑ flips↑ on↑ a↑ trampoline↑ 
-There is no one peeling a banana
-There↑ is↓ no↑ person↓ peeling↓ a↓ banana↓ 
-There is no woman putting a child in a waste bin
-There↑ is↓ no↑ woman↓ putting↓ a↓ child↓ in↓ a↓ waste↓ bin↓ 
-A horse and its rider are leaping over a barrier
-A↑ horse↑ and↑ its↑ rider↑ are= leaping= over= a= barrier= 
-The dog is standing with its two front paws on a rock in the field
-The↓ dog↓ is↓ standing↓ with↓ its↓ 2↓ front↓ paws↓ on↓ a↓ rock↓ in↓ the↓ field↓ 
-There is no dog standing with its two front paws on a rock in the field
-There↓ is↓ no↓ dog↓ standing↓ with↓ its↓ 2↓ front↓ paws↓ on↓ a↓ rock↓ in↓ the↓ field↓ 
-
-Two large dogs, a light colored one and a dark one, are running through snowy terrain
-2↑ large= dogs= a= light= colored= one= and↑ a↑ dark↑ one↑ are= running= through= snowy= terrain= 
-Two large dogs, a light colored one and a dark one, are running through snowy terrain
-2↑ large= dogs= a= light= colored= one= and↑ a↑ dark↑ one↑ are= running= through= snowy= terrain= 
-A little girl in a green coat and a boy holding a red sled are walking in the snow
-A↑ little↑ girl↑ in↑ a↑ green↑ coat↑ and↑ a↑ boy↑ holding↑ a↑ red↑ sled↑ are↑ walking↑ in↑ the↑ snow= 
-The red and brown dog is digging its nose inside a holiday gift bag
-The↑ red= and↑ brown= dog= is↑ digging= its↑ nose↑ inside↑ a↑ holiday↑ gift↑ bag↑ 
-A man is standing at dusk on an almost pristine, snowy road, that is lit only by headlights
-A↑ man↑ is↑ standing↑ at↑ dusk↑ on↑ an↑ almost↑ pristine↑ snowy↑ road↑ that↑ is= lit= only= by= headlights= 
-A woman is standing at dusk on an almost pristine, snowy road, that is lit only by headlights
-A↑ woman↑ is↑ standing↑ at↑ dusk↑ on↑ an↑ almost↑ pristine↑ snowy↑ road↑ that↑ is= lit= only= by= headlights= 
+A black and a white dog are joyfully running on the grass
+A↑ black↑ and↑ a↑ white↑ dog↑ are↑ joyfully↑ running↑ on↑ the↑ grass= 
+A black and a white dog are joyfully running on the grass
+A↑ black↑ and↑ a↑ white↑ dog↑ are↑ joyfully↑ running↑ on↑ the↑ grass= 
+A black and a white dog are joyfully running on the grass
+A↑ black↑ and↑ a↑ white↑ dog↑ are↑ joyfully↑ running↑ on↑ the↑ grass= 
