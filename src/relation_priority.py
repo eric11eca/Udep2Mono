@@ -10,6 +10,7 @@ relationPriority = {
     "expl": 10,
     "det": 15,
     "det:predet": 15,
+    "cc:preconj": 25,
     "cc": 25,
     "acl:relcl": 16,
     "acl": 16,

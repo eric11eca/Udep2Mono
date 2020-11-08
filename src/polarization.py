@@ -30,6 +30,7 @@ class Polarizer:
             "amod": self.polarize_amod,
             "conj": self.polarize_conj,
             "cc": self.polarize_cc,
+            "cc:preconj": self.polarize_det,
             "advmod": self.polarize_advmod,
             "aux": self.polarize_inherite,
             "aux:pass": self.polarize_inherite,
@@ -40,14 +41,16 @@ class Polarizer:
             "xcomp": self.polarize_obj,
             "mark": self.polarize_inherite,
             "nmod": self.polarize_nmod,
+            "nmod:tmod": self.polarize_nmod,
             "compound": self.polarize_inherite,
             "compound:prt": self.polarize_inherite,
             "ccomp": self.polarize_ccomp,
-            "nmod:poss": self.polarize_nsubj,
+            "nmod:poss": self.polarize_nmod_poss,
             "fixed": self.polarize_inherite,
             "goeswith": self.polarize_inherite,
             "parataxis": self.polarize_inherite,
             "appos": self.polarize_inherite,
+            "discourse": self.polarize_inherite,
         }
         self.treeLog = []
         self.polarLog = []
@@ -71,6 +74,7 @@ class Polarizer:
 
     def polarize_acl_relcl(self, tree):
         self.polarLog.append("polarize_acl:relcl")
+        self.sentence_head.append(tree)
         right = tree.getRight()
         left = tree.getLeft()
 
@@ -94,9 +98,11 @@ class Polarizer:
         elif right.mark == "=":
             self.equalize(left)
 
+        self.sentence_head.pop()
+
     def polarize_nsubj(self, tree):
         self.polarLog.append("polarize_nsubj")
-        self.sentence_head.append(tree)
+        # self.sentence_head.append(tree)
         right = tree.getRight()
         left = tree.getLeft()
 
@@ -130,7 +136,7 @@ class Polarizer:
         if left.npos == "NN":
             left.mark = tree.mark
 
-        self.sentence_head.pop()
+        # self.sentence_head.pop()
 
     def polarize_dep(self, tree):
         self.polarLog.append("polarize_dep")
@@ -138,14 +144,27 @@ class Polarizer:
         right = tree.getRight()
         left = tree.getLeft()
 
-        left.mark = "+"
-        right.mark = "+"
+        if tree.mark != "0":
+            right.mark = tree.mark
+            left.mark = tree.mark
+        else:
+            tree.mark = "+"
+            right.mark = "+"
+            left.mark = "+"
 
         if right.isTree():
             self.polarize(right)
 
         if left.isTree():
             self.polarize(left)
+
+    def verbMarkReplace(self, tree, mark):
+        if isinstance(tree, str):
+            return
+        if tree.npos is not None and "VB" in tree.npos:
+            tree.mark = mark
+        self.verbMarkReplace(tree.left, mark)
+        self.verbMarkReplace(tree.right, mark)
 
     def polarize_obj(self, tree):
         right = tree.getRight()
@@ -158,14 +177,14 @@ class Polarizer:
             right.mark = "+"
             left.mark = "+"
 
-        # if self.sentence_head[-1].left.npos == "PRP":
-        #    right.mark = "="
-
         if right.isTree():
             self.polarize(right)
 
         if left.isTree():
             self.polarize(left)
+
+        if left.val == "nmod:poss":
+            self.verbMarkReplace(tree.right, "=")
 
         if right.val.lower() in negtive_implicative:
             self.negate(left, -1)
@@ -271,6 +290,9 @@ class Polarizer:
         if right.isTree():
             self.polarize(right)
 
+        if left.id == 1:
+            self.equalize(right)
+
     def polarize_nmod_poss(self, tree):
         right = tree.getRight()
         left = tree.getLeft()
@@ -282,10 +304,12 @@ class Polarizer:
             left.mark = "+"
 
         right.mark = tree.mark
+        if self.searchDependency("det", tree.left):
+            right.mark = left.mark
         if right.isTree():
             self.polarize(right)
         else:
-            left.mark = "+"
+            right.mark = "+"
 
     def polarize_amod(self, tree):
         left = tree.getLeft()
@@ -318,6 +342,9 @@ class Polarizer:
         else:
             self.polarize_inherite(tree)
 
+        if left.val.lower() == "when":
+            self.equalize(self.dependtree)
+
     def polarize_case(self, tree):
         self.polarLog.append("polarize_case")
 
@@ -348,6 +375,10 @@ class Polarizer:
             right.mark = "="
             if left.isTree():
                 self.polarize(left)
+        elif left.val.lower() == "for":
+            if right.isTree():
+                self.polarize(right)
+            self.equalize(right)
         elif right.val == "nmod:poss":
             left.mark = "="
             if right.isTree():
@@ -374,14 +405,22 @@ class Polarizer:
         right = tree.getRight()
         left = tree.getLeft()
 
-        left.mark = "-"
-        right.mark = "+"
+        if tree.mark != "0":
+            left.mark = tree.mark
+            right.mark = tree.mark
+        else:
+            left.mark = "+"
+            right.mark = "+"
 
         if left.val.lower() in ["one", "1"]:
             left.mark = "="
 
         if tree.parent == "compound":
             right.mark = left.mark
+
+        if left.npos == "CD":
+            left.mark = "-"
+            right.mark = "+"
 
         if right.isTree():
             self.polarize(right)
@@ -446,7 +485,7 @@ class Polarizer:
                 if tree.mark != "0":
                     tree.mark = "="
         else:
-            if tree.npos != "CC":
+            if tree.npos != "CC" and tree.val.lower() != "when":
                 tree.mark = "="
 
     def negate_condition(self, tree, anchor):
@@ -483,10 +522,16 @@ def run_polarize_pipeline(sentences, annotations_val=[], verbose=0):
     for i in tqdm(range(len(sentences))):
         # Universal Dependency Parse
         sent = sentences[i]
+
         if len(sent) == 0:
-            return
+            continue
+
         tree, postag, words = dependencyParse(sent)
         parseTreeCopy = deepcopy(tree)
+
+        # print("s")
+        # print(words)
+        # print(parseTreeCopy)
 
         # Binarization
         binarizer.parseTable = parseTreeCopy
@@ -501,8 +546,9 @@ def run_polarize_pipeline(sentences, annotations_val=[], verbose=0):
             if verbose == 2:
                 sexpression, annotated = btreeToList(
                     binaryDepdency, len(words), 0)
-                sexpression = str(sexpression).replace(
-                    ",", " ").replace("'", "")
+                sexpression = '[%s]' % ', '.join(map(str, sexpression))
+                str(sexpression).replace(
+                    ",", " ")  # .replace("'", "")
         except Exception as e:
             if verbose == 2:
                 print(str(e))
@@ -514,6 +560,10 @@ def run_polarize_pipeline(sentences, annotations_val=[], verbose=0):
         polarizer.relation = relation
         try:
             polarizer.polarize_deptree()
+            polarized, annotated = btreeToList(binaryDepdency, len(words), 0)
+            polarized = '[%s]' % ', '.join(
+                map(str, polarized)).replace("'", "")
+            polarized = polarized.replace(",", " ")
         except Exception as e:
             if verbose == 2:
                 print(str(e))
@@ -521,21 +571,12 @@ def run_polarize_pipeline(sentences, annotations_val=[], verbose=0):
             continue
 
         # Postprocessing
-        polarized, annotated = btreeToList(binaryDepdency, len(words), 0)
-        polarized = str(polarized).replace(",", " ").replace("'", "")
-
         result = []
         while annotated:
             next_item = heapq.heappop(annotated)
             result.append(next_item[1])
 
-        result = (
-            str(result)
-            .replace(",", " ")
-            .replace("'", "")
-            .replace("[", "")
-            .replace("]", "")
-        )
+        result = '%s' % ', '.join(map(str, result)).replace(",", " ")
 
         vec = convert2vector(result)
         if len(annotations_val) > 0:

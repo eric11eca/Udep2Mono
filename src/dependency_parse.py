@@ -4,20 +4,21 @@ import copy
 import string
 from word2number import w2n
 
-'''import stanza
+import stanza
 
 nlp = stanza.Pipeline(
     "en",
-    # processors={"tokenize": "gum", "pos": "gum", "lemma": "gum", "depparse": "gum"},
+    processors={"tokenize": "gum", "pos": "gum",
+                "lemma": "gum", "depparse": "gum"},
     use_gpu=True,
-)'''
+)
 
 os.environ["CORENLP_HOME"] = "./NaturalLanguagePipeline\lib\stanford-corenlp-4.1.0"
 
 # java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 -timeout 15000
 
 
-def dependencyParse(sentence, parser="stanford"):
+def dependencyParse(sentence, parser="stanza"):
     if parser == "stanford":
         return stanfordParse(sentence)
     elif parser == "stanza":
@@ -35,8 +36,8 @@ def stanzaParse(sentence):
             if len(tree_node) > 0:
                 parse_tree.append(tree_node)
 
-    for tree_node in parse_tree:
-        printTree(tree_node, postag, words)
+    # for tree_node in parse_tree:
+    #    printTree(tree_node, postag, words)
     return parse_tree, postag, words
 
 
@@ -96,4 +97,8 @@ def stanfordParse(text):
                     rooted = True
             postags[word] = [wordid, words[wordid][1]]
         deps.append(["root", root, "root"])
+
+        for token in sentence.token:
+            if not token.tokenEndIndex in words:
+                words[token.tokenEndIndex] = [token.word, token.pos]
     return deps, postags, words

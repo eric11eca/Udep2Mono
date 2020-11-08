@@ -16,9 +16,11 @@ det_mark = {
 }
 
 det_type_words = {
-    "det:univ": ["all", "every", "each", "both"],
+    "det:univ": ["all", "every", "each", "any"],
     "det:exist": ["a", "an", "some"],
-    "det:limit": ["the", "this", "that", "those", "these", "my", "his", "her", "its", "either", "both", "another"],
+    "det:limit": ["such", "both", "the", "this", "that",
+                  "those", "these", "my", "his", "her",
+                  "its", "either", "both", "another"],
     "det:negation": ["no", "neither", "never"]
 }
 
@@ -63,7 +65,6 @@ def btreeToList(binaryDepdency, length, verbose=2):
             if verbose == 2:
                 word += str(tree.key)
             index = tree.id
-            # print(word)
             heapq.heappush(annotated, (int(index), word))
             treelist.append(word)
         else:
