@@ -1,7 +1,7 @@
 import numpy as np
 from tqdm import tqdm
 from copy import deepcopy
-from binarization import Binarizer
+from binarization import Binarizer, BinaryDependencyTree
 from dependency_parse import dependencyParse
 from util import det_type, det_mark, negtive_implicative
 from util import heapq, arrows, negate_mark, btreeToList, convert2vector
@@ -13,47 +13,48 @@ class Polarizer:
         self.sentence_head = []
         self.relation = relation
         self.polarize_function = {
-            "acl:relcl": self.polarize_acl_relcl,
             "acl": self.polarize_acl_relcl,
+            "acl:relcl": self.polarize_acl_relcl,
             "advcl": self.polarize_acl_relcl,
-            "nsubj": self.polarize_nsubj,
+            "advmod": self.polarize_advmod,
+            "advmod:count": self.polarize_advmod,
+            "amod": self.polarize_amod,
+            "appos": self.polarize_inherite,
+            "aux": self.polarize_aux,
+            "aux:pass": self.polarize_aux,
+            "case": self.polarize_case,
+            "cc": self.polarize_cc,
+            "cc:preconj": self.polarize_det,
+            "ccomp": self.polarize_ccomp,
+            "compound": self.polarize_inherite,
+            "compound:prt": self.polarize_inherite,
+            "conj": self.polarize_inherite,
+            "cop": self.polarize_inherite,
             "csubj": self.polarize_nsubj,
-            "nsubj:pass": self.polarize_nsubj,
             "csubj:pass": self.polarize_nsubj,
-            "expl": self.polarize_expl,
             "dep": self.polarize_dep,
             "det": self.polarize_det,
             "det:predet": self.polarize_det,
-            "obj": self.polarize_obj,
+            "discourse": self.polarize_inherite,
+            "expl": self.polarize_expl,
+            "fixed": self.polarize_inherite,
+            "flat": self.polarize_inherite,
+            "goeswith": self.polarize_inherite,
             "iobj": self.polarize_inherite,
-            "case": self.polarize_case,
-            "obl": self.polarize_inherite,
-            "amod": self.polarize_amod,
-            "conj": self.polarize_conj,
-            "cc": self.polarize_cc,
-            "cc:preconj": self.polarize_det,
-            "advmod": self.polarize_advmod,
-            "aux": self.polarize_inherite,
-            "aux:pass": self.polarize_inherite,
-            "obl:npmod": self.polarize_oblnpmod,
-            "obl:tmod": self.polarize_inherite,
-            "nummod": self.polarize_nummod,
-            "cop": self.polarize_inherite,
-            "xcomp": self.polarize_obj,
             "mark": self.polarize_inherite,
             "nmod": self.polarize_nmod,
             "nmod:npmod": self.polarize_nmod,
             "nmod:tmod": self.polarize_nmod,
-            "compound": self.polarize_inherite,
-            "compound:prt": self.polarize_inherite,
-            "ccomp": self.polarize_ccomp,
             "nmod:poss": self.polarize_nmod_poss,
-            "fixed": self.polarize_inherite,
-            "goeswith": self.polarize_inherite,
+            "nsubj": self.polarize_nsubj,
+            "nsubj:pass": self.polarize_nsubj,
+            "nummod": self.polarize_nummod,
+            "obj": self.polarize_obj,
+            "obl": self.polarize_obj,
+            "obl:npmod": self.polarize_oblnpmod,
+            "obl:tmod": self.polarize_inherite,
             "parataxis": self.polarize_inherite,
-            "appos": self.polarize_inherite,
-            "discourse": self.polarize_inherite,
-            "flat": self.polarize_inherite,
+            "xcomp": self.polarize_obj,
         }
         self.treeLog = []
         self.polarLog = []
@@ -64,6 +65,200 @@ class Polarizer:
     def polarize(self, tree):
         if tree.isTree():
             self.polarize_function[tree.val](tree)
+
+    def polarize_acl_relcl(self, tree):
+        self.polarLog.append("polarize_acl:relcl")
+        self.sentence_head.append(tree)
+        right = tree.getRight()
+        left = tree.getLeft()
+
+        if tree.mark != "0":
+            right.mark = tree.mark
+        else:
+            tree.mark = "+"
+            right.mark = "+"
+
+        left.mark = "+"
+        if left.isTree():
+            self.polarize(left)
+        if right.isTree():
+            self.polarize(right)
+
+        tree.mark = right.mark
+
+        if right.mark == "-" and left.npos != "VBD":
+            self.negate(left, -1)
+        if right.mark == "=" and left.npos != "VBD":
+            self.equalize(left)
+
+        self.sentence_head.pop()
+
+    def polarize_advmod(self, tree):
+        left = tree.getLeft()
+        right = tree.getRight()
+
+        if tree.mark != "0":
+            left.mark = tree.mark
+            right.mark = tree.mark
+        else:
+            left.mark = "+"
+            right.mark = "+"
+
+        if left.val.lower() in ["many", "most"]:
+            right.mark = "="
+            if isinstance(tree.parent, BinaryDependencyTree) and tree.parent.val == "amod":
+                self.equalize(tree.parent.right)
+            if right.isTree():
+                self.polarize(right)
+        elif left.val.lower() in ["not", "no", "n’t"]:
+            # right.mark = "-"
+            if right.isTree():
+                self.polarize(right)
+            self.top_down_negate(tree, "advmod", self.relation.index(left.key))
+        elif left.val.lower() in ["exactly"]:
+            if right.isTree():
+                self.polarize(right)
+            self.equalize(right)
+            tree.mark = right.mark
+        else:
+            self.polarize_inherite(tree)
+
+        if left.val.lower() == "when":
+            self.equalize(self.dependtree)
+
+    def polarize_amod(self, tree):
+        left = tree.getLeft()
+        right = tree.getRight()
+        if left.val.lower() in ["many", "most"]:
+            left.mark = "+"
+            right.mark = "="
+            tree.mark = right.mark
+            if right.isTree():
+                self.polarize(right)
+        else:
+            self.polarize_inherite(tree)
+
+    def polarize_aux(self, tree):
+        self.polarize_inherite(tree)
+
+    def polarize_case(self, tree):
+        self.polarLog.append("polarize_case")
+
+        right = tree.getRight()
+        left = tree.getLeft()
+
+        if tree.mark != "0":
+            left.mark = tree.mark
+            right.mark = tree.mark
+        else:
+            tree.mark = "+"
+            left.mark = "+"
+            right.mark = "+"
+
+        if right.val == "least":
+            tree.mark = "-"
+            right.mark = "+"
+            left.mark = right.mark
+        elif right.val == "most":
+            self.top_down_negate(tree, "case", self.relation.index(tree.key))
+        elif left.val == "without":
+            if right.isTree():
+                self.polarize(right)
+            self.negate(tree, self.relation.index(left.key))
+        elif right.npos == "CD":
+            right.mark = "="
+            if left.isTree():
+                self.polarize(left)
+        elif left.val.lower() == "for":
+            if right.isTree():
+                self.polarize(right)
+            self.equalize(right)
+        elif right.val == "nmod:poss":
+            left.mark = "="
+            if right.isTree():
+                self.polarize(right)
+        else:
+            if left.isTree():
+                self.polarize(left)
+            if right.isTree():
+                self.polarize(right)
+                tree.mark = right.mark
+
+    def polarize_cc(self, tree):
+        right = tree.getRight()
+        left = tree.getLeft()
+
+        left.mark = "+"
+        right.mark = "+"
+
+        if right.val != "expl" and right.val != "det":
+            right.mark = tree.mark
+
+        if right.isTree():
+            self.polarize(right)
+
+        if left.id == 1:
+            self.equalize(right)
+
+    def polarize_ccomp(self, tree):
+        right = tree.getRight()
+        left = tree.getLeft()
+
+        if tree.mark != "0":
+            right.mark = tree.mark
+
+        if right.isTree():
+            self.polarize(right)
+
+        left.mark = right.mark
+        if left.isTree():
+            self.polarize(left)
+
+    def polarize_dep(self, tree):
+        self.polarLog.append("polarize_dep")
+
+        right = tree.getRight()
+        left = tree.getLeft()
+
+        if tree.mark != "0":
+            right.mark = tree.mark
+            left.mark = tree.mark
+        else:
+            tree.mark = "+"
+            right.mark = "+"
+            left.mark = "+"
+
+        if right.isTree():
+            self.polarize(right)
+
+        if left.isTree():
+            self.polarize(left)
+
+    def polarize_det(self, tree):
+        self.polarLog.append("polarize_det")
+        right = tree.getRight()
+        left = tree.getLeft()
+
+        if tree.mark != "0":
+            left.mark = tree.mark
+            right.mark = tree.mark
+        else:
+            left.mark = "+"
+            right.mark = "+"
+
+        detType = det_type(left.val)
+        if detType is None:
+            detType = "det:exist"
+        detMark = det_mark[detType]
+
+        right.mark = detMark[1]
+        tree.mark = detMark[1]
+
+        if right.isTree():
+            self.polarize(right)
+
+        if detType == "det:negation":
+            self.top_down_negate(tree, "det", self.relation.index(tree.key))
 
     def polarize_expl(self, tree):
         right = tree.getRight()
@@ -81,33 +276,55 @@ class Polarizer:
         if right.isTree():
             self.polarize(right)
 
-    def polarize_acl_relcl(self, tree):
-        self.polarLog.append("polarize_acl:relcl")
-        self.sentence_head.append(tree)
+    def polarize_nmod(self, tree):
         right = tree.getRight()
         left = tree.getLeft()
 
         if tree.mark != "0":
             right.mark = tree.mark
-            left.mark = tree.mark
         else:
-            tree.mark = "+"
             right.mark = "+"
-            left.mark = "+"
+        left.mark = "+"
+
+        if right.npos == "DT":
+            detType = det_type(right.val)
+            if detType == None:
+                detType = "det:exist"
+            left.mark = det_mark[detType][1]
+        elif right.val.lower() in ["many", "most"]:
+            left.mark = "="
+        elif right.val.lower() in ["none"]:
+            left.mark = "-"
+
+        if left.isTree():
+            self.polarize(left)
 
         if right.isTree():
             self.polarize(right)
 
         tree.mark = right.mark
-        if left.isTree():
-            self.polarize(left)
-
         if right.mark == "-":
             self.negate(left, -1)
         elif right.mark == "=":
             self.equalize(left)
 
-        self.sentence_head.pop()
+    def polarize_nmod_poss(self, tree):
+        right = tree.getRight()
+        left = tree.getLeft()
+
+        left.mark = tree.mark
+        if left.isTree():
+            self.polarize(left)
+        else:
+            left.mark = "+"
+
+        right.mark = tree.mark
+        if self.searchDependency("det", tree.left):
+            right.mark = left.mark
+        if right.isTree():
+            self.polarize(right)
+        else:
+            right.mark = "+"
 
     def polarize_nsubj(self, tree):
         self.polarLog.append("polarize_nsubj")
@@ -132,6 +349,9 @@ class Polarizer:
 
         if left.val.lower() == "that":
             self.equalize(right)
+        if not isinstance(tree.parent, str):
+            if tree.parent.left.val.lower() == "that":
+                self.equalize(left)
 
         if left.isTree():
             self.polarize(left)
@@ -145,271 +365,8 @@ class Polarizer:
         if left.npos == "NN":
             left.mark = tree.mark
 
-        # self.sentence_head.pop()
-
-    def polarize_dep(self, tree):
-        self.polarLog.append("polarize_dep")
-
-        right = tree.getRight()
-        left = tree.getLeft()
-
-        if tree.mark != "0":
-            right.mark = tree.mark
-            left.mark = tree.mark
-        else:
-            tree.mark = "+"
-            right.mark = "+"
-            left.mark = "+"
-
-        if right.isTree():
-            self.polarize(right)
-
-        if left.isTree():
-            self.polarize(left)
-
-    def verbMarkReplace(self, tree, mark):
-        if isinstance(tree, str):
-            return
-        if tree.npos is not None and "VB" in tree.npos:
-            tree.mark = mark
-        self.verbMarkReplace(tree.left, mark)
-        self.verbMarkReplace(tree.right, mark)
-
-    def polarize_obj(self, tree):
-        right = tree.getRight()
-        left = tree.getLeft()
-
-        if tree.mark != "0":
-            right.mark = tree.mark
-            left.mark = tree.mark
-        else:
-            right.mark = "+"
-            left.mark = "+"
-
-        if right.isTree():
-            self.polarize(right)
-
-        if left.isTree():
-            self.polarize(left)
-
-        # if left.val == "nmod:poss":
-        #    self.verbMarkReplace(tree.right, "=")
-
-        if right.val.lower() in negtive_implicative:
-            self.negate(left, -1)
-
-        tree.mark = left.mark
-
-    def polarize_obl(self, tree):
-        self.polarLog.append("polarize_obl")
-
-        right = tree.getRight()
-        left = tree.getLeft()
-
-        left.mark = tree.mark
-        if left.isTree():
-            self.polarize(left)
-
-        right.mark = tree.mark
-        if right.isTree():
-            self.polarize(right)
-
-    def searchDependency(self, deprel, tree):
-        if tree.val == deprel:
-            return True
-        else:
-            right = tree.getRight()
-            left = tree.getLeft()
-
-            leftFound = False
-            rightFound = False
-
-            if not isinstance(right, str) and right.isTree():
-                rightFound = self.searchDependency(deprel, right)
-
-            if not isinstance(left, str) and left.isTree():
-                leftFound = self.searchDependency(deprel, left)
-
-            return leftFound or rightFound
-
-    def polarize_det(self, tree):
-        self.polarLog.append("polarize_det")
-        right = tree.getRight()
-        left = tree.getLeft()
-
-        detType = det_type(left.val)
-        if detType is None:
-            detType = "det:exist"
-        detMark = det_mark[detType]
-
-        if tree.mark != "0":
-            left.mark = tree.mark
-        else:
-            left.mark = detMark[0]
-
-        right.mark = detMark[1]
-        tree.mark = detMark[1]
-
-        if right.isTree():
-            self.polarize(right)
-
-        if detType == "det:negation":
-            self.negate(tree.parent, self.relation.index(tree.key))
-
-    def polarize_inherite(self, tree):
-        right = tree.getRight()
-        left = tree.getLeft()
-
-        if tree.mark != "0":
-            right.mark = tree.mark
-            left.mark = tree.mark
-        else:
-            right.mark = "+"
-            left.mark = "+"
-
-        if right.isTree():
-            self.polarize(right)
-
-        if left.val.lower() == "there":
-            left.mark = "+"
-        if left.isTree():
-            self.polarize(left)
-
-    def polarize_conj(self, tree):
-        right = tree.getRight()
-        left = tree.getLeft()
-
-        if left.val == "det":
-            self.polarize(left)
-            tree.mark = left.mark
-            right.mark = left.mark
-            self.polarize(right)
-        elif right.val == "det":
-            self.polarize(right)
-            tree.mark = right.mark
-            left.mark = right.mark
-            self.polarize(left)
-        else:
-            self.polarize_inherite(tree)
-
-    def polarize_cc(self, tree):
-        right = tree.getRight()
-        left = tree.getLeft()
-
-        left.mark = "+"
-        right.mark = tree.mark
-        if right.isTree():
-            self.polarize(right)
-
-        if left.id == 1:
-            self.equalize(right)
-
-    def polarize_nmod_poss(self, tree):
-        right = tree.getRight()
-        left = tree.getLeft()
-
-        left.mark = tree.mark
-        if left.isTree():
-            self.polarize(left)
-        else:
-            left.mark = "+"
-
-        right.mark = tree.mark
-        if self.searchDependency("det", tree.left):
-            right.mark = left.mark
-        if right.isTree():
-            self.polarize(right)
-        else:
-            right.mark = "+"
-
-    def polarize_amod(self, tree):
-        left = tree.getLeft()
-        right = tree.getRight()
-        if left.val.lower() in ["many", "most"]:
-            left.mark = "+"
-            right.mark = "="
-            if right.isTree():
-                self.polarize(right)
-        else:
-            self.polarize_inherite(tree)
-
-    def polarize_advmod(self, tree):
-        left = tree.getLeft()
-        right = tree.getRight()
-
-        if left.val.lower() in ["many", "most"]:
-            left.mark = "+"
-            right.mark = "="
-            if right.isTree():
-                self.polarize(right)
-        elif left.val.lower() in ["not", "no", "n’t"]:
-            left.mark = "+"
-            right.mark = tree.mark
-            if right.isTree():
-                self.polarize(right)
-            self.negate(tree, self.relation.index(left.key))
-            if tree.parent.val == "aux":
-                tree.parent.left.mark = negate_mark[tree.parent.left.mark]
-        else:
-            self.polarize_inherite(tree)
-
-        if left.val.lower() == "when":
-            self.equalize(self.dependtree)
-
-    def polarize_case(self, tree):
-        self.polarLog.append("polarize_case")
-
-        right = tree.getRight()
-        left = tree.getLeft()
-
-        if tree.mark != "0":
-            left.mark = tree.mark
-            right.mark = tree.mark
-        else:
-            left.mark = "+"
-            right.mark = "+"
-
-        if right.val == "least":
+        if right.mark == "-" or right.val.lower() in negtive_implicative:
             tree.mark = "-"
-            right.mark = "+"
-            left.mark = right.mark
-        elif right.val == "most":
-            tree.mark = "+"
-            right.mark = "+"
-            left.mark = right.mark
-            self.negate(self.sentence_head[-1], self.relation.index(tree.key))
-        elif left.val == "without":
-            if right.isTree():
-                self.polarize(right)
-            self.negate(tree, self.relation.index(left.key))
-        elif right.npos == "CD":
-            right.mark = "="
-            if left.isTree():
-                self.polarize(left)
-        elif left.val.lower() == "for":
-            if right.isTree():
-                self.polarize(right)
-            self.equalize(right)
-        elif right.val == "nmod:poss":
-            left.mark = "="
-            if right.isTree():
-                self.polarize(right)
-        else:
-            if right.isTree():
-                self.polarize(right)
-                tree.mark = right.mark
-            if left.isTree():
-                self.polarize(left)
-
-    def polarize_oblnpmod(self, tree):
-        right = tree.getRight()
-        left = tree.getLeft()
-
-        if left.isTree():
-            self.polarize(left)
-        right.mark = left.mark
-        if right.isTree():
-            self.polarize(right)
 
     def polarize_nummod(self, tree):
         self.polarLog.append("polarize_nummod")
@@ -433,70 +390,119 @@ class Polarizer:
             left.mark = "-"
             right.mark = "+"
 
-        if right.isTree():
-            self.polarize(right)
-
         if left.isTree():
             self.polarize(left)
+            if left.mark == "=":
+                right.mark = left.mark
+                tree.mark = left.mark
         elif left.id == 1:
             left.mark = "="
 
-    def polarize_nmod(self, tree):
+        if right.isTree():
+            self.polarize(right)
+
+    def polarize_obj(self, tree):
         right = tree.getRight()
         left = tree.getLeft()
 
         if tree.mark != "0":
-            left.mark = tree.mark
             right.mark = tree.mark
         else:
-            left.mark = "+"
             right.mark = "+"
+            tree.mark = "+"
+        left.mark = "+"
 
         if right.isTree():
             self.polarize(right)
 
-        if right.npos == "DT":
-            detType = det_type(right.val)
-            if detType == None:
-                detType = "det:exist"
-            left.mark = det_mark[detType][1]
-        elif right.val.lower() in ["many", "most"]:
-            left.mark = "="
-        elif right.val.lower() in ["none"]:
-            left.mark = "-"
-
         if left.isTree():
             self.polarize(left)
 
-        tree.mark = right.mark
-        if right.mark == "-":
+        if right.mark == "-" or right.val.lower() in negtive_implicative:
             self.negate(left, -1)
-        elif right.mark == "=":
-            self.equalize(left)
 
-    def polarize_ccomp(self, tree):
+    def polarize_obl(self, tree):
+        self.polarLog.append("polarize_obl")
+
         right = tree.getRight()
         left = tree.getLeft()
 
         if tree.mark != "0":
             right.mark = tree.mark
+        else:
+            right.mark = "+"
+        left.mark = "+"
 
         if right.isTree():
             self.polarize(right)
 
-        left.mark = right.mark
         if left.isTree():
             self.polarize(left)
 
-        # tree.mark = right.mark
+        if right.mark == "-":
+            self.negate(left, -1)
+
+    def polarize_inherite(self, tree):
+        right = tree.getRight()
+        left = tree.getLeft()
+
+        if tree.mark != "0":
+            right.mark = tree.mark
+            left.mark = tree.mark
+        else:
+            right.mark = "+"
+            left.mark = "+"
+
+        if right.isTree():
+            self.polarize(right)
+
+        if left.val.lower() == "there":
+            left.mark = "+"
+        if left.isTree():
+            self.polarize(left)
+
+    def polarize_oblnpmod(self, tree):
+        right = tree.getRight()
+        left = tree.getLeft()
+
+        if left.isTree():
+            self.polarize(left)
+        right.mark = left.mark
+        if right.isTree():
+            self.polarize(right)
+
+    def searchDependency(self, deprel, tree):
+        if tree.val == deprel:
+            return True
+        else:
+            right = tree.getRight()
+            left = tree.getLeft()
+
+            leftFound = False
+            rightFound = False
+
+            if not isinstance(right, str) and right.isTree():
+                rightFound = self.searchDependency(deprel, right)
+
+            if not isinstance(left, str) and left.isTree():
+                leftFound = self.searchDependency(deprel, left)
+
+            return leftFound or rightFound
+
+    def verbMarkReplace(self, tree, mark):
+        if isinstance(tree, str):
+            return
+        if tree.npos is not None and "VB" in tree.npos:
+            tree.mark = mark
+        self.verbMarkReplace(tree.left, mark)
+        self.verbMarkReplace(tree.right, mark)
 
     def equalize(self, tree):
         if tree.isTree():
-            if tree.val != "nummod":
-                self.equalize(tree.getRight())
-                self.equalize(tree.getLeft())
-                if tree.mark != "0":
-                    tree.mark = "="
+            self.equalize(tree.getRight())
+            self.equalize(tree.getLeft())
+            if tree.mark != "0":
+                tree.mark = "="
         else:
             if tree.npos != "CC" and tree.val.lower() != "when":
                 tree.mark = "="
@@ -506,7 +512,21 @@ class Polarizer:
         not_empty_mark = tree.mark != "0"
         return not_empty_mark and not_truth_connection
 
+    def top_down_negate(self, tree, deprel, anchor):
+        if not isinstance(tree.parent, BinaryDependencyTree):
+            return
+        if tree.parent.left.val == deprel:
+            self.negate(tree.parent.left, anchor)
+            self.negate(tree.parent.right, -1)
+        elif tree.parent.right.val == deprel:
+            self.negate(tree.parent.right, anchor)
+            self.negate(tree.parent.left, -1)
+
     def negate(self, tree, anchor):
+        if isinstance(tree, str):
+            return
+        if tree.val == "cc" and tree.right.val in ["expl", "nsubj", "det"]:
+            return
         if tree.isTree():
             # print(tree.val)
             if self.relation.index(tree.key) > anchor or "nsubj" in tree.val:
@@ -521,7 +541,7 @@ class Polarizer:
                     tree.mark = negate_mark[tree.mark]
 
 
-def run_polarize_pipeline(sentences, annotations_val=[], verbose=0, parser="stanford"):
+def run_polarize_pipeline(sentences, annotations_val=[], verbose=0, parser="stanza"):
     binarizer = Binarizer()
     polarizer = Polarizer()
 
@@ -577,6 +597,7 @@ def run_polarize_pipeline(sentences, annotations_val=[], verbose=0, parser="stan
         except Exception as e:
             if verbose == 2:
                 print(str(e))
+            print(sent)
             exceptioned.append((sent, annotations_val[i]))
             continue
 
@@ -606,10 +627,10 @@ def run_polarize_pipeline(sentences, annotations_val=[], verbose=0, parser="stan
                         if one and two and three and four and five and One:
                             incorrect.append(
                                 (sent, result, annotation_val,
-                                 np.array2string(
-                                     np.array(vec), precision=2, separator=','),
-                                 np.array2string(
-                                     np.array(vec_val), precision=2, separator=',')))
+                                    np.array2string(
+                                        np.array(vec), precision=2, separator=','),
+                                    np.array2string(
+                                        np.array(vec_val), precision=2, separator=',')))
                             continue
 
         # if verbose == 3:
@@ -620,6 +641,7 @@ def run_polarize_pipeline(sentences, annotations_val=[], verbose=0, parser="stan
                 "annotated": result,
                 "polarized": polarized,
                 "sexpression": sexpression,
+                "validation": annotations_val[i]
             }
         )
     print()

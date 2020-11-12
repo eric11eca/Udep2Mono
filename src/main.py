@@ -2,13 +2,29 @@ import os
 
 from polarization import run_polarize_pipeline
 
-datasets = ["sick", "diagnostic"]
-dataset = datasets[1]
+datasets = ["sick", "diagnostic", "MED",
+            "monotonicity_hard", "monotonicity_simple",
+            "boolean", "conditional", "counting", "negation"]
+dataset = datasets[0]
 
-if dataset == "sick":
+if dataset == "sick":  # 1677, 346
     dataset_path = "sick"
 elif dataset == "diagnostic":
     dataset_path = "GLUE/glue_data/diagnostic"
+elif dataset == "MED":
+    dataset_path = "MED"
+elif dataset == "monotonicity_hard":
+    dataset_path = "SEG/monotonicity_hard"
+elif dataset == "monotonicity_simple":
+    dataset_path = "SEG/monotonicity_simple"
+elif dataset == "boolean":
+    dataset_path = "SEG/boolean"
+elif dataset == "conditional":
+    dataset_path = "SEG/conditional"
+elif dataset == "counting":
+    dataset_path = "SEG/counting"
+elif dataset == "negation":
+    dataset_path = "SEG/negation"
 
 in_name = "{}.txt".format(dataset)
 val_name = "{}.depccg.parsed.txt".format(dataset)
@@ -32,12 +48,14 @@ with open(in_path, "r") as data:
         lines = data.readlines()
         annotations_val = annotation.readlines()
         annotations, exceptioned, incorrect = run_polarize_pipeline(
-            lines, annotations_val, verbose=2
+            lines, annotations_val, verbose=2, parser="stanford"
         )
 
         with open(out_path, "w") as correct:
             for sent in annotations:
                 correct.write("%s\n" % sent["annotated"])
+                correct.write(sent["validation"])
+                correct.write("\n")
 
         with open(incorrect_log_path, "w") as incorrect_log:
             with open(unmatched_val_path, "w") as unmatched_val:
@@ -58,9 +76,15 @@ with open(incorrect_log_path, "r") as incorrect_log:
             lines, annotations_val, verbose=2, parser="stanza"
         )
 
+        with open(out_path, "a") as correct:
+            for sent in annotations:
+                correct.write("%s\n" % sent["annotated"])
+                correct.write(sent["validation"])
+                correct.write("\n")
+
         with open(unmatched_log_path, "w") as unmatched_log:
             for sent in incorrect:
-                unmatched_log.write(sent[0])
+                # unmatched_log.write(sent[0])
                 unmatched_log.write("%s\n" % sent[1])
                 #incorrect_log.write("%s\n" % sent[3])
                 unmatched_log.write(sent[2])
