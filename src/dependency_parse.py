@@ -11,11 +11,17 @@ nlp = stanza.Pipeline(
     processors={"tokenize": "gum", "pos": "gum",
                 "lemma": "gum", "depparse": "gum"},
     use_gpu=True,
+    pos_batch_size=2000
 )
 
 os.environ["CORENLP_HOME"] = "./NaturalLanguagePipeline\lib\stanford-corenlp-4.1.0"
 
 # java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 -timeout 15000
+
+
+def preprocess(sentence):
+    processed = sentence.replace("out of", "out-of")
+    return processed
 
 
 def dependencyParse(sentence, parser="stanford"):

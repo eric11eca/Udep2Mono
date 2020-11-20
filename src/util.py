@@ -1,4 +1,5 @@
 import heapq
+from pattern.en import conjugate
 
 relations = [
     "acl",
@@ -73,7 +74,7 @@ det_type_words = {
     "det:limit": ["such", "both", "the", "this", "that",
                   "those", "these", "my", "his", "her",
                   "its", "either", "both", "another"],
-    "det:negation": ["no", "neither", "never"]
+    "det:negation": ["no", "neither", "never", "few"]
 }
 
 negtive_implicative = ["refuse", "reject", "oppose", "forget",
@@ -86,8 +87,15 @@ negtive_implicative = ["refuse", "reject", "oppose", "forget",
                        "disconnect", "discourage", "discredit", "discorporate",
                        "disengage", "disentangle", "dismiss", "disobeye",
                        "distrust", "disrupt", "suspen", "suspend ",
-                       "freeze", "remove"
+                       "freeze", "remove", "regret", "object", "impossible"
                        ]
+
+at_least_implicative = ["eat", "have", "for", "buy", "drink", "take", "hold", "receive",
+                        "get", "catch"]
+
+
+def is_implicative(verb, imp_type):
+    return conjugate(verb, tense="present", person=1, number="singular") in imp_type
 
 
 def det_type(word):
