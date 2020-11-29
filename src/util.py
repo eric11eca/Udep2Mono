@@ -87,11 +87,14 @@ negtive_implicative = ["refuse", "reject", "oppose", "forget",
                        "disconnect", "discourage", "discredit", "discorporate",
                        "disengage", "disentangle", "dismiss", "disobeye",
                        "distrust", "disrupt", "suspen", "suspend ",
-                       "freeze", "remove", "regret", "object", "impossible"
+                       "freeze", "remove", "regret", "object", "impossible",
+                       "hate"
                        ]
 
-at_least_implicative = ["eat", "have", "for", "buy", "drink", "take", "hold", "receive",
+at_least_implicative = ["smoke", "for", "buy", "drink", "take", "hold", "receive",
                         "get", "catch"]
+
+exactly_implicative = ["like", "love", "admires", "marry"]
 
 
 def is_implicative(verb, imp_type):
@@ -114,6 +117,7 @@ arrows = {
 
 def btreeToList(binaryDepdency, length, verbose=2):
     annotated = []
+    postags = []
 
     def toList(tree):
         treelist = []
@@ -126,6 +130,7 @@ def btreeToList(binaryDepdency, length, verbose=2):
                 word += str(tree.key)
             index = tree.id
             heapq.heappush(annotated, (int(index), word))
+            heapq.heappush(postags, (int(index), tree.npos))
             treelist.append(word)
         else:
             word = tree.getVal() + arrows[tree.mark]
@@ -143,7 +148,7 @@ def btreeToList(binaryDepdency, length, verbose=2):
             treelist.append(toList(right))
 
         return treelist
-    return toList(binaryDepdency), annotated
+    return toList(binaryDepdency), annotated, postags
 
 
 def convert2vector(result):

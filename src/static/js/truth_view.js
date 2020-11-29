@@ -2,9 +2,9 @@ var term_font = "";
 var nonterm_font = "";
 let color = true,
   term_lines = true,
-  font_size = 12,
-  vert_space = 55,
-  hor_space = 35;
+  font_size = 14,
+  vert_space = 50,
+  hor_space = 30;
 
 term_font = term_font + font_size + "pt";
 nonterm_font = nonterm_font + font_size + "pt ";

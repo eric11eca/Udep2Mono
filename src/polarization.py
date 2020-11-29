@@ -4,7 +4,6 @@ from copy import deepcopy
 from binarization import Binarizer, BinaryDependencyTree
 from dependency_parse import dependencyParse
 from util import *
-from util import heapq, arrows, negate_mark, btreeToList, convert2vector
 
 
 class Polarizer:
@@ -35,7 +34,7 @@ class Polarizer:
             "dep": self.polarize_dep,
             "det": self.polarize_det,
             "det:predet": self.polarize_det,
-            "discourse": self.polarize_inherite,
+            "discourse": self.polarize_discourse,
             "expl": self.polarize_expl,
             "fixed": self.polarize_inherite,
             "flat": self.polarize_inherite,
@@ -96,13 +95,17 @@ class Polarizer:
         self.sentence_head.pop()
 
     def polarize_advmod(self, tree):
+        self.polarLog.append("advmod")
+
         left = tree.getLeft()
         right = tree.getRight()
-
         self.polarize_inherite(tree)
+        root_mark = tree.mark
 
         more_than = False
         less_than = False
+        at_most = False
+        at_least = False
 
         if tree.left.val == "fixed":
             more_than = tree.left.right.val.lower(
@@ -110,27 +113,47 @@ class Polarizer:
             less_than = tree.left.right.val.lower(
             ) == "less" and tree.left.left.val.lower() == "than"
 
+        if tree.left.val == "case":
+            at_most = tree.left.left.val.lower() == "at" and tree.left.right.val.lower() == "most"
+            at_least = tree.left.left.val.lower() == "at" and tree.left.right.val.lower() == "least"
+
         if left.val.lower() in ["many", "most"]:
             right.mark = "="
             if isinstance(tree.parent, BinaryDependencyTree) and tree.parent.val == "amod":
                 self.equalize(tree.parent.right)
         elif left.val.lower() in ["not", "no", "n’t", "never"]:
-            self.negate(right, self.relation.index(left.key))
+            self.negate(right, -1)
         elif left.val.lower() in ["exactly"]:
-            self.equalize(right)
+            self.equalize(tree.parent.parent)
+            left.mark = root_mark
             tree.mark = right.mark
         elif more_than:
             if right.val == "nummod":
                 right.left.mark = "-"
+            if right.isTree() and right.left.val == "nummod":
+                right.left.left.mark = "-"
+                right.left.right.mark = "+"
         elif less_than:
             self.negate(right, self.relation.index(tree.key))
             if right.val == "nummod":
                 right.left.mark = "+"
+            if right.isTree() and right.left.val == "nummod":
+                right.left.left.mark = "+"
+                right.left.right.mark = "-"
+        elif at_most:
+            self.negate(right, self.relation.index(tree.key))
+            if right.val == "nmod":
+                right.right.mark = "+"
+        elif at_least:
+            if right.val == "nmod":
+                right.right.mark = "-"
 
         if left.val.lower() == "when":
             self.equalize(self.dependtree)
 
     def polarize_amod(self, tree):
+        self.polarLog.append("amod")
+
         left = tree.getLeft()
         right = tree.getRight()
         self.polarize_inherite(tree)
@@ -150,8 +173,17 @@ class Polarizer:
             if right.left.val == "nummod":
                 right.left.mark = "-"
         elif left.val.lower() in ["many", "most"] and not at_most:
-            right.mark = "="
+            self.equalize(right)
             tree.mark = right.mark
+        elif left.val.lower() == "fewer":
+            self.nounMarkReplace(right, "-")
+        elif left.val == "advmod":
+            if left.right.val == "many":
+                self.equalize(right)
+                tree.mark = right.mark
+            if left.left.val.lower() == "not":
+                self.top_down_negate(
+                    tree, "amod", self.relation.index(tree.key))
 
     def polarize_aux(self, tree):
         self.polarize_inherite(tree)
@@ -192,6 +224,9 @@ class Polarizer:
             left.mark = "="
             if right.isTree():
                 self.polarize(right)
+        elif left.val == "except":
+            right.mark = "="
+            self.polarize(right)
         else:
             if left.isTree():
                 self.polarize(left)
@@ -264,6 +299,15 @@ class Polarizer:
         detType = det_type(left.val)
         if detType is None:
             detType = "det:exist"
+
+        if left.val.lower() == "any":
+            if isinstance(tree.parent, BinaryDependencyTree):
+                if isinstance(tree.parent.parent, BinaryDependencyTree):
+                    negate_signal = tree.parent.parent.left
+                    if negate_signal.val == "not":
+                        detType = "det:exist"
+                    if negate_signal.val == "det" and negate_signal.left.val.lower() == "no":
+                        detType = "det:exist"
         detMark = det_mark[detType]
 
         right.mark = detMark[1]
@@ -274,6 +318,32 @@ class Polarizer:
 
         if detType == "det:negation":
             self.top_down_negate(tree, "det", self.relation.index(tree.key))
+
+    def polarize_discourse(self, tree):
+        self.polarize_inherite(tree)
+        right = tree.getRight()
+        left = tree.getLeft()
+
+        more_than = False
+        less_than = False
+
+        if tree.left.val == "fixed":
+            more_than = left.right.val.lower() == "more" and left.left.val.lower() == "than"
+            less_than = left.right.val.lower() == "less" and left.left.val.lower() == "than"
+
+        if more_than:
+            if right.val == "nummod":
+                right.left.mark = "-"
+            if right.left.val == "nummod":
+                right.left.left.mark = "-"
+                right.left.right.mark = "+"
+        elif less_than:
+            self.negate(right, self.relation.index(tree.key))
+            if right.val == "nummod":
+                right.left.mark = "+"
+            if right.left.val == "nummod":
+                right.left.left.mark = "+"
+                right.left.right.mark = "-"
 
     def polarize_expl(self, tree):
         right = tree.getRight()
@@ -317,6 +387,11 @@ class Polarizer:
 
         if right.isTree():
             self.polarize(right)
+
+        if left.val == "case":
+            if isinstance(tree.parent, BinaryDependencyTree):
+                if tree.parent.left.val.lower() == "more":
+                    left.right.mark = "-"
 
         tree.mark = right.mark
         if right.mark == "-":
@@ -389,29 +464,33 @@ class Polarizer:
         right = tree.getRight()
         left = tree.getLeft()
 
-        left.mark = "-"
+        left.mark = "="
         if tree.mark != "0":
             right.mark = tree.mark
         else:
             right.mark = "+"
 
-        if left.val.lower() in ["one", "1"]:
-            left.mark = "="
-
         if tree.parent == "compound":
             right.mark = left.mark
 
         if left.isTree():
+            if left.val == "advmod":
+                left.mark = "+"
             self.polarize(left)
             if left.mark == "=":
                 right.mark = left.mark
                 tree.mark = left.mark
         elif left.id == 1:
             left.mark = "="
+            #right.mark = "="
 
         if not isinstance(tree.parent, str):
             if is_implicative(tree.parent.right.val, at_least_implicative):
-                right.mark = "-"
+                left.mark = "-"
+                #right.mark = "-"
+            elif is_implicative(tree.parent.right.val, exactly_implicative):
+                left.mark = "="
+                #right.mark = "="
 
         if right.isTree():
             self.polarize(right)
@@ -516,6 +595,16 @@ class Polarizer:
         self.verbMarkReplace(tree.left, mark)
         self.verbMarkReplace(tree.right, mark)
 
+    def nounMarkReplace(self, tree, mark):
+        if isinstance(tree, str):
+            return False
+        if tree.npos is not None and "NN" in tree.npos:
+            tree.mark = mark
+            return True
+        right = self.nounMarkReplace(tree.right, mark)
+        if not right:
+            self.nounMarkReplace(tree.left, mark)
+
     def equalize(self, tree):
         if tree.isTree():
             self.equalize(tree.getRight())
@@ -576,15 +665,15 @@ def run_polarize_pipeline(sentences, annotations_val=[], verbose=0, parser="stan
         if len(sent) == 0:
             continue
 
-        tree, postag, words = dependencyParse(sent, parser=parser)
-        parseTreeCopy = deepcopy(tree)
+        parsed, replaced = dependencyParse(sent, parser)
+        tree, postag, words = parsed
 
         # print("s")
         # print(words)
         # print(parseTreeCopy)
 
         # Binarization
-        binarizer.parseTable = parseTreeCopy
+        binarizer.parseTable = tree
         binarizer.postag = postag
         binarizer.words = words
         sexpression = ""
@@ -594,7 +683,7 @@ def run_polarize_pipeline(sentences, annotations_val=[], verbose=0, parser="stan
             binaryDepdency, relation = binarizer.binarization()
 
             if verbose == 2:
-                sexpression, annotated = btreeToList(
+                sexpression, annotated, postags = btreeToList(
                     binaryDepdency, len(words), 0)
                 sexpression = '[%s]' % ', '.join(
                     map(str, sexpression)).replace(",", " ")
@@ -609,7 +698,8 @@ def run_polarize_pipeline(sentences, annotations_val=[], verbose=0, parser="stan
         polarizer.relation = relation
         try:
             polarizer.polarize_deptree()
-            polarized, annotated = btreeToList(binaryDepdency, len(words), 0)
+            polarized, annotated, postags = btreeToList(
+                binaryDepdency, len(words), 0)
             polarized = '[%s]' % ', '.join(
                 map(str, polarized)).replace("'", "")
             polarized = polarized.replace(",", "")
@@ -626,7 +716,13 @@ def run_polarize_pipeline(sentences, annotations_val=[], verbose=0, parser="stan
             next_item = heapq.heappop(annotated)
             result.append(next_item[1])
 
+        pos = []
+        while postags:
+            next_item = heapq.heappop(postags)
+            pos.append(next_item[1])
+
         result = '%s' % ', '.join(map(str, result)).replace(",", "")
+        pos = '%s' % ', '.join(map(str, pos)).replace(",", "")
 
         vec = convert2vector(result)
         if len(annotations_val) > 0:
@@ -634,35 +730,35 @@ def run_polarize_pipeline(sentences, annotations_val=[], verbose=0, parser="stan
             vec_val = convert2vector(annotation_val)
             if len(vec) == len(vec_val):
                 if np.prod(vec_val) != -1:
-                    differece = np.sum(np.subtract(vec, vec_val))
-                    if differece != 0:
+                    if not np.array_equal(vec, vec_val):
                         num_unmatched += 1
-                        #one = not "1" in annotation_val
-                        #two = not "2" in annotation_val
-                        #three = not "3" in annotation_val
-                        #four = not "4" in annotation_val
-                        #five = not "5" in annotation_val
-                        #One = not "one" in annotation_val.lower()
-                        # if one and two and three and four and five and One:
                         incorrect.append(
-                            (sent, result, annotation_val,
-                                np.array2string(
-                                    np.array(vec), precision=2, separator=','),
-                                np.array2string(
-                                    np.array(vec_val), precision=2, separator=',')))
-                        continue
+                            (sent, result, annotation_val, pos))
+                        if parser == "stanford":
+                            continue
 
         # if verbose == 3:
         # print(polarizer.polarLog)
+
+        validate = []
+        if len(annotations_val) > 0:
+            validate = annotations_val[i]
 
         annotations.append(
             {
                 "annotated": result,
                 "polarized": polarized,
                 "sexpression": sexpression,
-                # "validation": annotations_val[i]
+                "validation": validate,
+                "orig": sent,
+                "postag": pos
             }
         )
     print()
     print("Number of unmatched sentences: ", num_unmatched)
     return annotations, exceptioned, incorrect
+
+
+# annotations, exceptioned, incorrect = run_polarize_pipeline(
+#    ["More than 6 dogs are hungry"])
+# print(annotations[0]["annotated"])

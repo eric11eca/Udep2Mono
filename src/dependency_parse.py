@@ -18,17 +18,34 @@ os.environ["CORENLP_HOME"] = "./NaturalLanguagePipeline\lib\stanford-corenlp-4.1
 
 # java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 -timeout 15000
 
+replacement = {
+    "out of": "out-of",
+    "none of the": "no",
+    "all of the": "all",
+    "some of the": "some",
+    "most of the": "most-of-the",
+    "many of the": "many-of-the",
+    "several of the": "several",
+    "some but not all": "some-but-not-all"
+}
+
 
 def preprocess(sentence):
-    processed = sentence.replace("out of", "out-of")
-    return processed
+    replaced = []
+    processed = sentence.lower()
+    for orig in replacement:
+        if orig in processed:
+            processed = processed.replace(orig, replacement[orig])
+            replaced.append([orig, replacement[orig]])
+    return processed, replaced
 
 
 def dependencyParse(sentence, parser="stanford"):
+    processed, replaced = preprocess(sentence)
     if parser == "stanford":
-        return stanfordParse(sentence)
+        return stanfordParse(processed), replaced
     elif parser == "stanza":
-        return stanzaParse(sentence)
+        return stanzaParse(processed), replaced
 
 
 def stanzaParse(sentence):
