@@ -1,22 +1,16 @@
 import os
+import argparse
 
-from polarization import run_polarize_pipeline
-
-datasets = ["gold", "sick", "diagnostic",
-            "monotonicity_hard", "monotonicity_simple", "MED",
+datasets = ["gold", "diagnostic",
+            "monotonicity_hard", "monotonicity_simple",
             "boolean", "conditional", "counting", "negation"]
-dataset = datasets[0]
 
 
-def polarize_dataset(dataset):
-    if dataset == "sick":  # 1677, 346
-        dataset_path = "sick"
-    elif dataset == "gold":
+def parse_dataset_path(dataset):
+    if dataset == "gold":
         dataset_path = "gold"
     elif dataset == "diagnostic":
         dataset_path = "GLUE/glue_data/diagnostic"
-    elif dataset == "MED":
-        dataset_path = "MED"
     elif dataset == "monotonicity_hard":
         dataset_path = "SEG/monotonicity_hard"
     elif dataset == "monotonicity_simple":
@@ -31,9 +25,7 @@ def polarize_dataset(dataset):
         dataset_path = "SEG/negation"
 
     in_name = "{}.txt".format(dataset)
-    val_name = "{}.depccg.parsed.txt".format(dataset)
-    if dataset == "gold":
-        val_name = "{}.label.txt".format(dataset)
+    val_name = "{}.label.txt".format(dataset)
     out_name = "{}.polarized.txt".format(dataset)
     incorrect_log_name = "{}.incorrect.txt".format(dataset)
     unmatched_log_name = "{}.unmatched.txt".format(dataset)
@@ -51,72 +43,109 @@ def polarize_dataset(dataset):
     exception_log_path = os.path.join(path, except_log_name)
     pos_path = os.path.join(path, pos_name)
 
-    with open(in_path, "r") as data:
-        with open(val_path, "r") as annotation:
-            lines = data.readlines()
-            annotations_val = annotation.readlines()
-            annotations, exceptioned, incorrect = run_polarize_pipeline(
-                lines, annotations_val, verbose=2, parser="stanford"
-            )
+    return {
+        "in_path": in_path,
+        "val_path": val_path,
+        "out_path": out_path,
+        "incorrect_log_path": incorrect_log_path,
+        "unmatched_log_path": unmatched_log_path,
+        "unmatched_val_path": unmatched_val_path,
+        "exception_log_path": exception_log_path,
+        "pos_path": pos_path
+    }
 
-            with open(out_path, "w") as correct:
+
+def polarize_dataset(dataset, add_pos=0, mode="polarize", parser="stanza"):
+    path = parse_dataset_path(dataset)
+
+    if mode == "polarize":
+        with open(path['in_path'], "r") as data:
+            sentences = data.readlines()
+            annotations, exceptioned = run_polarize_pipeline(
+                sentences,
+                verbose=2,
+                parser=parser)
+
+            with open(path['out_path'], "w") as correct:
                 for sent in annotations:
-                    correct.write(sent["orig"])
-                    correct.write("%s\n" % sent["annotated"])
-                    # correct.write(sent["validation"])
-                    # correct.write("\n")
+                    correct.write("%s\n" % sent[0])
 
-            with open(incorrect_log_path, "w") as incorrect_log:
-                with open(unmatched_val_path, "w") as unmatched_val:
+    elif mode == "eval":
+        with open(path['in_path'], "r") as data:
+            with open(path['val_path'], "r") as annotation:
+                lines = data.readlines()
+                annotations_val = annotation.readlines()
+                annotations, exceptioned, incorrect = polarize_eval(
+                    lines, annotations_val,
+                    verbose=2,
+                    parser="stanford")
+
+                with open(path['out_path'], "w") as correct:
+                    for sent in annotations:
+                        correct.write("%s\n" % sent["annotated"])
+
+                with open(path['incorrect_log_path'], "w") as incorrect_log:
+                    with open(path['unmatched_val_path'], "w") as unmatched_val:
+                        for sent in incorrect:
+                            incorrect_log.write(sent[0])
+                            unmatched_val.write(sent[2])
+
+                with open(path['exception_log_path'], "w") as except_log:
+                    for sent in exceptioned:
+                        except_log.write(sent[0])
+                        except_log.write(sent[1])
+
+                if add_pos == 1:
+                    with open(path['pos_path'], "w") as postag:
+                        for sent in annotations:
+                            postag.write(sent["orig"])
+                            postag.write("%s\n" % sent["postag"])
+
+        with open(path['incorrect_log_path'], "r") as incorrect_log:
+            with open(path['unmatched_val_path'], "r") as annotation:
+                lines = incorrect_log.readlines()
+                annotations_val = annotation.readlines()
+                annotations, exceptioned, incorrect = polarize_eval(
+                    lines, annotations_val, verbose=2, parser="stanza"
+                )
+
+                with open(path['out_path'], "a") as correct:
+                    for sent in annotations:
+                        correct.write("%s\n" % sent["annotated"])
+
+                with open(path['unmatched_log_path'], "w") as unmatched_log:
                     for sent in incorrect:
-                        incorrect_log.write(sent[0])
-                        unmatched_val.write(sent[2])
+                        unmatched_log.write(sent[0])
+                        unmatched_log.write("%s\n" % sent[1])
+                        unmatched_log.write(sent[2])
+                        if add_pos == 1:
+                            unmatched_log.write("%s\n" % sent[3])
+                        unmatched_log.write("\n")
 
-            with open(exception_log_path, "w") as except_log:
-                for sent in exceptioned:
-                    except_log.write(sent[0])
-                    except_log.write(sent[1])
+                with open(path['exception_log_path'], "a") as except_log:
+                    for sent in exceptioned:
+                        except_log.write(sent[0])
+                        except_log.write(sent[1])
 
-            with open(pos_path, "w") as postag:
-                for sent in annotations:
-                    postag.write(sent["orig"])
-                    postag.write("%s\n" % sent["postag"])
-
-    with open(incorrect_log_path, "r") as incorrect_log:
-        with open(unmatched_val_path, "r") as annotation:
-            lines = incorrect_log.readlines()
-            annotations_val = annotation.readlines()
-            annotations, exceptioned, incorrect = run_polarize_pipeline(
-                lines, annotations_val, verbose=2, parser="stanza"
-            )
-
-            with open(out_path, "a") as correct:
-                for sent in annotations:
-                    correct.write(sent["orig"])
-                    correct.write("%s\n" % sent["annotated"])
-                    # correct.write(sent["validation"])
-                    # correct.write("\n")
-
-            with open(unmatched_log_path, "w") as unmatched_log:
-                for sent in incorrect:
-                    unmatched_log.write(sent[0])
-                    unmatched_log.write("%s\n" % sent[1])
-                    #incorrect_log.write("%s\n" % sent[3])
-                    unmatched_log.write(sent[2])
-                    unmatched_log.write("%s\n" % sent[3])
-                    unmatched_log.write("\n")
-
-            with open(exception_log_path, "w") as except_log:
-                for sent in exceptioned:
-                    except_log.write(sent[0])
-                    except_log.write(sent[1])
-
-            with open(pos_path, "a") as postag:
-                for sent in annotations:
-                    postag.write(sent["orig"])
-                    postag.write("%s\n" % sent["postag"])
+                if add_pos == 1:
+                    with open(path['pos_path'], "a") as postag:
+                        for sent in annotations:
+                            postag.write(sent["orig"])
+                            postag.write("%s\n" % sent["postag"])
 
 
-polarize_dataset(datasets[0])
+if __name__ == "__main__":
 
-# 1273
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--dataset", help="The name of a working or evaluation dataset", type=str, default="gold")
+    parser.add_argument(
+        "--pos", help="Print part-of-speech tags also", type=int, default=0)
+    parser.add_argument(
+        "--mode", help="The pipeline mode: [1] polarize [2] eval", type=str, default="polarize")
+    parser.add_argument(
+        "--parser", help="The dependency parser used: [1] stanford [2] stanza", type=str, default="stanza")
+    args = parser.parse_args()
+
+    from polarization import polarize_eval, run_polarize_pipeline
+    polarize_dataset(args.dataset, args.pos, args.mode, args.parser)
