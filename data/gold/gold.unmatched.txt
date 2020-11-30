@@ -1,0 +1,56 @@
+Three dogs love four cats
+three= dogs↑ love↑ four= cats↑
+Three= dogs= like↑ four= cats=
+
+Cats who like squirrels hate dogs
+cats↑ who↑ like↑ squirrels↑ hate↑ dogs↓
+Cats↓ who↓ like↓ squirrels↑ hate↑ dogs↓
+
+Some person in the White House doesn't know if any dog in Ohio ate bananas yesterday
+some↑ person↑ in↑ the↑ white= house= does↑ not↑ know↓ if↓ any↑ dog↓ in↓ ohio↓ ate↑ bananas↑ yesterday↑
+Some↑ person↑ in↑ the↑ White= House= does↑ n't↑ know↓ if↓ any↓ dog↓ in↓ Ohio↓ ate↓ bananas↓ yesterday↓
+
+There is a dog in the house, who wants to eat three biscuits
+there↑ is↑ a↑ dog↑ in↑ the↑ house= who↑ wants↑ to↑ eat↑ three= biscuits↑
+There↑ is↑ a↑ dog↑ in↑ the↑ house= who↑ wants↑ to↑ eat↑ three= biscuits=
+
+Few math students love any subject in linguistics
+few↑ math↑ students↑ love↑ any↑ subject↓ in↓ linguistics↓
+Few↑ math↓ students↓ like↓ any↓ subject↓ in↓ linguistics↓
+
+Five dogs see at least six cats
+five= dogs↑ see↑ at↑ least↑ six↓ cats↑
+Five↑ dogs= see= at= least= six= cats=
+
+More dogs than cats sit
+more↑ dogs↑ than↑ cats↓ sit↑
+More↑ dogs↑ than↑ cats↓ sit=
+
+Fewer dogs than cats sit
+fewer↑ dogs↓ than↑ cats↑ sit↑
+Fewer↑ dogs↓ than↑ cats↑ sit=
+
+All the cats except for two run
+all↑ the↓ cats= except= for= two= run=
+All↑ the↓ cats= except↓ for↓ two= runs=
+
+All the cats except for at most two love chocolate
+all↑ the↓ cats= except= for= at= most= two= love= chocolate=
+All↑ the↓ cats= except↓ for↓ at↓ most↓ two↑ like= chocolate=
+
+Three out of five dentists recommend that their patients brush their teeth at least four times a day
+three= out↑  of↑ five= dentists↑ recommend↑ that↑ their↑ patients↑ brush↑ their↑ teeth↑ at↑ least↑ four↓ times↑ a↑ day↑
+Three= out↓ of↓ five= dentists↑ recommend↑ that↑ their↑ patients↑ brush↑ their↑ teeth↑ at↑ least↑ four↓ times↑ a↑ day↑
+
+No dentist who recommends that their patients brush their teeth at least four times a day gave five patients a toothbrush
+no↑ dentist↓ who↓ recommends↓ that↓ their↓ patients↓ brush↓ their↓ teeth↓ at↓ least↓ four↑ times↓ a↓ day↓ gave↓ five= patients↓ a↓ toothbrush↓
+No↑ dentist↓ who↓ recommends↓ that↓ their↓ patients↓ brush↓ their↓ teeth↓ at↓ least↓ four↓ times↓ a↓ day↓ gave↓ five↓ patients↓ a↓ toothbrush↓
+
+Every doctor who told her patients to take three pills a day was afraid that taking four or more would kill them
+every↑ doctor↓ who↓ told↓ her↓ patients↓ to↓ take↓ three↑ pills↓ a↓ day↓ was↑ afraid↑ that↑ taking= four↑ or↑ more↑ would↑ kill↑ them↑
+Every↑ doctor↓ who↓ told↓ her↓ patients↓ to↓ take↓ three= pills= a= day= was↑ afraid↑ that↑ taking↑ four↑ or↑ more↑ would↑ kill↑ them↑
+
+A dog who ate two rotten biscuits was sick for three days 
+a↑ dog↑ who↑ ate↑ two= rotten↑ biscuits↑ was↑ sick↑ for↑ three= days↑
+A↑ dog↑ who↑ ate↑ two= rotten↑ biscuits↑ was↑ sick↑ for↑ three↓ days↓ 
+

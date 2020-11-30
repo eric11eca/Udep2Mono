@@ -1,0 +1,172 @@
+Every dog sees some cat
+DT NN VBZ DT NN
+Every rat sees every fish
+DT NN VBZ DT NN
+Some rat sees every squirrel
+DT NN VBZ DT NN
+Most dogs chase some cat
+JJS NNS VBP DT NN
+Most dogs chase most cat
+JJS NNS VBP RBS NN
+No dog likes every hedgehog
+DT NN VBZ DT NN
+Three dogs love four cats
+CD NNS VBP CD NNS
+At least seven fish died yesterday in Morocco
+IN JJS CD NN VBD NN IN NN
+Not many people love lions as pets
+RB JJ NNS VBP NNS IN NNS
+Many people love dogs as pets
+JJ NNS VBP NNS IN NNS
+A few boys chased a girl
+DT JJ NNS VBD DT NN
+Not every student likes semantics
+RB DT NN VBZ NNS
+Most dogs who bark loudly, do not like cats
+JJS NNS WP VBP RB VBP RB JJ NNS
+The dog that bark loudly, does not like any cat
+DT NN WDT VBP RB VBZ RB IN DT NN
+The raccoon in my car likes to eat every fish it sees
+DT NN IN PRP$ NN VBZ TO VB DT NN PRP VBZ
+Every dog in Slovenia likes to chase pigs
+DT NN IN NNP VBZ TO VB NNS
+Some cat in London has been to Paris
+DT NN IN NNP VBZ VBN IN NNP
+Evere cat who likes every dog also likes every squirrel
+NN NN WP VBZ DT NN RB VBZ DT NN
+Some cat who likes every dog who likes some squirrel died
+DT NN WP VBZ DT NN WP VBZ DT NN VBD
+Cats who like squirrels hate dogs
+NNS WP VBP NNS VBP NNS
+Any dog in Ohio would prefer to live in Indiana
+DT NN IN NN MD VB TO VB IN NN
+Some person in the White House doesn't know if any dog in Ohio ate bananas yesterday
+DT NN IN DT JJ NN VBZ RB VB IN DT NN IN NNP VBD NNS NN
+There is a dog in the house, who wants to eat three biscuits
+RB VBZ DT NN IN DT NN WP VBZ TO VB CD NNS
+Few math students like any subject in linguistics
+JJ NN NNS IN DT NN IN NNS
+Five dogs see at least six cats
+CD NNS VBP IN JJS CD NNS
+Evere cat who no dog chases rests
+NN NN WP DT NN VBZ VBZ
+Every dog who likes most cats was chased by at least two of them
+DT NN WP VBZ RBS NNS VBD VBN IN IN RBS CD IN PRP
+More dogs than cats sit
+JJR NNS IN NNS VBP
+Fewer dogs than cats sit
+JJR NNS IN NNS VBP
+Every student's favorite class was French
+DT NN POS JJ NN VBD JJ
+No students liked any class in Chemistry
+DT NNS VBD DT NN IN NN
+All students except engineers must take a class in Organic Chemistry
+DT NNS IN NNS MD VB DT NN IN JJ NN
+All but five dogs died
+DT CC CD NNS VBD
+All the cats except for two run
+PDT DT NNS IN IN CD NN
+All the cats except for at most two love chocolate
+PDT DT NNS IN IN IN RBS CD NN NN
+Three out of five dentists recommend that their patients brush their teeth at least four times a day
+CD IN IN CD NNS VBP IN PRP$ NNS VBP PRP$ NNS IN RBS CD NNS DT NN
+No dentist who recommends that their patients brush their teeth at least four times a day gave five patients a toothbrush
+DT NN WP VBZ IN PRP$ NNS VBP PRP$ NNS IN RBS CD NNS DT NN VBD CD NNS DT NN
+Every doctor who told her patients to take three pills a day was afraid that taking four or more would kill them
+DT NN WP VBD PRP$ NNS TO VB CD NNS DT NN VBD JJ IN VBG CD CC JJR MD VB PRP
+My parents said I could have three candies
+PRP$ NNS VBD PRP MD VB CD NNS
+If you are addicted to cigarettes, you can smoke two a day
+IN PRP VBP VBN IN NNS PRP MD VB CD DT NN
+Even if you are addicted to cigarettes, you can smoke two a day
+RB IN PRP VBP VBN IN NNS PRP MD VB CD DT NN
+Every person who smokes two↑ cigarettes in one hour runs a risk of cancer
+DT NN WP VBZ CD SYM NNS IN CD NN VBZ DT NN IN NN
+If every cat runs, some dog runs also
+IN DT NN VBZ DT NN VBZ RB
+If some dog runs, no cat sits
+IN DT NN VBZ DT NN VBZ
+A dog who ate two rotten biscuits was sick for three days 
+DT NN WP VBD CD JJ NNS VBD JJ IN CD NNS
+Ursula refused to sing or dance
+NNP VBD TO VB CC VB
+John is dancing without clothes
+NNP VBZ VBG IN NNS
+Less than five students got A in the class
+JJR IN CD NNS VBD DT IN DT NN
+More than three students cheated in this class
+JJR IN CD NNS VBN IN DT NN
+Some but not all students cheated in this class
+DT CC RB DT NNS VBN IN DT NN
+At least 5 people ran
+IN JJS CD NNS VBD
+At most 6 dogs are hungry
+IN RBS CD NNS VBP JJ
+Less than 5 people ran
+JJR IN CD NNS VBD
+More than 6 dogs are hungry
+JJR IN CD NNS VBP JJ
+Exactly 8 cats are sleeping
+RB CD NNS VBP VBG
+A dog ate 2 rotten biscuits
+DT NN VBD CD JJ NNS
+Three dogs love four cats
+CD NNS VBP CD NNS
+At least seven fish died yesterday in Morocco
+IN JJS CD NNS VBD RB IN NN
+Most dogs who bark loudly, do not like cats
+JJS NNS WP VBP RB VBP RB VB NNS
+The dog that bark loudly, does not like any cat
+DT NN WDT NN RB VBZ RB VB DT NN
+The raccoon in my car likes to eat every fish it sees
+DT NN IN PRP$ NN VBZ TO VB DT NN PRP VBZ
+Evere cat who likes every dog also likes every squirrel
+JJ NN WP VBZ DT NN RB VBZ DT NN
+Cats who like squirrels hate dogs
+NNS WP VBP NNS VBP NNS
+Some person in the White House doesn't know if any dog in Ohio ate bananas yesterday
+DT NN IN DT JJ NN VBZ RB VB IN DT NN IN NN VBD NNS NN
+There is a dog in the house, who wants to eat three biscuits
+EX VBZ DT NN IN DT NN WP VBZ TO VB CD NNS
+Few math students like any subject in linguistics
+JJ NN NNS IN DT NN IN NN
+Five dogs see at least six cats
+CD NNS VBP IN JJS CD NNS
+Evere cat who no dog chases rests
+JJ NN WP DT NN VBZ VBZ
+Every dog who likes most cats was chased by at least two of them
+DT NN WP VBZ JJS NNS VBD VBN IN IN JJS CD IN PRP
+More dogs than cats sit
+JJR NNS IN NNS VBP
+Fewer dogs than cats sit
+JJR NNS IN NNS VBP
+No students liked any class in Chemistry
+DT NNS VBD DT NN IN NN
+All the cats except for two run
+PDT DT NNS IN IN CD NN
+All the cats except for at most two love chocolate
+PDT DT NNS IN IN IN JJS CD NN NN
+Three out of five dentists recommend that their patients brush their teeth at least four times a day
+CD JJ CD NNS VBP IN PRP$ NNS VBP PRP$ NNS IN JJS CD NNS DT NN
+No dentist who recommends that their patients brush their teeth at least four times a day gave five patients a toothbrush
+DT NN WP VBZ IN PRP$ NNS VBP PRP$ NNS IN JJS CD NNS DT NN VBD CD NNS DT NN
+Every doctor who told her patients to take three pills a day was afraid that taking four or more would kill them
+DT NN WP VBD PRP$ NNS TO VB CD NNS DT NN VBD JJ IN VBG CD CC JJR MD VB PRP
+A dog who ate two rotten biscuits was sick for three days 
+DT NN WP VBD CD JJ NNS VBD JJ IN CD NNS
+Ursula refused to sing or dance
+NN VBD TO VB CC VB
+Less than five students got A in the class
+RBR IN CD NNS VBN DT IN DT NN
+More than three students cheated in this class
+JJR IN CD NNS VBN IN DT NN
+Some but not all students cheated in this class
+JJ NNS VBN IN DT NN
+At least 5 people ran
+IN JJS CD NNS VBD
+At most 6 dogs are hungry
+IN RBS CD NNS VBP JJ
+Less than 5 people ran
+RBR IN CD NNS VBD
+More than 6 dogs are hungry
+JJR IN CD NNS VBP JJ
