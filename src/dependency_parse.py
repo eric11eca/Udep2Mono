@@ -20,23 +20,23 @@ os.environ["CORENLP_HOME"] = "./NaturalLanguagePipeline\lib\stanford-corenlp-4.1
 
 replacement = {
     "out of": "out-of",
-    "none of the": "no",
-    "all of the": "all",
-    "some of the": "some",
+    "none of the": "none-of-the",
+    "all of the": "all-of-the",
+    "some of the": "some-of-the",
     "most of the": "most-of-the",
     "many of the": "many-of-the",
-    "several of the": "several",
+    "several of the": "several-of-the",
     "some but not all": "some-but-not-all"
 }
 
 
 def preprocess(sentence):
-    replaced = []
+    replaced = {}
     processed = sentence.lower()
     for orig in replacement:
         if orig in processed:
             processed = processed.replace(orig, replacement[orig])
-            replaced.append([orig, replacement[orig]])
+            replaced[replacement[orig]] = orig
     return processed, replaced
 
 

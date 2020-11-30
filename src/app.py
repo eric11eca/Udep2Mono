@@ -16,8 +16,8 @@ def index():
 def annotate():
     content = request.json
     sentences = content['sentences']
-    annotations, exceptioned, incorrect = run_polarize_pipeline(
-        sentences, verbose=2)
+    annotations, _ = run_polarize_pipeline(
+        sentences, verbose=2, parser="stanford")
     return jsonify({"annotations": annotations})
 
 

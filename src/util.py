@@ -115,9 +115,10 @@ arrows = {
 }
 
 
-def btreeToList(binaryDepdency, length, verbose=2):
+def btreeToList(binaryDepdency, length, replaced, verbose=2):
     annotated = []
     postags = []
+    reverse = {}
 
     def toList(tree):
         treelist = []
@@ -125,6 +126,13 @@ def btreeToList(binaryDepdency, length, verbose=2):
             treelist.append(tree.npos)
             if tree.getVal() == "n't":
                 tree.val = "not"
+            if tree.val in replaced.keys():
+                original = replaced[tree.val].split()
+                new = []
+                for word in original:
+                    new.append(word + arrows[tree.mark])
+                reverse[tree.val + arrows[tree.mark]
+                        ] = '%s' % ', '.join(map(str, new)).replace(",", " ")
             word = tree.getVal() + arrows[tree.mark]
             if verbose == 2:
                 word += str(tree.key)
@@ -148,7 +156,7 @@ def btreeToList(binaryDepdency, length, verbose=2):
             treelist.append(toList(right))
 
         return treelist
-    return toList(binaryDepdency), annotated, postags
+    return toList(binaryDepdency), annotated, postags, reverse
 
 
 def convert2vector(result):

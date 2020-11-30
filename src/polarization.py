@@ -233,13 +233,7 @@ class Polarizer:
             left.mark = "+"
             right.mark = "+"
 
-        if right.val == "least":
-            tree.mark = "-"
-            right.mark = "+"
-            left.mark = right.mark
-        elif right.val == "most":
-            self.top_down_negate(tree, "case", self.relation.index(tree.key))
-        elif left.val == "without":
+        if left.val == "without":
             if right.isTree():
                 self.polarize(right)
             self.negate(tree, self.relation.index(left.key))
@@ -510,15 +504,15 @@ class Polarizer:
                 tree.mark = left.mark
         elif left.id == 1:
             left.mark = "="
-            #right.mark = "="
+            # right.mark = "="
 
         if not isinstance(tree.parent, str):
             if is_implicative(tree.parent.right.val, at_least_implicative):
                 left.mark = "-"
-                #right.mark = "-"
+                # right.mark = "-"
             elif is_implicative(tree.parent.right.val, exactly_implicative):
                 left.mark = "="
-                #right.mark = "="
+                # right.mark = "="
 
         if right.isTree():
             self.polarize(right)
@@ -543,6 +537,9 @@ class Polarizer:
         if is_implicative(right.val.lower(), negtive_implicative):
             tree.mark = "-"
             self.negate(left, -1)
+
+        if left.val == "mark" and left.left.val == "to":
+            left.left.mark = right.mark
 
     def polarize_obl(self, tree):
         self.polarLog.append("polarize_obl")
@@ -674,6 +671,7 @@ class Polarizer:
         else:
             if self.relation.index(tree.key) > anchor and self.negate_condition(tree, anchor):
                 if tree.npos != "EX":
+                    # print(tree.val)
                     tree.mark = negate_mark[tree.mark]
 
 
@@ -682,7 +680,6 @@ def run_polarize_pipeline(sentences, verbose=0, parser="stanza"):
     polarizer = Polarizer()
 
     annotations = []
-
     exceptioned = []
 
     for i in tqdm(range(len(sentences))):
@@ -710,8 +707,8 @@ def run_polarize_pipeline(sentences, verbose=0, parser="stanza"):
             binaryDepdency, relation = binarizer.binarization()
 
             if verbose == 2:
-                sexpression, annotated, _ = btreeToList(
-                    binaryDepdency, len(words), 0)
+                sexpression, annotated, _, _ = btreeToList(
+                    binaryDepdency, len(words), replaced, 0)
                 sexpression = '[%s]' % ', '.join(
                     map(str, sexpression)).replace(",", " ")
         except Exception as e:
@@ -725,8 +722,8 @@ def run_polarize_pipeline(sentences, verbose=0, parser="stanza"):
         polarizer.relation = relation
         try:
             polarizer.polarize_deptree()
-            polarized, annotated, postags = btreeToList(
-                binaryDepdency, len(words), 0)
+            polarized, annotated, postags, reverse = btreeToList(
+                binaryDepdency, len(words), replaced, 0)
             polarized = '[%s]' % ', '.join(
                 map(str, polarized)).replace("'", "")
             polarized = polarized.replace(",", "")
@@ -743,7 +740,8 @@ def run_polarize_pipeline(sentences, verbose=0, parser="stanza"):
             next_item = heapq.heappop(annotated)
             result.append(next_item[1])
         result = '%s' % ', '.join(map(str, result)).replace(",", "")
-
+        for word in reverse:
+            result = result.replace(word, reverse[word])
         annotations.append((result, sent, polarized, postags))
 
     return annotations, exceptioned
@@ -796,3 +794,10 @@ def polarize_eval(sentences, annotations_val=[], verbose=0, parser="stanza"):
     print()
     print("Number of unmatched sentences: ", num_unmatched)
     return annotations, exceptioned, incorrect
+
+
+if __name__ == '__main__':
+    sentences = ["At most 6 dogs are hungry"]
+    annotations, _ = run_polarize_pipeline(
+        sentences, verbose=2, parser="stanford")
+    print(annotations[0][0])

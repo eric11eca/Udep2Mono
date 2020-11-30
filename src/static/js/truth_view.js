@@ -112,9 +112,9 @@ function compileLogic(button_id) {
     response.text().then(text => {
       let annotations = JSON.parse(text).annotations;
       for (var annotation of annotations) {
-        var img = go(annotation.polarized, font_size, term_font, nonterm_font, vert_space, hor_space, color, term_lines);
+        var img = go(annotation[2], font_size, term_font, nonterm_font, vert_space, hor_space, color, term_lines);
         var annotated = document.createElement("h6");
-        annotated.innerHTML = annotation.annotated;
+        annotated.innerHTML = annotation[0];
         truth_tables.appendChild(img);
         truth_tables.appendChild(annotated);
       }
