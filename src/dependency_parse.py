@@ -2,7 +2,7 @@ import corenlp
 import os
 import copy
 import string
-from word2number import w2n
+#from word2number import w2n
 
 import stanza
 

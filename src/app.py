@@ -1,10 +1,7 @@
 from flask import Flask, render_template, request, jsonify
-from flask_restful import reqparse, abort, Api, Resource
-
 from polarization import run_polarize_pipeline
 
 app = Flask(__name__)
-api = Api(app)
 
 
 @app.route('/')
