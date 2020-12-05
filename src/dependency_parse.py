@@ -1,10 +1,14 @@
-import corenlp
 import os
 import copy
 import string
 #from word2number import w2n
 
 import stanza
+from nltk.parse import CoreNLPParser
+from nltk.parse.corenlp import CoreNLPDependencyParser
+
+parser = CoreNLPParser(url='http://localhost:9000')
+dep_parser = CoreNLPDependencyParser(url='http://localhost:9000')
 
 nlp = stanza.Pipeline(
     "en",
@@ -13,8 +17,6 @@ nlp = stanza.Pipeline(
     use_gpu=True,
     pos_batch_size=2000
 )
-
-os.environ["CORENLP_HOME"] = "./NaturalLanguagePipeline\lib\stanford-corenlp-4.1.0"
 
 # java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 -timeout 15000
 
@@ -84,44 +86,26 @@ def printTree(tree, tag, word):
         )
 
 
-def stanfordParse(text):
-    with corenlp.CoreNLPClient(
-        annotators="tokenize ssplit pos lemma depparse".split()
-    ) as client:
-        ann = client.annotate(text)
-        sentence = ann.sentence[0]
-        words = {}
-        for token in sentence.token:
-            if not token.word in string.punctuation:
-                words[token.tokenEndIndex] = [token.word, token.pos]
+def stanfordParse(sentence):
+    postag = {}
+    wordids = {}
+    tokens = {}
+    parse_tree = []
 
-        deps = []
-        targets = {}
-        for edge in sentence.basicDependencies.edge:
-            if edge.dep != "punct":
-                targets[edge.target] = edge.dep
-                deps.append([edge.dep, edge.target, edge.source])
+    tokenized = list(parser.tokenize(sentence))
+    for i in range(len(tokenized)):
+        tokens[tokenized[i]] = i+1
 
-        postags = {}
-        maxroot = 0
-        root = ""
-        rooted = False
-
-        for wordid in words:
-            word = words[wordid][0]
-            if not wordid in targets:
-                if wordid > maxroot:
-                    maxroot = wordid
-                    root = wordid
-                    rooted = True
-                elif not rooted and "acl" in targets[wordid]:
-                    maxroot = wordid
-                    root = wordid
-                    rooted = True
-            postags[word] = [wordid, words[wordid][1]]
-        deps.append(["root", root, "root"])
-
-        for token in sentence.token:
-            if not token.tokenEndIndex in words:
-                words[token.tokenEndIndex] = [token.word, token.pos]
-    return deps, postags, words
+    parsed = list(dep_parser.raw_parse(sentence))[0]
+    dep_rels = parsed.to_conll(4).split('\n')
+    for dep_rel in dep_rels:
+        rel = dep_rel.split('\t')
+        if len(rel) == 4:
+            dependent = tokens[rel[0]]
+            govenor = int(rel[2])
+            relation = rel[3].lower()
+            postag[rel[0]] = (dependent, rel[1])
+            wordids[dependent] = (rel[0], rel[1])
+            if relation != "punct":
+                parse_tree.append([relation, dependent, govenor])
+    return parse_tree, postag, wordids
