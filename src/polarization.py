@@ -742,7 +742,8 @@ def run_polarize_pipeline(sentences, verbose=0, parser="stanza"):
         result = '%s' % ', '.join(map(str, result)).replace(",", "")
         for word in reverse:
             result = result.replace(word, reverse[word])
-        annotations.append((result, sent, polarized, postags))
+        annotations.append(
+            (result, sent, polarized, postags, polarizer.dependtree))
 
     return annotations, exceptioned
 
