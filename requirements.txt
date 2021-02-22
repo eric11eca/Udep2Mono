@@ -1,0 +1,7 @@
+stanza
+tqdm
+numpy
+flask
+word2number
+corenlp
+pattern
