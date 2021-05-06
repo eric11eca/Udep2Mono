@@ -1,59 +1,32 @@
-import heapq
 from pattern.en import conjugate
+import pandas as pd
+import numpy as np
 
-relations = [
-    "acl",
-    "acl:relcl",
-    "advcl",
-    "advmod",
-    "advmod:count",
-    "amod",
-    "appos",
-    "aux",
-    "aux:pass",
-    "case",
-    "cc",
-    "cc:preconj",
-    "ccomp",
-    "clf",
-    "compound",
-    "compound:prt",
-    "conj",
-    "cop",
-    "csubj",
-    "csubj:pass",
-    "dep",
-    "det",
-    "det:predet",
-    "discourse",
-    "dislocated",
-    "expl",
-    "fixed",
-    "flat",
-    "goeswith",
-    "iobj",
-    "list",
-    "mark",
-    "nmod",
-    "nmod:poss",
-    "nmod:npmod",
-    "nmod:tmod",
-    "nmod:count",
-    "nsubj",
-    "nsubj:pass",
-    "nummod",
-    "obj",
-    "obl",
-    "obl:npmod",
-    "obl:tmod",
-    "orphan",
-    "parataxis",
-    "punct",
-    "reparandum",
-    "root",
-    "vocative",
-    "xcomp"
-]
+"""import json
+with open('../data/synthetic1.jsonl', 'r') as syn:
+    val_x = []
+    val_y = []
+    for line in syn.readlines():
+        data = json.loads(line)
+        val_x.append(data['question']['stem'])
+        val_y.append(data['question']['output'])
+
+
+pipeline = PolarizationPipeline(verbose=0)
+i = 0
+for i in range(len(val_x)):
+    if i > 10:
+        break
+    annotation = pipeline.single_polarization(val_x[i])
+    ann = list(annotation['annotated'].popkeys())
+    ann = list(zip(*ann))
+    polarity = ann[2]
+    print(' '.join(ann[0]))
+    print(' '.join(polarity))
+    print(val_y[i].replace('u', '+').replace('e', '=').replace('d', '-'))
+    tree1 = pipeline.postprocess(annotation["polarized_tree"], [])
+    btree = Tree.fromstring(tree1.replace('[', '(').replace(']', ')'))
+    jupyter_draw_nltk_tree(btree)"""
 
 negate_mark = {
     "+": "-",
@@ -62,19 +35,19 @@ negate_mark = {
 }
 
 det_mark = {
-    "det:univ": ("+", "-"),
-    "det:exist": ("+", "+"),
-    "det:limit": ("+", "="),
-    "det:negation": ("+", "-")
+    "det:univ": "-",
+    "det:exist": "+",
+    "det:limit": "=",
+    "det:negation": "-"
 }
 
 det_type_words = {
-    "det:univ": ["all", "every", "each", "any"],
-    "det:exist": ["a", "an", "some", "double", "triple"],
-    "det:limit": ["such", "both", "the", "this", "that",
+    "det:univ": ["all", "every", "each", "any", "all-of-the"],
+    "det:exist": ["a", "an", "some", "double", "triple", "some-of-the", "al-least", "more-than"],
+    "det:limit": ["such", "both", "the", "this",  # that
                   "those", "these", "my", "his", "her",
                   "its", "either", "both", "another"],
-    "det:negation": ["no", "neither", "never", "few"]
+    "det:negation": ["no", "neither", "never", "none", "none-of-the", "less-than", "at-most"]
 }
 
 negtive_implicative = ["refuse", "reject", "oppose", "forget",
@@ -87,18 +60,41 @@ negtive_implicative = ["refuse", "reject", "oppose", "forget",
                        "disconnect", "discourage", "discredit", "discorporate",
                        "disengage", "disentangle", "dismiss", "disobeye",
                        "distrust", "disrupt", "suspen", "suspend ",
-                       "freeze", "remove", "regret", "object", "impossible",
-                       "hate"
+                       "freeze", "lack"
                        ]
 
-at_least_implicative = ["smoke", "for", "buy", "drink", "take", "hold", "receive",
+at_least_implicative = ["for", "buy", "drink", "take", "hold", "receive",
                         "get", "catch"]
 
 exactly_implicative = ["like", "love", "admires", "marry"]
 
+willing_verbs = ["want", "ask", "told", "tell", "assign", "force"]
+if_verbs = ["see", "understand", "know", "hear", "care"]
 
-def is_implicative(verb, imp_type):
-    return conjugate(verb, tense="present", person=1, number="singular") in imp_type
+
+def build_implicative_dict():
+    verbs = list(df['Verb'])
+    signs = list(df['Signature'])
+    implicatives = {}
+    for i in range(len(verbs)):
+        implicatives[verbs[i]] = signs[i]
+    return implicatives
+
+
+implicatives = {}  # build_implicative_dict()
+imp_types = {
+    '-': negtive_implicative,
+    'at_least': at_least_implicative,
+    '=': exactly_implicative
+}
+
+
+def is_implicative(word, imp_type):
+    verb = conjugate(word, tense="present", person=1, number="singular")
+    if imp_type in ['+', '-']:
+        if verb in implicatives:
+            return implicatives
+    return verb in imp_types[imp_type]
 
 
 def det_type(word):
@@ -114,62 +110,55 @@ arrows = {
     "0": ""
 }
 
+arrow2int = {
+    "\u2191": 1,
+    "\u2193": -1,
+    "=": 0
+}
 
-def btreeToList(binaryDepdency, length, replaced, verbose=2):
-    annotated = []
-    postags = []
-    reverse = {}
 
-    def toList(tree):
+def btree2list(binaryDepdency, verbose=0):
+    def to_list(tree):
         treelist = []
-        if tree.getVal() not in relations:
-            treelist.append(tree.npos)
-            if tree.getVal() == "n't":
-                tree.val = "not"
-            if tree.val in replaced.keys():
-                original = replaced[tree.val].split()
-                new = []
-                for word in original:
-                    new.append(word + arrows[tree.mark])
-                reverse[tree.val + arrows[tree.mark]
-                        ] = '%s' % ', '.join(map(str, new)).replace(",", " ")
-            word = tree.getVal() + arrows[tree.mark]
+        if tree.is_tree:
+            word = tree.val + arrows[tree.mark]
             if verbose == 2:
                 word += str(tree.key)
-            index = tree.id
-            heapq.heappush(annotated, (int(index), word))
-            heapq.heappush(postags, (int(index), tree.npos))
             treelist.append(word)
         else:
-            word = tree.getVal() + arrows[tree.mark]
+            treelist.append(tree.pos)
+            word = tree.val.replace('-', ' ') + arrows[tree.mark]
             if verbose == 2:
                 word += str(tree.key)
             treelist.append(word)
 
-        left = tree.getLeft()
-        right = tree.getRight()
+        if tree.left is not None:
+            treelist.append(to_list(tree.left))
 
-        if left is not 'N':
-            treelist.append(toList(left))
-
-        if right is not 'N':
-            treelist.append(toList(right))
+        if tree.right is not None:
+            treelist.append(to_list(tree.right))
 
         return treelist
-    return toList(binaryDepdency), annotated, postags, reverse
+    return to_list(binaryDepdency)
 
 
-def convert2vector(result):
-    result_vec = []
-    if type(result) is "str":
-        result_ls = result.split()
-    else:
-        result_ls = result
-    for word in result_ls:
-        if arrows['+'] in word:
-            result_vec.append(1)
-        elif arrows['-'] in word:
-            result_vec.append(-1)
-        elif arrows['='] in word:
-            result_vec.append(0)
-    return result_vec
+def annotation2string(annotation):
+    annotated = list(annotation['annotated'].popkeys())
+
+    def compose_token(word):
+        if '-' in word[0]:
+            orig = word[0].split('-')
+            return ' '.join([x + arrows[word[2]] for x in orig])
+        else:
+            return word[0] + arrows[word[2]]
+    annotated_sent = ' '.join([compose_token(x) for x in annotated])
+    return annotated_sent
+
+
+def arrow2int(word):
+    if arrows['+'] in word:
+        return 1
+    elif arrows['-'] in word:
+        return -1
+    elif arrows['='] in word:
+        return 0

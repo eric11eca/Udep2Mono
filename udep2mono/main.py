@@ -147,5 +147,5 @@ if __name__ == "__main__":
         "--parser", help="The dependency parser used: [1] stanford [2] stanza", type=str, default="stanza")
     args = parser.parse_args()
 
-    from udep2mono.polarization import polarize_eval, run_polarize_pipeline
+    from polarization import polarize_eval, run_polarize_pipeline
     polarize_dataset(args.dataset, args.pos, args.mode, args.parser)

@@ -1,4 +1,4 @@
-import udep2mono.dependency_parse
-import udep2mono.binarization
-import udep2mono.util
-import udep2mono.polarization
+import Udep2Mono.dependency_parse
+import Udep2Mono.binarization
+import Udep2Mono.util
+import Udep2Mono.polarization
