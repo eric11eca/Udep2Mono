@@ -57,7 +57,7 @@ If you find this repository helpful, feel free to cite our publication [Monotoni
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
-Contact person: [Zeming Chen], [chenz16@rose-hulman.edu](mailto:chenz16@rose-hulman.edu)
+Contact person: Zeming Chen, [chenz16@rose-hulman.edu](mailto:chenz16@rose-hulman.edu)
 Don't hesitate to send us an e-mail or report an issue, if something is broken or if you have further questions.
 
 > This repository contains experimental software and is published for the sole purpose of giving additional background details on the respective publication.
