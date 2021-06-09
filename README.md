@@ -4,7 +4,7 @@
 This framework provides an easy and accurate method to annotate monotonicity information (polarity arrows) on natural English sentences based on Universal Dependency parse trees.  
 
 The following publications are integrated in this framework:
-- [Monotonicity Marking from Universal Dependency Trees](https://arxiv.org/abs/1908.10084) (IWCS 2021)
+- [Monotonicity Marking from Universal Dependency Trees](https://arxiv.org/abs/2104.08659) (IWCS 2021)
 
 ## Installation
 The recoomanded environment include **Python 3.6** or higher , **[Stanza v1.2.0](https://github.com/stanfordnlp/stanza)** or higher, and **[ImageMagick v7.0.11](https://imagemagick.org/script/download.php). The code does **not** work with Python 2.7.
@@ -40,7 +40,7 @@ We provide two [UD Parser Models](https://drive.google.com/drive/folders/1XHCHA2
 For training new UD parser models, see [Stanza's training dcumentation](https://stanfordnlp.github.io/stanza/training.html#setting-environment-variables) for an introduction how to train your own UD parser. 
 
 ## Citing & Authors
-If you find this repository helpful, feel free to cite our publication [Monotonicity Marking from Universal Dependency Trees](https://arxiv.org/abs/1908.10084):
+If you find this repository helpful, feel free to cite our publication [Monotonicity Marking from Universal Dependency Trees](https://arxiv.org/abs/2104.08659):
 ```bibtex 
 @article{DBLP:journals/corr/abs-2104-08659,
   author    = {Zeming Chen and
