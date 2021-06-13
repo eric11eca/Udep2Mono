@@ -1,5 +1,5 @@
 from pqdict import pqdict
-from Udep2Mono.util import negate_mark
+from util import negate_mark
 
 
 class BinaryDependencyTree:

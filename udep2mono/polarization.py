@@ -2,9 +2,9 @@ import svgling
 import numpy as np
 from tqdm import tqdm
 from copy import deepcopy
-from Udep2Mono.binarization import Binarizer, BinaryDependencyTree
-from Udep2Mono.dependency_parse import dependency_parse
-from Udep2Mono.util import *
+from binarization import Binarizer, BinaryDependencyTree
+from dependency_parse import dependency_parse
+from util import *
 
 
 scalar_comparative = {
