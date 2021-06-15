@@ -42,19 +42,16 @@ For training new UD parser models, see [Stanza's training dcumentation](https://
 ## Citing & Authors
 If you find this repository helpful, feel free to cite our publication [Monotonicity Marking from Universal Dependency Trees](https://arxiv.org/abs/2104.08659):
 ```bibtex 
-@article{DBLP:journals/corr/abs-2104-08659,
-  author    = {Zeming Chen and
-               Qiyue Gao},
+@InProceedings{chen-gao:2021:IWCS,
+  author    = {Chen, Zeming  and  Gao, Qiyue},
   title     = {Monotonicity Marking from Universal Dependency Trees},
-  journal   = {CoRR},
-  volume    = {abs/2104.08659},
-  year      = {2021},
-  url       = {https://arxiv.org/abs/2104.08659},
-  archivePrefix = {arXiv},
-  eprint    = {2104.08659},
-  timestamp = {Mon, 26 Apr 2021 17:25:10 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2104-08659.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+  booktitle      = {Proceedings of the 14th International Conference on Computational Semantics (IWCS)},
+  month          = {June},
+  year           = {2021},
+  address        = {Groningen, The Netherlands (online)},
+  publisher      = {Association for Computational Linguistics},
+  pages     = {121--131},
+  url       = {https://www.aclweb.org/anthology/2021.iwcs-1.12}
 }
 ```
 Contact person: Zeming Chen, [chenz16@rose-hulman.edu](mailto:chenz16@rose-hulman.edu)
